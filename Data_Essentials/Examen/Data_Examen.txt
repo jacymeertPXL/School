@@ -1,0 +1,147 @@
+DESC[RIBE] department
+// geeft de hele table weer
+
+SELECT department_name
+FROM department;
+// SELECT en bepaalde kolom van de databank
+
+SELECT DISTINCT department_name
+FROM department;
+// SELECT en bepaalde kolom van de databank en geeft elke waarde unieken weer
+
+SELECT *               
+FROM department;
+// SELECT alles van de databank
+
+SELECT job_id, (max_salary - min_salary) AS "Verschil in salaris"
+FROM jobs;
+// AS zorgt er voor dat een of meerde tabellen een andere naam krijgen
+
+SELECT last_name, salary, salary + 300 
+FROM   employees;
+// je kan de reken operators gebruiken als ge een kolom opvraagt
+
+SELECT last_name| ' is a ' |job_id AS "Employees" 
+FROM employees;
+// voegt de tabellen samen en je kan tekst toevoegen tussen de || als je wilt
+
+SELECT employee_id, last_name, job_id, department_id
+FROM   employees 
+WHERE  salary <= 3000 ;
+WHERE  department_id = 90 ;
+WHERE  last_name = 'Whalen' ;
+WHERE  hire_date = '17-FEB-96' ;
+// SELECT alleen maar de tabblen waar de WHERE voor gelt 
+
+WHERE  salary BETWEEN 2500 AND 3500 ;
+// waar de twee waarden tussen ligt vraag op
+
+WHERE  manager_id IN (100, 101, 201) ; 
+// geeft de kolom weer als het een van deze waarden is
+
+WHERE  job_id NOT IN ('IT_PROG', 'ST_CLERK', 'SA_REP') ;
+// geeft de kolom weer als het niet een van deze waarden is
+
+WHEREfirst_name LIKE 'S%' ;
+// geef de kolom weer waar het begint met een S en dan een of meerde charachters achter staan
+
+WHERE  last_name LIKE '_o%' ;
+// geeft de kolom weer waar er een o als tweede charachter staat en een charachter er voor
+
+WHERE  manager_id IS NULL ;
+// waar de waarde NULL is
+
+WHERE  salary >= 10000 
+AND    job_id LIKE '%MAN%' ;
+// geeft de kolom weer waar allebij de waarden gelt
+
+WHERE  salary >= 10000 
+OR     job_id LIKE '%MAN%' ;
+// geeft de kolom weer waar een van de twee gelt
+
+SELECT   last_name, job_id, department_id, hire_date 
+FROM     employees 
+ORDER BY hire_date ASC|DESC ;
+// geeft de kolom weer en ordert ze onder deze kolom 
+
+SELECT employee_id, last_name, salary*12 annsal 
+FROM   employees 
+ORDER BY annsal ;
+// order onder een alias gaat ook
+
+DEFINE employee_num = 200
+// geeft het een set waarde
+UNDEFINE employee_num
+// zorgt er voor dat wat de user ingeeft elke keer delete word anders kan de user maar een keer iets ingeven
+
+SELECT employee_id, last_name, salary, &column_name
+FROM   employees 
+WHERE  employee_id = &employee_num ;
+ORDER BY &order_column 
+// hier wordt de kolom weergegeven met wat de user gaat ingeven
+
+WHERE  job_id = '&job_title' ;
+// hier wordt de kolom weergegeven met wat de user gaat ingeven voor een text
+
+FUNCTIONS
+
+LOWER: Maakt de table in lowercase
+UPPER: Maakt de table in caps
+INITCAPt: Maakt de eerste letter in caps
+TRUNC: Haalt alles na de komma weg
+CONCAT: Concatenates the first character value to the second character value; equivalent to concatenation operator (||)
+SUBSTR: Returns specified characters from character value starting at character position m, n characters long (If m is negative, the count starts from the end of the character value. If n is 
+omitted, all characters to the end of the string are returned.) 
+LENGTH: geeft de lenght van de waarde in de table
+INSTR: Geeft de terug waar de leter staat in het woord
+TRIM: haalt een cijfer of teken uit u table
+LPAD(column|expression, n, 'string'):Returns an expression left-padded to length of n characters with a character expression.
+RPAD(column|expression, n, 'string'):Returns an expression right-padded to length of n characters with a character expression. 
+REPLACE(text, search_string, replacement_string): Searches a text expression for a character string and, if found, replaces it with a specified replacement string
+
+SELECT sysdate
+FROM dual;
+// geeft de datum van vandaag weer || dual is databank waar je op kan testen
+
+SELECT MONTHS_BETWEEN ('01-SEP-95','11-JAN-94')
+FROM dual;
+// geeft het aantal maanden tussen de twee terug
+
+SELECT ADD_MONTHS (‘31-JAN-96',1)
+FROM dual;
+// telt een aantal maanden op en geeft dan de nieuwe datum weer
+
+SELECT NEXT_DAY   ('01-SEP-95','FRIDAY')
+FROM dual;
+// geeft de volgenden dag wijn datum weer volgende keer als die voorkomt
+
+SELECT LAST_DAY   ('01-FEB-95')
+FROM dual;
+// geeft de laaste dag van de maand weer
+
+// Assume SYSDATE='25-JUL-03':
+// dit ga je dan terug krijgen
+ROUND(SYSDATE ,'MONTH') 01-AUG-03
+ROUND(SYSDATE ,'YEAR') 01-JAN-04
+TRUNC(SYSDATE,'MONTH') 01-JUL-03
+TRUNC(SYSDATE ,'YEAR') 01-JAN-03
+
+SELECT last_name, TO_CHAR(hire_date, 'fmDD Month YYYY') AS HIREDATE
+FROM   employees;
+// geeft u datum als text weer op een bepaalde format
+
+SELECT TO_CHAR(salary, '$99,999.00') AS SALARY 
+FROM   employees 
+// Geeft u number weer als een char met een bepaalde format
+
+SELECT last_name, TO_CHAR(hire_date, 'DD-Mon-YYYY') 
+FROM  employees 
+WHERE hire_date < TO_DATE('01-Jan-90','DD-Mon-RR');
+// geeft u de kolom met bepaalde format weer
+
+SELECT last_name, UPPER(CONCAT(SUBSTR (LAST_NAME, 1, 8), '_US')) 
+FROM   employees 
+WHERE  department_id = 60;
+// Voorbeeld hoe je meerde functions tegelijk kunt gebruiken
+
+Pag 209 Verdergaan
