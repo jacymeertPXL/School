@@ -190,3 +190,118 @@ ON l.location_id = sc.club_location
 // voegt twee meedere tables samen die een kolom hebben die het zelfde zijn dus PK of FK
 
 Pag 335 verder gaan
+
+INSERT INTO departments(department_id,
+department_date, manager_id, location_id, department_name)
+VALUES (70, 'Public Relations', TO_DATE('FEB 3, 1999', 'MON DD, YYYY'), NULL, '&department_name');
+// Default insert into data moeten ook altijd in de juiste format staan
+
+INSERT INTO sales_reps(id, name, salary, commission_pct)
+SELECT employee_id, last_name, salary, commission_pct
+FROM employees
+WHERE job_id LIKE '%REP%';
+// je kan ook info pakkken van een vaan andere table waar ja dan insert into kan doen in de andere table
+
+UPDATE employees
+SET department_id = 50
+WHERE employee_id = 113;
+// update van een table 
+
+UPDATE employees
+SET job_id = (SELECT job_id
+FROM employees
+WHERE employee_id = 205),
+salary = (SELECT salary
+FROM employees
+WHERE employee_id = 205)
+WHERE employee_id = 113;
+// update into van een Select qeury
+
+DELETE FROM departments
+WHERE department_name = ‘Finance';
+// delete van een table
+
+DELETE FROM employees
+WHERE department_id =
+(SELECT department_id
+FROM departments
+WHERE department_name
+LIKE '%Public%');
+// delete met een select qeury
+
+TRUNCATE TABLE copy_emp;
+// delete alle koloms uit de table maar laat de table intact
+
+DELETE FROM copy_emp;
+// delete alles van een table
+
+COMMIT;
+// commit qeury
+
+ROLLBACK;
+// zorgt er voor dat het alles rollabacked voor een commit
+
+SELECT e.employee_id, e.salary, e.commission_pct
+FROM employees e JOIN departments d
+USING (department_id)
+WHERE job_id = 'ST_CLERK‘
+AND location_id = 1500
+FOR UPDATE
+ORDER BY e.employee_id;
+// Locks rows identified by the SELECT query
+
+DROP TABLE bestellingen CASCADE CONSTRAINTS;
+// dropt een table en delete de constrains
+
+CREATE TABLE dept80
+AS
+SELECT employee_id, last_name,
+salary*12 ANNSAL,
+hire_date
+FROM employees
+WHERE department_id = 80;
+// create table van een select query
+
+CREATE TABLE bestellingen (
+  actiecode NUMBER (5) CONSTRAINT bes_actiecode_fk REFERENCES folders (actiecode),
+  klantnr NUMBER(9) CONSTRAINT bes_klantnr_fk REFERENCES klanten (klantnr),
+  besteldatum DATE,
+  betalingsid NUMBER(1) CONSTRAINT bes_betalingsid_fk REFERENCES betalingswijzen (betalingsid),
+  verzendingskosten NUMBER(6, 2) CONSTRAINT bes_verzending_nn NOT NULL,
+  toegangscode NUMBER(5) CONSTRAINT bes_toegangscode_nn NOT NULL,
+  leveringsnaam VARCHAR2(25) CONSTRAINT bes_leveringsnaam_nn NOT NULL,
+  leveringsvoornaam VARCHAR2(50) CONSTRAINT bes_leveringsvoornaam_nn NOT NULL,
+  leveringsgeslacht VARCHAR2(50) CONSTRAINT bes_leveringsgeslacht_nn NOT NULL,
+  levering_adresid NUMBER(6) CONSTRAINT bes_levadresid_fk REFERENCES adressen (adresid),
+  CONSTRAINT bes_pk PRIMARY KEY (actiecode, klantnr)
+);
+// create table qeury
+
+CREATE TABLE employees
+( employee_id NUMBER(6)
+CONSTRAINT emp_employee_id PRIMARY KEY
+, first_name VARCHAR2(20)
+, last_name VARCHAR2(25)
+CONSTRAINT emp_last_name_nn NOT NULL
+, email VARCHAR2(25)
+CONSTRAINT emp_email_nn NOT NULL
+CONSTRAINT emp_email_uk UNIQUE
+, phone_number VARCHAR2(20)
+, hire_date DATE
+CONSTRAINT emp_hire_date_nn NOT NULL
+, job_id VARCHAR2(10)
+CONSTRAINT emp_job_nn NOT NULL
+, salary NUMBER(8,2)
+CONSTRAINT emp_salary_ck CHECK (salary>0)
+, commission_pct NUMBER(2,2)
+, manager_id NUMBER(6)
+CONSTRAINT emp_manager_fk REFERENCES
+employees (employee_id)
+, department_id NUMBER(4)
+CONSTRAINT emp_dept_fk REFERENCES
+departments (department_id));
+// create table query
+
+ALTER TABLE employees READ ONLY;
+ALTER TABLE employees READ WRITE;
+// verandert de read of write rechten
