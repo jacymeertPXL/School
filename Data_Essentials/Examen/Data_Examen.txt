@@ -144,4 +144,49 @@ FROM   employees
 WHERE  department_id = 60;
 // Voorbeeld hoe je meerde functions tegelijk kunt gebruiken
 
-Pag 209 Verdergaan
+SELECT last_name, salary, NVL(commission_pct, 0)
+FROM employees;
+// zorgt er voor dat een NULL waarde zord omgezet naar een echte waarde
+
+SELECT NVL2(commission_pct, 'SAL+COMM', 'SAL') income 
+FROM   employees;
+// de NULL waarde zord omgewet naar 2 mogelijk heden als het niet null is dan de eerste expressie of als het wel NULL is dan de tweede expressie
+
+SELECT NULLIF(LENGTH(first_name)
+FROM   employees;
+// geeft een result weer als het er is anders geeft NULL terug
+
+SELECT COALESCE(TO_CHAR(commission_pct),TO_CHAR(manager_id), 'No commission and no manager')
+FROM   employees;
+// geeft een van de twee waarde weer als allebij NULL zijn dan de tekst
+
+SELECT last_name, job_id, salary, 
+CASE job_id WHEN 'IT_PROG'  THEN  1.10*salary 
+WHEN 'ST_CLERK' THEN  1.15*salary 
+WHEN 'SA_REP'   THEN  1.20*salary 
+ELSE      salary END     "REVISED_SALARY" 
+FROM   employees;
+// if else operator
+
+SELECT last_name, job_id, salary, 
+DECODE(job_id, 'IT_PROG',  1.10*salary, 
+'ST_CLERK', 1.15*salary, 
+'SA_REP',   1.20*salary, salary) 
+REVISED_SALARY 
+FROM   employees;
+// if else operqtor
+
+SELECT e.first_name ||' '|| e.last_name, s.name, sc.club_name, l.city
+FROM employees e
+JOIN employee_sports es
+ON es.employee_number = e.employee_id
+JOIN sport_clubs sc
+ON sc.club_id = es.club_id AND sc.sport_id = es.sport_id
+JOIN sports s
+ON s.sport_id = sc.sport_id
+JOIN locations l
+ON l.location_id = sc.club_location
+/
+// voegt twee meedere tables samen die een kolom hebben die het zelfde zijn dus PK of FK
+
+Pag 335 verder gaan
