@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Register for the Newsletter</title>
+    <link rel="stylesheet" href="css/oef3.css">
+</head>
+
+<body background="assets/background.jpg">
+    <form action="mailto:examen@pxl.be" method="post" enctype="text/plain">
+        <h1>Newsletter</h1>
+        <hr>
+        <p>Subscribe for the Newsletter</p>
+        <label class="float_left" for="voornaam">First Naam</label>
+        <label for="achternaam">Last Name</label>
+        <br>
+        <input type="text" class="vergroot02" name="firstname" id="voornaam" placeholder="First Name" required>
+        <input type="text" class="vergroot02" name="lastname" id="achternaam" placeholder="Last Name" required>
+        <br>
+        <label class="float_left" for="land">Country</label>
+        <br>
+        <select name="country" id="land" class="vergroot" required>
+            <option value="BE">Belgium</option>
+            <option value="FR">France</option>
+            <option value="NL">Netherlands</option>
+        </select>
+        <br>
+        <label class="float_left" for="geboortedatum">Date of birth</label>
+        <br>
+        <input type="date" name="dayofbirth" id="geboortedatum" class="vergroot" value="2000-01-01" required>
+        <br>
+        <label class="float_left" for="email">Email</label>
+        <br>
+        <input type="text" name="email" id="email" class="vergroot" required>
+        <br>
+        <label class="float_left" for="paswoord">Password</label>
+        <br>
+        <input type="password" name="password" id="paswoord" class="vergroot" placeholder="Password" required>
+        <br>
+        <input class="float_left" type="checkbox" id="meer" name="getmail">
+        <label class="float_left" >Yes, I want to receive over 9000 mails about LOTR</label>
+        <br>
+        <button id="submit">Submit</button>
+    </form>
+</body>
