@@ -305,3 +305,124 @@ departments (department_id));
 ALTER TABLE employees READ ONLY;
 ALTER TABLE employees READ WRITE;
 // verandert de read of write rechten
+
+SELECT AVG(salary), MAX(salary), MIN(salary), SUM(salary)
+FROM   employees 
+WHERE  job_id LIKE '%REP%';
+// avgerage maximun minumun en som van het salatry
+
+SELECT MIN(hire_date), MAX(hire_date) 
+FROMemployees;
+// min en max operator kunnen ook gebruikt worden op dates
+
+SELECT COUNT(commission_pct) 
+FROM   employees WHERE  department_id = 80;
+// count de not null rows in de table 
+
+SELECT   department_id, job_id, SUM(salary) 
+FROM     employees WHEREdepartment_id > 40 
+GROUP BY department_id, job_id 
+ORDER BY department_id;
+// elke table die select word moet in de GROUP BY dit is alleen voor group functions
+
+SELECT    column, group_function 
+FROM      table 
+[WHERE    condition]
+[GROUP BY group_by_expression] 
+[HAVING   group_condition] 
+[ORDER BY column];
+// dit is de format voor te werken met group expressions
+
+SELECT   department_id, MAX(salary) 
+FROM     employees 
+GROUP BY department_id 
+HAVING   MAX(salary)>10000 ;
+// GROUP FUNCTIONS die een where moeten hebben moet in de HAVING worden gedaan
+
+SELECT DISTINCT(job_id), COUNT(job_id)
+FROM employees
+GROUP BY job_id
+// geeft voor elke distinct job het aantal dat er in zittten
+
+SELECT DISTINCT(job_id), COUNT(job_id)
+FROM employees
+GROUP BY job_id
+HAVING job_id='IT_PROG'
+// geeft u aleen de table it frog waar dan het aantal er in word gecount 
+
+CREATE VIEW empvu80 AS SELECT  employee_id, last_name, salary 
+FROM    employees 
+WHERE   department_id = 80;
+// maakt een aparte view van u table aan
+// insert into, updates, en delete querys werken in de view
+
+CREATE OR REPLACE VIEW empvu80 (id_number, name, sal, department_id) 
+AS SELECT  employee_id, first_name || ' ' || last_name, salary, department_id 
+FROM    employees 
+WHERE   department_id = 80;
+// gaat de content van de view replacen en geeft ze namen
+
+CREATE OR REPLACE VIEW dept_sum_vu (name, minsal, maxsal, avgsal) 
+AS SELECT   d.department_name, MIN(e.salary), MAX(e.salary),AVG(e.salary) 
+FROM     employees e JOIN departments d 
+ON       (e.department_id = d.department_id) 
+GROUP BY d.department_name;
+// complex view 
+
+CREATE OR REPLACE VIEW empvu20 
+AS SELECT* 
+FROM     employees 
+WHERE    department_id = 20
+WITH CHECK OPTION CONSTRAINT empvu20_ck ;
+// Voert de query pas uit als de check option true is wat hier dan is department_id = 20
+
+CREATE OR REPLACE VIEW empvu10 (employee_number, employee_name, job_title) 
+AS SELECT employee_id, last_name, job_id 
+FROM     employees 
+WHERE    department_id = 10 
+WITH READ ONLY;
+WITH READ ONLY CONSTRAINT empvu10_ch; // andere mogelijkheid
+// geeft de view read only rechten waardoor de REPLACE query niet gaat werken
+
+DROP VIEW view;
+// dropped de view uit de databank
+
+CREATE SEQUENCE dept_deptid_seq 
+INCREMENT BY 10 
+START WITH 120 
+MAXVALUE 9999 
+NOCACHE 
+NOCYCLE;
+//sequence query maakt query aan voor getallen te maken
+
+ALTER SEQUENCE dept_deptid_seq 
+INCREMENT BY 20 
+MAXVALUE 999999 
+NOCACHE 
+NOCYCLE;
+// een update voor de sequence 
+
+DROP SEQUENCE dept_deptid_seq;
+// dropepd the sequence
+
+INSERT INTO departments(department_id, department_name, location_id)
+VALUES      (dept_deptid_seq.NEXTVAL, 'Support', 2500);
+// gaat nu met de nieuwe getallen die aangemaakt zijn in de sequence in de table zetten
+
+SELECTdept_deptid_seq.CURRVAL 
+FROMdual;
+//geeft u de current getal dat in de sequence gebruikt word
+
+CREATE INDEX emp_last_name_idx 
+ON employees(last_name);
+// maakt de index aan dit is voor de performance van een qeury te boosten
+
+DROP INDEX index;
+// dropped de index 
+
+CREATE SYNONYM  d_sum 
+FOR  dept_sum_vu;
+// maakt een copie aan van een andere table
+
+DROP SYNONYM d_sum;
+// dropped de synonym table
