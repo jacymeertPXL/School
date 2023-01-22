@@ -1,1 +1,203 @@
-/* Naam: */
+/* Jacy: */
+
+/* Navbar */
+.container_menu {
+    top: 0;
+    max-width: 1200px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: -16px;
+    margin-bottom: -70px;
+}
+.navbar_container {
+    top: 0;
+    background-color: black;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    padding: 0px 30px;
+    text-decoration: none;
+  }
+
+/* body top tekst en container */
+
+body {
+    background-color: grey;
+}
+
+.container {
+    color: white;
+    max-width: 1200px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contrainer_top_tekst h1 {
+    text-align: center;
+}
+
+.contrainer_top_tekst p {
+    text-align: center;
+}
+
+.contrainer_top_tekst {
+    margin-top: 60px;
+    max-width: 1200px;
+    color: white;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Footer*/
+footer {
+    bottom: 0;
+    text-align: center;
+    background-color: #000000;
+    color: gray;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+/* Alles cards*/
+.column {
+    max-width: 1200px;
+    float: left;
+    width: 30%;
+    padding: 0 10px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {
+    margin-right: -70px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.card img{
+    opacity: 0.7;
+    width: 200px;
+}
+
+/* media screen s */
+@media screen and (max-width: 1000px) {
+    .column {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .card img {
+        width: 30%;
+    }
+
+    .card {
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .column {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+
+    }
+
+    .card img {
+        width: 170px;
+    }
+}
+
+/* Style the counter cards */
+.card {
+    color: black;
+    height: 700px;
+    margin: 20px;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 30px;
+    padding-left: 16px;
+    padding-left: 16px;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.card span{
+    margin-bottom: 15px;
+}
+
+/* borders span en a */
+.Start-Quest {
+    display: inline-block;
+    background: green;
+    border-radius: 3px;
+    font-size: 16px;
+    color: white;
+    padding: 10px 15px;
+}
+
+.View_story {
+    display: inline-block;
+    background: red;
+    border-radius: 3px;
+    font-size: 16px;
+    color: white;
+    padding: 10px 15px;
+}
+
+.More-Info {
+    display: inline-block;
+    background: grey;
+    border-radius: 3px;
+    font-size: 16px;
+    color: white;
+    padding: 10px 15px;
+}
+
+.Elf {
+    display: inline-block;
+    background: greenyellow;
+    border-radius: 3px;
+    font-size: 16px;
+    color: white;
+    padding: 10px 15px;
+}
+
+.Wizard {
+    display: inline-block;
+    background: gold;
+    border-radius: 3px;
+    font-size: 16px;
+    color: white;
+    padding: 10px 15px;
+}

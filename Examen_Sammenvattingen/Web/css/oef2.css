@@ -37,8 +37,7 @@ tbody td:last-child {
 }
 
 table {
-    width: 100%;
-    /* Moet 800px was duidelijk met 100%width voor te maken */
+    width: 800px;
 }
 
 tbody p {
