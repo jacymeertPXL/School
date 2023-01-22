@@ -409,7 +409,7 @@ INSERT INTO departments(department_id, department_name, location_id)
 VALUES      (dept_deptid_seq.NEXTVAL, 'Support', 2500);
 // gaat nu met de nieuwe getallen die aangemaakt zijn in de sequence in de table zetten
 
-SELECTdept_deptid_seq.CURRVAL 
+SELECT dept_deptid_seq.CURRVAL 
 FROMdual;
 //geeft u de current getal dat in de sequence gebruikt word
 
