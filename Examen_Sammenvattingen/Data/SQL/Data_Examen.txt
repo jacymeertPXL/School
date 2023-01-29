@@ -438,3 +438,129 @@ ON s.sport_id = sc.sport_id
 JOIN locations l
 ON l.location_id = sc.club_location
 // voorbeeld van joints van oefening
+
+SELECT last_name, salary
+FROM employees
+WHERE salary >
+(SELECT salary
+FROM employees
+WHERE last_name = 'Abel');
+// Voorbeeld van een SubQeury hier pakt het Abel zijn prijs en gaat het weet geven mensen die hoger hebben
+
+SELECT last_name, job_id
+FROM employees
+WHERE job_id =
+(SELECT job_id
+FROM employees
+WHERE employee_id = 141);
+// voorbeeld van een single-row Subquery
+
+SELECT last_name, job_id, salary
+FROM employees
+WHERE job_id =
+(SELECT job_id
+FROM employees
+WHERE last_name = ‘Taylor’)
+AND salary >
+(SELECT salary
+FROM employees
+WHERE last_name = ‘Taylor’);
+// subquery met de AND statment hier word 2 keer vergeleken met tayler maar de eerste tayler is het zijn job id de tweede zijn salary
+
+SELECT department_id, MIN(salary)
+FROM employees
+GROUP BY department_id
+HAVING MIN(salary) >
+(SELECT MIN(salary)
+FROM employees
+WHERE department_id = 50);
+// HAVING met subqueries en group functions
+
+SELECT employee_id, last_name, job_id, salary
+FROM employees
+WHERE salary < ANY
+(SELECT salary
+FROM employees
+WHERE job_id = 'IT_PROG')
+AND job_id <> 'IT_PROG';
+// het gebruik van any hier gaat het dus zoeken voor alle salarys die terug gegeven worden en niet 1tje zoals in de IN statement
+
+SELECT employee_id, last_name, job_id, salary
+FROM employees
+WHERE salary < ALL
+(SELECT salary
+FROM employees
+WHERE job_id = 'IT_PROG')
+AND job_id <> 'IT_PROG';
+// hier door de ALL statment houd het alleen rekening met de laagste value van alle values die zijn megegeven
+
+SELECT emp.last_name
+FROM employees emp
+WHERE emp.employee_id NOT IN
+(SELECT mgr.manager_id
+FROM employees mgr);
+// Null Values in subquerys
+
+
+// VoorBeeld Examen Querys
+
+SELECT VAKANTIE_ID, VAKANTIE_TYPE, VAN AS "Datum vertrek"
+FROM VAKANTIES
+WHERE VERBL_ID = (SELECT VERBL_ID    
+                 FROM VERBLIJFPLAATSEN
+                 WHERE upper(VERBL_NAAM) = 'TER HEIDE');
+
+
+
+SELECT v.VAKANTIE_ID, i.BOEKINGSDATUM, k0.KLANT_NAAM, k0.KLANT_VOORNAAM, k.KIND_VOORNAAM,
+   CASE k.CM_LID WHEN 'J' THEN 'CM lid'
+                 ELSE 'geen lid'
+                 END AS lid
+FROM INSCHRIJVINGEN i JOIN INSCHRIJVINGEN_KINDGEGEVENS k ON i.INSCHRIJVING_ID = k.INSCHR_ID
+                     JOIN KLANTEN k0 ON i.KLANT_ID = k0.KLANT_ID
+                     JOIN VAKANTIES v ON i.VAK_ID = v.VAKANTIE_ID
+WHERE i.KLANT_ID = &&klant AND i.BOEKINGSDATUM = (SELECT MAX(BOEKINGSDATUM)
+                                                FROM INSCHRIJVINGEN
+                                                WHERE KLANT_ID = &klant);
+
+
+CREATE TABLE med_info2017
+(
+ klant_id              VARCHAR2(20)    CONSTRAINT M_KLID_FK REFERENCES KLANTEN(KLANT_ID)
+ ,registratie_datum    DATE
+ ,info                 VARCHAR2(100)
+ ,datum_attest         DATE            CONSTRAINT M_DATT_CH CHECK (TO_NUMBER(TO_CHAR(datum_attest, 'YYYY')) = 2017)
+ ,PRIMARY KEY (klant_id, registratie_datum)
+);
+
+
+INSERT INTO INSCHRIJVINGEN VALUES (INSCHRIJVING_ID_SEQ.nextval, 144, 2012, sysdate, 0);
+
+
+
+INSERT INTO INSCHRIJVINGEN_KINDGEGEVENS SELECT 83, KIND_VOORNAAM, KIND_NAAM, GEBOORTEDATUM, LENGTE, SCHOENMAAT, CM_LID
+                                       FROM INSCHRIJVINGEN_KINDGEGEVENS
+                                       WHERE TO_CHAR(GEBOORTEDATUM, 'YYYY') <= (SELECT MAXGEBOORTEJAAR
+                                                               FROM VAKANTIES
+                                                               WHERE VAKANTIE_ID = 2012) AND INSCHR_ID = 45;
+
+
+
+SELECT VAKANTIE_ID, VAN, MAX_AANTAL_INSCHRIJVINGEN, COUNT(K.KIND_VOORNAAM), SUM(PRIJS) AS "totale prijs"
+FROM VAKANTIES JOIN INSCHRIJVINGEN I2 ON VAKANTIES.VAKANTIE_ID = I2.VAK_ID
+              JOIN INSCHRIJVINGEN_KINDGEGEVENS K ON I2.INSCHRIJVING_ID = K.INSCHR_ID
+HAVING MAX_AANTAL_INSCHRIJVINGEN > COUNT(K.KIND_VOORNAAM)
+GROUP BY VAKANTIE_ID, VAN, MAX_AANTAL_INSCHRIJVINGEN, PRIJS;
+
+
+
+CREATE VIEW kla_reizen
+ AS SELECT k.KLANT_ID, k.KLANT_NAAM, l.LANDNAAM, substr(k.KLANT_EMAIL, INSTR(k.KLANT_EMAIL, '@') + 1) AS emailservice, NVL(I2.VAK_ID, NULL) AS vakantie_id  
+    FROM KLANTEN k
+    JOIN GEMEENTEN g ON k.KLANT_GEMEENTE_ID = g.GEMEENTE_ID
+    JOIN LANDEN l ON g.LAND_ID = l.LAND_ID
+    JOIN INSCHRIJVINGEN I2 ON k.KLANT_ID = I2.KLANT_ID;
+
+
+
+
