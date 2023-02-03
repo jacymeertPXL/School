@@ -46,7 +46,7 @@ WHEREfirst_name LIKE 'S%' ;
 // geef de kolom weer waar het begint met een S en dan een of meerde charachters achter staan
 
 WHERE  last_name LIKE '_o%' ;
-// geeft de kolom weer waar er een o als tweede charachter staat en een charachter er voor
+// geeft de kolom weer waar er een o als tweede charachtrer staat en een charachter er voor
 
 WHERE  manager_id IS NULL ;
 // waar de waarde NULL is
@@ -80,7 +80,7 @@ WHERE  employee_id = &employee_num ;
 ORDER BY &order_column 
 // hier wordt de kolom weergegeven met wat de user gaat ingeven
 
-WHERE  job_id = '&job_title' ;
+WHERE  job_id = 'rjob_title' ;
 // hier wordt de kolom weergegeven met wat de user gaat ingeven voor een text
 
 FUNCTIONS
@@ -201,14 +201,14 @@ SELECT employee_id, last_name, salary, commission_pct
 FROM employees
 WHERE job_id LIKE '%REP%';
 // je kan ook info pakkken van een vaan andere table waar ja dan insert into kan doen in de andere table
-
+r
 UPDATE employees
 SET department_id = 50
 WHERE employee_id = 113;
 // update van een table 
 
 UPDATE employees
-SET job_id = (SELECT job_id
+SET job_id = (SELECT job_ided
 FROM employees
 WHERE employee_id = 205),
 salary = (SELECT salary
@@ -514,7 +514,7 @@ WHERE VERBL_ID = (SELECT VERBL_ID
 
 SELECT v.VAKANTIE_ID, i.BOEKINGSDATUM, k0.KLANT_NAAM, k0.KLANT_VOORNAAM, k.KIND_VOORNAAM,
    CASE k.CM_LID WHEN 'J' THEN 'CM lid'
-                 ELSE 'geen lid'
+                 ELSE 'geen lid'DE
                  END AS lid
 FROM INSCHRIJVINGEN i JOIN INSCHRIJVINGEN_KINDGEGEVENS k ON i.INSCHRIJVING_ID = k.INSCHR_ID
                      JOIN KLANTEN k0 ON i.KLANT_ID = k0.KLANT_ID
@@ -523,11 +523,11 @@ WHERE i.KLANT_ID = &&klant AND i.BOEKINGSDATUM = (SELECT MAX(BOEKINGSDATUM)
                                                 FROM INSCHRIJVINGEN
                                                 WHERE KLANT_ID = &klant);
 
-
+r
 CREATE TABLE med_info2017
 (
  klant_id              VARCHAR2(20)    CONSTRAINT M_KLID_FK REFERENCES KLANTEN(KLANT_ID)
- ,registratie_datum    DATE
+ ,registratie_datum    DATEr
  ,info                 VARCHAR2(100)
  ,datum_attest         DATE            CONSTRAINT M_DATT_CH CHECK (TO_NUMBER(TO_CHAR(datum_attest, 'YYYY')) = 2017)
  ,PRIMARY KEY (klant_id, registratie_datum)
@@ -560,6 +560,32 @@ CREATE VIEW kla_reizen
     JOIN GEMEENTEN g ON k.KLANT_GEMEENTE_ID = g.GEMEENTE_ID
     JOIN LANDEN l ON g.LAND_ID = l.LAND_ID
     JOIN INSCHRIJVINGEN I2 ON k.KLANT_ID = I2.KLANT_ID;
+
+
+SELECT UPPER(k.facturatienaam) || ' ' || LOWER(k.facturatirevoornaam) AS "Volledige naam", 
+b.besteldatum AS "Datum", 
+g.gemeente || ' - ' || l.land 
+FROM klanten k
+JOIN Bestellingen b
+ON b.klantnr = k.klantnr
+JOIN Adressen a
+ON a.adresid = b.levering_adresid
+JOIN Gemeenten g
+ON g.postcode = a.postcoder
+JOIN Landen l
+ON l.landid = g.landcode
+WHERE UPPER(k.facturatienaam) = "VAN ROY"
+
+
+SELECT a.artikelnr, CASE i.ingredienttype WHEN 'N' THEN COUNT(i.ingredienttype) END AS "Natuurlijke ing."
+FROM Artikels a
+JOIN Artikel_ingredienten ai
+ON ai.artikelnr = a.artikelnr
+JOIN Ingredienten i
+ON i.ingredientid = ai.ingredientid
+GROUP BY a.artikelnr
+/
+
 
 
 
