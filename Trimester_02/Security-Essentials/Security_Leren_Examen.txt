@@ -1,0 +1,70 @@
+Hoofdstuk 1
+	cubes heel goed kennen
+	geen voorbeelden 
+	Alleen definities
+
+Hoofdstuk 2
+Cia
+Encrytion
+	Geen Voorbeelden worden gevraagd  
+Hasing
+	countermeasures en definities en waarom worden hasing algoritmis gebruikt bv wachtwoord opslag
+encoding
+Classic crptography
+	Geen voorbeelden wel theory
+Modern crptography
+	Voordelen nadelen vragen op allemaal
+	weten als dingen nog veilig zijn tegenwoordig
+	geen voorbeelden toepassen
+
+Stenograpphy 
+	niet toepassen alleen weten wat het is
+
+97-100 slide nummer zijn sammenvattingen goed kennen 
+Basic certificats
+	definities
+	niet weten welke firmas die uitdelen
+
+Geen wiskunde kennen wel begrijpen over alles hoofdstuk 2
+
+
+Hoofdstuk 3
+
+Introductie to malware
+	eigenschappen kennen (Definities)
+	geen voorbeelden
+Malware analyis
+	Voorbeelden kennen en heel goed kennen
+Malware Defense strategies
+	Definities 
+
+Cyber attacks - basic
+	eigenschappen kennen (Definities)
+Wireless and mobile attacks
+	Niet specefiek kennen kort leren puur definities 
+	Niet super belangrijk meer niche
+Appication attcks
+	eigenschappen kennen (Definities)
+	Countermeasures en de types voor Xss en types
+	CSRF NIET LEREN
+
+Hoofdstuk 4
+	Vooral op praktijk geleerd
+	Leer de definities en leren waarom we gebruikt worden
+Enumoratien 
+	Kennen 
+	Geen tools kennen er van 
+	Verschillende request kennnen HTTP
+SLide 35 - 38
+er na kennen is theory goed kennen
+OWASP top 10
+	Voorbeeld per catogorie kennen niet specefiek van buiten kennen van definities 
+
+Hoofdstuk 5
+	Network en security 
+	Protocol and vulnerabilities en attacks 
+		Definities goed kennen
+		Geen voorbeelden uitleggen
+		Voor alle aanvallingen geen stappen van hoe het gebeurt kennen gewoon wat het is 
+	Security technologies
+		gewoonn van buiten leren definities 
