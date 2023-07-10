@@ -1,0 +1,12 @@
+   [Session 13]]:
+- The crew arrives at Midgar, an island with mountains and a central village influenced by Norse mythology.
+- They explore the village and become acquainted with the local culture.
+- The crew helps Ashley, a girl being targeted by bandits, and she offers to assist them in any way she can.
+- They encounter Sanji and Hu Tao, who have played a prank on the townsfolk, and spend the night drinking.
+- Vesper's magical alarms are triggered, and they discover Ashley in possession of the Boogeyman Devil Fruit, which she consumes.
+- A fight ensues, and Ashley escapes with Vesper in pursuit. Meanwhile, Franky, the second commander of the Whitebeard Pirates, intervenes.
+- They capture Ashley and learn that she wanted the Devil Fruit to kill Eve. Sanji and Hu Tao recognize Franky and join the crew.
+- The crew informs Cyril of the situation, including Robin's pregnancy. They rest for a day before a loud noise alerts them.
+- They find Viridian injured in a crater, revealing that Jefferson, Marrow's brother and a member of the Aons, was responsible.
+- The crew launches an attack on the zeppelin carrying Jefferson, determined to stop the Aons and clear their name as Warlords.
+- Everest confronts the crew, wanting Cyril back, but they defeat him and imprison him on the ship. They continue their journey towards Chronogard, the Aons' base of operations.
