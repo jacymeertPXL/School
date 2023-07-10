@@ -11,8 +11,12 @@
             "id": "5102e59a7c067dc1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gambling Phoenix/Millie.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -138,13 +142,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "907e4ceec1bf175a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 901.5
+    "width": 1089.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +170,8 @@
   },
   "active": "ccec10053cfba10c",
   "lastOpenFiles": [
-    "Gambling Phoenix/The Crew.md",
     "Gambling Phoenix/Millie.md",
+    "Gambling Phoenix/The Crew.md",
     "Levaithan/Story/Short Story.md",
     "Levaithan/Story/Sessions/Sessions 2021-2022.md",
     "Levaithan/Story/Story of the leviathan crew.md",
