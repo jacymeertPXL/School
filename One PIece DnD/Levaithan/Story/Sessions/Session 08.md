@@ -1,4 +1,4 @@
- [Session 08]]:
+ [[Session 08]]:
 - The crew arrives at The Oasis and discovers an underground city filled with pirates and gangsters.
 - Liebe, Eve, and Remag participate in different activities, including a gladiator tournament and a visit to the casino owned by Roulette.
 - They are tasked with stealing the Diamond of Big Top, the strongest gang boss, under Roulette's influence.

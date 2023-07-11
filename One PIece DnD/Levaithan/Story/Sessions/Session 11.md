@@ -1,4 +1,4 @@
-   [Session 11]]:
+   [[Session 11]]:
 - Cyril goes to Marine Base G4 to rescue his captured crewmates, accompanied by the rest of the crew.
 - During the week of training with Viridian, P'lop, Vesper, and Eve are experimented on by Arzen in his lab.
 - P'lop and Vesper inform the other marines about Arzen's experiments and are told that Trevor and Everest will come to assist.

@@ -1,4 +1,4 @@
- [Session 07]]:
+ [[Session 07]]:
 - The crew receives an invitation from Jevil for a meeting with Kresse and Konac.
 - They attend the meeting and learn about Jevil's plan to bring down the Warlords of the Sea and the Celestial Dragons.
 - The crew agrees to the terms of the contract and prepares to set sail, needing to find a boat.

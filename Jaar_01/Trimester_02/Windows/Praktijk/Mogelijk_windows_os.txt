@@ -1,0 +1,6 @@
+Event Viewer (logboeken)
+Computer Management (computerbeheer)
+Task Scheduler (Taakplanner)
+Microsoft Management Console (MMC)
+Resource Monitor (broncontrole)
+Performance Monitor (Prestatiemeter)

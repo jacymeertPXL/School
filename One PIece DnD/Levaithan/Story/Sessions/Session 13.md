@@ -1,4 +1,4 @@
-   [Session 13]]:
+   [[Session 13]]:
 - The crew arrives at Midgar, an island with mountains and a central village influenced by Norse mythology.
 - They explore the village and become acquainted with the local culture.
 - The crew helps Ashley, a girl being targeted by bandits, and she offers to assist them in any way she can.

@@ -1,0 +1,47 @@
+
+/* Naam: Fenne Thijs*/
+
+form{
+    width: 540px;
+    display: inline-block;
+}
+
+body{
+    text-align: center;
+    background-image: url("/abcdef-FenneThijsPXL/abcdef-FenneThijsPXL/assets/background.jpg");
+}
+
+h1{
+    color: white;
+}
+
+hr{
+    margin-top: -26px;
+    margin-bottom: -16px;
+}
+
+p{
+    color: white;
+}
+
+label {
+    color: #0fb5d2; /* op de screenshot van de opdracht is het een andere kleur maar in de tekst is het #0fb5d2 */
+    font-size: 18px;
+}
+
+input:required, select{
+    height: 48px;
+    font-size: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.extend{
+    width: 80%;
+}
+
+button{
+    background-color: #0fb5d2;
+    color: black;
+    height: 48px ;
+}

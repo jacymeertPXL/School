@@ -1,4 +1,4 @@
- [Session 10]]:
+ [[Session 10]]:
 - The crew crash-lands on an island surrounded by statues and ships. They encounter Long John Magnum, who challenges them to a Davy Back Fight.
 - The crew refuses the challenge, leading Cyril and Gravy to be turned to stone. The crew retaliates and nearly gets overwhelmed but spare Winston, an Owlfolk who joins them.
 - They loot the ships and meet Captain Viridian, who informs them of a request to become warlords by capturing a pirate with a bounty over 300 million.

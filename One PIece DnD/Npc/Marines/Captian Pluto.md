@@ -10,4 +10,6 @@ While Pluto's physical appearance may evoke a sense of awe or even trepidation, 
 
 Pluto's journey as a Marine captain and cyborg-human serves as a constant reminder of the indomitable nature of the human spirit. Despite the trials he has faced and the sacrifice he has endured, he stands tall as a symbol of resilience and unwavering determination. With each mission he undertakes, Pluto aims to uphold the honor and integrity of the Marines, leaving a lasting legacy as a true defender of justice.
 
+Img: [[Damian_key.webp]]
+
 #marine 

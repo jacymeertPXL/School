@@ -1,0 +1,11 @@
+SELECT e.first_name ||' '|| e.last_name, s.name, sc.club_name, l.city
+FROM employees e
+JOIN employee_sports es
+ON es.employee_number = e.employee_id
+JOIN sport_clubs sc
+ON sc.club_id = es.club_id AND sc.sport_id = es.sport_id
+JOIN sports s
+ON s.sport_id = sc.sport_id
+JOIN locations l
+ON l.location_id = sc.club_location
+/

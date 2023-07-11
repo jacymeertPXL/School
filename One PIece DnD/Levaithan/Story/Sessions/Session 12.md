@@ -1,4 +1,4 @@
-   [Session 12]]:
+   [[Session 12]]:
 - The crew arrives at The Union and finds Viridian's and Everest's ships.
 - They learn from Eve that Viridian has gone to The Union to work on something related to the runes.
 - Arzen asks P'lop and Vesper to come to his lab, where he informs them about upcoming experiments and instructs them to inform the other marines.

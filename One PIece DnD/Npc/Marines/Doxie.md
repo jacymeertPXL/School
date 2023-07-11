@@ -6,4 +6,6 @@ Witnessing this captivating display, allies and adversaries alike are filled wit
 
 Daughter of [[Captian Pluto]]
 
+Img: [[Doxie_halfbody.png]]
+
 #marine 

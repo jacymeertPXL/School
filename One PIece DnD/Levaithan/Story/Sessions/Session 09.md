@@ -1,4 +1,4 @@
-   [Session 09]]:
+   [[Session 09]]:
 - After crash-landing on an unknown planet, the crew is confronted by Hellion, Luna's sister and one of the Inquisitors. They are imprisoned and told they will stand trial.
 - In prison, they meet Robin Frost, another Inquisitor who rebelled against Emperor Arminius and was imprisoned. P'lop befriends Robin, and she agrees to help them escape.
 - With Robin's help, they escape the prison and plan to overthrow Emperor Dorminuis and return to their own planet.
