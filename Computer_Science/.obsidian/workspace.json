@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "0893650d0a6d4252",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eaba6e1c8199772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f454b2c87dc7af87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jaar_01/Herexams/Python/Python Alles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54e605a05deeb846",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d37bd2dce0ccf0ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f826ebd37b8eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96fb6200eed3dded",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4075a8f6fe31d8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c404498add1dc94c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "8183c05b6cd4fb57",
+    "type": "split",
+    "children": [
+      {
+        "id": "3757c1f0aa6f2785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "747d3f29479ed350",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jaar_01/Herexams/Python/Python Alles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96c1ed7ab551da7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jaar_01/Herexams/Python/Python Alles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "651144256f1e7b23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12e84007be974c68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jaar_01/Herexams/Python/Python Alles.md"
+              }
+            }
+          },
+          {
+            "id": "34017dc29a3bc3c9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "96fb6200eed3dded",
+  "lastOpenFiles": [
+    "Jaar_01/Herexams/Web-Scripting",
+    "Jaar_01/Herexams/Java",
+    "Jaar_01/Herexams/Data_Advanced",
+    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking/geadresseerde wel.md",
+    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking/Nederlands VS Engels.md",
+    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking/geadresseerde niet.md",
+    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking",
+    "Jaar_01/Herexams/Com_Skills/Regelmatig Contact/Regelmatig contact en situatie leent zich ertoe.md",
+    "Jaar_01/Herexams/Com_Skills/Regelmatig Contact/Regelmatig contact, maar minder gepast om voornaam te gebruiken.md",
+    "Jaar_01/Herexams/Com_Skills/Regelmatig Contact",
+    "Jaar_01/Herexams/Com_Skills/Komma's of geen komma's.md",
+    "Jaar_01/Herexams/Com_Skills/Herexamen overzicht.md",
+    "Jaar_01/Herexams/Herexams/Com_Skills/Regels Voor Aanspreking/Nederlands VS Engels.md",
+    "Jaar_01/Herexams/Herexams/Com_Skills/Regels Voor Aanspreking/geadresseerde wel.md",
+    "Jaar_01/Herexams/Herexams/Com_Skills/Regels Voor Aanspreking/geadresseerde niet.md",
+    "Jaar_01/Herexams/Herexams/Com_Skills/Regelmatig Contact/Regelmatig contact, maar minder gepast om voornaam te gebruiken.md",
+    "Jaar_01/Herexams/Herexams/Com_Skills/Regelmatig Contact/Regelmatig contact en situatie leent zich ertoe.md",
+    "Jaar_01/Herexams/Herexams/Com_Skills/Regels Voor Aanspreking",
+    "Jaar_01/Herexams/Herexams/Com_Skills/Komma's of geen komma's.md",
+    "Jaar_01/Herexams/Herexams/Com_Skills/Regelmatig Contact",
+    "Jaar_01/Herexams/Herexams/Com_Skills/Herexamen overzicht.md",
+    "Jaar_01/Herexams/Herexams/Com_Skills/Dt Regel.md",
+    "Jaar_01/Herexams/Herexams/Web-Scripting",
+    "Jaar_01/Herexams/Herexams/Java",
+    "Jaar_01/Herexams/Herexams/Data_Advanced",
+    "Jaar_01/Herexams/Herexams/Com_Skills",
+    "Jaar_01/Herexams/Python/Extra.md",
+    "Jaar_01/Herexams/Python/Python Alles.md",
+    "Jaar_01/Herexams/Com_Skills/Dt Regel.md",
+    "Jaar_01/Herexams/linux/Linux Samenvatting.md",
+    "Jaar_01/Herexams/Python/ASCII/ASCII-Tabel 1D en 2D.md",
+    "Jaar_01/Herexams/Python/ASCII/ASCII-Tabel 2 dimensionaal.md"
+  ]
+}
