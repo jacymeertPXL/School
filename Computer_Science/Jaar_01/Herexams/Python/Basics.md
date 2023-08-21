@@ -4,7 +4,8 @@
 Een `while`-lus wordt gebruikt om een bepaalde set instructies herhaaldelijk uit te voeren zolang een bepaalde voorwaarde waar is.
 
 ````python
-count = 0 while count < 5:     
+count = 0 
+	while count < 5:     
 	print("Count is:", count)     
 	count += 1
 `````
@@ -43,3 +44,5 @@ string_as_int = int(string_number) print("String as int:", string_as_int)
 `````
 
 Dit zijn basisvoorbeelden om je op weg te helpen met deze concepten. Je kunt ze verder uitbreiden en aanpassen aan je behoeften.
+
+#Python

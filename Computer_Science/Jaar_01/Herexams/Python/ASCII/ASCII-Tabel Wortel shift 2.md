@@ -24,3 +24,5 @@ print(encrypted_word)  # Output: "yqtvgn"
 In dit voorbeeld wordt elke letter in het woord "wortel" met 2 plaatsen verschoven in de ASCII-tabel. Hoofdletters worden naar hoofdletters omgezet en kleine letters naar kleine letters. Andere tekens, zoals spaties of leestekens, blijven onveranderd.
 
 Dit is slechts een eenvoudige verschuiving van tekens en geen veilige vorm van versleuteling. Voor echte versleuteling moet je gebruikmaken van cryptografische methoden en bibliotheken.
+
+#Python

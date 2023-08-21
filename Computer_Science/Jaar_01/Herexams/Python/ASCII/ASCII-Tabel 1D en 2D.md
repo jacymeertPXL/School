@@ -74,3 +74,5 @@ Deze code wordt gebruikt om het woord in een 2-dimensionale array te verdelen (m
     
 
 Kortom, deze enkele regel code verdeelt het woord in een 2D-array waarbij elke rij maximaal 3 letters bevat. Het gebruikt `i` om de startpositie van elke rij te bepalen en `j` om de posities van de letters binnen elke rij te bepalen. Dit is handig om later de encryptie en decryptie op een matrix van letters toe te passen.
+
+#Python

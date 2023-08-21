@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5eaba6e1c8199772",
+        "id": "328878183f625ce1",
         "type": "tabs",
         "children": [
           {
-            "id": "f454b2c87dc7af87",
+            "id": "6c8dbf4588b31178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaar_01/Herexams/Python/Python Alles.md",
+                "file": "Jaar_01/Herexams/Web-Scripting/`appendChild`, `createElement` en `createTextNode`.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "54e605a05deeb846",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -77,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 222.5
   },
   "right": {
     "id": "8183c05b6cd4fb57",
@@ -86,14 +78,24 @@
       {
         "id": "3757c1f0aa6f2785",
         "type": "tabs",
+        "dimension": 66.60482374768088,
         "children": [
+          {
+            "id": "54e605a05deeb846",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
           {
             "id": "747d3f29479ed350",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jaar_01/Herexams/Python/Python Alles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jaar_01/Herexams/Python/Python Alles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,11 +133,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Jaar_01/Herexams/Python/Python Alles.md"
-              }
+              "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6888b7fc554a1de2",
+        "type": "tabs",
+        "dimension": 33.39517625231911,
+        "children": [
           {
             "id": "34017dc29a3bc3c9",
             "type": "leaf",
@@ -145,13 +151,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 500.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,37 +169,43 @@
   },
   "active": "96fb6200eed3dded",
   "lastOpenFiles": [
-    "Jaar_01/Herexams/Web-Scripting",
-    "Jaar_01/Herexams/Java",
-    "Jaar_01/Herexams/Data_Advanced",
-    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking/geadresseerde wel.md",
-    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking/Nederlands VS Engels.md",
-    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking/geadresseerde niet.md",
-    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking",
-    "Jaar_01/Herexams/Com_Skills/Regelmatig Contact/Regelmatig contact en situatie leent zich ertoe.md",
-    "Jaar_01/Herexams/Com_Skills/Regelmatig Contact/Regelmatig contact, maar minder gepast om voornaam te gebruiken.md",
-    "Jaar_01/Herexams/Com_Skills/Regelmatig Contact",
-    "Jaar_01/Herexams/Com_Skills/Komma's of geen komma's.md",
-    "Jaar_01/Herexams/Com_Skills/Herexamen overzicht.md",
-    "Jaar_01/Herexams/Herexams/Com_Skills/Regels Voor Aanspreking/Nederlands VS Engels.md",
-    "Jaar_01/Herexams/Herexams/Com_Skills/Regels Voor Aanspreking/geadresseerde wel.md",
-    "Jaar_01/Herexams/Herexams/Com_Skills/Regels Voor Aanspreking/geadresseerde niet.md",
-    "Jaar_01/Herexams/Herexams/Com_Skills/Regelmatig Contact/Regelmatig contact, maar minder gepast om voornaam te gebruiken.md",
-    "Jaar_01/Herexams/Herexams/Com_Skills/Regelmatig Contact/Regelmatig contact en situatie leent zich ertoe.md",
-    "Jaar_01/Herexams/Herexams/Com_Skills/Regels Voor Aanspreking",
-    "Jaar_01/Herexams/Herexams/Com_Skills/Komma's of geen komma's.md",
-    "Jaar_01/Herexams/Herexams/Com_Skills/Regelmatig Contact",
-    "Jaar_01/Herexams/Herexams/Com_Skills/Herexamen overzicht.md",
-    "Jaar_01/Herexams/Herexams/Com_Skills/Dt Regel.md",
-    "Jaar_01/Herexams/Herexams/Web-Scripting",
-    "Jaar_01/Herexams/Herexams/Java",
-    "Jaar_01/Herexams/Herexams/Data_Advanced",
-    "Jaar_01/Herexams/Herexams/Com_Skills",
-    "Jaar_01/Herexams/Python/Extra.md",
+    "Jaar_01/Herexams/Com_Skills/Curses/Comparatives and superlatives 2223.pdf",
+    "Jaar_01/Herexams/Com_Skills/Curses/Punctuation_1TIN_2223.pdf",
+    "Jaar_01/Herexams/Com_Skills/Curses/modal_verbs_partI_1TIN.pdf",
+    "Jaar_01/Herexams/Com_Skills/Curses/Active_Tenses_2223.pdf",
+    "Jaar_01/Herexams/Com_Skills/Curses/irregularverbs_list.pdf",
+    "Jaar_01/Herexams/Com_Skills/Curses/Leerstofoverzichtcomskills1_20222023.pdf",
+    "Jaar_01/Herexams/Com_Skills/Curses/PPintrocommunicatie_2023.pdf",
+    "Jaar_01/Herexams/Com_Skills/Curses",
+    "Jaar_01/Herexams/Com_Skills/Nieuwe map",
+    "Jaar_01/Herexams/Web-Scripting/`appendChild`, `createElement` en `createTextNode`.md",
+    "Jaar_01/Herexams/Web-Scripting/Basic arraylist.md",
+    "Jaar_01/Herexams/Web-Scripting/Examen Oefening Classes.md",
+    "Jaar_01/Herexams/Web-Scripting/Examen Oefening Frontend Backend comm.md",
+    "Jaar_01/Herexams/Web-Scripting/Get, Push, Put, Delete.md",
+    "Jaar_01/Herexams/Web-Scripting/Herexamen Alles.md",
+    "Jaar_01/Trimester_02/20230425_studentencommissie_TIN.pdf",
+    "Jaar_01/Herexams/Com_Skills/Examen_Com 1.pdf",
     "Jaar_01/Herexams/Python/Python Alles.md",
-    "Jaar_01/Herexams/Com_Skills/Dt Regel.md",
-    "Jaar_01/Herexams/linux/Linux Samenvatting.md",
+    "Jaar_01/Herexams/Python/Oppervlakte berekenen.md",
+    "Jaar_01/Herexams/Python/Extra.md",
+    "Jaar_01/Herexams/Python/Enumarate.md",
+    "Jaar_01/Herexams/Python/Basics.md",
+    "Jaar_01/Herexams/Python/Arrays Voorbeelden.md",
+    "Jaar_01/Herexams/Python/Splits/Splits in string van array 3.md",
+    "Jaar_01/Herexams/Python/Splits/Splits in string van array 2.md",
+    "Jaar_01/Herexams/Python/Splits/Splits in string van array.md",
+    "Jaar_01/Herexams/Python/ASCII/pyramids.md",
+    "Jaar_01/Herexams/Python/ASCII/Belangrijk ASCII.md",
+    "Jaar_01/Herexams/Python/ASCII/ASCII-Table 1D en 2D beter.md",
+    "Jaar_01/Herexams/Python/ASCII/ASCII-Tabel Wortel shift 2.md",
+    "Jaar_01/Herexams/Python/ASCII/ASCII-Tabel woord decryptie.md",
+    "Jaar_01/Herexams/Python/ASCII/ASCII-Tabel User input.md",
+    "Jaar_01/Herexams/Python/ASCII/ASCII-Tabel 2 dimensionaal.md",
     "Jaar_01/Herexams/Python/ASCII/ASCII-Tabel 1D en 2D.md",
-    "Jaar_01/Herexams/Python/ASCII/ASCII-Tabel 2 dimensionaal.md"
+    "Jaar_01/Herexams/Python/ASCII/ACSII-Tabel om de letter.md",
+    "Jaar_01/Herexams/Com_Skills/Komma's of geen komma's.md",
+    "Jaar_01/Herexams/Python/ASCII/Img/Copy of python enumerate_42023.webp",
+    "Jaar_01/Herexams/Python/ASCII/Img/Copy of python enumerate_42023-1.webp"
   ]
 }

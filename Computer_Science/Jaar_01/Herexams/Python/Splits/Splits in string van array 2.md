@@ -48,3 +48,5 @@ for apartment in apartment_list:
 ````
 
 In dit voorbeeld gebruiken we de `re.split()`-functie van de `re`-module om de tekst te splitsen op elk nummer of elk uitroepteken (!). De `r'\d+|!'` reguliere expressie betekent dat we splitsen op elke reeks opeenvolgende cijfers (`\d+`) of elk uitroepteken (`!`). Daarna verwijderen we eventuele lege en overbodige spaties en splitsen we de tekst in de vereiste componenten voor elk appartement.
+
+#Python

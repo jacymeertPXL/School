@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Jaar_01/Herexams/Python",
+      "color": {
+        "a": 1,
+        "rgb": 15519241
+      }
+    },
+    {
+      "query": "path:Jaar_01/Herexams/Com_Skills",
+      "color": {
+        "a": 1,
+        "rgb": 14387941
+      }
+    },
+    {
+      "query": "path:Jaar_01/Herexams/linux",
+      "color": {
+        "a": 1,
+        "rgb": 15308812
+      }
+    },
+    {
+      "query": "path:Jaar_01/Herexams/Web-Scripting",
+      "color": {
+        "a": 1,
+        "rgb": 3008045
+      }
+    },
+    {
+      "query": "path:Jaar_01/Herexams/Data_Advanced",
+      "color": {
+        "a": 1,
+        "rgb": 1039255
+      }
+    },
+    {
+      "query": "path:Jaar_01/Herexams/Java",
+      "color": {
+        "a": 1,
+        "rgb": 14420233
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.24150432729505028,
+  "close": true
+}

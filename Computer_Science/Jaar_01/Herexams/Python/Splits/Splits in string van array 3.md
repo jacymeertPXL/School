@@ -22,7 +22,7 @@ def split_apartment_data(apartment):
         afstand_index = components.index("afstand:")
     else:
         balkon = "Nee"
-        afstand_index = components.index("afstand:") - 1
+        afstand_index = components.i.ndex("afstand:") - 1
 
     afstand = components[afstand_index + 1]
     prijs_index = components.index("prijs")
@@ -53,3 +53,5 @@ for apartment in apartment_list:
 ````
 
 Dit zal de gesplitste gegevens van elk appartement in de lijst weergeven, met labels voor elk van de eigenschappen zoals residence, aantal sterren, appartementtype, oppervlakte, aanwezigheid van een balkon, afstand en prijs.
+
+#Python

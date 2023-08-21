@@ -34,3 +34,5 @@ print("Decrypted:", decrypted_word)
 `Original: wortel Encrypted: wsrtfl Decrypted: wortel`
 
 Dit aangepaste voorbeeld past de encryptie en decryptie toe zoals je hebt beschreven: om de één index in het woord wordt aangepast en om de andere niet. De letter op de even index (0, 2, 4, enz.) wordt met één verschoven in de ASCII-waarde tijdens de encryptie, en bij de ontcijfering wordt deze verschuiving teruggenomen. De letter op de oneven index (1, 3, 5, enz.) blijft ongewijzigd.
+
+#Python

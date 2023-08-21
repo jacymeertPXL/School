@@ -4,3 +4,5 @@
 		Dag + Voornaam
 			BV: Dag Jacy
 			<mark style="background: #FFB8EBA6;">Dit is allen als de persoon in kwestie een collega of iemand in de zelfde positie is</mark>
+
+#com_skills_01

@@ -3,3 +3,5 @@
 		VB: Geachte klant of lezer
 	2, Geachte + groep waartoe lezer behoort + leden
 		VB: Geachte commissieleden
+
+#com_skills_01

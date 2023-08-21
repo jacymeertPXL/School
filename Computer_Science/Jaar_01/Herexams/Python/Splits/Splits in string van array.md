@@ -52,3 +52,5 @@ for apartment in apartment_list:
 
 In dit voorbeeld gebruiken we een lijstverwerkingsstap 
 `components = [comp.replace('%', '') for comp in components]` om elk element in de lijst te nemen en de `%` te verwijderen met behulp van de `replace`-methode. Dit zorgt ervoor dat de `%` uit de componenten wordt verwijderd voordat ze verder worden verwerkt.
+
+#Python

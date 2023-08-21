@@ -43,3 +43,5 @@ print(word_matrix)
 `````
 
 In dit voorbeeld wordt het woord "wortel" in een 2D-array van woorden gezocht en alleen dat specifieke woord wordt versleuteld en ontcijferd. Andere woorden in de array blijven ongewijzigd. Dit is een wat complexere aanpak omdat we moeten controleren welk woord we moeten versleutelen en ontcijferen binnen de array, maar het idee blijft hetzelfde als in eerdere voorbeelden.
+
+#Python

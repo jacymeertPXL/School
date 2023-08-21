@@ -42,3 +42,5 @@ print("Decrypted:", decrypted_text)
 `````
 ![[Pasted image 20230820011105.png]]
 In dit voorbeeld wordt de Vigenère-codering gebruikt, waarbij elke letter van het tekstbericht wordt gecodeerd met de bijbehorende letter uit het trefwoord. Dit proces wordt weergegeven voor het woord "HELLO" met het trefwoord "KEY".
+
+#Python

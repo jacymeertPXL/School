@@ -26,3 +26,5 @@ circle_area = math.pi * radius ** 2 print("Oppervlakte van de cirkel:", circle_a
 `````
 
 In deze voorbeelden gebruik ik de wiskundige module `math` voor het benaderen van π (pi). Je moet ervoor zorgen dat je deze module importeert om toegang te hebben tot de `math.pi`-constante
+
+#Python

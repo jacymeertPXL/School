@@ -47,7 +47,7 @@ def maak_lijst_appartement_juiste_prijs(lijst):
 
 
 def druk(lijst_juiste_prijs):
-
+.
 
 def main():
     lijst = ["Résidence Noeyms **** T0 opp:32 afstand:30  prijs 159",

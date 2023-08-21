@@ -6,7 +6,9 @@
 Een `while`-lus wordt gebruikt om een bepaalde set instructies herhaaldelijk uit te voeren zolang een bepaalde voorwaarde waar is.
 
 ````python
-count = 0 while count < 5:     print("Count is:", count)     count += 1
+count = 0 while count < 5:    
+	print("Count is:", count)     
+	count += 1
 `````
 
 2. **For-lus:**
@@ -14,7 +16,9 @@ count = 0 while count < 5:     print("Count is:", count)     count += 1
 Een `for`-lus wordt gebruikt om een bepaalde set instructies te herhalen over een reeks waarden, zoals een lijst of een bereik.
 
 ```python
-fruits = ["apple", "banana", "cherry"] for fruit in fruits:     print(fruit)
+fruits = ["apple", "banana", "cherry"] 
+for fruit in fruits:     
+	print(fruit)
 `````
 
 3. **If-else:**
@@ -348,7 +352,7 @@ Kortom, deze enkele regel code verdeelt het woord in een 2D-array waarbij elke r
 import numpy as np
 
 def encrypt_letter(letter, shift):
-    if letter.isalpha():
+    if letter.isalpha(): #controleert of het een letter is 
         base = ord('a') if letter.islower() else ord('A')
         encrypted = chr((ord(letter) - base + shift) % 26 + base)
         return encrypted
@@ -493,11 +497,11 @@ In dit voorbeeld wordt elke letter in het woord "wortel" met 2 plaatsen verschov
 
 Dit is slechts een eenvoudige verschuiving van tekens en geen veilige vorm van versleuteling. Voor echte versleuteling moet je gebruikmaken van cryptografische methoden en bibliotheken.
 
-[[ACSII-Tabel om de letter]]
+[[ACSII-Tabel om de letter]] [[Enumarate]]
 ````python
 def custom_encrypt(text, alternate_change):
     encrypted_text = ''
-    for i, char in enumerate(text):
+    for i, char in enumerate(text):#enumerate gaat uit een lijsthetwoordtpakken
         if i % 2 == alternate_change:
             encrypted_char = chr(ord('a') + ord(char) - ord('a') + 1)
         else:
@@ -581,35 +585,108 @@ In dit voorbeeld wordt de Vigenère-codering gebruikt, waarbij elke letter van h
 user geeft een woord in en die wordt met de ascii table gerbuikt 
 
 ````python
-# Aantal plaatsen om te verschuiven
-shift = 2
+word_list = ["patat", "jacy", "jaylene", "wortel"]
 
-# Een array van woorden
-word_array = ["wortel", "patat", "jacy", "wang"]
+# Gebruiker kiest een woord uit de lijst
+selected_word = input("Kies een woord uit de lijst: ")
 
-# Invoer van de gebruiker
-user_word = input("Voer een woord in om te versleutelen en te decoderen: ")
+if selected_word in word_list:
+    shift = 2
+    encrypted_word = ""
 
-# Encryptie en decryptie van het ingevoerde woord
-encrypted_word = ''
-for letter in user_word:
-    encrypted_letter = chr(((ord(letter) - ord('a') + shift) % 26) + ord('a'))
-    encrypted_word += encrypted_letter
+    # Versleuteling
+    for char in selected_word:
+        encrypted_char = chr(ord(char) + shift)
+        encrypted_word += encrypted_char
 
-decrypted_word = ''
-for letter in encrypted_word:
-    decrypted_letter = chr(((ord(letter) - ord('a') - shift) % 26) + ord('a'))
-    decrypted_word += decrypted_letter
+    decrypted_word = ""
 
-print("Origineel woord:", user_word)
-print("Versleuteld woord:", encrypted_word)
-print("Opgelost woord:", decrypted_word)
+    # Ontsleuteling
+    for char in encrypted_word:
+        decrypted_char = chr(ord(char) - shift)
+        decrypted_word += decrypted_char
+
+    print("Oorspronkelijk woord:", selected_word)
+    print("Versleuteld woord:", encrypted_word)
+    print("Ontsleuteld woord:", decrypted_word)
+else:
+    print("Woord niet gevonden in de lijst.")
+
+`````
+
+````python
+word_list = ["patat", "jacy", "jaylene", "wortel"]
+
+# Gebruiker kiest een woord uit de lijst
+selected_word = input("Kies een woord uit de lijst: ")
+
+if selected_word.lower() in word_list:  # Gebruik .lower() om hoofdletters te negeren
+    shift = 2
+    encrypted_word = ""
+
+    # Versleuteling
+    for char in selected_word:
+        if char.islower():
+            encrypted_char = chr(((ord(char) - ord('a') + shift) % 26) + ord('a'))
+        else:
+            encrypted_char = chr(((ord(char) - ord('A') + shift) % 26) + ord('A'))
+        encrypted_word += encrypted_char
+
+    decrypted_word = ""
+
+    # Ontsleuteling
+    for char in encrypted_word:
+        if char.islower():
+            decrypted_char = chr(((ord(char) - ord('a') - shift) % 26) + ord('a'))
+        else:
+            decrypted_char = chr(((ord(char) - ord('A') - shift) % 26) + ord('A'))
+        decrypted_word += decrypted_char
+
+    print("Oorspronkelijk woord:", selected_word)
+    print("Versleuteld woord:", encrypted_word)
+    print("Ontsleuteld woord:", decrypted_word)
+else:
+    print("Woord niet gevonden in de lijst.")
+
+`````
+
+````python
+word_list = ["patat", "jacy", "jaylene", "wortel", "PATAt1"]
+
+# Gebruiker kiest een woord uit de lijst
+selected_word = input("Kies een woord uit de lijst: ")
+
+if selected_word.lower() in [word.lower() for word in word_list]:  # Gebruik .lower() om hoofdletters te negeren
+    shift = 2
+    encrypted_word = ""
+
+    # Versleuteling
+    for char in selected_word:
+        if char.islower():
+            encrypted_char = chr(((ord(char) - ord('a') + shift) % 26) + ord('a'))
+        else:
+            encrypted_char = chr(((ord(char) - ord('A') + shift) % 26) + ord('A'))
+        encrypted_word += encrypted_char
+
+    decrypted_word = ""
+
+    # Ontsleuteling
+    for char in encrypted_word:
+        if char.islower():
+            decrypted_char = chr(((ord(char) - ord('a') - shift) % 26) + ord('a'))
+        else:
+            decrypted_char = chr(((ord(char) - ord('A') - shift) % 26) + ord('A'))
+        decrypted_word += decrypted_char
+
+    print("Oorspronkelijk woord:", selected_word)
+    print("Versleuteld woord:", encrypted_word)
+    print("Ontsleuteld woord:", decrypted_word)
+else:
+    print("Woord niet gevonden in de lijst.")
 
 `````
 
 Met dit voorbeeld kan de gebruiker een willekeurig woord invoeren dat moet worden versleuteld en ontcijferd. Alleen het ingevoerde woord wordt verwerkt en het resultaat wordt weergegeven. Dit maakt het mogelijk om elk willekeurig woord in te voeren voor encryptie en decryptie.
-
-USER WORD kan bv ook gewoon W worden waardoor het alle woorden doet met als eerste letter W !!!!!!
 
 [[pyramids]]
 ````python
@@ -738,3 +815,5 @@ produces: Haalt alles weg behalve de letter
 ```python
 --ll- ---l-
 ```
+
+#Python

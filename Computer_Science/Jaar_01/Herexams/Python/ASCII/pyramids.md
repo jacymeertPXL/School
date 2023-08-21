@@ -108,3 +108,4 @@ reverse_custom_pyramid_display(decrypted_word)
 ![[Pasted image 20230820005505.png]]
 
 
+#Python
