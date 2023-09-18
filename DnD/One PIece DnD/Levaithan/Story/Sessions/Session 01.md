@@ -1,0 +1,1 @@
+[[Session 01]]: The crew meets Kresse and forms a bond with her crew. Captain Marrow is killed, and the crew gains bounties. They gather information about Tarrako Kingdom, Pearl's backstory, and Ragnar's quest for revenge.

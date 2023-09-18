@@ -1,0 +1,3 @@
+Vincenzo, a brilliant lawyer and trusted companion, holds a significant role within the Levaithan Crew [[Party Friends leviathan crew]]. Beyond his legal expertise, he commands a network of skilled operatives who gather crucial information from across the seas. One of his most reliable assets is Snow, a resourceful and elusive individual known as [[Snow]]. Snow and the operatives under Vincenzo's command are adept at uncovering secrets, acquiring intelligence, and providing the crew with valuable insights into the ever-changing landscape of the seas. With Vincenzo's leadership and the unwavering dedication of his team, the Levaithan Crew gains a strategic advantage, allowing them to navigate the challenges ahead with calculated precision.
+
+#Oasis

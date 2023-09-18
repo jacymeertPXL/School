@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7e7ff1f25d5317ba",
+        "id": "8157658f92b00e34",
         "type": "tabs",
         "children": [
           {
-            "id": "686b1dd6b381576d",
+            "id": "6bf32bcac443103e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jaar_01/Herexams/Java/Herexamen Alles.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jaar_01/Herexams/Java/Herexamen Alles.md",
+                "file": "Jaar_01/Herexams/linux/Hoofdstukken/H9 User & premission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jaar_01/Herexams/Java/Herexamen Alles.md",
+                "file": "Jaar_01/Herexams/linux/Hoofdstukken/H9 User & premission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar_01/Herexams/Java/Herexamen Alles.md"
+                "file": "Jaar_01/Herexams/linux/Hoofdstukken/H9 User & premission.md"
               }
             }
           }
@@ -172,51 +168,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "686b1dd6b381576d",
+  "active": "96fb6200eed3dded",
   "lastOpenFiles": [
-    "Jaar_01/Herexams/Java/Herexamen Alles.md",
-    "Jaar_01/Herexams/Java/Interface en abstract classes.md",
-    "Jaar_01/Herexams/Java/Classes java.md",
+    "Jaar_01/Herexams/linux/Hoofdstukken/H6 Software & packages.md",
+    "Jaar_01/Herexams/linux/Hoofdstukken/H7 Advanced command structures.md",
+    "Jaar_01/Herexams/linux/Hoofdstukken/H10 Automation.md",
+    "Jaar_01/Herexams/linux/Hoofdstukken/H9 User & premission.md",
+    "Jaar_01/Herexams/linux/Hoofdstukken/H8 Filters & file operations.md",
+    "Jaar_01/Herexams/linux/Hoofdstukken/H5 File contents.md",
+    "Jaar_01/Herexams/linux/Notes/Relatief pad.md",
+    "Jaar_01/Herexams/linux/Notes/Reguliere expressies.md",
+    "Jaar_01/Herexams/linux/Notes/absoluut pad.md",
+    "Jaar_01/Herexams/linux/Hoofdstukken/H4 Files and folders.md",
+    "Jaar_01/Herexams/linux/Hoofdstukken/H3  Cmd Interface.md",
+    "Jaar_01/Herexams/linux/Linux Samenvatting.md",
+    "Jaar_01/Herexams/linux/Img/Pasted image 20230905180900.png",
+    "Jaar_01/Herexams/linux/Assignment/Assignment H9.md",
+    "Jaar_01/Herexams/linux/Assignment/Assignments h3.md",
+    "Jaar_01/Herexams/linux/Assignment/Assignment H6.md",
+    "Jaar_01/Herexams/linux/Assignment/Assignments H4.md",
+    "Jaar_01/Herexams/linux/Assignment/Assingments H5.md",
+    "Jaar_01/Herexams/linux/Notes/Premission.md",
+    "Jaar_01/Herexams/linux/Img/Pasted image 20230905143817.png",
+    "Jaar_01/Herexams/linux/Img/Pasted image 20230905143813.png",
+    "Jaar_01/Herexams/linux/Notes/nano.md",
+    "Jaar_01/Herexams/linux/Img/Pasted image 20230905130927.png",
+    "Jaar_01/Herexams/linux/Img/Pasted image 20230905130913.png",
+    "Jaar_01/Herexams/linux/Notes/Crontab.md",
+    "Jaar_01/Herexams/linux/Img/Pasted image 20230904144936.png",
+    "Jaar_01/Herexams/linux/Img/Pasted image 20230903182336.png",
+    "Jaar_01/Herexams/linux/Notes/File globbing.md",
+    "Jaar_01/Herexams/linux/Img/Pasted image 20230903181926.png",
+    "Jaar_01/Herexams/linux/Img/Pasted image 20230903181903.png",
+    "Jaar_01/Herexams/linux/Img/Pasted image 20230903181313.png",
+    "Jaar_01/Herexams/linux/Notes/tar.md",
+    "Jaar_01/Herexams/linux/Assignment",
+    "Jaar_01/Herexams/linux/Notes/man(uel) command.md",
     "Jaar_01/Herexams/Java/basics array java.md",
+    "Jaar_01/Herexams/linux/Hoofdstukken",
+    "Jaar_01/Herexams/Java/Classes java.md",
+    "Jaar_01/Herexams/Java/Herexamen Alles.md",
     "Jaar_01/Herexams/Java/Oefeningen",
-    "Jaar_01/Herexams/Java/Iteraties Baics java.md",
-    "Jaar_01/Herexams/Web-Scripting/Herexamen Alles.md",
-    "Jaar_01/Herexams/Web-Scripting/Get, Push, Put, Delete.md",
-    "Jaar_01/Herexams/Web-Scripting/`appendChild`, `createElement` en `createTextNode`.md",
-    "Jaar_01/Herexams/Web-Scripting/Basic arraylist.md",
-    "Jaar_01/Herexams/Web-Scripting/Examen Oefening Classes.md",
-    "Jaar_01/Herexams/Web-Scripting/Examen Oefening Frontend Backend comm.md",
     "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/style/oefening2.css",
     "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/scripts/oefening2.js",
     "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/json/db.json",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/images/schild.png",
     "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/style",
     "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening1/oefening1.js",
     "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/oefening2.html",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/scripts",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/json",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/images",
-    "Jaar_01/Herexams/Web-Scripting/Extra_Oefeningen/oefWeek5/Calculator/img/small_list_image.JPG",
-    "Jaar_01/Herexams/Web-Scripting/Extra_Oefeningen/hfdst14_externeScripts/hfdst14/img/ostrich.png",
-    "Jaar_01/Herexams/Web-Scripting/Extra_Oefeningen/hfdst14_externeScripts/hfdst14/img/ostrich.jpg",
-    "Jaar_01/Herexams/Web-Scripting/Extra_Oefeningen/hfdst14_externeScripts/hfdst14/img/hat.png",
-    "Jaar_01/Herexams/Web-Scripting/Extra_Oefeningen/hfdst14_externeScripts/hfdst14/img/cat.png",
-    "Jaar_01/Herexams/Com_Skills/Komma's of geen komma's.md",
-    "Jaar_01/Herexams/Com_Skills/Herexamen overzicht.md",
-    "Jaar_01/Herexams/Com_Skills/Dt Regel.md",
-    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking/Nederlands VS Engels.md",
-    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking/geadresseerde wel.md",
-    "Jaar_01/Herexams/Com_Skills/Regels Voor Aanspreking/geadresseerde niet.md",
-    "Jaar_01/Herexams/Com_Skills/Regelmatig Contact/Regelmatig contact, maar minder gepast om voornaam te gebruiken.md",
-    "Jaar_01/Herexams/Com_Skills/Regelmatig Contact/Regelmatig contact en situatie leent zich ertoe.md",
-    "Jaar_01/Herexams/Python/Python Alles.md",
-    "Jaar_01/Herexams/Python/Oppervlakte berekenen.md",
-    "Jaar_01/Herexams/Python/Extra.md",
-    "Jaar_01/Herexams/Python/Enumarate.md",
-    "Jaar_01/Herexams/Python/Basics.md",
-    "Jaar_01/Herexams/Python/Arrays Voorbeelden.md",
-    "Jaar_01/Herexams/Python/Splits/Splits in string van array 3.md",
-    "Jaar_01/Herexams/Python/ASCII/Img/Copy of python enumerate_42023.webp",
-    "Jaar_01/Herexams/Python/ASCII/Img/Copy of python enumerate_42023-1.webp"
+    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/scripts"
   ]
 }

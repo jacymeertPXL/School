@@ -1,0 +1,11 @@
+ [[Session 10]]:
+- The crew crash-lands on an island surrounded by statues and ships. They encounter Long John Magnum, who challenges them to a Davy Back Fight.
+- The crew refuses the challenge, leading Cyril and Gravy to be turned to stone. The crew retaliates and nearly gets overwhelmed but spare Winston, an Owlfolk who joins them.
+- They loot the ships and meet Captain Viridian, who informs them of a request to become warlords by capturing a pirate with a bounty over 300 million.
+- Returning to The Oasis, they find Yester and Laudna engaged in intimate activities. Yester explains the ongoing gang wars and asks the crew for assistance.
+- P'lop goes to the casino run by Roulette and encounters Bullet and Asmodeus. They plan to kill Big Top, the rival gang leader.
+- Eve, Vesper, and Liebe, along with Laudna and Yester, meet Big Top to return the stolen diamond. P'lop and the rest attack, but Liebe is thrown out of the casino, stopping the attack.
+- Big Top agrees to let them read a strange stone, revealing information about The Oasis and a cursed Devil Fruit. Big Top threatens Eve and learns about her ability to read poneglyphs.
+- The Flames reunite with the crew, and Cleo informs Liebe that they are getting married. However, Cyril and Robin surprise everyone by getting engaged and having a wedding.
+- After a few days of rest, P'lop angers Captain Viridian, who uses Conqueror's Haki to take P'lop, Vesper, and Eve to Marine Base G4 for training.
+- One week later, Viridian leaves with Eve, trusting Arzen to not harm the remaining crew members. The crew prepares to infiltrate the Marine base and rescue their captured crewmates.

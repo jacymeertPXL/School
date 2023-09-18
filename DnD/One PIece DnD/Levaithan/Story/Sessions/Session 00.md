@@ -1,0 +1,1 @@
+-  [[Session 00]]: The crew experiences a ship combat test and befriends Ragnar and Pearl. They find a potential Devil Fruit in a damaged marine ship.

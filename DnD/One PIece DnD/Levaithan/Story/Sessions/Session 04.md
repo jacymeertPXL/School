@@ -1,0 +1,2 @@
+  [[Session 04]]: The crew encounters Pinoo, a shipwright, and assists in a battle against Kresse. They gather information about the Steampunk Pirates. They confront Hellion and Valve and receive information about Ragnar's missing child.
+    

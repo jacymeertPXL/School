@@ -1,0 +1,3 @@
+ctrl + alt + l    // formatting
+ctrl + e  // view recent files
+double shift  // search everywhere

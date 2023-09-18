@@ -1,0 +1,1 @@
+[[Session 02]]: The crew works with Hellion to retrieve a stolen Devil Fruit. They assist in killing the king of Tarroko Kingdom and return to Saltmarsh. Kresse attacks Cyril, preventing him from reaching the crew.
