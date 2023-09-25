@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8157658f92b00e34",
+        "id": "60945f48ad130768",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf32bcac443103e",
+            "id": "66306839535d896a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jaar_01/Herexams/linux/Hoofdstukken/H9 User & premission.md",
+                "file": "Jaar_01/Net/H01/H01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jaar_01/Herexams/linux/Hoofdstukken/H9 User & premission.md",
+                "file": "Jaar_01/Net/H01/H01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar_01/Herexams/linux/Hoofdstukken/H9 User & premission.md"
+                "file": "Jaar_01/Net/H01/H01.md"
               }
             }
           }
@@ -170,6 +170,24 @@
   },
   "active": "96fb6200eed3dded",
   "lastOpenFiles": [
+    "Jaar_01/Data_advanced",
+    "Jaar_01/Net/H01/Oef_06/obj/Debug/net6.0-windows/Oef_06.designer.runtimeconfig.json",
+    "Jaar_01/Net/H01/Oef_06/obj/Debug/net6.0-windows/Oef_06.designer.deps.json",
+    "Jaar_01/Net/H01/Oef_06/obj/Debug/net6.0-windows/Oef_06.assets.cache",
+    "Jaar_01/Net/H01/Oef_06/obj/Oef_06.csproj.nuget.dgspec.json",
+    "Jaar_01/Net/H01/Oef_06/obj/project.nuget.cache",
+    "Jaar_01/Net/H01/Oef_06/obj/project.assets.json",
+    "Jaar_01/Net/H01/Oef_06/obj/Oef_06.csproj.nuget.g.targets",
+    "Jaar_01/Net/H01/Oef_06/obj/Oef_06.csproj.nuget.g.props",
+    "Jaar_01/Net/H01/Oef_06/obj/Debug/net6.0-windows/Oef_06_MarkupCompile.i.lref",
+    "Jaar_01/Net/H01/Oef_06/obj/Debug/net6.0-windows/Oef_06_MarkupCompile.i.cache",
+    "Jaar_01/Net/Img/Pasted image 20230919155948.png",
+    "Jaar_01/Net/Img/Pasted image 20230919155930.png",
+    "Jaar_01/Net/Img/Pasted image 20230919155909.png",
+    "Jaar_01/Net/Img/Pasted image 20230919155849.png",
+    "Jaar_01/Net/H01/Gestructureed denken.md",
+    "Jaar_01/Net/H01/H01.md",
+    "Jaar_01/Net/Img/Pasted image 20230919155241.png",
     "Jaar_01/Herexams/linux/Hoofdstukken/H6 Software & packages.md",
     "Jaar_01/Herexams/linux/Hoofdstukken/H7 Advanced command structures.md",
     "Jaar_01/Herexams/linux/Hoofdstukken/H10 Automation.md",
@@ -195,26 +213,8 @@
     "Jaar_01/Herexams/linux/Img/Pasted image 20230905130927.png",
     "Jaar_01/Herexams/linux/Img/Pasted image 20230905130913.png",
     "Jaar_01/Herexams/linux/Notes/Crontab.md",
-    "Jaar_01/Herexams/linux/Img/Pasted image 20230904144936.png",
-    "Jaar_01/Herexams/linux/Img/Pasted image 20230903182336.png",
     "Jaar_01/Herexams/linux/Notes/File globbing.md",
-    "Jaar_01/Herexams/linux/Img/Pasted image 20230903181926.png",
-    "Jaar_01/Herexams/linux/Img/Pasted image 20230903181903.png",
-    "Jaar_01/Herexams/linux/Img/Pasted image 20230903181313.png",
     "Jaar_01/Herexams/linux/Notes/tar.md",
-    "Jaar_01/Herexams/linux/Assignment",
-    "Jaar_01/Herexams/linux/Notes/man(uel) command.md",
-    "Jaar_01/Herexams/Java/basics array java.md",
-    "Jaar_01/Herexams/linux/Hoofdstukken",
-    "Jaar_01/Herexams/Java/Classes java.md",
-    "Jaar_01/Herexams/Java/Herexamen Alles.md",
-    "Jaar_01/Herexams/Java/Oefeningen",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/style/oefening2.css",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/scripts/oefening2.js",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/json/db.json",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/style",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening1/oefening1.js",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/oefening2.html",
-    "Jaar_01/Herexams/Web-Scripting/Examen_Xander/Buyst_Xander_1TINC_webscripting_EB011/oefening2/scripts"
+    "Jaar_01/Herexams/linux/Notes/man(uel) command.md"
   ]
 }

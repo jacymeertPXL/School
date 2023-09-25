@@ -1,0 +1,24 @@
+﻿<Window x:Class="Oef_05.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_05"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Geef aantal tickets per soort in:" HorizontalAlignment="Left" Margin="176,92,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontStyle="Italic"/>
+        <Label Content="Normaal Tarief" HorizontalAlignment="Left" Margin="184,154,0,0" VerticalAlignment="Top"/>
+        <Label Content="Kortings Tarief" HorizontalAlignment="Left" Margin="184,188,0,0" VerticalAlignment="Top"/>
+        <Label Content="studenten Tarief" HorizontalAlignment="Left" Margin="185,221,0,0" VerticalAlignment="Top"/>
+        <Label Content="Prijs te betalen" HorizontalAlignment="Left" Margin="185,254,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtNormaal" HorizontalAlignment="Left" Margin="316,158,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.381,0.8"/>
+        <TextBox x:Name="TxtKorting" HorizontalAlignment="Left" Margin="315,195,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.381,0.8"/>
+        <TextBox x:Name="TxtBetalen" HorizontalAlignment="Left" Margin="315,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.381,0.8" Text="0"/>
+        <TextBox x:Name="TxtStudent" HorizontalAlignment="Left" Margin="315,228,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.381,0.8"/>
+        <Button x:Name="BtnBerekenen" Content="Berekenen" HorizontalAlignment="Left" Margin="485,182,0,0" VerticalAlignment="Top" Click="BtnBerekenen_Click"/>
+        <Button x:Name="BtnWissen" Content="Wissen" HorizontalAlignment="Left" Margin="485,213,0,0" VerticalAlignment="Top" Click="BtnWissen_Click"/>
+        <Button x:Name="BtnAfsluiten" Content="Afsluiten" HorizontalAlignment="Left" Margin="485,247,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.551,0.782" Click="BtnAfsluiten_Click"/>
+
+    </Grid>
+</Window>
