@@ -1,18 +1,20 @@
 {
   "main": {
-    "id": "0893650d0a6d4252",
+    "id": "ab8f28ab65e1a5e0",
     "type": "split",
     "children": [
       {
-        "id": "60945f48ad130768",
+        "id": "a578e9fd8a5e9c28",
         "type": "tabs",
         "children": [
           {
-            "id": "66306839535d896a",
+            "id": "674f8d1b208db7f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Jaar_01/Trimester_01/Net/H01/Curses-Oefeningen/Week 1 - Introductie.pdf"
+              }
             }
           }
         ]
@@ -21,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d37bd2dce0ccf0ae",
+    "id": "3bebafb906f26a90",
     "type": "split",
     "children": [
       {
-        "id": "40f826ebd37b8eee",
+        "id": "df226a60b1d043ef",
         "type": "tabs",
         "children": [
           {
-            "id": "96fb6200eed3dded",
+            "id": "eafa2d5018c8627c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +41,7 @@
             }
           },
           {
-            "id": "e4075a8f6fe31d8b",
+            "id": "fff56fcb4ea16d65",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +56,7 @@
             }
           },
           {
-            "id": "c404498add1dc94c",
+            "id": "c986bbc3cd5b9d73",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,33 +67,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 300
   },
   "right": {
-    "id": "8183c05b6cd4fb57",
+    "id": "3aac2c89b159a922",
     "type": "split",
     "children": [
       {
-        "id": "3757c1f0aa6f2785",
+        "id": "1a31c9dba27d8a59",
         "type": "tabs",
-        "dimension": 66.60482374768088,
         "children": [
           {
-            "id": "54e605a05deeb846",
+            "id": "4141eb6d3208314c",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "calendar",
+              "state": {}
             }
           },
           {
-            "id": "747d3f29479ed350",
+            "id": "fa7a95e2ff844f35",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jaar_01/Trimester_01/Net/H01/Curses-Oefeningen/Week 1 - Introductie.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,18 +103,19 @@
             }
           },
           {
-            "id": "96c1ed7ab551da7b",
+            "id": "2cf2940d43bf6404",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Jaar_01/Trimester_01/Net/H01/Curses-Oefeningen/Week 1 - Introductie.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "651144256f1e7b23",
+            "id": "5303affd7ba1b2d6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -125,17 +126,7 @@
             }
           },
           {
-            "id": "12e84007be974c68",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Jaar_01/Net/H01/H01.md"
-              }
-            }
-          },
-          {
-            "id": "3d429799e14bd453",
+            "id": "60e7565f26d0c84d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -143,27 +134,22 @@
                 "sortOrder": "frequency"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "6888b7fc554a1de2",
-        "type": "tabs",
-        "dimension": 33.39517625231911,
-        "children": [
+          },
           {
-            "id": "34017dc29a3bc3c9",
+            "id": "c86c9e507f538b06",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Jaar_01/Trimester_01/Net/H01/Curses-Oefeningen/Week 1 - Introductie.pdf"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 865.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,53 +162,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66306839535d896a",
+  "active": "674f8d1b208db7f5",
   "lastOpenFiles": [
-    "Batcholer.zip",
-    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/BasisVariabelen.sln",
-    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
-    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/obj/Debug/BasisVariabelen.csproj.AssemblyReference.cache",
-    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/obj/Debug/TempPE",
-    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/obj/Debug",
-    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/obj",
-    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/bin/Debug",
-    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/bin",
-    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/BasisVariabelen.csproj",
-    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/Program.cs",
-    "Jaar_01/Trimester_01/Net/Img/Pasted image 20230919155909.png",
-    "Jaar_01/Trimester_01/Net/Img/Pasted image 20230919155930.png",
-    "Jaar_01/Trimester_01/Net/Img/Pasted image 20230919155948.png",
-    "Jaar_01/Trimester_01/Net/Img/Pasted image 20230919155849.png",
-    "Jaar_01/Trimester_01/Net/Img/Pasted image 20230919155241.png",
-    "Jaar_01/Trimester_01/Net/H01/H01.md",
-    "Jaar_01/Trimester_01/Net/H01/Gestructureed denken.md",
-    "Jaar_01/Net/Img/Pasted image 20230919155930.png",
-    "Jaar_01/Net/Img/Pasted image 20230919155948.png",
-    "Jaar_01/Net/Img/Pasted image 20230919155849.png",
-    "Jaar_01/Net/Img/Pasted image 20230919155241.png",
-    "Jaar_01/Net/Img/Pasted image 20230919155909.png",
-    "Jaar_01/Net/H01/Gestructureed denken.md",
-    "Jaar_01/Net/H01/H01.md",
-    "Jaar_01/Trimester_02/Net/H01/H01.md",
-    "Jaar_01/Trimester_02/Net/H01/Gestructureed denken.md",
-    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/LICENSE.md",
-    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/README.md",
-    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/CHANGELOG.md",
-    "Batcholer/2022-2023/Trimester_02/WebScripting/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/README.md",
-    "Batcholer/2022-2023/Trimester_02/WebScripting/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/CHANGELOG.md",
-    "Batcholer/2022-2023/Trimester_02/WebScripting/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/LICENSE.md",
-    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/node_modules/prompt-sync/README.md",
-    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/node_modules/strip-ansi/readme.md",
-    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/node_modules/ansi-regex/readme.md",
-    "Batcholer/2022-2023/Trimester_01/Examen_Sammenvattingen/Web/Fenne_Web/abcdef-FenneThijsPXL-main/README.md",
-    "Batcholer/2022-2023/Trimester_02/WebScripting/node_modules/strip-ansi/readme.md",
-    "Batcholer/2022-2023/Trimester_02/WebScripting/node_modules/prompt-sync/README.md",
-    "Batcholer/2022-2023/Trimester_02/WebScripting/node_modules/ansi-regex/readme.md",
-    "Batcholer/2022-2023/Herexams/Python/Splits/Splits in string van array.md",
-    "Batcholer/2022-2023/Herexams/Python/Splits/Splits in string van array 3.md",
-    "Batcholer/2022-2023/Herexams/Python/Splits/Splits in string van array 2.md",
-    "Batcholer/2022-2023/Herexams/Python/ASCII/pyramids.md",
-    "Batcholer/2022-2023/Herexams/Python/ASCII/Belangrijk ASCII.md",
-    "Batcholer/2022-2023/Herexams/Python/ASCII/ASCII-Tabel Wortel shift 2.md"
+    "Jaar_01/Trimester_01/Net/H01/Curses-Oefeningen/OefeningenbundelCSharpWPFBasisStructuren_1-7-1.pdf"
   ]
 }

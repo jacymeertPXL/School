@@ -1,0 +1,116 @@
+EN
+CONF T
+
+
+Router default gateways instellen:
+INT GigabitEthernet 0/0 
+IP ADD *eerste ip address uit usable range* *subnetmask*
+NO SHUT
+exit
+(herhaal if nodig met bv 0/1, 0/2... en met ip en mask van die host)
+
+
+Router serial instellen:
+interface serial 0/0/0
+ip address *ip address* *subnetmask*
+no shut
+
+
+PC instellen:
+naar Desktop tab
+IP Configuration
+IPv4 = IP uit de Usable Range naar keuze
+Subnet Mask = subnetmask van netwerk waar PC in zit
+Default gateway = dezelfde als gate van router waarmee verbonden
+DNS Server = laatste ip van netwerk waar DNS server in zit
+
+
+DHCP server instellen:
+naar Services tab
+DHCP
+Service op On
+Default gateway = dezelfde als gate van router waarmee verbonden
+DNS Server = laatste ip van netwerk waar DNS server in zit
+Start IP A een available ip in die host usable range
+Subner M = subnet van host waar DHCP server in zit
+max number of users zelf kiezen
+op save klikken
+naar Desktop tab
+IP Configuration klikken
+IPv4 Address = laatste ip address van het netwerk waar DHCP server in zit
+Subnet Mask = subnetmask van netwerk waar DHCP server in zit
+DNS Server = laatste ip van netwerk waar DNS server in zit
+
+
+Webserver instellen:
+naar Services tab
+HTTP
+HTTP op on
+naar Config tab
+FastEthernet0 (onder INTERFACE)
+IPv4 Address = laatste ip van het netwerk waar webserver in zit
+Subnetmask = subnetmask van netwerk waar webserver in zit
+naar Desktop tab
+Default Gateway = ip address van de default gateway van de router waarmee verbonden
+DNS Server = laatste ip van netwerk waar DNS server in zit
+
+
+DNS server instellen:
+naar Services tab
+DNS
+DNS Service op On zetten
+Name = maakt niet uit als maar .com achter staat
+Adress = laatste ip van het netwerk waar webserver in zit
+Klik op Add
+Klik op Save
+naar Config tab
+FastEthernet0 (onder INTERFACE)
+IPv4 Address = laatste ip van netwerk waar DNS server in zit
+Subnet Mask = subnetmask van netwerk waar DNS srver in zit
+Default Gateway = ip address van de default gateway van de router waarmee verbonden
+
+
+Switches instellen:
+hostname *name*
+enable secret *wachtwoord*
+	(mogenlijk nodig)
+	line console 0
+	password *wachtwoord*
+	login
+	exit
+	line vty 0 4
+	password *wachtwoord*
+	login
+	exit
+service password-encryption
+banner motd &*message of the day*&
+exit
+copy run start
+interface vlan1
+ip add *2de ip addres van usable range* *subnetmask*
+no shut
+exit
+ip default-gateway *ip address van de default gateway van de router waarmee verbonden*
+exit
+	ssh:
+	conf t
+	ip domain-name *domijn naam*
+	crypto key generate rsa general-keys modulus 2048
+	username *naam* secret *wachtwoord*
+	line vty 0 4
+	transport input ssh
+	login local
+	exit
+
+
+Accesing with telnet:
+on PC in command prompt
+telnet *ip van switch*
+en
+show run
+
+
+Accesing with ssh:
+ssh -l *username van switch* *ip van switch*
+en
+show run

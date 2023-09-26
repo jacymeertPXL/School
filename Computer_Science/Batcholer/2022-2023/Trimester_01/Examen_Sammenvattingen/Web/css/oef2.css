@@ -1,0 +1,66 @@
+/* Naam: */
+h1 {
+    border-bottom: 3px solid #1b9af0;
+    padding-bottom: 8px;
+    padding-top: 16px;
+}
+
+table,
+th,
+td {
+    border: 2px solid gray;
+    border-collapse: collapse;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #faf8f7;
+}
+
+tbody tr:hover {
+    background-color: rgba(156, 134, 8, 0.685);
+}
+
+tbody tr:hover img {
+    width: 150px;
+}
+
+tbody td {
+    text-align: center;
+}
+
+tbody td:first-child {
+    text-align: left;
+}
+
+tbody td:last-child {
+    font-weight: normal;
+}
+
+table {
+    width: 800px;
+}
+
+tbody p {
+    margin-left: -5px;
+    color: red;
+    float: right;
+    border: 2px solid red;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+thead {
+    background-color: black;
+    color: white;
+}
+
+tfoot th {
+    padding: 1%;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
