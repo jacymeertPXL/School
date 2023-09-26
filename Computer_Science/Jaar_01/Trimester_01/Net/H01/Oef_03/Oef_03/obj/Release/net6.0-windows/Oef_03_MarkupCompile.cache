@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_01\Net\H01\Oef_03\Oef_03\obj\Debug\net6.0-windows\
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_01\Net\H01\Oef_03\Oef_03\obj\Release\net6.0-windows\
 Oef_03
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_01\Net\H01\Oef_03\Oef_03\App.xaml
 11407045341
 

@@ -25,6 +25,12 @@ namespace BasisVariabelen
             Console.WriteLine("De som, aftrekking, prodcut en deling is: " + som + aftrekking + product + deling);
 
             Console.ReadKey(); // sluit met een keypress het programma af
+
+            bool expressieGroterDan = getal1 > getal2; // als getal 1 groter is dan getal 2
+            bool expressieKleinerDan = getal1 > getal2; // als getal 1 groter is dan getal 2
+            bool expressieKleinerOfGelijkAn = getal1 <= getal2; // als getal 1 kleiner is of gelijk aan getal 2
+
+
         }
     }
 }
