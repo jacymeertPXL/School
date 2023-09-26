@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "0893650d0a6d4252",
+    "type": "split",
+    "children": [
+      {
+        "id": "60945f48ad130768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66306839535d896a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d37bd2dce0ccf0ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f826ebd37b8eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96fb6200eed3dded",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4075a8f6fe31d8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c404498add1dc94c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "8183c05b6cd4fb57",
+    "type": "split",
+    "children": [
+      {
+        "id": "3757c1f0aa6f2785",
+        "type": "tabs",
+        "dimension": 66.60482374768088,
+        "children": [
+          {
+            "id": "54e605a05deeb846",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "747d3f29479ed350",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96c1ed7ab551da7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "651144256f1e7b23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12e84007be974c68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jaar_01/Net/H01/H01.md"
+              }
+            }
+          },
+          {
+            "id": "3d429799e14bd453",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6888b7fc554a1de2",
+        "type": "tabs",
+        "dimension": 33.39517625231911,
+        "children": [
+          {
+            "id": "34017dc29a3bc3c9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 865.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66306839535d896a",
+  "lastOpenFiles": [
+    "Batcholer.zip",
+    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/BasisVariabelen.sln",
+    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
+    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/obj/Debug/BasisVariabelen.csproj.AssemblyReference.cache",
+    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/obj/Debug/TempPE",
+    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/obj/Debug",
+    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/obj",
+    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/bin/Debug",
+    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/bin",
+    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/BasisVariabelen.csproj",
+    "Jaar_01/Trimester_01/Net/H02/BasisVariabelen/Program.cs",
+    "Jaar_01/Trimester_01/Net/Img/Pasted image 20230919155909.png",
+    "Jaar_01/Trimester_01/Net/Img/Pasted image 20230919155930.png",
+    "Jaar_01/Trimester_01/Net/Img/Pasted image 20230919155948.png",
+    "Jaar_01/Trimester_01/Net/Img/Pasted image 20230919155849.png",
+    "Jaar_01/Trimester_01/Net/Img/Pasted image 20230919155241.png",
+    "Jaar_01/Trimester_01/Net/H01/H01.md",
+    "Jaar_01/Trimester_01/Net/H01/Gestructureed denken.md",
+    "Jaar_01/Net/Img/Pasted image 20230919155930.png",
+    "Jaar_01/Net/Img/Pasted image 20230919155948.png",
+    "Jaar_01/Net/Img/Pasted image 20230919155849.png",
+    "Jaar_01/Net/Img/Pasted image 20230919155241.png",
+    "Jaar_01/Net/Img/Pasted image 20230919155909.png",
+    "Jaar_01/Net/H01/Gestructureed denken.md",
+    "Jaar_01/Net/H01/H01.md",
+    "Jaar_01/Trimester_02/Net/H01/H01.md",
+    "Jaar_01/Trimester_02/Net/H01/Gestructureed denken.md",
+    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/LICENSE.md",
+    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/README.md",
+    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/CHANGELOG.md",
+    "Batcholer/2022-2023/Trimester_02/WebScripting/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/README.md",
+    "Batcholer/2022-2023/Trimester_02/WebScripting/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/CHANGELOG.md",
+    "Batcholer/2022-2023/Trimester_02/WebScripting/Rest_Api/codevoorbeelden/codevoorbeelden/asynch_node/node_modules/node-fetch/LICENSE.md",
+    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/node_modules/prompt-sync/README.md",
+    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/node_modules/strip-ansi/readme.md",
+    "Batcholer/2022-2023/Herexams/Web-Scripting/Oefeningen/node_modules/ansi-regex/readme.md",
+    "Batcholer/2022-2023/Trimester_01/Examen_Sammenvattingen/Web/Fenne_Web/abcdef-FenneThijsPXL-main/README.md",
+    "Batcholer/2022-2023/Trimester_02/WebScripting/node_modules/strip-ansi/readme.md",
+    "Batcholer/2022-2023/Trimester_02/WebScripting/node_modules/prompt-sync/README.md",
+    "Batcholer/2022-2023/Trimester_02/WebScripting/node_modules/ansi-regex/readme.md",
+    "Batcholer/2022-2023/Herexams/Python/Splits/Splits in string van array.md",
+    "Batcholer/2022-2023/Herexams/Python/Splits/Splits in string van array 3.md",
+    "Batcholer/2022-2023/Herexams/Python/Splits/Splits in string van array 2.md",
+    "Batcholer/2022-2023/Herexams/Python/ASCII/pyramids.md",
+    "Batcholer/2022-2023/Herexams/Python/ASCII/Belangrijk ASCII.md",
+    "Batcholer/2022-2023/Herexams/Python/ASCII/ASCII-Tabel Wortel shift 2.md"
+  ]
+}
