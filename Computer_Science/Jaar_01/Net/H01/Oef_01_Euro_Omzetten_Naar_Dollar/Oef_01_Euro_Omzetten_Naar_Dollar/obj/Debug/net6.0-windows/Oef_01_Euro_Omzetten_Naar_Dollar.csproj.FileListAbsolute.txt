@@ -1,4 +1,0 @@
-C:\Users\12200178\Desktop\Github\Computer_Science\Jaar_01\Net\H01\Oef_01_Euro_Omzetten_Naar_Dollar\Oef_01_Euro_Omzetten_Naar_Dollar\obj\Debug\net6.0-windows\MainWindow.g.cs
-C:\Users\12200178\Desktop\Github\Computer_Science\Jaar_01\Net\H01\Oef_01_Euro_Omzetten_Naar_Dollar\Oef_01_Euro_Omzetten_Naar_Dollar\obj\Debug\net6.0-windows\App.g.cs
-C:\Users\12200178\Desktop\Github\Computer_Science\Jaar_01\Net\H01\Oef_01_Euro_Omzetten_Naar_Dollar\Oef_01_Euro_Omzetten_Naar_Dollar\obj\Debug\net6.0-windows\Oef_01_Euro_Omzetten_Naar_Dollar_MarkupCompile.cache
-C:\Users\12200178\Desktop\Github\Computer_Science\Jaar_01\Net\H01\Oef_01_Euro_Omzetten_Naar_Dollar\Oef_01_Euro_Omzetten_Naar_Dollar\obj\Debug\net6.0-windows\Oef_01_Euro_Omzetten_Naar_Dollar_MarkupCompile.lref
