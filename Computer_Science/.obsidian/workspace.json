@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a578e9fd8a5e9c28",
+        "id": "35084578dd11b15a",
         "type": "tabs",
         "children": [
           {
-            "id": "674f8d1b208db7f5",
+            "id": "60c6d34cbd66f18d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Jaar_01/Trimester_01/Net/H01/Curses-Oefeningen/Week 1 - Introductie.pdf"
+                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jaar_01/Trimester_01/Net/H01/Curses-Oefeningen/Week 1 - Introductie.pdf",
+                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jaar_01/Trimester_01/Net/H01/Curses-Oefeningen/Week 1 - Introductie.pdf",
+                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar_01/Trimester_01/Net/H01/Curses-Oefeningen/Week 1 - Introductie.pdf"
+                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png"
               }
             }
           }
@@ -162,8 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "674f8d1b208db7f5",
+  "active": "60c6d34cbd66f18d",
   "lastOpenFiles": [
+    "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
+    "Jaar_01/Trimester_01/Werkplekken/Img/Pasted image 20231002114656.png",
+    "Jaar_01/Trimester_01/Werkplekken/Img",
+    "Jaar_01/Trimester_01/Werkplekken/Xfactor",
     "Jaar_01/Trimester_01/Net/H01/Curses-Oefeningen/OefeningenbundelCSharpWPFBasisStructuren_1-7-1.pdf"
   ]
 }
