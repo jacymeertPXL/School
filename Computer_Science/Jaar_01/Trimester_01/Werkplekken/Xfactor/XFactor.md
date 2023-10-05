@@ -7,7 +7,7 @@
 	en om een comfortabel leven te lijden met mijn vrouw
 
 _**-Wat geeft jou energie en goesting? En hoe zie je dit in je opleiding die je bent aangevat?**_ 
-	Om te leren geeft me goesting maar ook om een goeie shop te vinden dat ik later kan trouwen en samen leven met mijn vriendin
+	Om te leren geeft me goesting maar ook om een goeie job te vinden dat ik later kan trouwen en samen leven met mijn vriendin
 
 **_- Hoe zie je jezelf in dialoog gaan met anderen in de opleiding die je bent aangevat?_**
 	Ik zie mezelf als een makkelijk persoon om mee te praten en ik sta paraat om mensen te helpen als ze vriendelijk zijn want ik vind dat respect van kanten moet komen 

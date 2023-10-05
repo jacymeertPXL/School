@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "35084578dd11b15a",
+        "id": "d22fb66c45d89f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "60c6d34cbd66f18d",
+            "id": "7bf55691c3755320",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png"
+                "file": "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -78,20 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4141eb6d3208314c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "fa7a95e2ff844f35",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
+                "file": "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
+                "file": "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,8 +135,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png"
+                "file": "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md"
               }
+            }
+          },
+          {
+            "id": "1f5fcded46ffdc3b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -162,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60c6d34cbd66f18d",
+  "active": "eafa2d5018c8627c",
   "lastOpenFiles": [
+    "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
     "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
     "Jaar_01/Trimester_01/Werkplekken/Img/Pasted image 20231002114656.png",
     "Jaar_01/Trimester_01/Werkplekken/Img",
