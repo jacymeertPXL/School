@@ -1,0 +1,19 @@
+﻿<Window x:Class="Oef_11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Geef_een_getal_tussen_1_en_100" HorizontalAlignment="Left" Margin="121,115,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BtnEvalueer" Content="Evalueer" HorizontalAlignment="Left" Margin="427,117,0,0" VerticalAlignment="Top" Height="28" Width="87" Click="BtnEvalueer_Click"/>
+        <Button x:Name="BtnNieuweSpel" Content="NIeuwe spel" HorizontalAlignment="Left" Margin="429,188,0,0" VerticalAlignment="Top" Height="28" Width="88" Click="BtnNieuweSpel_Click"/>
+        <Button x:Name="Btn_Einde" Content="Einde" HorizontalAlignment="Left" Margin="428,243,0,0" VerticalAlignment="Top" Height="28" Width="91" Click="Btn_Einde_Click"/>
+        <TextBox x:Name="TxtRandomGetal" HorizontalAlignment="Left" Margin="311,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="48"/>
+        <TextBox x:Name="TxtUitkomst" HorizontalAlignment="Left" Margin="127,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="26"/>
+        <TextBox x:Name="TxtAantalPoginen" HorizontalAlignment="Left" Margin="127,241,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" Height="38" Text="U heeft het getal nog niet proberen te raden"/>
+
+    </Grid>
+</Window>

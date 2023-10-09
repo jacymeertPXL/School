@@ -1,0 +1,22 @@
+﻿<Window x:Class="Oef_08.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_08"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="PersoonlijkId" HorizontalAlignment="Left" Margin="120,103,0,0" VerticalAlignment="Top"/>
+        <Label Content="Uurloon" HorizontalAlignment="Left" Margin="128,147,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.137,0.389"/>
+        <Label Content="Aantal Uren" HorizontalAlignment="Left" Margin="118,191,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtPersoneelid" HorizontalAlignment="Left" Margin="257,107,0,0" TextWrapping="Wrap" Text="Jacy Seutens" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtUurloon" HorizontalAlignment="Left" Margin="257,159,0,0" TextWrapping="Wrap" Text="17.85" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtAantalUren" HorizontalAlignment="Left" Margin="259,0,0,0" TextWrapping="Wrap" Text="1686" VerticalAlignment="Center" Width="120"/>
+        <Button x:Name="BtnBerekenen" Content="Berekenen" HorizontalAlignment="Left" Margin="419,108,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BtnWissen" Content="Wissen" HorizontalAlignment="Left" Margin="421,159,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BtnAflsuiten" Content="Aflsuiten" HorizontalAlignment="Left" Margin="422,0,0,0" VerticalAlignment="Center"/>
+        <TextBlock x:Name="TxtResultaat" HorizontalAlignment="Left" Margin="123,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="135" Width="362" Foreground="Black" Background="#FFDCD2D2"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Oef_15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Naam Atleet" HorizontalAlignment="Left" Margin="176,94,0,0" VerticalAlignment="Top"/>
+        <Label Content="Totaal aantal seconden" HorizontalAlignment="Left" Margin="115,139,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtAtleet" HorizontalAlignment="Left" Margin="281,99,0,0" TextWrapping="Wrap" Text="Jaylene" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.252,0.351"/>
+        <TextBox x:Name="TxtAantalSeconden" HorizontalAlignment="Left" Margin="281,144,0,0" TextWrapping="Wrap" Text="25" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.252,0.351"/>
+        <TextBlock TextWrapping="Wrap" Text="TextBlock"/>
+        <TextBlock HorizontalAlignment="Left" Margin="123,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="185" Width="383" Foreground="#FFC7ABAB" Background="#FFE6C5C5"/>
+        <Button x:Name="BtnNieuwe" Content="Nieuwe" HorizontalAlignment="Left" Margin="543,0,0,0" VerticalAlignment="Center" Height="42" Width="103" Click="BtnNieuwe_Click"/>
+        <Button x:Name="BtnSnelsteAtleet" Content="Snelste Atleet" HorizontalAlignment="Left" Margin="545,249,0,0" VerticalAlignment="Top" Height="42" Width="103" Click="BtnSnelsteAtleet_Click"/>
+        <Button x:Name="BtnWissen" Content="Wissen" HorizontalAlignment="Left" Margin="546,304,0,0" VerticalAlignment="Top" Height="30" Width="100" Click="BtnWissen_Click"/>
+        <Button x:Name="BtnAfsluiten" Content="Afsluiten" HorizontalAlignment="Left" Margin="546,345,0,0" VerticalAlignment="Top" Height="30" Width="100" Click="BtnAfsluiten_Click"/>
+
+    </Grid>
+</Window>

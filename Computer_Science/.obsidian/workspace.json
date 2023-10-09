@@ -11,9 +11,11 @@
             "id": "60c6d34cbd66f18d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png"
+                "file": "Jaar_01/Trimester_01/Werkplekken/Git/Pe Git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
+                "file": "Jaar_01/Trimester_01/Werkplekken/Git/Pe Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
+                "file": "Jaar_01/Trimester_01/Werkplekken/Git/Pe Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png"
+                "file": "Jaar_01/Trimester_01/Werkplekken/Git/Pe Git.md"
               }
             }
           }
@@ -162,8 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60c6d34cbd66f18d",
+  "active": "eafa2d5018c8627c",
   "lastOpenFiles": [
+    "Jaar_01/Trimester_01/Werkplekken/Img/Pasted image 20231008191125.png",
+    "Jaar_01/Trimester_01/Werkplekken/Img/Pasted image 20231008190838.png",
+    "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
+    "Jaar_01/Trimester_01/Werkplekken/Git/Pe Git.md",
     "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
     "Jaar_01/Trimester_01/Werkplekken/Img/Pasted image 20231002114656.png",
     "Jaar_01/Trimester_01/Werkplekken/Img",
