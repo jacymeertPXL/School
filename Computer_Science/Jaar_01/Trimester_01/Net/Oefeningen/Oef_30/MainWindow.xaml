@@ -1,0 +1,18 @@
+﻿<Window x:Class="Oef_30.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_30"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Decimaal getal:" HorizontalAlignment="Left" Margin="152,139,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.816,0.906"/>
+        <Label Content="Binair getal:" HorizontalAlignment="Left" Margin="152,174,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.816,0.906"/>
+        <TextBox x:Name="TxtDecimaalGetal" HorizontalAlignment="Left" Margin="278,146,0,0" TextWrapping="Wrap" Text="234" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtBinairGetal" HorizontalAlignment="Left" Margin="278,180,0,0" TextWrapping="Wrap" Text="11101010" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BtnOmzetten" Content="Omzetten (0-255)" HorizontalAlignment="Left" Margin="488,142,0,0" VerticalAlignment="Top" Height="42" Width="94" Click="BtnOmzetten_Click"/>
+        <Button x:Name="BtnBinairOmzetten" Content="Binair Omzetten" HorizontalAlignment="Left" Margin="488,194,0,0" VerticalAlignment="Top" Height="42" Width="94" Click="BtnAllesOmzetten_Click"/>
+
+    </Grid>
+</Window>

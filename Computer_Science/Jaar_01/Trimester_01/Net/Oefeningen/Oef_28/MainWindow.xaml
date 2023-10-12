@@ -1,0 +1,19 @@
+﻿<Window x:Class="Oef_28.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_28"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Aantal Jaren" HorizontalAlignment="Left" Margin="146,175,0,0" VerticalAlignment="Top"/>
+        <Label Content="Jaarsalaris" HorizontalAlignment="Left" Margin="146,124,0,0" VerticalAlignment="Top"/>
+        <Label Content="Totaal inkomen" HorizontalAlignment="Left" Margin="146,214,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BtnInkomen" Content="Toon Inkomen" HorizontalAlignment="Left" Margin="424,131,0,0" VerticalAlignment="Top" Height="51" Width="89" Click="BtnInkomen_Click"/>
+        <TextBlock x:Name="TxtInkomen" HorizontalAlignment="Left" Margin="252,223,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="34" Width="77" Background="#FFD8CECE"/>
+        <TextBox x:Name="TxtJaarSalaris" HorizontalAlignment="Left" Margin="238,129,0,0" TextWrapping="Wrap" Text="3000" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.632,1.171"/>
+        <TextBox x:Name="TxtAantal_Jaren" HorizontalAlignment="Left" Margin="239,182,0,0" TextWrapping="Wrap" Text="12" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.632,1.171"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,18 @@
+﻿<Window x:Class="Oef_31.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_31"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Ondernemingsnummer" HorizontalAlignment="Left" Margin="141,116,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtOndernemingsNummer" HorizontalAlignment="Left" Margin="310,123,0,0" TextWrapping="Wrap" Text="BE 457.033.811" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="TxtResultaat" HorizontalAlignment="Left" Margin="140,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="176" Width="307" Background="#FFD8C5C5" FontSize="48" TextAlignment="Center" LineHeight="20"/>
+        <Button x:Name="BtnControle" Content="Controle" HorizontalAlignment="Left" Margin="529,201,0,0" VerticalAlignment="Top" Height="41" Width="96" Click="BtnControle_Click"/>
+        <Button x:Name="BtnWissen" Content="Wissen" HorizontalAlignment="Left" Margin="530,253,0,0" VerticalAlignment="Top" Height="41" Width="96" Click="BtnWissen_Click"/>
+        <Button x:Name="BtnAfsluiten" Content="Afsluiten" HorizontalAlignment="Left" Margin="529,302,0,0" VerticalAlignment="Top" Height="41" Width="96" Click="BtnAfsluiten_Click"/>
+
+    </Grid>
+</Window>

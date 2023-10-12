@@ -11,11 +11,9 @@
             "id": "7bf55691c3755320",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
-                "mode": "source",
-                "source": false
+                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png"
               }
             }
           }
@@ -85,9 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-
-                "file": "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
-
+                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
-
+                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-
-                "file": "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md"
-
+                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png"
               }
             }
           },
@@ -169,11 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eafa2d5018c8627c",
+  "active": "7bf55691c3755320",
   "lastOpenFiles": [
-
-    "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
     "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
+    "Jaar_01/Trimester_01/Werkplekken/Git/Pe Git.md",
+    "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
     "Jaar_01/Trimester_01/Werkplekken/Img/Pasted image 20231002114656.png",
     "Jaar_01/Trimester_01/Werkplekken/Img",
     "Jaar_01/Trimester_01/Werkplekken/Xfactor",
