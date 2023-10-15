@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -25,50 +26,68 @@ namespace Oef_32
             InitializeComponent();
         }
 
-        private void BtnItemVerwijderen_Click(object sender, RoutedEventArgs e)
+        private void BtnItemVerwijderen_Click(object sender, RoutedEventArgs e) // Werkt
         {
-            if(LstSimple.Items.Count > 0)
+            if(LstSimple.SelectedItem != null)
             {
-                LstSimple.Items.RemoveAt(LstSimple.Items.IndexOf(LstSimple.SelectedIndex));
+                LstSimple.Items.Remove(LstSimple.SelectedItem);
+                LstSimple.Items.Refresh();
+            }
+            else
+            {
+                MessageBox.Show("Selecteer een item om te verwijderen.");
             }
         }
 
-        private void BtnListBoxVerwijderen_Click(object sender, RoutedEventArgs e)
+        private void BtnListBoxVerwijderen_Click(object sender, RoutedEventArgs e) // Werkt
         {
             LstSimple.Items.Clear();
+            LstSimple.Items.Refresh();
         }
 
-        private void BtnVervangen_Click(object sender, RoutedEventArgs e)
+        private void BtnVervangen_Click(object sender, RoutedEventArgs e)  // Werkt
         {
             string Vervangen = TxtVervangen.Text;
             int index = LstSimple.SelectedIndex;
+
+            ListBoxItem listBox = new ListBoxItem();
+            listBox.Content = Vervangen;
+
             LstSimple.Items.RemoveAt(index);
-            LstSimple.Items.Insert(index, Vervangen);
+
+            LstSimple.Items.Insert(index, listBox);
+            LstSimple.Items.Refresh();
         }
 
-        private void BtnToevoegen_Click(object sender, RoutedEventArgs e)
+        private void BtnToevoegen_Click(object sender, RoutedEventArgs e) // Werkt
         {
             string Toevoegen = TxtToeveogen.Text;
-            LstSimple.Items.Add(Toevoegen);
+            ListBoxItem listBox = new ListBoxItem();
+            listBox.Content = Toevoegen;
+            LstSimple.Items.Add(listBox);
+            LstSimple.Items.Refresh();
+            TxtToeveogen.Clear();
         }
 
-        private void BtnZoeken_Click(object sender, RoutedEventArgs e)
+        private void BtnZoeken_Click(object sender, RoutedEventArgs e) // Werkt
         {
+
             for (int i = 0; i < LstSimple.Items.Count; i++)
             {
-                if (LstSimple.Items[i].ToString() == TxtZoeken.Text)
+                if (((ListBoxItem)LstSimple.Items[i]).Content.ToString().Equals(TxtZoeken.Text))
                 {
                     LbZoeken.Content = "Het item staat in " + i;
                     break;
                 }
             }
+                
         }
 
-        private void BtnSorteren_Click(object sender, RoutedEventArgs e)
+        private void BtnSorteren_Click(object sender, RoutedEventArgs e) // Werkt
         {
             List<string> listBoxItemText = new List<string>();
 
-            foreach (ListBoxItem listBoxItem in LstSimple.Items)
+            foreach (ListBoxItem listBoxItem in  LstSimple.Items)
             {
                 listBoxItemText.Add(listBoxItem.Content.ToString());
             }
@@ -82,14 +101,14 @@ namespace Oef_32
             foreach (string itemText in listBoxItemText)
             {
                 LstSimple.Items.Add(new ListBoxItem { Content = itemText });
-            }   
+            }
+            LstSimple.Items.Refresh();
 
         }
 
-        private void LstMultiple_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void LstMultiple_SelectionChanged(object sender, SelectionChangedEventArgs e) // Afmaken
         {
-            int AantalSelected = LstMultiple.SelectedItems.Count;
-            TxtGeselecteerd.Text = AantalSelected.ToString();
+            
         }
     }
 }

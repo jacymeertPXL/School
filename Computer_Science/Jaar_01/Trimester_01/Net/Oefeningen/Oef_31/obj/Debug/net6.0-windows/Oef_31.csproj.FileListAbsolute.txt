@@ -18,3 +18,24 @@ C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_01
 C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.pdb
 C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.genruntimeconfig.cache
 C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\ref\Oef_31.dll
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\bin\Debug\net6.0-windows\Oef_31.exe
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\bin\Debug\net6.0-windows\Oef_31.deps.json
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\bin\Debug\net6.0-windows\Oef_31.runtimeconfig.json
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\bin\Debug\net6.0-windows\Oef_31.dll
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\bin\Debug\net6.0-windows\Oef_31.pdb
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31_MarkupCompile.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31_MarkupCompile.lref
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.g.resources
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.dll
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\refint\Oef_31.dll
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.pdb
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\Oef_31.genruntimeconfig.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Oef_31\obj\Debug\net6.0-windows\ref\Oef_31.dll

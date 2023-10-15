@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace Oef_31
 {
     /// <summary>
@@ -24,7 +25,7 @@ namespace Oef_31
         {
             InitializeComponent();
             this.Closing += new((sender, client) => {
-                if (MessageBox.Show("Do you want to exit?", "Confirm", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+                if (MessageBox.Show("Do you want to exit?", "Confirm", MessageBoxButton.YesNo, MessageBoxImage.Error) == MessageBoxResult.Yes)
                 {
                     Application.Current.Shutdown();
                 }
