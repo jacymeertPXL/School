@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d22fb66c45d89f6c",
+        "id": "2934000afe0db13d",
         "type": "tabs",
         "children": [
           {
-            "id": "7bf55691c3755320",
+            "id": "a317c9350e7fac46",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png"
+                "file": "Jaar_01/Trimester_01/Net/H06/H06.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
+                "file": "Jaar_01/Trimester_01/Net/H06/H06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
+                "file": "Jaar_01/Trimester_01/Net/H06/H06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png"
+                "file": "Jaar_01/Trimester_01/Net/H06/H06.md"
               }
             }
           },
@@ -162,11 +164,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bf55691c3755320",
+  "active": "a317c9350e7fac46",
   "lastOpenFiles": [
+    "Jaar_01/Trimester_01/Net/H06/String Classes.md",
+    "Jaar_01/Trimester_01/Net/H06/H06.md",
+    "Jaar_01/Trimester_01/Net/Img/Pasted image 20231017163024.png",
+    "Jaar_01/Trimester_01/Net/Img/Pasted image 20231017162956.png",
+    "Jaar_01/Trimester_01/Net/H05/H05.md",
+    "Jaar_01/Trimester_01/Net/H04/H04.md",
+    "Jaar_01/Trimester_01/Net/H04/Formatting van getallen (opmaak).md",
+    "Jaar_01/Trimester_01/Net/Extra Handig/Textbox Numbers & String Only.md",
+    "Jaar_01/Trimester_01/Net/Extra Handig",
+    "Jaar_01/Trimester_01/Net/Img/Pasted image 20231017161214.png",
+    "Jaar_01/Trimester_01/Net/Img/Pasted image 20231017161201.png",
+    "Jaar_01/Trimester_01/Net/H03/H03.md",
+    "Jaar_01/Trimester_01/Net/H03/Variabelen.md",
+    "Jaar_01/Trimester_01/Net/H01/H01.md",
+    "Jaar_01/Trimester_01/Net/H02/H02.md",
+    "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
     "Jaar_01/Trimester_01/Werkplekken/Xfactor/XFactor.md",
     "Jaar_01/Trimester_01/Werkplekken/Git/Pe Git.md",
-    "Jaar_01/Trimester_01/Werkplekken/Planning WPL1.png",
     "Jaar_01/Trimester_01/Werkplekken/Img/Pasted image 20231002114656.png",
     "Jaar_01/Trimester_01/Werkplekken/Img",
     "Jaar_01/Trimester_01/Werkplekken/Xfactor",
