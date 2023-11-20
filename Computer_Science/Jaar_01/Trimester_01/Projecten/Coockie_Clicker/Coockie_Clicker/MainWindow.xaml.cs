@@ -215,7 +215,7 @@ namespace Coockie_Clicker
             UpdateLabelContent(Prijs, income);          
         }
 
-        private void BtnFactory_Click(object sender, RoutedEventArgs e)
+        private void BtnBank_Click(object sender, RoutedEventArgs e)
         {
             double Prijs = (double)FactoryClass.Prijs;
             double income = 2.60;
@@ -229,6 +229,16 @@ namespace Coockie_Clicker
 
             UpdateButtonEnabledState(BtnMine, Prijs);
             UpdateLabelContent(Prijs, income);
+        }
+
+        private void BtnFactory_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void BtnTemple_Click(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }
