@@ -247,11 +247,14 @@ namespace Coockie_Clicker
             }
         }
 
-        public void stackpanelImage(StackPanel stackPanel, String imageSource) // fix dit dat de image de juiste size heeft
+        public void stackpanelImage(StackPanel stackPanel, String imageSource) // fix dit de stackpanel helemaal opvult
         {
             Image Img = new Image();
             Img.Source = new BitmapImage(new Uri(imageSource));
+            Img.Height = 32;
+            Img.Width = 37;
             stackPanel.Children.Add(Img);
+            
         }
         private void Cookie_MouseDown(object sender, RoutedEventArgs e) // Werkt 
         {
