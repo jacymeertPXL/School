@@ -15,7 +15,7 @@ namespace Coockie_Clicker.Classes
         public Grandma()
         {
             Teller = 0;
-            Prijs = 100; // Staat niet in opdracht ?? 
+            Prijs = 100; 
             CursorButtonVisible = false;
         }
 

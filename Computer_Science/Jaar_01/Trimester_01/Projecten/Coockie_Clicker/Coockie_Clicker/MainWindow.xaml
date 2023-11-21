@@ -10,7 +10,7 @@
         <ImageBrush ImageSource="img/Wallpaper.jpg" />
     </Window.Background>
     <Grid>
-        <Image Source="img/Coockie.png" MouseDown="Cookie_MouseDown" Margin="275,164,273,63"/>
+        <Image Source="img/Coockie.png" MouseDown="Cookie_MouseDown" Margin="275,162,273,65"/>
         <ScrollViewer VerticalScrollBarVisibility="Auto"  Margin="0,128,526,3">
             <StackPanel Height="Auto" Width="Auto">
 
@@ -85,6 +85,23 @@
                 </Button>
             </StackPanel>
         </ScrollViewer>
+
+        <StackPanel Orientation="Vertical" Margin="568,151,0,0">
+            <StackPanel x:Name="SkpCursor" Orientation="Horizontal">
+            </StackPanel>
+            <StackPanel x:Name="SkpGrandma" Orientation="Horizontal">
+            </StackPanel>
+            <StackPanel x:Name="SkpFarm" Orientation="Horizontal">
+            </StackPanel>
+            <StackPanel x:Name="SkpMine" Orientation="Horizontal">
+            </StackPanel>
+            <StackPanel x:Name="SkpFactory" Orientation="Horizontal">
+            </StackPanel>
+            <StackPanel x:Name="SkpBank" Orientation="Horizontal">
+            </StackPanel>
+            <StackPanel x:Name="SkpTemple" Orientation="Horizontal">
+            </StackPanel>
+        </StackPanel>
 
         <Label x:Name="LbCoockie" Content="Cookies:" HorizontalAlignment="Left" Margin="275,27,0,0" VerticalAlignment="Top" Height="60" Width="90" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" IsEnabled="False"/>
         <Label x:Name="LbCounter" Content="" HorizontalAlignment="Left" Margin="366,30,0,0" VerticalAlignment="Top" Height="56" Width="156" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="White" FontSize="18" ContentStringFormat="{}{0:F1}"/>

@@ -145,46 +145,46 @@ namespace Coockie_Clicker
         {
             double totalCookies = Score + Used;
 
-            if (!CursorClass.CursorButtonVisible && totalCookies >= CursorClass.Prijs)
-            {
-                BtnCursor.Visibility = Visibility.Visible;
-                CursorClass.CursorButtonVisible = true;
-            }
+            object[] classes = new object[7] {CursorClass, GrandmaClass, FarmClass, MineClass, FactoryClass, BankClass, TempleClass};
 
-            if (!GrandmaClass.CursorButtonVisible && totalCookies >= GrandmaClass.Prijs)
+            foreach (object obj in classes)
             {
-                BtnGrandma.Visibility = Visibility.Visible;
-                GrandmaClass.CursorButtonVisible = true;
-            }
-
-            if (!FarmClass.CursorButtonVisible && totalCookies >= FarmClass.Prijs)
-            {
-                BtnFarm.Visibility = Visibility.Visible;
-                FarmClass.CursorButtonVisible = true;
-            }
-
-            if (!MineClass.CursorButtonVisible && totalCookies >= MineClass.Prijs)
-            {
-                BtnMine.Visibility = Visibility.Visible;
-                MineClass.CursorButtonVisible = true;
-            }
-
-            if (!FactoryClass.CursorButtonVisible && totalCookies >= FactoryClass.Prijs)
-            {
-                BtnFactory.Visibility = Visibility.Visible;
-                FactoryClass.CursorButtonVisible = true;
-            }
-
-            if (!BankClass.CursorButtonVisible && totalCookies >= BankClass.Prijs)
-            {
-                BtnBank.Visibility = Visibility.Visible;
-                BankClass.CursorButtonVisible = true;
-            }
-
-            if (!TempleClass.CursorButtonVisible && totalCookies >= TempleClass.Prijs)
-            {
-                BtnTemple.Visibility = Visibility.Visible;
-                TempleClass.CursorButtonVisible = true;
+                if (obj != null) {
+                    if (obj == CursorClass && totalCookies >= CursorClass.Prijs && !CursorClass.CursorButtonVisible) {
+                        BtnCursor.Visibility = Visibility.Visible;
+                        CursorClass.CursorButtonVisible = true;
+                    }
+                    if (obj == GrandmaClass && totalCookies >= GrandmaClass.Prijs && !GrandmaClass.CursorButtonVisible)
+                    {
+                        BtnGrandma.Visibility = Visibility.Visible;
+                        GrandmaClass.CursorButtonVisible = true;
+                    }
+                    if (obj == FarmClass && totalCookies >= FarmClass.Prijs && !FarmClass.CursorButtonVisible)
+                    {
+                        BtnFarm.Visibility = Visibility.Visible;
+                        CursorClass.CursorButtonVisible = true;
+                    }
+                    if (obj == FarmClass && totalCookies >= FarmClass.Prijs && !CursorClass.CursorButtonVisible)
+                    {
+                        BtnMine.Visibility = Visibility.Visible;
+                        FarmClass.CursorButtonVisible = true;
+                    }
+                    if (obj == FactoryClass && totalCookies >= FactoryClass.Prijs && !FactoryClass.CursorButtonVisible)
+                    {
+                        BtnFactory.Visibility = Visibility.Visible;
+                        FactoryClass.CursorButtonVisible = true;
+                    }
+                    if (obj == BankClass && totalCookies >= BankClass.Prijs && !BankClass.CursorButtonVisible)
+                    {
+                        BtnBank.Visibility = Visibility.Visible;
+                        BankClass.CursorButtonVisible = true;
+                    }
+                    if (obj == TempleClass && totalCookies >= TempleClass.Prijs && !TempleClass.CursorButtonVisible)
+                    {
+                        BtnTemple.Visibility = Visibility.Visible;
+                        TempleClass.CursorButtonVisible = true;
+                    }
+                }
             }
         }
 
@@ -246,6 +246,13 @@ namespace Coockie_Clicker
                 return textBox.Text;
             }
         }
+
+        public void stackpanelImage(StackPanel stackPanel, String imageSource) // fix dit dat de image de juiste size heeft
+        {
+            Image Img = new Image();
+            Img.Source = new BitmapImage(new Uri(imageSource));
+            stackPanel.Children.Add(Img);
+        }
         private void Cookie_MouseDown(object sender, RoutedEventArgs e) // Werkt 
         {
             Score++;
@@ -270,14 +277,14 @@ namespace Coockie_Clicker
         //    double prijs = (double)prijsProperty.GetValue(obj);
         //    int teller = (int)tellerProperty.GetValue(obj);
 
-        //    obj.GetType().GetMethod("PrijsVerhogen");
         //    obj.GetType().GetMethod("GekockteUpgrade");
+        //    obj.GetType().GetMethod("PrijsVerhogen");
 
-        //    if (button == BtnCursor) LbCursor.Content = teller.ToString();
-        //    else if (button == BtnGrandma) LbGrandma.Content = teller.ToString();
-        //    else if (button == BtnFarm) LbFarm.Content = teller.ToString();
-        //    else if (button == BtnMine) LbMine.Content = teller.ToString();
-        //    else if (button == BtnFactory) LbFactory.Content = teller.ToString();
+        //    //if (button == BtnCursor) LbCursor.Content = teller.ToString();
+        //    //else if (button == BtnGrandma) LbGrandma.Content = teller.ToString();
+        //    //else if (button == BtnFarm) LbFarm.Content = teller.ToString();
+        //    //else if (button == BtnMine) LbMine.Content = teller.ToString();
+        //    //else if (button == BtnFactory) LbFactory.Content = teller.ToString();
 
         //    UpdateButtonEnabledState(button, prijs);
         //    UpdateLabelContent(prijs, income);
@@ -285,17 +292,15 @@ namespace Coockie_Clicker
         private void BtnCursor_Click(object sender, RoutedEventArgs e)
         {
 
-            //Class_Button_Click(CursorClass, BtnCursor, 0.0001);
+            //Class_Button_Click(CursorClass, BtnCursor, 0.001);
 
             double Prijs = (double)CursorClass.Prijs;
             double income = 0.001;
 
             CursorClass.GekockteCursor();
             CursorClass.PrijsVerhogen();
-
-            int TellerCursos = CursorClass.Teller;
-            // LbCursor.Content = TellerCursos.ToString();
-
+            
+            stackpanelImage(SkpCursor, "C:\\Users\\12200178\\Desktop\\Computer Science\\Computer_Science\\Jaar_01\\Trimester_01\\Projecten\\Coockie_Clicker\\Coockie_Clicker\\img\\Cursor.png");
             UpdateButtonEnabledState(BtnCursor, Prijs);
             UpdateLabelContent(Prijs, income);
         }
@@ -309,10 +314,7 @@ namespace Coockie_Clicker
             GrandmaClass.GekockteGrandma();
             GrandmaClass.PrijsVerhogen();
 
-            int TellerGrandma = GrandmaClass.Teller;
-
-            // LbGrandma.Content = TellerGrandma.ToString();
-
+            stackpanelImage(SkpGrandma, "C:\\Users\\12200178\\Desktop\\Computer Science\\Computer_Science\\Jaar_01\\Trimester_01\\Projecten\\Coockie_Clicker\\Coockie_Clicker\\img\\Grandma.png");
             UpdateButtonEnabledState(BtnGrandma, Prijs);
             UpdateLabelContent(Prijs, income);
         }
@@ -325,10 +327,7 @@ namespace Coockie_Clicker
             FarmClass.GekockteFarm();
             FarmClass.PrijsVerhogen();
 
-            int TellerFarm = FarmClass.Teller;
-
-            // LbFarm.Content = TellerFarm.ToString();
-
+            stackpanelImage(SkpFarm, "C:\\Users\\12200178\\Desktop\\Computer Science\\Computer_Science\\Jaar_01\\Trimester_01\\Projecten\\Coockie_Clicker\\Coockie_Clicker\\img\\Farm.png");
             UpdateButtonEnabledState(BtnFactory, Prijs);
             UpdateLabelContent(Prijs, income);
 
@@ -342,10 +341,7 @@ namespace Coockie_Clicker
             MineClass.GekockteMinea();
             MineClass.PrijsVerhogen();
 
-            int TellerMine = MineClass.Teller;
-
-            // LbMine.Content = TellerMine.ToString();
-
+            stackpanelImage(SkpMine, "C:\\Users\\12200178\\Desktop\\Computer Science\\Computer_Science\\Jaar_01\\Trimester_01\\Projecten\\Coockie_Clicker\\Coockie_Clicker\\img\\Mine.png");
             UpdateButtonEnabledState(BtnFarm, Prijs);
             UpdateLabelContent(Prijs, income);
         }
@@ -358,10 +354,7 @@ namespace Coockie_Clicker
             FactoryClass.GekockteFactory();
             FactoryClass.PrijsVerhogen();
 
-            int TellerFactory = FactoryClass.Teller;
-
-            // LbFactory.Content = TellerFactory.ToString();
-
+            stackpanelImage(SkpFactory, "C:\\Users\\12200178\\Desktop\\Computer Science\\Computer_Science\\Jaar_01\\Trimester_01\\Projecten\\Coockie_Clicker\\Coockie_Clicker\\img\\Factory.png");
             UpdateButtonEnabledState(BtnMine, Prijs);
             UpdateLabelContent(Prijs, income);
         }
@@ -374,10 +367,7 @@ namespace Coockie_Clicker
             BankClass.GekockteBank();
             BankClass.PrijsVerhogen();
 
-            int TellerBank = BankClass.Teller;
-
-            //LbBank.Content = TellerBank.ToString();
-
+            stackpanelImage(SkpBank, "");
             UpdateButtonEnabledState(BtnBank, Prijs);
             UpdateLabelContent(Prijs, income);
         }
@@ -389,11 +379,8 @@ namespace Coockie_Clicker
 
             TempleClass.GekockteTemple();
             TempleClass.PrijsVerhogen();
-            
-            int TellerTemple = TempleClass.Teller;
 
-            // LbFactory.Content = TellerTemple.ToString();
-
+            stackpanelImage(SkpTemple, "");
             UpdateButtonEnabledState(BtnTemple, Prijs);
             UpdateLabelContent(Prijs, income);
         }
