@@ -63,6 +63,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Models\Bank.cs" />
     <Compile Include="Models\Cursor.cs" />
     <Compile Include="Models\Factory.cs" />
     <Compile Include="Models\Farm.cs" />
@@ -74,6 +75,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Temple.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>

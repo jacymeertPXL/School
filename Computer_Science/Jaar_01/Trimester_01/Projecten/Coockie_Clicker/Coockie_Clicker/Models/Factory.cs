@@ -10,17 +10,16 @@ namespace Coockie_Clicker.Classes
     {
         public int Teller { get; set; }
         public double Prijs { get; set; }
-        public double PrijsUpgrade { get; set; }
-
+        public bool CursorButtonVisible { get; set; }
         public Factory() {
             Teller = 0;
-            Prijs = 1300000;
-            PrijsUpgrade = 1; // Staat niet in opdracht ?? 
+            Prijs = 130000;
+            CursorButtonVisible = false;
         }
 
         public void PrijsVerhogen()
         {
-            Prijs += PrijsUpgrade;
+            Prijs = Prijs * Math.Pow(1.15, Teller);
         }
 
         public void GekockteFactory()

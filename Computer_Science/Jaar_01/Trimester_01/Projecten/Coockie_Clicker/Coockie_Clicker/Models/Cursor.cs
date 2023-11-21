@@ -10,19 +10,18 @@ namespace Coockie_Clicker.Models
     {
         public int Teller { get; set; }
         public double Prijs { get; set; }
-        public double PrijsUpgrade { get; set; }
+        public bool CursorButtonVisible { get; set; }
 
         public Cursor()
         {
             Teller = 0;
             Prijs = 15;
-            PrijsUpgrade = 1; // Staat niet in opdracht ?? 
+            CursorButtonVisible = false;
         }
 
         public void PrijsVerhogen()
         {
-            Prijs += PrijsUpgrade;
-            PrijsUpgrade++;
+            Prijs = Prijs * Math.Pow(1.15, Teller);
         }
 
         public void GekockteCursor()

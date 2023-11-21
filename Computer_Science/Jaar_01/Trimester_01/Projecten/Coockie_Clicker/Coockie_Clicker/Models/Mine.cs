@@ -10,19 +10,18 @@ namespace Coockie_Clicker.Classes
     {
         public int Teller { get; set; }
         public double Prijs { get; set; }
-        public double PrijsUpgrade { get; set; }
+        public bool CursorButtonVisible { get; set; }
 
         public Mine()
         {
             Teller = 0;
             Prijs = 12000;
-            PrijsUpgrade = 1; // Staat niet in opdracht ?? 
+            CursorButtonVisible = false;
         }
 
         public void PrijsVerhogen()
         {
-            Prijs += PrijsUpgrade;
-            PrijsUpgrade++;
+            Prijs = Prijs * Math.Pow(1.15, Teller);
         }
 
         public void GekockteMinea()

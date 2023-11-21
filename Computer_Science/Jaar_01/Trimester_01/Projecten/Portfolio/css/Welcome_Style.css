@@ -1,0 +1,102 @@
+body {
+    background: -webkit-linear-gradient(to right, #ed4264, #ff668f, #ffefb5);
+    background: linear-gradient(to right, #ed4264, #ff668f, #ffefb5);
+    text-align: center;
+    padding: 100px 0;
+}
+
+.welcome-title {
+    -webkit-transform: rotate(-1deg);
+    font-family: cursive;
+    text-align: center;
+    font-size: 69px;
+    color: snow;
+    margin-bottom: 20px;
+}
+
+.welcome-message {
+    -webkit-transform: rotate(1deg);
+    font-family: cursive;
+    text-align: center;
+    font-size: 48px;
+    color: snow;
+    margin-bottom: 40px;
+}
+
+.button-container {
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+}
+
+.language-button {
+    font-family: cursive;
+    text-align: center;
+    background: #ffcccb; 
+    color: Snow; 
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 36px;
+    border: 2px solid #ff668f; 
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.language-button:hover {
+    background: #ff668f; 
+    color: #ffefb5;
+}
+
+.social-icons {
+    /* Zorgt er voor dat het in het midde gaat staan */ 
+    left: 50%;
+    transform: translateX(-50%);
+    position: fixed;
+    /* Zorgt er voor dat het in het midde gaat staan */    
+    bottom: 0;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+.social-icons a {
+    text-align: center;
+    margin: 0 20px;
+    text-decoration: none;
+}
+
+.social-icons img {
+    width: 60px;
+    height: 60px;
+}
+
+/* Mobile Design and Responsiveness */
+@media only screen and (max-width: 480px) {
+    body {
+        padding: 50px 0;
+    }
+
+    .welcome-title {
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+
+    .welcome-message {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .button-container {
+        margin-top: 30px;
+    }
+
+    .language-button {
+        font-size: 24px;
+        padding: 8px 16px;
+        margin: 0 5px;
+    }
+
+    .social-icons {
+        position: static;
+        margin: 20px 0;
+    }
+}
