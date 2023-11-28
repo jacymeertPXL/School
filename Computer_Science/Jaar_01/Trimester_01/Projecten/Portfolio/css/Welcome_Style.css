@@ -48,11 +48,9 @@ body {
 }
 
 .social-icons {
-    /* Zorgt er voor dat het in het midde gaat staan */ 
     left: 50%;
     transform: translateX(-50%);
-    position: fixed;
-    /* Zorgt er voor dat het in het midde gaat staan */    
+    position: fixed;  
     bottom: 0;
     padding: 15px;
     margin-bottom: 50px;
