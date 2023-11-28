@@ -2,6 +2,7 @@
 using Coockie_Clicker.Models;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 using System.Linq;
 using System.Reflection.Emit;
 using System.Text;
@@ -63,6 +64,7 @@ namespace Coockie_Clicker
 
         private void Timer_Tick(object sender, EventArgs e) // Werkt
         {
+            // gaat elke 10 miliseconden alles visual updaten van de client.
             UpdateCounterText();
             UpdateScoreText();
             UpdateInvestmentButtonVisibility();
@@ -77,18 +79,23 @@ namespace Coockie_Clicker
         {
             if (Income >= 0)
             {
-                Score += Income;
-                LbCounter.Content = Score;
+                if(Score >= 0)
+                {
+                    double newScore = Score + Income;
+                    Score = Math.Max(0, newScore); // Zorg ervoor dat de Score nooit onder nul komt
+                    LbCounter.Content = Score;
+                }
             }
         }
 
         private void UpdateScoreText() // werkt
         {
+            // Lables correct houden met de juiste format en 10 mil update
             LbIncome.Content = FormaatGrootGetal(Income);
             LbCounter.Content = FormaatGrootGetal(Score);
-            LbClicked_Text.Content = Clicked;
-            LbUpgrades_Text.Content = Bought;
-            LbUsed_Text.Content = Used;
+            LbClicked_Text.Content = FormaatLeesbaar_018_short(Clicked);
+            LbUpgrades_Text.Content = FormaatLeesbaar_018_short(Bought);
+            LbUsed_Text.Content = FormaatLeesbaar_018(Used);
             LbPrijsCursor.Content = FormaatGrootGetal_Prijs(CursorClass.Prijs);
             LbPrijsFactory.Content = FormaatGrootGetal_Prijs(FactoryClass.Prijs);
             LbPrijsFarm.Content = FormaatGrootGetal_Prijs(FarmClass.Prijs);
@@ -96,20 +103,33 @@ namespace Coockie_Clicker
             LbPrijsMine.Content = FormaatGrootGetal_Prijs(MineClass.Prijs);
         }
 
-        private string FormaatLeesbaar_018(int number) // Werkt maar nog niet toegepast
+        private string FormaatLeesbaar_018_short(double number) // Werkt
         {
-            if (number < 1000 || number >= 1000000)
+            if (number < 1000 || number >= 1000000) // controleer als tussen deze waarden 
             {
                 return number.ToString();
             }
 
-            string formattedNumber = number.ToString("### ###");
+            string formattedNumber = number.ToString("### ###.00");
+
+            return formattedNumber;
+        }
+
+        private string FormaatLeesbaar_018(double number) // Werkt
+        {
+            if (number < 1000 || number >= 1000000) // controleer als tussen deze waarden 
+            {
+                return number.ToString("0.00");
+            }
+
+            string formattedNumber = number.ToString("### ###.00");
 
             return formattedNumber;
         }
 
         private string FormaatGrootGetal(double number) // Werkt
         {
+            // Human Readable voor alles boven 1000
             string[] terms = { "", "Duizend", "Miljoen", "Miljard", "Biljoen", "Biljard", "Triljoen" };
 
             int index = 0;
@@ -124,6 +144,7 @@ namespace Coockie_Clicker
 
         private string FormaatGrootGetal_Prijs(double number) // Werkt
         {
+            // Human Readable voor alles boven 1000
             string[] terms = { "", "Duizend", "Miljoen", "Miljard", "Biljoen", "Biljard", "Triljoen" };
 
             int index = 0;
@@ -133,11 +154,13 @@ namespace Coockie_Clicker
                 index++;
             }
 
-            return $"{number:F0} {terms[index]}";
+            // Prijs van de items gaat nooit een koma getal moeten voorstellen andere formating
+            return $"{number:F1} {terms[index]}";
         }
 
         private void UpdateButtonEnabledState(Button button, double Value) // Werkt
         {
+            // als de button clickable is voor de client op de juiste waarde 
             button.IsEnabled = Score >= Value;
         }
 
@@ -145,12 +168,14 @@ namespace Coockie_Clicker
         {
             double totalCookies = Score + Used;
 
-            object[] classes = new object[7] {CursorClass, GrandmaClass, FarmClass, MineClass, FactoryClass, BankClass, TempleClass};
+            object[] classes = new object[7] { CursorClass, GrandmaClass, FarmClass, MineClass, FactoryClass, BankClass, TempleClass };
 
             foreach (object obj in classes)
             {
-                if (obj != null) {
-                    if (obj == CursorClass && totalCookies >= CursorClass.Prijs && !CursorClass.CursorButtonVisible) {
+                if (obj != null)
+                {
+                    if (obj == CursorClass && totalCookies >= CursorClass.Prijs && !CursorClass.CursorButtonVisible)
+                    {
                         BtnCursor.Visibility = Visibility.Visible;
                         CursorClass.CursorButtonVisible = true;
                     }
@@ -190,19 +215,29 @@ namespace Coockie_Clicker
 
         private void UpdateLabelContent(double Value, double income) // Werkt
         {
-            Score -= Value;
-            Income += income;
-            Used += Value;
-            Bought++;
+            double newScore = Score - Value;
+            if (newScore >= 0)
+            {
+                Score = newScore;
+                Income += income;
+                Used += Value;
+                Bought++;
 
-            UpdateScoreText();
-            UpdateInvestmentButtonVisibility();
+                UpdateScoreText();
+                UpdateInvestmentButtonVisibility();
+            }
+            else
+            {
+                MessageBox.Show("Onvoldoende cookies beschikbaar voor deze aankoop.");
+            }
         }
 
         private void LbName_MouseDown(object sender, MouseButtonEventArgs e) // Werkt
         {
+            // gebruik maken van window maken functie
             string NieuweNaam = WijzigNaamCookieClicker.Show("Bakkerij Naam wijzigen", "Voer de nieuwe bakkerij naam in:");
 
+            // controleren als de jusite waarde is ingegeven
             if (!string.IsNullOrWhiteSpace(NieuweNaam))
             {
                 LbName.Content = NieuweNaam;
@@ -218,6 +253,7 @@ namespace Coockie_Clicker
             public static string Show(string title, string prompt)
             {
 
+                // nieuwe Window maken
                 Window window = new Window
                 {
                     Title = title,
@@ -227,6 +263,7 @@ namespace Coockie_Clicker
                     ResizeMode = ResizeMode.CanResize
                 };
 
+                //stackpanel voor de content van de label op te vullen met de juiste elementen voor de name change.
                 StackPanel stackPanel = new StackPanel();
 
                 System.Windows.Controls.Label label = new System.Windows.Controls.Label { Content = prompt };
@@ -249,21 +286,25 @@ namespace Coockie_Clicker
 
         public void stackpanelImage(StackPanel stackPanel, String imageSource) // fix dit de stackpanel helemaal opvult
         {
+            // gaat de image ophalen en langs elkaar zetten met een set height en width.
             Image Img = new Image();
             Img.Source = new BitmapImage(new Uri(imageSource));
             Img.Height = 32;
             Img.Width = 37;
             stackPanel.Children.Add(Img);
-            
+
         }
+
         private void Cookie_MouseDown(object sender, RoutedEventArgs e) // Werkt 
         {
             Score++;
             Clicked++;
             UpdateScoreText();
 
+            // mousedown op image voor COOKIECLICKER-03
             if (sender is Image image)
             {
+                // animatie voor COOKIECLICKER-04 en COOKIECLICKER-05.
                 ScaleTransform scaleTransform = new ScaleTransform(1.0, 1.0);
                 image.RenderTransform = scaleTransform;
 
@@ -302,7 +343,7 @@ namespace Coockie_Clicker
 
             CursorClass.GekockteCursor();
             CursorClass.PrijsVerhogen();
-            
+
             stackpanelImage(SkpCursor, "C:\\Users\\12200178\\Desktop\\Computer Science\\Computer_Science\\Jaar_01\\Trimester_01\\Projecten\\Coockie_Clicker\\Coockie_Clicker\\img\\Cursor.png");
             UpdateButtonEnabledState(BtnCursor, Prijs);
             UpdateLabelContent(Prijs, income);
