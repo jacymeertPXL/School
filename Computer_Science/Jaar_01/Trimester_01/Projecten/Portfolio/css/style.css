@@ -1,10 +1,10 @@
 body {
   margin: 0;
   font-family: cursive;
-  background: #ed4264;
-  background: -webkit-linear-gradient(to right, #ed4264, #ff668f, #ffefb5);
-  background: linear-gradient(to right, #ed4264, #ff668f, #ffefb5);
-  background-image: linear-gradient(to right, #ffcccb, #ffe0b2);
+  background: #000000;
+  background: -webkit-linear-gradient(to right, #000000, #035a4b, #02b5bb);
+  background: linear-gradient(to right, #000000, #015547, #01aeb4);
+  background-image: linear-gradient(to right, #004d40, #07bea0);
 }
 
 img {
@@ -33,7 +33,7 @@ th, td {
 }
 
 th {
-  background: linear-gradient(to right, #f0a9a8, #ffedb2);
+  /* background: linear-gradient(to right, #f0a9a8, #ffedb2); */
   color: rgb(56, 35, 35);
 }
 
@@ -104,7 +104,7 @@ th {
   padding: 18px;
   text-align: center;
   border: 2px solid snow;
-  background: linear-gradient(to right, #ffcccb, #ffe0b2)
+  background: linear-gradient(to right, #f0a9a8, #ffedb2);
 }
 
 /* Mobile Design and Responsiveness */
