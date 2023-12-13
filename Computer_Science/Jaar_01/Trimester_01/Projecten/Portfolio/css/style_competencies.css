@@ -73,5 +73,22 @@ body {
         display: block;
         margin-bottom: 25px;
     }
+
+    .navbar {
+        width: 100%;
+        height: auto;
+        position: fixed;
+        margin-left: -25px;
+        margin-top: -5px;
+        top: 0;
+        margin-bottom: 25px;
+        text-align: center;
+        opacity: 1;
+      }
+      
+      .navbar a {
+        padding: 5px; 
+        font-size: 14px; 
+      }
 }
 
