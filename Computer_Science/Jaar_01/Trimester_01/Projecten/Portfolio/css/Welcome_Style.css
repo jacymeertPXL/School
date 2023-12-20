@@ -1,17 +1,10 @@
-/* body {
-    background: -webkit-linear-gradient(to right, #ed4264, #ff668f, #ffefb5);
-    background: linear-gradient(to right, #ed4264, #ff668f, #ffefb5);
-    text-align: center;
-    padding: 100px 0;
-} */
-
 body {
     margin: 0;
-    font-family: cursive;
-    background: #000000;
-    background: -webkit-linear-gradient(to right, #000000, #035a4b, #02b5bb);
-    background: linear-gradient(to right, #000000, #015547, #01aeb4);
-    background-image: linear-gradient(to right, #004d40, #07bea0);
+    background: peachpuff;
+    background-image: url("Img/Background.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
 }
 
 .welcome-title {
@@ -41,25 +34,25 @@ body {
 .language-button {
     font-family: cursive;
     text-align: center;
-    background: #ffcccb; 
-    color: Snow; 
+    background: radial-gradient(circle, grey, #2e1c02);
+    color: Snow;
     padding: 10px 20px;
     margin: 0 10px;
     font-size: 36px;
-    border: 2px solid #ff668f; 
+    border: 2px solid Snow;
     border-radius: 5px;
     text-decoration: none;
 }
 
 .language-button:hover {
-    background: #ff668f; 
-    color: #ffefb5;
+    background: radial-gradient(circle, snow, gold);
+    color: black;
 }
 
 .social-icons {
     left: 50%;
     transform: translateX(-50%);
-    position: fixed;  
+    position: fixed;
     bottom: 0;
     padding: 15px;
     margin-bottom: 50px;
@@ -76,7 +69,6 @@ body {
     height: 60px;
 }
 
-/* Mobile Design and Responsiveness */
 @media only screen and (max-width: 480px) {
     body {
         padding: 50px 0;
@@ -103,7 +95,8 @@ body {
     }
 
     .social-icons {
-        position: static;
+        position: relative;
         margin: 20px 0;
+        margin-left: 35px;
     }
 }

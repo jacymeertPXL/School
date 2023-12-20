@@ -1,10 +1,10 @@
-/* Algemene opmaak voor de body van de pagina */
+/* Body styling */
 body {
   margin: 0;
   background: peachpuff;
   background-image: url("Img/Background.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: bottom; /* Achtergrondpositie onderaan */
   font-family: sans-serif;
 }
 
@@ -75,58 +75,48 @@ body {
   margin-bottom: 25px;
 }
 
-/* Opmaak voor de sectie met het cv */
-.resume-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+/* Stijl voor de hoofdcontainer van de inhoud */
+.container {
+  margin-left: 155px;
   padding: 25px;
-  margin-left: 125px;
 }
 
-/* Opmaak voor kolommen in het cv */
-.resume-column {
-  width: 45%;
-  margin: 0 10px;
+/* Kleurvariabelen */
+:root {
+  --color-left: #f4ebd0;
+  --color-right: #d6ad60;
 }
 
-/* Opmaak voor kaarten in het cv */
-.resume-card {
-  text-align: center;
-  border-radius: 10px;
-  background: linear-gradient(to right, #ffcccb, #ffe0b2);
-  padding: 36px;
-  margin-top: 100px;
-  margin-bottom: 50px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+/* Stijl voor h1-kopjes */
+h1 {
+  color: var(--color-left);
+  border-bottom: 2px solid snow;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
 }
 
-/* Opmaak voor vaardigheden in het cv */
-.skill {
-  margin-bottom: 10px;
+/* Stijl voor alinea's */
+p {
+  color: var(--color-left);
 }
 
-/* Opmaak voor de vaardigheidsbalk */
-.skill-bar {
-  height: 15px;
-  background-color: #d13c5a;
-  border-radius: 5px;
+/* Stijl voor specifiek element met id "xfactor" */
+#xfactor {
+  color: var(--color-left);
+  border-top: 2px solid snow;
+  padding-top: 20px;
+  margin-top: 20px;
 }
 
-/* Overgangseffect voor het element met ID "Borders" */
-#Borders {
-  transition: box-shadow 1.5s ease-in-out;
-}
-
-/* Hover-effect voor het element met ID "Borders" bij mouseover */
-#Borders:hover {
-  box-shadow: 0 10px 16px rgba(255, 255, 255, 0.5);
-}
-
-/* Media query voor schermen tot 600px breed */
-@media only screen and (max-width: 600px) {
+/* Media query voor schermen tot 480px breed */
+@media only screen and (max-width: 480px) {
   body {
-    margin-top: 165px;
+    padding: 20px;
+    margin-top: 109px;
+  }
+
+  h1 {
+    margin-top: 50px;
   }
 
   .navbar {
@@ -135,6 +125,7 @@ body {
     height: auto;
     position: fixed;
     top: 0;
+    margin-left: -20px;
     text-align: center;
   }
 
@@ -156,24 +147,7 @@ body {
     display: none;
   }
 
-  .resume-column {
-    width: 100%;
-  }
-
-  .resume-card {
-    width: 100%;
-    margin-left: -100px;
-    margin-top: 25px;
-  }
-}
-
-/* Media query voor schermen tot 480px breed */
-@media only screen and (max-width: 480px) {
-  body {
-    margin-top: 150px;
-  }
-
-  .resume-column {
-    width: 100%;
+  .container {
+    margin-left: 0px;
   }
 }

@@ -1,25 +1,19 @@
-/* body {
-  margin: 0;
-  font-family: cursive;
-  background: #ed4264;
-  background: -webkit-linear-gradient(to right, #ed4264, #ff668f, #ffefb5);
-  background: linear-gradient(to right, #ed4264, #ff668f, #ffefb5);
-  background-image: linear-gradient(to right, #ffcccb, #ffe0b2);
-} */
-
+/* Algemene opmaak voor de body van de pagina */
 body {
   margin: 0;
-  font-family: cursive;
-  background: #000000;
-  background: -webkit-linear-gradient(to right, #000000, #035a4b, #02b5bb);
-  background: linear-gradient(to right, #000000, #015547, #01aeb4);
-  background-image: linear-gradient(to right, #004d40, #07bea0);
+  background: peachpuff;
+  background-image: url("Img/Background.jpg");
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
 }
 
-a {
+/* Stijl voor h2-kopjes */
+h2 {
   color: black;
 }
 
+/* Opmaak voor de algemene tabelstijl */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -28,73 +22,212 @@ table {
 
 table, th, td {
   border: 1.5px solid black;
-}
-
-th, td {
   padding: 8px;
   text-align: left;
 }
 
-th {
-  background: linear-gradient(to right, #f0a9a8, #ffedb2);
-  color: rgb(56, 35, 35);
-}
-
+/* Stijl voor de navigatiebalk (navbar) */
 .navbar {
-  border-radius: 5px;
-  background-color: #d13c5a;
-  opacity: 0.2;
-  position: fixed;
-  width: 100px;
+  width: 150px;
   height: 100%;
+  background-image: url("Img/Background.jpg");
+  background-size: cover;
+  image-orientation: 90deg;
+  border-color: black;
   display: flex;
+  position: fixed;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
-  border-color: peachpuff;
   border-style: solid;
 }
 
+/* Stijl voor koppelingen (links) in de navigatiebalk */
 .navbar a {
-  opacity: 0.8;
-  text-decoration: none;
-  color: rgb(241, 239, 239);
+  display: block;
+  padding: 20px;
+  color: snow;
   font-size: 16px;
   font-family: cursive;
 }
 
+/* Stijl voor kopje 2 in de navigatiebalk */
+.navbar h2 {
+  color: snow;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: -75px;
+  margin-top: -75px;
+}
+
+/* Stijl voor lijstitems in de navigatiebalk */
+.navbar ul li {
+  width: 140px;
+  padding: 10px;
+  margin-right: 15px;
+}
+
+/* Stijl voor pictogrammen in lijstitems van de navigatiebalk */
+.navbar ul li a .fa-solid {
+  width: 30px;
+}
+
+/* Hover-effect voor lijstitems in de navigatiebalk */
+.navbar ul li:hover {
+  margin-left: -15px;
+  background-color: black;
+}
+
+/* Hover-effect voor koppelingen in lijstitems van de navigatiebalk */
+.navbar ul li:hover a {
+  color: snow;
+}
+
+/* Stijl voor sociale media-pictogrammen in de navigatiebalk */
+.navbar .sociale_media {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  margin-bottom: 25px;
+}
+
+/* Stijl voor de hoofdcontainer van de inhoud */
 .container {
-  margin-left: 115px;
+  margin-left: 155px;
   padding: 25px;
 }
 
+/* Specifieke stijl voor h2 binnen de container met een achtergradiënt */
+.container h2 {
+  background: radial-gradient(circle, #ffe0b2, #ffcccb);
+  color: black;
+  padding: 15px;
+}
 
-@media only screen and (max-width: 480px) {
+/* Opmaak voor de desktop-weergave van de tabel */
+.desktop-view {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.desktop-view thead tr {
+  background-color: peachpuff;
+  color: black;
+  text-align: left;
+}
+
+.desktop-view tbody tr {
+  border-bottom: 1px solid snow;
+}
+
+.desktop-view tbody tr:nth-of-type(even) {
+  background: radial-gradient(circle, #ffe0b2, #ffcccb);
+}
+
+/* Opmaak voor de mobiele weergave van de tabel */
+.mobile-view {
+  display: none;
+}
+
+/* Opmaak voor het log-content element */
+.log-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Opmaak voor log-section elementen */
+.log-section {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.log-section h2 {
+  background-color: gray;
+  color: black;
+  padding: 10px;
+  margin: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.log-section p {
+  padding: 10px;
+  margin: 0;
+}
+
+/* Specifieke stijl voor het Autumn ID-element */
+#Autumn {
+  background: radial-gradient(circle, #ffcccb, #ffe0b2);
+}
+
+/* Specifieke stijl voor het After_Autumn ID-element */
+#After_Autumn {
+  background: radial-gradient(circle, #ffcccb, #ffe0b2);
+}
+
+/* Specifieke stijl voor het Christmas ID-element */
+#Christmas {
+  background: radial-gradient(circle, #ffcccb, #ffe0b2);
+}
+
+/* Media query voor schermen tot 600px breed */
+@media only screen and (max-width: 600px) {
   body {
     padding: 20px;
     margin-top: 150px;
   }
 
   .navbar {
+    z-index: 1000;
     width: 100%;
     height: auto;
     position: fixed;
-    margin-left: -25px;
-    margin-top: -5px;
     top: 0;
-    padding: 25px;
-    margin-bottom: 25px;
+    margin-left: -35px;
     text-align: center;
-    opacity: 1;
   }
 
   .navbar a {
-    display: block;
-    width: 100%;
-    text-align: center;
+    padding: 0px;
+    font-size: 12px;
+  }
+
+  .navbar ul li {
+    padding: 5px;
+    margin-right: 0px;
+  }
+
+  .navbar h2 {
+    display: none;
+  }
+
+  .navbar .sociale_media {
+    display: none;
   }
 
   .container {
     margin-left: 0px;
+  }
+
+  .desktop-view {
+    display: none;
+  }
+
+  .mobile-view {
+    display: block;
+  }
+
+  /* Achtergradiënt voor log-section op kleinere schermen */
+  .log-section {
+    background: radial-gradient(circle, peachpuff, #ffcccb);
+    width: 100%;
   }
 }
