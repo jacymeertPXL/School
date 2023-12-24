@@ -126,7 +126,7 @@ body {
 /* Media query voor schermen tot 600px breed */
 @media only screen and (max-width: 600px) {
   body {
-    margin-top: 165px;
+    margin-top: 185px;
   }
 
   .navbar {
@@ -165,15 +165,8 @@ body {
     margin-left: -100px;
     margin-top: 25px;
   }
-}
 
-/* Media query voor schermen tot 480px breed */
-@media only screen and (max-width: 480px) {
-  body {
-    margin-top: 150px;
-  }
-
-  .resume-column {
-    width: 100%;
+  #Borders:hover {
+    box-shadow: none;
   }
 }

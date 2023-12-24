@@ -109,6 +109,10 @@ div.scroll-container img {
 
 /* Media query voor schermen tot 600px breed */
 @media only screen and (max-width: 600px) {
+    body{
+        margin-top: 195px;
+    }
+
     .navbar {
         z-index: 1000;
         width: 100%;

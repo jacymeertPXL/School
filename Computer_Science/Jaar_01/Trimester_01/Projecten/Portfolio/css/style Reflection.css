@@ -81,15 +81,9 @@ body {
   padding: 25px;
 }
 
-/* Kleurvariabelen */
-:root {
-  --color-left: #f4ebd0;
-  --color-right: #d6ad60;
-}
-
 /* Stijl voor h1-kopjes */
 h1 {
-  color: var(--color-left);
+  color: gold;
   border-bottom: 2px solid snow;
   padding-bottom: 10px;
   margin-bottom: 20px;
@@ -97,12 +91,12 @@ h1 {
 
 /* Stijl voor alinea's */
 p {
-  color: var(--color-left);
+  color: gold;
 }
 
 /* Stijl voor specifiek element met id "xfactor" */
 #xfactor {
-  color: var(--color-left);
+  color: gold;
   border-top: 2px solid snow;
   padding-top: 20px;
   margin-top: 20px;
@@ -112,7 +106,7 @@ p {
 @media only screen and (max-width: 480px) {
   body {
     padding: 20px;
-    margin-top: 109px;
+    margin-top: 135px;
   }
 
   h1 {
