@@ -88,29 +88,30 @@ body {
 
 /* Stijl voor scroll-container */
 div.scroll-container {
+    display: flex;
     text-align: center;
     overflow: auto;
-    white-space: nowrap;
     padding: 10px;
+    margin: 0 auto;
 }
 
 /* Stijl voor scroll-content */
 div.scroll-content {
     display: inline-block;
+    overflow-x: auto; /* Enable horizontal scrolling if necessary */
 }
 
 /* Stijl voor afbeeldingen binnen scroll-container */
 div.scroll-container img {
-    padding: 10px;
-    min-width: 100px;
     max-width: 100%;
     height: auto;
+    padding: 15px;
 }
 
 /* Media query voor schermen tot 600px breed */
 @media only screen and (max-width: 600px) {
     body{
-        margin-top: 195px;
+        margin-top: 235px;
     }
 
     .navbar {
@@ -123,13 +124,13 @@ div.scroll-container img {
     }
 
     .navbar a {
-        padding: 0px;
+        padding: 0;
         font-size: 12px;
     }
 
     .navbar ul li {
         padding: 5px;
-        margin-right: 0px;
+        margin-right: 0;
     }
 
     .navbar h2 {
@@ -144,17 +145,17 @@ div.scroll-container img {
         margin-top: 175px;
     }
 
-    /* Aanpassingen voor afbeeldingen binnen scroll-container op kleinere schermen */
-    div.scroll-container img {
-        min-width: 50px;
+    .scroll-content img {
+        width: 100%;
+        max-width: none;
     }
 }
+
 
 /* Media query voor schermen tot 480px breed */
 @media only screen and (max-width: 480px) {
 
-    /* Verdere aanpassingen voor afbeeldingen binnen scroll-container op nog kleinere schermen */
-    div.scroll-container img {
-        min-width: 30px;
+    .scroll-content img {
+        height: auto;
     }
 }
