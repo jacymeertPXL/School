@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\bin\Debug\Proef_Examen_02.exe.config
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\bin\Debug\Proef_Examen_02.exe
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\bin\Debug\Proef_Examen_02.pdb
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\Proef_Examen_02.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\MainWindow.g.cs
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\App.g.cs
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\Proef_Examen_02_MarkupCompile.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\Proef_Examen_02_MarkupCompile.lref
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\MainWindow.baml
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\Proef_Examen_02.g.resources
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\Proef_Examen_02.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\Proef_Examen_02.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\Proef_Examen_02.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\Proef_Examen_02.exe
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_01\Net\Oefeningen\Proef_Examen_02\obj\Debug\Proef_Examen_02.pdb

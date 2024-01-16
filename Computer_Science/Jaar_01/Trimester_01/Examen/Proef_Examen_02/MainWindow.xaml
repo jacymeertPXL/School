@@ -1,0 +1,67 @@
+﻿<Window x:Class="Proef_Examen_02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proef_Examen_02"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2.6*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Naam" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top" Grid.Column="1" Width="71" RenderTransformOrigin="0.504,0.306"/>
+        <ComboBox x:Name="CbNaam" HorizontalAlignment="Left" Margin="16,28,0,0" VerticalAlignment="Top" Width="195" Height="25" Background="White" Foreground="Black" BorderBrush="White" Grid.ColumnSpan="2" Grid.Column="1"/>
+
+        <StackPanel Grid.Column="1" Grid.Row="1" Margin="0,11,14,0" Background="#FFEDEBEB">
+            <RadioButton x:Name="RdbCompetitielid" Content="Competitielid?" Margin="0,5,0,0"/>
+            <RadioButton x:Name="RdbNieuweLid" Content="Nieuwe Lid?" Margin="0,5,0,0"/>
+            <Label Content="Rang in gezin"/>
+            <TextBox x:Name="TxtRang" TextWrapping="Wrap" Width="88"/>
+            <Label Content="tijd (In sec)" Height="23" Width="113"/>
+            <TextBox x:Name="TxtRijd" TextWrapping="Wrap" Width="87"/>
+
+        </StackPanel>
+
+        <Label Grid.Column="2" Content="Catogorie" HorizontalAlignment="Left" Margin="30,6,0,0" Grid.Row="1" VerticalAlignment="Top" Width="113"/>
+        <StackPanel Grid.Column="2" Grid.Row="1" Margin="29,29,112,0" Background="#FFF1EFEF">
+            <RadioButton GroupName="Catogorie" x:Name="RdbPreminiem" Content="Preminiem" Margin="0,3,0,0"/>
+            <RadioButton GroupName="Catogorie" x:Name="RdbMiniem" Content="Miniem" Margin="0,3,0,0"/>
+            <RadioButton GroupName="Catogorie" x:Name="RdbJunior" Content="Junior" Margin="0,3,0,0"/>
+            <RadioButton GroupName="Catogorie" x:Name="RdbCadet" Content="Cadet" Margin="0,3,0,0"/>
+            <RadioButton GroupName="Catogorie" x:Name="RdbSenior" Content="Senior" Margin="0,3,0,0"/>
+
+        </StackPanel>
+
+        <StackPanel x:Name="SplInformatie" Grid.Column="3" Grid.Row="1" Margin="43,57,97,13" Grid.RowSpan="2" Background="White">
+
+        </StackPanel>
+        <Label x:Name="LbInformatie" Grid.Column="3" Content="" HorizontalAlignment="Left" Margin="42,31,0,0" Grid.Row="1" VerticalAlignment="Top" Width="326" FontSize="10"/>
+
+
+        <TextBlock x:Name="TxtInformatie" Grid.Column="1" HorizontalAlignment="Left" Margin="3,0,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Center" Grid.ColumnSpan="2" Height="138" Width="305"/>
+        <WrapPanel Grid.Row="3" Margin="1,0,1,40" Grid.ColumnSpan="4">
+            <Button x:Name="BtnBerekenen" Content="Berekenen" Width="73" Margin="25,10,10,10" Click="BtnBerekenen_Click"/>
+            <Button x:Name="BtnWissen" Content="Wissen" Width="73" Margin="45,10,10,10" Click="BtnWissen_Click" />
+            <Button x:Name="BtnAflsluiten" Content="Aflsluiten" Width="73" Margin="25,10,10,10" Click="BtnAflsluiten_Click" />
+        </WrapPanel>
+        
+        <DockPanel LastChildFill="False" Grid.Row="3" Margin="0,50,1,0" Grid.ColumnSpan="4">
+            <Label Content="Sportcursussen" Width="100" FontWeight="Bold"/>
+            <Label x:Name="LbDate" Content="" Width="161" FontWeight="Bold" FontStyle="Italic"/>
+            <Label x:Name="LbTijd" Content="" Width="103" FontWeight="Bold" FontStyle="Italic"/>
+        </DockPanel>
+
+    </Grid>
+</Window>
