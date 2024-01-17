@@ -37,7 +37,7 @@
         <Label Grid.Column="2" Content="Catogorie" HorizontalAlignment="Left" Margin="30,6,0,0" Grid.Row="1" VerticalAlignment="Top" Width="113"/>
         <StackPanel Grid.Column="2" Grid.Row="1" Margin="29,29,112,0" Background="#FFF1EFEF">
             <RadioButton GroupName="Catogorie" x:Name="RdbPreminiem" Content="Preminiem" Margin="0,3,0,0"/>
-            <RadioButton GroupName="Catogorie" x:Name="RdbMiniem" Content="Miniem" Margin="0,3,0,0"/>
+            <RadioButton GroupName="Catogorie" x:Name="RdbMiniem" Content="Miniem" Margin="0,3,0,0" Width="115" HorizontalAlignment="Left"/>
             <RadioButton GroupName="Catogorie" x:Name="RdbJunior" Content="Junior" Margin="0,3,0,0"/>
             <RadioButton GroupName="Catogorie" x:Name="RdbCadet" Content="Cadet" Margin="0,3,0,0"/>
             <RadioButton GroupName="Catogorie" x:Name="RdbSenior" Content="Senior" Margin="0,3,0,0"/>
@@ -56,7 +56,7 @@
             <Button x:Name="BtnWissen" Content="Wissen" Width="73" Margin="45,10,10,10" Click="BtnWissen_Click" />
             <Button x:Name="BtnAflsluiten" Content="Aflsluiten" Width="73" Margin="25,10,10,10" Click="BtnAflsluiten_Click" />
         </WrapPanel>
-        
+
         <DockPanel LastChildFill="False" Grid.Row="3" Margin="0,50,1,0" Grid.ColumnSpan="4">
             <Label Content="Sportcursussen" Width="100" FontWeight="Bold"/>
             <Label x:Name="LbDate" Content="" Width="161" FontWeight="Bold" FontStyle="Italic"/>
