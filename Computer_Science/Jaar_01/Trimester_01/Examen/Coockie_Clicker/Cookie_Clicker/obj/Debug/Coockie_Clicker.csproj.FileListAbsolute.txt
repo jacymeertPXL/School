@@ -1,0 +1,17 @@
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\bin\Debug\Coockie_Clicker.exe.config
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\bin\Debug\Coockie_Clicker.exe
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\bin\Debug\Coockie_Clicker.pdb
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Coockie_Clicker.csproj.AssemblyReference.cache
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\MainWindow.baml
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Achievement.g.cs
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\MainWindow.g.cs
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\App.g.cs
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Coockie_Clicker_MarkupCompile.cache
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Coockie_Clicker_MarkupCompile.lref
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Achievement.baml
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Coockie_Clicker.g.resources
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Coockie_Clicker.Properties.Resources.resources
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Coockie_Clicker.csproj.GenerateResource.cache
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Coockie_Clicker.csproj.CoreCompileInputs.cache
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Coockie_Clicker.exe
+C:\Users\12200178\Desktop\C#\-coockie-cliker\Coockie_Clicker\Coockie_Clicker\obj\Debug\Coockie_Clicker.pdb
