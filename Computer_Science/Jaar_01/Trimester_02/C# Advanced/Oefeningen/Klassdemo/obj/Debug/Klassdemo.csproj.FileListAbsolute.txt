@@ -1,0 +1,7 @@
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\Klassdemo\obj\Debug\Klassdemo.csproj.AssemblyReference.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\Klassdemo\obj\Debug\Klassdemo.csproj.CoreCompileInputs.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\Klassdemo\bin\Debug\Klassdemo.exe.config
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\Klassdemo\bin\Debug\Klassdemo.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\Klassdemo\bin\Debug\Klassdemo.pdb
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\Klassdemo\obj\Debug\Klassdemo.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\Klassdemo\obj\Debug\Klassdemo.pdb
