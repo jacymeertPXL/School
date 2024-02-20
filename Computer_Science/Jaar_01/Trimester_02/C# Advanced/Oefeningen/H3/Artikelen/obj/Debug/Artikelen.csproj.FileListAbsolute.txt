@@ -1,0 +1,15 @@
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\bin\Debug\Artikelen.exe.config
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\bin\Debug\Artikelen.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\bin\Debug\Artikelen.pdb
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\Artikelen.csproj.AssemblyReference.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\MainWindow.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\App.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\Artikelen_MarkupCompile.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\Artikelen_MarkupCompile.lref
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\MainWindow.baml
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\Artikelen.g.resources
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\Artikelen.Properties.Resources.resources
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\Artikelen.csproj.GenerateResource.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\Artikelen.csproj.CoreCompileInputs.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\Artikelen.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\Artikelen\obj\Debug\Artikelen.pdb
