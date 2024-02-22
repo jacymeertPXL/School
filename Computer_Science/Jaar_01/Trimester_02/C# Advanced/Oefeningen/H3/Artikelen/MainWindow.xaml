@@ -1,0 +1,26 @@
+﻿<Window x:Class="Artikelen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Artikelen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid HorizontalAlignment="Stretch" Height="NaN" Margin="0,0,0,0" VerticalAlignment="Stretch" Width="NaN">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Background="Green" >
+            <Button x:Name="BtnVolgende" Content="Volgende" Margin="0,85,0,0" Height="112" Width="134" Click="BtnVolgende_Click"/>
+            <Button x:Name="BtnVorige" Content="Vorige" Margin="0,50,0,0" Height="104" Width="136" Click="BtnVorige_Click"/>
+        </StackPanel>
+        
+        <Label x:Name="LbTitel" Grid.Column="1" Content="Tiltel Artikel" HorizontalAlignment="Left" Margin="37,36,0,0" VerticalAlignment="Top" Height="60" Width="180" FontSize="24" FontWeight="Bold" FontStyle="Italic"/>
+        <TextBlock x:Name="TxtText" Grid.Column="1" HorizontalAlignment="Left" Margin="39,102,0,0" TextWrapping="Wrap" Text="Artikal informatie" VerticalAlignment="Top" Height="244" Width="391"/>
+        <Label x:Name="TxtJournalist" Grid.Column="1" Content="naam journalist" HorizontalAlignment="Left" Margin="32,351,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="TxtDatum" Grid.Column="1" Content="Datum van publicatie" HorizontalAlignment="Left" Margin="33,378,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="ImgArtikel" Grid.Column="1" HorizontalAlignment="Left" Height="232" Margin="482,106,0,0" VerticalAlignment="Top" Width="106">
+        </Image>
+    </Grid>
+</Window>
