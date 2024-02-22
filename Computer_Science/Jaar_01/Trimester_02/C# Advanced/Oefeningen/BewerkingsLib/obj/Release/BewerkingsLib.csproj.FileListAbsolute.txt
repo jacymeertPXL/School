@@ -1,0 +1,6 @@
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\BewerkingsLib\obj\Release\BewerkingsLib.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\BewerkingsLib\obj\Release\BewerkingsLib.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\BewerkingsLib\bin\Release\BewerkingsLib.dll
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\BewerkingsLib\bin\Release\BewerkingsLib.pdb
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\BewerkingsLib\obj\Release\BewerkingsLib.dll
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\BewerkingsLib\obj\Release\BewerkingsLib.pdb

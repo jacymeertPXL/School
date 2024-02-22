@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65F8548E-0D59-4FF8-A68F-F928D9820732}|Associaties.csproj|c:\\users\\gebruiker\\documents\\github\\jacymeertpxl\\computer_science\\jaar_01\\trimester_02\\c# advanced\\oefeningen\\associaties\\associaties\\firstclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{65F8548E-0D59-4FF8-A68F-F928D9820732}|Associaties.csproj|solutionrelative:firstclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F8548E-0D59-4FF8-A68F-F928D9820732}|Associaties.csproj|c:\\users\\gebruiker\\documents\\github\\jacymeertpxl\\computer_science\\jaar_01\\trimester_02\\c# advanced\\oefeningen\\associaties\\associaties\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F8548E-0D59-4FF8-A68F-F928D9820732}|Associaties.csproj|solutionrelative:persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F8548E-0D59-4FF8-A68F-F928D9820732}|Associaties.csproj|C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F8548E-0D59-4FF8-A68F-F928D9820732}|Associaties.csproj|solutionrelative:auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F8548E-0D59-4FF8-A68F-F928D9820732}|Associaties.csproj|C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F8548E-0D59-4FF8-A68F-F928D9820732}|Associaties.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstClassDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\FirstClassDiagram.cd",
+              "RelativeDocumentMoniker": "FirstClassDiagram.cd",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\FirstClassDiagram.cd",
+              "RelativeToolTip": "FirstClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-02-19T12:55:26.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persoon.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\Persoon.cs",
+              "RelativeDocumentMoniker": "Persoon.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\Persoon.cs",
+              "RelativeToolTip": "Persoon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:34:46.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\Auto.cs",
+              "RelativeDocumentMoniker": "Auto.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\Auto.cs",
+              "RelativeToolTip": "Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:33:45.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\Oefeningen\\Associaties\\Associaties\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:33:22.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
