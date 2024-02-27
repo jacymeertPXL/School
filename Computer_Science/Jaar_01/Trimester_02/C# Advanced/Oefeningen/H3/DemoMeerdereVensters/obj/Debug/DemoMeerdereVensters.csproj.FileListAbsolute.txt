@@ -1,0 +1,17 @@
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\bin\Debug\DemoMeerdereVensters.exe.config
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\bin\Debug\DemoMeerdereVensters.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\bin\Debug\DemoMeerdereVensters.pdb
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\DemoMeerdereVensters.csproj.AssemblyReference.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\MainWindow.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\Window2.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\App.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\DemoMeerdereVensters_MarkupCompile.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\DemoMeerdereVensters_MarkupCompile.lref
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\MainWindow.baml
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\Window2.baml
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\DemoMeerdereVensters.g.resources
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\DemoMeerdereVensters.Properties.Resources.resources
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\DemoMeerdereVensters.csproj.GenerateResource.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\DemoMeerdereVensters.csproj.CoreCompileInputs.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\DemoMeerdereVensters.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\H3\DemoMeerdereVensters\obj\Debug\DemoMeerdereVensters.pdb

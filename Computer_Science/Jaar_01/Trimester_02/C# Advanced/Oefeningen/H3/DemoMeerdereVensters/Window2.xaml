@@ -1,0 +1,14 @@
+﻿<Window x:Class="DemoMeerdereVensters.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoMeerdereVensters"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BtnShowHide" Content="ShowHide" Margin="243,51,257,237" Click="BtnShowHide_Click"/>
+        <Button x:Name="BtnShowDialogHide" Content="ShowDialogHide" Margin="242,233,258,40" Click="BtnShowDialogHide_Click"/>
+
+    </Grid>
+</Window>
