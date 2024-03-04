@@ -1,0 +1,17 @@
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MeerdereVenstersDemo.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\ExtraVenster.g.cs
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\App.g.cs
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MeerdereVenstersDemo_MarkupCompile.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MeerdereVenstersDemo_MarkupCompile.lref
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\bin\Debug\MeerdereVenstersDemo.exe.config
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\bin\Debug\MeerdereVenstersDemo.exe
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\bin\Debug\MeerdereVenstersDemo.pdb
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\ExtraVenster.baml
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MainWindow.baml
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MeerdereVenstersDemo.g.resources
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MeerdereVenstersDemo.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MeerdereVenstersDemo.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MeerdereVenstersDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MeerdereVenstersDemo.exe
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Oefeningen\MeerdereVenstersDemo\obj\Debug\MeerdereVenstersDemo.pdb
