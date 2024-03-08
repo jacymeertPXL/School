@@ -33,4 +33,4 @@ Het doel is het creëren van een AI-chatbot die de informatie van ontwikkelaars 
    - Mogelijkheid om wijzigingen aan te brengen op basis van real-time feedback en verzamelde gegevens.
 
 ## Notitie:
-Zorg ervoor dat de chatbot transparant is over het gebruik van verzamelde data en dat privacykwesties worden aangepakt volgens de geldende wet- en regelgeving.
+De chatbot transparant is over het gebruik van verzamelde data en dat privacykwesties worden aangepakt volgens de geldende wet- en regelgeving.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a41ff90bc3b5a8b8",
+        "id": "ed9d652318818dca",
         "type": "tabs",
         "children": [
           {
-            "id": "0f5b8137dca1f4aa",
+            "id": "21760504a756757c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/Meert_Jacy_sollicitatiebrief.md",
+                "file": "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/Meert_Jacy_sollicitatiebrief.md",
+                "file": "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/Meert_Jacy_sollicitatiebrief.md",
+                "file": "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/Meert_Jacy_sollicitatiebrief.md"
+                "file": "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md"
               }
             }
           },
@@ -166,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f5b8137dca1f4aa",
+  "active": "21760504a756757c",
   "lastOpenFiles": [
+    "Jaar_01/Trimester_02/Organisitation/GroepsProject/Inleiding.md",
+    "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectdoel en scope.md",
+    "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md",
+    "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/Meert_Jacy_sollicitatiebrief.md",
     "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/Meert_Jacy_cv.pdf",
     "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/VACATURE_2_Microsoft .NET-ontwikkelaar_Brugge-1.pdf",
-    "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/Meert_Jacy_sollicitatiebrief.md",
     "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/VACATURE_4_Junior_Data_Warehouse_Engineer_Schaarbeek.pdf",
     "Jaar_01/Trimester_02/Com_Skills_02/VACATURE_2_Microsoft .NET-ontwikkelaar_Brugge-1.pdf",
     "Jaar_01/Trimester_02/Organisitation/GroepsProject/IT-Org2_OpdrachtGroepswerk_PE_v1.1_PRO-SNE_23-24_v2.pdf",
-    "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md",
-    "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectdoel en scope.md",
-    "Jaar_01/Trimester_02/Organisitation/GroepsProject/Inleiding.md",
     "Jaar_01/Trimester_02/Organisitation/GroepsProject/Img/Riot Games Omnigram.png",
     "Jaar_01/Trimester_02/Organisitation/GroepsProject/Img/organigram.png",
     "Jaar_01/Trimester_02/Organisitation/GroepsProject/Img",
@@ -186,7 +186,6 @@
     "Jaar_01/Trimester_01/Net/Oefeningen/Proef_Examen/Img",
     "Jaar_01/Trimester_01/Net/Oefeningen/Proef_Examen/obj/Debug/net8.0-windows/Proef_Examen_MarkupCompile.i.lref",
     "Jaar_01/Trimester_01/Net/Oefeningen/Proef_Examen/NewFolder",
-    "Jaar_01/Trimester_01/Net/Oefeningen/Proef_Examen/obj/Debug/net8.0-windows/Proef_Examen.designer.runtimeconfig.json",
     "Jaar_01/Trimester_01/Net/H05/H05.md",
     "Jaar_01/Trimester_01/Net/Extra Handig/Textbox Numbers & String Only.md",
     "Jaar_01/Trimester_01/Net/H06/String Classes.md",
