@@ -1,0 +1,1 @@
+Riot games zal geen outsourcing doen het bedrijf en da Parent company heeft voldoende funding en mankracht om dit project zelf tot stand te brengen. Het zou riot games afhankelijk maken en dit zal de communicatie ongemakkelijk en moeilijker maken. En dit zou ook tijdrovend zijn voor onze communicatieteams om de communicatie te interageren in het bedrijf.

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ed9d652318818dca",
+        "id": "21026afb75d40ca8",
         "type": "tabs",
         "children": [
           {
-            "id": "21760504a756757c",
+            "id": "7efde3e3d54899e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,11 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21760504a756757c",
+  "active": "7efde3e3d54899e1",
   "lastOpenFiles": [
+    "Jaar_01/Trimester_02/Organisitation/GroepsProject/Outsourcing.md",
+    "Jaar_01/Trimester_02/Organisitation/GroepsProject/Wat gaan we zelf doen.md",
+    "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md",
     "Jaar_01/Trimester_02/Organisitation/GroepsProject/Inleiding.md",
     "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectdoel en scope.md",
-    "Jaar_01/Trimester_02/Organisitation/GroepsProject/Projectmethode.md",
     "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/Meert_Jacy_sollicitatiebrief.md",
     "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/Meert_Jacy_cv.pdf",
     "Jaar_01/Trimester_02/Com_Skills_02/PE 1 Solliciteren/VACATURE_2_Microsoft .NET-ontwikkelaar_Brugge-1.pdf",
