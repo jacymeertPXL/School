@@ -18,10 +18,10 @@ nieuweParagraaf.id = "tekst";
 
 let nieuweParagraaf2 = document.createElement("p");
 
-let tekstVoorP = document.createTextNode("Text in de aside");
+// let tekstVoorP = document.createTextNode("Text in de aside");
 let tekstVoorP2 = document.createTextNode("Text in de aside 2");
 
-nieuweParagraaf.appendChild(tekstVoorP);
+nieuweParagraaf.appendChild(document.createTextNode("Text in de aside"));
 nieuweParagraaf2.appendChild(tekstVoorP2);
 
 // Normale toevoegen
