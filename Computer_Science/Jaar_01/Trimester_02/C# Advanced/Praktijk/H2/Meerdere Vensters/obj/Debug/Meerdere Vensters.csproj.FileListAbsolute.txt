@@ -1,0 +1,17 @@
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\bin\Debug\Meerdere Vensters.exe.config
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\bin\Debug\Meerdere Vensters.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\bin\Debug\Meerdere Vensters.pdb
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Meerdere Vensters.csproj.AssemblyReference.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\MainWindow.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Window2.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\App.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Meerdere Vensters_MarkupCompile.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Meerdere Vensters_MarkupCompile.lref
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\MainWindow.baml
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Window2.baml
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Meerdere Vensters.g.resources
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Meerdere_Vensters.Properties.Resources.resources
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Meerdere Vensters.csproj.GenerateResource.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Meerdere Vensters.csproj.CoreCompileInputs.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Meerdere Vensters.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Meerdere Vensters\obj\Debug\Meerdere Vensters.pdb

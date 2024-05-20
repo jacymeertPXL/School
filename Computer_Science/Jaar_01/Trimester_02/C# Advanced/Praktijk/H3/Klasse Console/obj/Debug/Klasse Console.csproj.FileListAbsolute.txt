@@ -1,0 +1,7 @@
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H3\Klasse Console\bin\Debug\Klasse Console.exe.config
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H3\Klasse Console\bin\Debug\Klasse Console.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H3\Klasse Console\bin\Debug\Klasse Console.pdb
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H3\Klasse Console\obj\Debug\Klasse Console.csproj.AssemblyReference.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H3\Klasse Console\obj\Debug\Klasse Console.csproj.CoreCompileInputs.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H3\Klasse Console\obj\Debug\Klasse Console.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H3\Klasse Console\obj\Debug\Klasse Console.pdb

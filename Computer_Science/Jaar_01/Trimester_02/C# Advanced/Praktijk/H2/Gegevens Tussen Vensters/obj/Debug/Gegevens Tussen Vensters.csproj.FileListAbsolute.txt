@@ -1,0 +1,17 @@
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\bin\Debug\Gegevens Tussen Vensters.exe.config
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\bin\Debug\Gegevens Tussen Vensters.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\bin\Debug\Gegevens Tussen Vensters.pdb
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\Gegevens Tussen Vensters.csproj.AssemblyReference.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\KeuzeVenster.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\MainWindow.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\App.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\Gegevens Tussen Vensters_MarkupCompile.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\Gegevens Tussen Vensters_MarkupCompile.lref
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\KeuzeVenster.baml
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\MainWindow.baml
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\Gegevens Tussen Vensters.g.resources
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\Gegevens_Tussen_Vensters.Properties.Resources.resources
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\Gegevens Tussen Vensters.csproj.GenerateResource.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\Gegevens Tussen Vensters.csproj.CoreCompileInputs.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\Gegevens Tussen Vensters.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H2\Gegevens Tussen Vensters\obj\Debug\Gegevens Tussen Vensters.pdb
