@@ -1,0 +1,15 @@
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\bin\Debug\Overerving.exe.config
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\bin\Debug\Overerving.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\bin\Debug\Overerving.pdb
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\Overerving.csproj.AssemblyReference.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\MainWindow.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\App.g.cs
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\Overerving_MarkupCompile.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\Overerving_MarkupCompile.lref
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\MainWindow.baml
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\Overerving.g.resources
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\Overerving.Properties.Resources.resources
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\Overerving.csproj.GenerateResource.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\Overerving.csproj.CoreCompileInputs.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\Overerving.exe
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\Overerving\obj\Debug\Overerving.pdb
