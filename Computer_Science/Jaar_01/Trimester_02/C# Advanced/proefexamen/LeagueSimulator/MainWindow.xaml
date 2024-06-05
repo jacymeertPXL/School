@@ -1,0 +1,203 @@
+﻿<Window x:Class="LeagueSimulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="League of Simulations" Height="450" Width="800">
+    <Grid Background="#cd9929">
+        <TabControl>
+            <TabItem Header="Overzicht Champions" Foreground="#cd9929">
+                <Grid Background="#01434f">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="141*"></ColumnDefinition>
+                        <ColumnDefinition Width="256*"/>
+                        <ColumnDefinition Width="199*"/>
+                        <ColumnDefinition Width="199*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <DataGrid 
+                        Name="DataGridChampions"
+                        Margin="20,20,20,20"
+                        Grid.RowSpan="5"
+                        IsReadOnly="True" SelectionChanged="DataGridChampions_SelectionChanged" Grid.ColumnSpan="2"></DataGrid>
+                    <Button Grid.Column="2"
+                            Grid.ColumnSpan="2"
+                            Margin="20,20,20,20" Background="#31a0a9" Click="LaadChampionDataButton_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="20 0">Laad Champion Data</TextBlock>
+                            <CheckBox
+                                Name="CheckBoxLaadChamionData"
+                                IsEnabled="False"></CheckBox>
+                        </StackPanel>
+                    </Button>
+                    <Button Grid.Column="2"
+                            Grid.ColumnSpan="2"
+                            Grid.Row="1"
+                            Margin="20,20,20,20" Background="#31a0a9" Click="LaadAbilityDataButton_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="20 0">Laad Ability Data</TextBlock>
+                            <CheckBox
+                                Name="CheckBoxLaadAbilityData"
+                                IsEnabled="False"></CheckBox>
+                        </StackPanel>
+                    </Button>
+                    <ComboBox
+                        Name="ComboBoxPositions"
+                        Grid.Row="2"
+                        Grid.Column="2"
+                        Grid.ColumnSpan="2"
+                        FontSize="20"
+                        HorizontalContentAlignment="Center"
+                        VerticalContentAlignment="Center"
+                        Margin="20,20,20,20" SelectionChanged="ComboBoxPositions_SelectionChanged">
+                    </ComboBox>
+                    <Button Margin="20,20,20,20" Background="#31a0a9"
+                            Grid.Row="3"
+                            Grid.Column="2" Click="BestToWorstButton_Click">Best to worst</Button>
+                    <Button Margin="20,20,20,20" Background="#31a0a9"
+                            Grid.Row="3"
+                            Grid.Column="3" Click="ResetButton_Click">Reset</Button>
+                    <Viewbox
+                        Grid.Column="2"
+                        Grid.Row="4"
+                        Margin="20,20,20,20">
+                        <TextBlock Name="TextBlockChampionTitle"
+                                   Foreground="#cd9929">Name and Title</TextBlock>
+                    </Viewbox>
+                    <Image
+                        Name="ImageChampion"
+                        Grid.Column="3"
+                        Grid.Row="4"
+                        Margin="10,10,10,10"></Image>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Simuleer Match" Name="TabItemSimuleerMatch" 
+                     IsEnabled="False" Foreground="#cd9929">
+                <Grid Background="#01434f">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1.5*"/>
+                        <RowDefinition Height="1.5*"/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Image Name="ImageBanner"
+                           Grid.ColumnSpan="4"
+                           Grid.RowSpan="2"
+                           Stretch="UniformToFill"></Image>
+                    <Button Margin="30" Click="Genereer5v5Button_Click">Genereer 5v5</Button>
+                    <Button Margin="30"
+                            Grid.Column="1" Click="Genereer3v3Button_Click">Genereer 3v3</Button>
+                    <PasswordBox Name="PasswordBoxMatchCode"
+                                 Grid.Row="1" Margin="30"
+                                 VerticalContentAlignment="Center"></PasswordBox>
+                    <Grid Grid.Row="2" Grid.ColumnSpan="2"
+                          Background="#ca3b37" Margin="10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Image Name="ImageIconChampion1Team1" Source="images/icons/empty_icon.png" MouseEnter="ImageIconChampion1Team1_MouseEnter"></Image>
+                        <Image Name="ImageIconChampion2Team1" Source="images/icons/empty_icon.png" MouseEnter="ImageIconChampion2Team1_MouseEnter"
+                               Grid.Column="1"></Image>
+                        <Image Name="ImageIconChampion3Team1" Source="images/icons/empty_icon.png" MouseEnter="ImageIconChampion3Team1_MouseEnter"
+                               Grid.Column="2"></Image>
+                        <Image Name="ImageIconChampion4Team1" Source="images/icons/empty_icon.png" MouseEnter="ImageIconChampion4Team1_MouseEnter"
+                               Grid.Column="3"></Image>
+                        <Image Name="ImageIconChampion5Team1" Source="images/icons/empty_icon.png" MouseEnter="ImageIconChampion5Team1_MouseEnter"
+                               Grid.Column="4"></Image>
+                    </Grid>
+                    <Button Margin="30 10" Grid.Row="3" Grid.ColumnSpan="2" Click="BeslisWinnaarButton_Click">Beslis Winnaar</Button>
+                    <Grid Grid.Row="4" Grid.ColumnSpan="2"
+                          Background="#26c2f5" Margin="10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Image Name="ImageIconChampion1Team2" Source="images/icons/empty_icon.png" MouseEnter="ImageIconChampion1Team2_MouseEnter"></Image>
+                        <Image Name="ImageIconChampion2Team2" Source="images/icons/empty_icon.png" MouseEnter="ImageIconChampion2Team2_MouseEnter"
+                               Grid.Column="1"></Image>
+                        <Image Name="ImageIconChampion3Team2" Source="images/icons/empty_icon.png" MouseEnter="ImageIconChampion3Team2_MouseEnter"
+                               Grid.Column="2"></Image>
+                        <Image Name="ImageIconChampion4Team2" Source="images/icons/empty_icon.png" MouseEnter="ImageIconChampion4Team2_MouseEnter"
+                               Grid.Column="3"></Image>
+                        <Image Name="ImageIconChampion5Team2" Source="images/icons/empty_icon.png" MouseEnter="ImageIconChampion5Team2_MouseEnter"
+                               Grid.Column="4"></Image>
+                    </Grid>
+                    <TextBlock 
+                        Name="TextBlockChampion"
+                        Grid.Row="2"
+                        Grid.ColumnSpan="2"
+                        Grid.Column="2"
+                        Margin="20"
+                        FontSize="20"
+                        VerticalAlignment="Center"
+                        Foreground="#cd9929"></TextBlock>
+                    <ListBox 
+                        Name="ListBoxChampionAbilities"
+                        Grid.Row="3"
+                        Grid.Column="2"
+                        Grid.RowSpan="2"
+                        Margin="20"
+                        Background="#cd9929"></ListBox>
+                    <TextBlock 
+                        Name="TextBlockClass"
+                        Grid.Row="3"
+                        Grid.Column="3"
+                        Margin="20"
+                        FontSize="20"
+                        VerticalAlignment="Center"
+                        Foreground="#cd9929"></TextBlock>
+                    <TextBlock 
+                        Name="TextBlockCost"
+                        Grid.Row="4"
+                        Grid.Column="3"
+                        Margin="20"
+                        FontSize="20"
+                        VerticalAlignment="Center"
+                        Foreground="#cd9929"></TextBlock>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Overzicht Matches" Name="TabItemOverzichtMatches" 
+                     IsEnabled="False" Foreground="#cd9929">
+                <Grid Background="#01434f">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="4*"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="4*"/>
+                    </Grid.RowDefinitions>
+                    <DataGrid 
+                        Name="DataGridMatches"
+                        Margin="20"
+                        Grid.RowSpan="2">
+
+                    </DataGrid>
+                    <Button Grid.Column="1" Margin="20" Click="ExportToXMLButton_Click">Export to XML</Button>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

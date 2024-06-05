@@ -1,0 +1,856 @@
+AbilityId;ChampionName;AbilityName
+1;Aatrox;Deathbringer Stance
+2;Aatrox;The Darkin Blade
+3;Aatrox;Infernal Chains
+4;Aatrox;Umbral Dash
+5;Aatrox;World Ender
+6;Ahri;Essence Theft
+7;Ahri;Orb of Deception
+8;Ahri;Fox-Fire
+9;Ahri;Charm
+10;Ahri;Spirit Rush
+11;Akali;Assassin's Mark
+12;Akali;Five Point Strike
+13;Akali;Twilight Shroud
+14;Akali;Shuriken Flip
+15;Akali;Perfect Execution
+16;Akshan;Dirty Fighting
+17;Akshan;Avengerang
+18;Akshan;Going Rogue
+19;Akshan;Heroic Swing
+20;Akshan;Comeuppance
+21;Alistar;Triumphant Roar
+22;Alistar;Pulverize
+23;Alistar;Headbutt
+24;Alistar;Trample
+25;Alistar;Unbreakable Will
+26;Amumu;Cursed Touch
+27;Amumu;Bandage Toss
+28;Amumu;Despair
+29;Amumu;Tantrum
+30;Amumu;Curse of the Sad Mummy
+31;Anivia;Rebirth
+32;Anivia;Flash Frost
+33;Anivia;Crystallize
+34;Anivia;Frostbite
+35;Anivia;Glacial Storm
+36;Annie;Pyromania
+37;Annie;Disintegrate
+38;Annie;Incinerate
+39;Annie;Molten Shield
+40;Annie;Summon: Tibbers
+41;Aphelios;The Hitman and the Seer
+42;Aphelios;Calibrum
+43;Aphelios;Severum
+44;Aphelios;Gravitum
+45;Aphelios;Infernum
+46;Aphelios;Crescendum
+47;Aphelios;Weapons of the Faithful
+48;Aphelios;Moonshot
+49;Aphelios;Onslaught
+50;Aphelios;Binding Eclipse
+51;Aphelios;Duskwave
+52;Aphelios;Sentry
+53;Aphelios;Phase
+54;Aphelios;Weapon Queue System
+55;Aphelios;Moonlight Vigil
+56;Ashe;Frost Shot
+57;Ashe;Ranger's Focus
+58;Ashe;Volley
+59;Ashe;Hawkshot
+60;Ashe;Enchanted Crystal Arrow
+61;Aurelion Sol;Center of the Universe
+62;Aurelion Sol;Starsurge
+63;Aurelion Sol;Celestial Expansion
+64;Aurelion Sol;Comet of Legend
+65;Aurelion Sol;Voice of Light
+66;Azir;Shurima's Legacy
+67;Azir;Conquering Sands
+68;Azir;Arise!
+69;Azir;Shifting Sands
+70;Azir;Emperor's Divide
+71;Bard;Traveler's Call
+72;Bard;Cosmic Binding
+73;Bard;Caretaker's Shrine
+74;Bard;Magical Journey
+75;Bard;Tempered Fate
+76;Blitzcrank;Mana Barrier
+77;Blitzcrank;Rocket Grab
+78;Blitzcrank;Overdrive
+79;Blitzcrank;Power Fist
+80;Blitzcrank;Static Field
+81;Brand;Blaze
+82;Brand;Sear
+83;Brand;Pillar of Flame
+84;Brand;Conflagration
+85;Brand;Pyroclasm
+86;Braum;Concussive Blows
+87;Braum;Winter's Bite
+88;Braum;Stand Behind Me
+89;Braum;Unbreakable
+90;Braum;Glacial Fissure
+91;Caitlyn;Headshot
+92;Caitlyn;Piltover Peacemaker
+93;Caitlyn;Yordle Snap Trap
+94;Caitlyn;90 Caliber Net
+95;Caitlyn;Ace in the Hole
+96;Camille;Adaptive Defenses
+97;Camille;Precision Protocol
+98;Camille;Tactical Sweep
+99;Camille;Hookshot
+100;Camille;Wall Dive
+101;Camille;The Hextech Ultimatum
+102;Cassiopeia;Serpentine Grace
+103;Cassiopeia;Noxious Blast
+104;Cassiopeia;Miasma
+105;Cassiopeia;Twin Fang
+106;Cassiopeia;Petrifying Gaze
+107;Cho'Gath;Carnivore
+108;Cho'Gath;Rupture
+109;Cho'Gath;Feral Scream
+110;Cho'Gath;Vorpal Spikes
+111;Cho'Gath;Feast
+112;Corki;Hextech Munitions
+113;Corki;Phosphorus Bomb
+114;Corki;Valkyrie
+115;Corki;Special Delivery
+116;Corki;Gatling Gun
+117;Corki;Missile Barrage
+118;Darius;Hemorrhage
+119;Darius;Decimate
+120;Darius;Crippling Strike
+121;Darius;Apprehend
+122;Darius;Noxian Guillotine
+123;Diana;Moonsilver Blade
+124;Diana;Crescent Strike
+125;Diana;Pale Cascade
+126;Diana;Lunar Rush
+127;Diana;Moonfall
+128;Dr. Mundo;Goes Where He Pleases
+129;Dr. Mundo;Infected Bonesaw
+130;Dr. Mundo;Heart Zapper
+131;Dr. Mundo;Blunt Force Trauma
+132;Dr. Mundo;Maximum Dosage
+133;Draven;League of Draven
+134;Draven;Spinning Axe
+135;Draven;Blood Rush
+136;Draven;Stand Aside
+137;Draven;Whirling Death
+138;Ekko;Z-Drive Resonance
+139;Ekko;Timewinder
+140;Ekko;Parallel Convergence
+141;Ekko;Phase Dive
+142;Ekko;Chronobreak
+143;Elise;Spider Queen
+144;Elise;Neurotoxin
+145;Elise;Venomous Bite
+146;Elise;Volatile Spiderling
+147;Elise;Skittering Frenzy
+148;Elise;Cocoon
+149;Elise;Rappel
+150;Elise;Spider Form / Human Form
+151;Evelynn;Demon Shade
+152;Evelynn;Hate Spike
+153;Evelynn;Allure
+154;Evelynn;Whiplash
+155;Evelynn;Empowered Whiplash
+156;Evelynn;Last Caress
+157;Ezreal;Rising Spell Force
+158;Ezreal;Mystic Shot
+159;Ezreal;Essence Flux
+160;Ezreal;Arcane Shift
+161;Ezreal;Trueshot Barrage
+162;Fiddlesticks;A Harmless Scarecrow
+163;Fiddlesticks;Terrify
+164;Fiddlesticks;Bountiful Harvest
+165;Fiddlesticks;Reap
+166;Fiddlesticks;Crowstorm
+167;Fiora;Duelist's Dance
+168;Fiora;Lunge
+169;Fiora;Riposte
+170;Fiora;Bladework
+171;Fiora;Grand Challenge
+172;Fizz;Nimble Fighter
+173;Fizz;Urchin Strike
+174;Fizz;Seastone Trident
+175;Fizz;Playful
+176;Fizz;Trickster
+177;Fizz;Chum the Waters
+178;Galio;Colossal Smash
+179;Galio;Winds of War
+180;Galio;Shield of Durand
+181;Galio;Justice Punch
+182;Galio;Hero's Entrance
+183;Gangplank;Trial by Fire
+184;Gangplank;Parrrley
+185;Gangplank;Remove Scurvy
+186;Gangplank;Powder Keg
+187;Gangplank;Cannon Barrage
+188;Garen;Perseverance
+189;Garen;Decisive Strike
+190;Garen;Courage
+191;Garen;Judgment
+192;Garen;Demacian Justice
+193;Gnar;Rage Gene
+194;Gnar;Boomerang Throw
+195;Gnar;Boulder Toss
+196;Gnar;Hyper
+197;Gnar;Wallop
+198;Gnar;Hop
+199;Gnar;Crunch
+200;Gnar;GNAR!
+201;Gragas;Happy Hour
+202;Gragas;Barrel Roll
+203;Gragas;Drunken Rage
+204;Gragas;Body Slam
+205;Gragas;Explosive Cask
+206;Graves;New Destiny
+207;Graves;End of the Line
+208;Graves;Smoke Screen
+209;Graves;Quickdraw
+210;Graves;Collateral Damage
+211;Gwen;Thousand Cuts
+212;Gwen;Snip Snip!
+213;Gwen;Hallowed Mist
+214;Gwen;Skip 'n Slash
+215;Gwen;Needlework
+216;Hecarim;Warpath
+217;Hecarim;Rampage
+218;Hecarim;Spirit of Dread
+219;Hecarim;Devastating Charge
+220;Hecarim;Onslaught of Shadows
+221;Heimerdinger;Hextech Affinity
+222;Heimerdinger;H-28G Evolution Turret
+223;Heimerdinger;H-28Q Apex Turret
+224;Heimerdinger;Hextech Micro-Rockets
+225;Heimerdinger;Hextech Rocket Swarm
+226;Heimerdinger;CH-2 Electron Storm Grenade
+227;Heimerdinger;CH-3X Lightning Grenade
+228;Heimerdinger;UPGRADE!!!
+229;Illaoi;Prophet of an Elder God
+230;Illaoi;Tentacle Smash
+231;Illaoi;Harsh Lesson
+232;Illaoi;Test of Spirit
+233;Illaoi;Leap of Faith
+234;Irelia;Ionian Fervor
+235;Irelia;Bladesurge
+236;Irelia;Defiant Dance
+237;Irelia;Flawless Duet
+238;Irelia;Vanguard's Edge
+239;Ivern;Friend of the Forest
+240;Ivern;Rootcaller
+241;Ivern;Brushmaker
+242;Ivern;Triggerseed
+243;Ivern;Daisy!
+244;Janna;Tailwind
+245;Janna;Howling Gale
+246;Janna;Zephyr
+247;Janna;Eye of the Storm
+248;Janna;Monsoon
+249;Jarvan IV;Martial Cadence
+250;Jarvan IV;Dragon Strike
+251;Jarvan IV;Golden Aegis
+252;Jarvan IV;Demacian Standard
+253;Jarvan IV;Cataclysm
+254;Jax;Relentless Assault
+255;Jax;Leap Strike
+256;Jax;Empower
+257;Jax;Counter Strike
+258;Jax;Grandmaster's Might
+259;Jayce;Hextech Capacitor
+260;Jayce;To the Skies!
+261;Jayce;Shock Blast
+262;Jayce;Lightning Field
+263;Jayce;Hyper Charge
+264;Jayce;Thundering Blow
+265;Jayce;Acceleration Gate
+266;Jayce;Transform Mercury Cannon
+267;Jayce;Transform Mercury Hammer
+268;Jhin;Basic Attack
+269;Jhin;Whisper
+270;Jhin;Dancing Grenade
+271;Jhin;Deadly Flourish
+272;Jhin;Captive Audience
+273;Jhin;Curtain Call
+274;Jinx;Get Excited!
+275;Jinx;Switcheroo!
+276;Jinx;Zap!
+277;Jinx;Flame Chompers!
+278;Jinx;Super Mega Death Rocket!
+279;Kai'Sa;Second Skin
+280;Kai'Sa;Icathian Rain
+281;Kai'Sa;Void Seeker
+282;Kai'Sa;Supercharge
+283;Kai'Sa;Killer Instinct
+284;Kalista;Martial Poise
+285;Kalista;Pierce
+286;Kalista;Sentinel
+287;Kalista;Rend
+288;Kalista;Fate's Call
+289;Karma;Gathering Fire
+290;Karma;Inner Flame
+291;Karma;Soulflare
+292;Karma;Focused Resolve
+293;Karma;Renewal
+294;Karma;Inspire
+295;Karma;Defiance
+296;Karma;Mantra
+297;Karthus;Death Defied
+298;Karthus;Lay Waste
+299;Karthus;Wall of Pain
+300;Karthus;Defile
+301;Karthus;Requiem
+302;Kassadin;Void Stone
+303;Kassadin;Null Sphere
+304;Kassadin;Nether Blade
+305;Kassadin;Force Pulse
+306;Kassadin;Riftwalk
+307;Katarina;Voracity
+308;Katarina;Bouncing Blade
+309;Katarina;Preparation
+310;Katarina;Shunpo
+311;Katarina;Death Lotus
+312;Kayle;Divine Ascent
+313;Kayle;Radiant Blast
+314;Kayle;Celestial Blessing
+315;Kayle;Starfire Spellblade
+316;Kayle;Divine Judgment
+317;Kayn;The Darkin Scythe
+318;Kayn;Reaping Slash
+319;Kayn;Blade's Reach
+320;Kayn;Shadow Step
+321;Kayn;Umbral Trespass
+322;Kennen;Mark of the Storm
+323;Kennen;Thundering Shuriken
+324;Kennen;Electrical Surge
+325;Kennen;Lightning Rush
+326;Kennen;Slicing Maelstrom
+327;Kha'Zix;Unseen Threat
+328;Kha'Zix;Taste Their Fear
+329;Kha'Zix;Evolved Reaper Claws
+330;Kha'Zix;Void Spike
+331;Kha'Zix;Evolved Spike Racks
+332;Kha'Zix;Leap
+333;Kha'Zix;Evolved Wings
+334;Kha'Zix;Void Assault
+335;Kha'Zix;Evolved Adaptive Cloaking
+336;Kindred;Mark of the Kindred
+337;Kindred;Dance of Arrows
+338;Kindred;Wolf's Frenzy
+339;Kindred;Mounting Dread
+340;Kindred;Lamb's Respite
+341;Kled;Skaarl the Cowardly Lizard
+342;Kled;Dismounted Skaarl the Cowardly Lizard
+343;Kled;Bear Trap on a Rope
+344;Kled;Pocket Pistol
+345;Kled;Violent Tendencies
+346;Kled;Jousting
+347;Kled;Unmounted Jousting
+348;Kled;Chaaaaaaaarge!!!
+349;Kled;Unmounted Chaaaaaaaarge!!!
+350;Kog'Maw;Icathian Surprise
+351;Kog'Maw;Caustic Spittle
+352;Kog'Maw;Bio-Arcane Barrage
+353;Kog'Maw;Void Ooze
+354;Kog'Maw;Living Artillery
+355;LeBlanc;Mirror Image
+356;LeBlanc;Sigil of Malice
+357;LeBlanc;Distortion
+358;LeBlanc;Ethereal Chains
+359;LeBlanc;Mimic
+360;Lee Sin;Flurry
+361;Lee Sin;Sonic Wave
+362;Lee Sin;Resonating Strike
+363;Lee Sin;Safeguard
+364;Lee Sin;Iron Will
+365;Lee Sin;Tempest
+366;Lee Sin;Cripple
+367;Lee Sin;Dragon's Rage
+368;Leona;Sunlight
+369;Leona;Shield of Daybreak
+370;Leona;Eclipse
+371;Leona;Zenith Blade
+372;Leona;Solar Flare
+373;Lillia;Dream-Laden Bough
+374;Lillia;Blooming Blows
+375;Lillia;Watch Out! Eep!
+376;Lillia;Swirlseed
+377;Lillia;Lilting Lullaby
+378;Lissandra;Iceborn Subjugation
+379;Lissandra;Ice Shard
+380;Lissandra;Ring of Frost
+381;Lissandra;Glacial Path
+382;Lissandra;Frozen Tomb
+383;Lucian;Lightslinger
+384;Lucian;Piercing Light
+385;Lucian;Ardent Blaze
+386;Lucian;Relentless Pursuit
+387;Lucian;The Culling
+388;Lulu;Pix, Faerie Companion
+389;Lulu;Glitterlance
+390;Lulu;Whimsy
+391;Lulu;Help, Pix!
+392;Lulu;Wild Growth
+393;Lux;Illumination
+394;Lux;Light Binding
+395;Lux;Prismatic Barrier
+396;Lux;Lucent Singularity
+397;Lux;Final Spark
+398;Malphite;Granite Shield
+399;Malphite;Seismic Shard
+400;Malphite;Thunderclap
+401;Malphite;Ground Slam
+402;Malphite;Unstoppable Force
+403;Malzahar;Void Shift
+404;Malzahar;Call of the Void
+405;Malzahar;Void Swarm
+406;Malzahar;Malefic Visions
+407;Malzahar;Nether Grasp
+408;Maokai;Sap Magic
+409;Maokai;Bramble Smash
+410;Maokai;Twisted Advance
+411;Maokai;Sapling Toss
+412;Maokai;Nature's Grasp
+413;Master Yi;Double Strike
+414;Master Yi;Alpha Strike
+415;Master Yi;Meditate
+416;Master Yi;Wuju Style
+417;Master Yi;Highlander
+418;Miss Fortune;Love Tap
+419;Miss Fortune;Double Up
+420;Miss Fortune;Strut
+421;Miss Fortune;Make It Rain
+422;Miss Fortune;Bullet Time
+423;Mordekaiser;Darkness Rise
+424;Mordekaiser;Obliterate
+425;Mordekaiser;Indestructible
+426;Mordekaiser;Death's Grasp
+427;Mordekaiser;Realm of Death
+428;Morgana;Soul Siphon
+429;Morgana;Dark Binding
+430;Morgana;Tormented Shadow
+431;Morgana;Black Shield
+432;Morgana;Soul Shackles
+433;Nami;Surging Tides
+434;Nami;Aqua Prison
+435;Nami;Ebb and Flow
+436;Nami;Tidecaller's Blessing
+437;Nami;Tidal Wave
+438;Nasus;Soul Eater
+439;Nasus;Siphoning Strike
+440;Nasus;Wither
+441;Nasus;Spirit Fire
+442;Nasus;Fury of the Sands
+443;Nautilus;Staggering Blow
+444;Nautilus;Dredge Line
+445;Nautilus;Titan's Wrath
+446;Nautilus;Riptide
+447;Nautilus;Depth Charge
+448;Neeko;Inherent Glamour
+449;Neeko;Blooming Burst
+450;Neeko;Shapesplitter
+451;Neeko;Tangle-Barbs
+452;Neeko;Pop Blossom
+453;Nidalee;Prowl
+454;Nidalee;Javelin Toss
+455;Nidalee;Takedown
+456;Nidalee;Bushwhack
+457;Nidalee;Pounce
+458;Nidalee;Primal Surge
+459;Nidalee;Swipe
+460;Nidalee;Aspect of the Cougar
+461;Nocturne;Umbra Blades
+462;Nocturne;Duskbringer
+463;Nocturne;Shroud of Darkness
+464;Nocturne;Unspeakable Horror
+465;Nocturne;Paranoia
+466;Nunu;Call of the Freljord
+467;Nunu;Consume
+468;Nunu;Biggest Snowball Ever!
+469;Nunu;Snowball Barrage
+470;Nunu;Absolute Zero
+471;Olaf;Berserker Rage
+472;Olaf;Undertow
+473;Olaf;Vicious Strikes
+474;Olaf;Reckless Swing
+475;Olaf;Ragnarok
+476;Orianna;Clockwork Windup
+477;Orianna;Command: Attack
+478;Orianna;Command: Dissonance
+479;Orianna;Command: Protect
+480;Orianna;Command: Shockwave
+481;Ornn;Living Forge
+482;Ornn;Volcanic Rupture
+483;Ornn;Bellows Breath
+484;Ornn;Searing Charge
+485;Ornn;Call of the Forge God
+486;Pantheon;Mortal Will
+487;Pantheon;Comet Spear
+488;Pantheon;Shield Vault
+489;Pantheon;Aegis Assault
+490;Pantheon;Grand Starfall
+491;Poppy;Iron Ambassador
+492;Poppy;Hammer Shock
+493;Poppy;Steadfast Presence
+494;Poppy;Heroic Charge
+495;Poppy;Keeper's Verdict
+496;Pyke;Gift of the Drowned Ones
+497;Pyke;Bone Skewer
+498;Pyke;Ghostwater Dive
+499;Pyke;Phantom Undertow
+500;Pyke;Death from Below
+501;Qiyana;Royal Privilege
+502;Qiyana;Edge of Ixtal
+503;Qiyana;Elemental Wrath
+504;Qiyana;Terrashape
+505;Qiyana;Audacity
+506;Qiyana;Supreme Display of Talent
+507;Quinn;Harrier
+508;Quinn;Blinding Assault
+509;Quinn;Heightened Senses
+510;Quinn;Vault
+511;Quinn;Behind Enemy Lines
+512;Quinn;Skystrike
+513;Rakan;Fey Feathers
+514;Rakan;Gleaming Quill
+515;Rakan;Grand Entrance
+516;Rakan;Battle Dance
+517;Rakan;The Quickness
+518;Rammus;Spiked Shell
+519;Rammus;Powerball
+520;Rammus;Defensive Ball Curl
+521;Rammus;Frenzying Taunt
+522;Rammus;Soaring Slam
+523;Rek'Sai;Fury of the Xer'Sai
+524;Rek'Sai;Queen's Wrath
+525;Rek'Sai;Prey Seeker
+526;Rek'Sai;Burrow
+527;Rek'Sai;Unburrow
+528;Rek'Sai;Furious Bite
+529;Rek'Sai;Tunnel
+530;Rek'Sai;Void Rush
+531;Rell;Break the Mold
+532;Rell;Shattering Strike
+533;Rell;Ferromancy: Crash Down
+534;Rell;Ferromancy: Mount Up
+535;Rell;Attract and Repel
+536;Rell;Magnet Storm
+537;Renata Glasc;Leverage
+538;Renata Glasc;Handshake
+539;Renata Glasc;Bailout
+540;Renata Glasc;Loyalty Program
+541;Renata Glasc;Hostile Takeover
+542;Renekton;Reign of Anger
+543;Renekton;Cull the Meek
+544;Renekton;Ruthless Predator
+545;Renekton;Slice
+546;Renekton;Dice
+547;Renekton;Dominus
+548;Rengar;Unseen Predator
+549;Rengar;Savagery
+550;Rengar;Battle Roar
+551;Rengar;Bola Strike
+552;Rengar;Thrill of the Hunt
+553;Riven;Runic Blade
+554;Riven;Broken Wings
+555;Riven;Ki Burst
+556;Riven;Valor
+557;Riven;Blade of the Exile
+558;Riven;Wind Slash
+559;Rumble;Junkyard Titan
+560;Rumble;Flamespitter
+561;Rumble;Scrap Shield
+562;Rumble;Electro Harpoon
+563;Rumble;The Equalizer
+564;Ryze;Arcane Mastery
+565;Ryze;Overload
+566;Ryze;Rune Prison
+567;Ryze;Spell Flux
+568;Ryze;Realm Warp
+569;Samira;Daredevil Impulse
+570;Samira;Flair
+571;Samira;Blade Whirl
+572;Samira;Wild Rush
+573;Samira;Inferno Trigger
+574;Samira;Taunt
+575;Sejuani;Fury of the North
+576;Sejuani;Arctic Assault
+577;Sejuani;Winter's Wrath
+578;Sejuani;Permafrost
+579;Sejuani;Glacial Prison
+580;Senna;Basic Attack
+581;Senna;Absolution
+582;Senna;Piercing Darkness
+583;Senna;Last Embrace
+584;Senna;Curse of the Black Mist
+585;Senna;Dawning Shadow
+586;Seraphine;Stage Presence
+587;Seraphine;High Note
+588;Seraphine;Surround Sound
+589;Seraphine;Beat Drop
+590;Seraphine;Encore
+591;Sett;Pit Grit
+592;Sett;Knuckle Down
+593;Sett;Haymaker
+594;Sett;Facebreaker
+595;Sett;The Show Stopper
+596;Shaco;Backstab
+597;Shaco;Deceive
+598;Shaco;Jack in the Box
+599;Shaco;Two-Shiv Poison
+600;Shaco;Hallucinate
+601;Shen;Ki Barrier
+602;Shen;Twilight Assault
+603;Shen;Spirit's Refuge
+604;Shen;Shadow Dash
+605;Shen;Stand United
+606;Shyvana;Fury of the Dragonborn
+607;Shyvana;Twin Bite
+608;Shyvana;Burnout
+609;Shyvana;Flame Breath
+610;Shyvana;Dragon's Descent
+611;Singed;Noxious Slipstream
+612;Singed;Poison Trail
+613;Singed;Mega Adhesive
+614;Singed;Fling
+615;Singed;Insanity Potion
+616;Sion;Glory in Death
+617;Sion;Death Surge
+618;Sion;Decimating Smash
+619;Sion;Soul Furnace
+620;Sion;Roar of the Slayer
+621;Sion;Unstoppable Onslaught
+622;Sivir;Fleet of Foot
+623;Sivir;Boomerang Blade
+624;Sivir;Ricochet
+625;Sivir;Spell Shield
+626;Sivir;On the Hunt
+627;Skarner;Crystal Spires
+628;Skarner;Crystal Slash
+629;Skarner;Crystalline Exoskeleton
+630;Skarner;Fracture
+631;Skarner;Impale
+632;Sona;Power Chord
+633;Sona;Hymn of Valor
+634;Sona;Aria of Perseverance
+635;Sona;Song of Celerity
+636;Sona;Crescendo
+637;Soraka;Salvation
+638;Soraka;Starcall
+639;Soraka;Astral Infusion
+640;Soraka;Equinox
+641;Soraka;Wish
+642;Swain;Ravenous Flock
+643;Swain;Death's Hand
+644;Swain;Vision of Empire
+645;Swain;Nevermove
+646;Swain;Demonic Ascension
+647;Swain;Demonflare
+648;Sylas;Petricite Burst
+649;Sylas;Chain Lash
+650;Sylas;Kingslayer
+651;Sylas;Abscond
+652;Sylas;Abduct
+653;Sylas;Hijack
+654;Syndra;Transcendent
+655;Syndra;Dark Sphere
+656;Syndra;Force of Will
+657;Syndra;Scatter the Weak
+658;Syndra;Unleashed Power
+659;Tahm Kench;An Acquired Taste
+660;Tahm Kench;Tongue Lash
+661;Tahm Kench;Abyssal Dive
+662;Tahm Kench;Thick Skin
+663;Tahm Kench;Devour
+664;Tahm Kench;Regurgitate
+665;Taliyah;Rock Surfing
+666;Taliyah;Threaded Volley
+667;Taliyah;Seismic Shove
+668;Taliyah;Unraveled Earth
+669;Taliyah;Weaver's Wall
+670;Talon;Blade's End
+671;Talon;Noxian Diplomacy
+672;Talon;Rake
+673;Talon;Assassin's Path
+674;Talon;Shadow Assault
+675;Taric;Bravado
+676;Taric;Starlight's Touch
+677;Taric;Bastion
+678;Taric;Dazzle
+679;Taric;Cosmic Radiance
+680;Teemo;Guerrilla Warfare
+681;Teemo;Blinding Dart
+682;Teemo;Move Quick
+683;Teemo;Toxic Shot
+684;Teemo;Noxious Trap
+685;Thresh;Damnation
+686;Thresh;Death Sentence
+687;Thresh;Dark Passage
+688;Thresh;Flay
+689;Thresh;The Box
+690;Tristana;Draw a Bead
+691;Tristana;Rapid Fire
+692;Tristana;Rocket Jump
+693;Tristana;Explosive Charge
+694;Tristana;Buster Shot
+695;Trundle;King's Tribute
+696;Trundle;Chomp
+697;Trundle;Frozen Domain
+698;Trundle;Pillar of Ice
+699;Trundle;Subjugate
+700;Tryndamere;Battle Fury
+701;Tryndamere;Bloodlust
+702;Tryndamere;Mocking Shout
+703;Tryndamere;Spinning Slash
+704;Tryndamere;Undying Rage
+705;Twisted Fate;Loaded Dice
+706;Twisted Fate;Wild Cards
+707;Twisted Fate;Pick a Card
+708;Twisted Fate;Stacked Deck
+709;Twisted Fate;Destiny
+710;Twitch;Deadly Venom
+711;Twitch;Ambush
+712;Twitch;Venom Cask
+713;Twitch;Contaminate
+714;Twitch;Spray and Pray
+715;Udyr;Monkey's Agility
+716;Udyr;Tiger Stance
+717;Udyr;Turtle Stance
+718;Udyr;Bear Stance
+719;Udyr;Phoenix Stance
+720;Urgot;Echoing Flames
+721;Urgot;Corrosive Charge
+722;Urgot;Purge
+723;Urgot;Disdain
+724;Urgot;Fear Beyond Death
+725;Varus;Living Vengeance
+726;Varus;Piercing Arrow
+727;Varus;Blighted Quiver
+728;Varus;Hail of Arrows
+729;Varus;Chain of Corruption
+730;Vayne;Night Hunter
+731;Vayne;Tumble
+732;Vayne;Silver Bolts
+733;Vayne;Condemn
+734;Vayne;Final Hour
+735;Veigar;Phenomenal Evil Power
+736;Veigar;Baleful Strike
+737;Veigar;Dark Matter
+738;Veigar;Event Horizon
+739;Veigar;Primordial Burst
+740;Vel'Koz;Organic Deconstruction
+741;Vel'Koz;Plasma Fission
+742;Vel'Koz;Void Rift
+743;Vel'Koz;Tectonic Disruption
+744;Vel'Koz;Life Form Disintegration Ray
+745;Vex;Doom 'n Gloom
+746;Vex;Mistral Bolt
+747;Vex;Personal Space
+748;Vex;Looming Darkness
+749;Vex;Shadow Surge
+750;Vi;Blast Shield
+751;Vi;Vault Breaker
+752;Vi;Denting Blows
+753;Vi;Relentless Force
+754;Vi;Cease and Desist
+755;Viego;Sovereign's Domination
+756;Viego;Blade of the Ruined King
+757;Viego;Spectral Maw
+758;Viego;Harrowed Path
+759;Viego;Heartbreaker
+760;Viktor;Glorious Evolution
+761;Viktor;Siphon Power
+762;Viktor;Gravity Field
+763;Viktor;Death Ray
+764;Viktor;Chaos Storm
+765;Vladimir;Crimson Pact
+766;Vladimir;Transfusion
+767;Vladimir;Sanguine Pool
+768;Vladimir;Tides of Blood
+769;Vladimir;Hemoplague
+770;Volibear;The Relentless Storm
+771;Volibear;Thundering Smash
+772;Volibear;Frenzied Maul
+773;Volibear;Sky Splitter
+774;Volibear;Stormbringer
+775;Warwick;Eternal Hunger
+776;Warwick;Jaws of the Beast
+777;Warwick;Blood Hunt
+778;Warwick;Primal Howl
+779;Warwick;Infinite Duress
+780;Wukong;Stone Skin
+781;Wukong;Crushing Blow
+782;Wukong;Warrior Trickster
+783;Wukong;Nimbus Strike
+784;Wukong;Cyclone
+785;Xayah;Clean Cuts
+786;Xayah;Double Daggers
+787;Xayah;Deadly Plumage
+788;Xayah;Bladecaller
+789;Xayah;Featherstorm
+790;Xerath;Mana Surge
+791;Xerath;Arcanopulse
+792;Xerath;Eye of Destruction
+793;Xerath;Shocking Orb
+794;Xerath;Rite of the Arcane
+795;Xin Zhao;Determination
+796;Xin Zhao;Three Talon Strike
+797;Xin Zhao;Wind Becomes Lightning
+798;Xin Zhao;Audacious Charge
+799;Xin Zhao;Crescent Guard
+800;Yasuo;Way of the Wanderer
+801;Yasuo;Steel Tempest
+802;Yasuo;Wind Wall
+803;Yasuo;Sweeping Blade
+804;Yasuo;Last Breath
+805;Yone;Way of the Hunter
+806;Yone;Mortal Steel
+807;Yone;Spirit Cleave
+808;Yone;Soul Unbound
+809;Yone;Fate Sealed
+810;Yorick;Shepherd of Souls
+811;Yorick;Last Rites
+812;Yorick;Awakening
+813;Yorick;Dark Procession
+814;Yorick;Mourning Mist
+815;Yorick;Eulogy of the Isles
+816;Yuumi;Bop 'n' Block
+817;Yuumi;Prowling Projectile
+818;Yuumi;You and Me!
+819;Yuumi;Zoomies
+820;Yuumi;Final Chapter
+821;Zac;Cell Division
+822;Zac;Stretching Strikes
+823;Zac;Unstable Matter
+824;Zac;Elastic Slingshot
+825;Zac;Let's Bounce!
+826;Zed;Contempt for the Weak
+827;Zed;Razor Shuriken
+828;Zed;Living Shadow
+829;Zed;Shadow Slash
+830;Zed;Death Mark
+831;Zeri;Living Battery
+832;Zeri;Burst Fire
+833;Zeri;Ultrashock Laser
+834;Zeri;Spark Surge
+835;Zeri;Lightning Crash
+836;Ziggs;Short Fuse
+837;Ziggs;Bouncing Bomb
+838;Ziggs;Satchel Charge
+839;Ziggs;Hexplosive Minefield
+840;Ziggs;Mega Inferno Bomb
+841;Zilean;Time in a Bottle
+842;Zilean;Time Bomb
+843;Zilean;Rewind
+844;Zilean;Time Warp
+845;Zilean;Chronoshift
+846;Zoe;More Sparkles!
+847;Zoe;Paddle Star
+848;Zoe;Spell Thief
+849;Zoe;Sleepy Trouble Bubble
+850;Zoe;Portal Jump
+851;Zyra;Garden of Thorns
+852;Zyra;Deadly Spines
+853;Zyra;Rampant Growth
+854;Zyra;Grasping Roots
+855;Zyra;Stranglethorns

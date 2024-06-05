@@ -1,0 +1,160 @@
+ChampionName;ChampionTitle;ChampionClass;ReleaseYear;ChampionPosition1;ChampionPosition2;ChampionPosition3;ChampionIcon;ChampionBanner;ChampionRPCost;ChampionIPCost
+Sona;The Maven of the Strings;Enchanter;2010;sup;mid;;icons/sona_icon.png;banners/sona_banner.jpg;790;3150
+Shyvana;The Half-Dragon;Juggernaut;2011;jung;top;;icons/shyvana_icon.png;banners/shyvana_banner.jpg;790;3150
+Renata Glasc;The Chem-Baroness;Enchanter;2022;sup;bot;mid;icons/renata glasc_icon.png;banners/renata glasc_banner.jpg;975;6300
+Soraka;The Starchild;Enchanter;2009;sup;mid;bot;icons/soraka_icon.png;banners/soraka_banner.jpg;260;450
+Kayle;The Righteous;Specialist;2009;top;mid;jung;icons/kayle_icon.png;banners/kayle_banner.jpg;260;450
+Nocturne;The Eternal Nightmare;Assassin;2011;jung;;;icons/nocturne_icon.png;banners/nocturne_banner.jpg;880;4800
+Singed;Mad Chemist;Specialist;2009;top;jung;mid;icons/singed_icon.png;banners/singed_banner.jpg;260;450
+Kog'Maw;The Mouth of the Abyss;Marksman;2010;bot;mid;;icons/kog'maw_icon.png;banners/kog'maw_banner.jpg;880;4800
+Warwick;The Uncaged Wrath of Zaun;Diver;2009;jung;top;;icons/warwick_icon.png;banners/warwick_banner.jpg;260;450
+Anivia;The Cryophoenix;Battlemage;2009;mid;top;sup;icons/anivia_icon.png;banners/anivia_banner.jpg;790;3150
+Quinn;Demacia's Wings;Specialist;2013;top;mid;jung;icons/quinn_icon.png;banners/quinn_banner.jpg;880;4800
+Janna;The Storm's Fury;Enchanter;2009;sup;mid;;icons/janna_icon.png;banners/janna_banner.jpg;585;1350
+Vayne;The Night Hunter;Marksman;2011;bot;top;mid;icons/vayne_icon.png;banners/vayne_banner.jpg;880;4800
+Rammus;The Armordillo;Vanguard;2009;jung;;;icons/rammus_icon.png;banners/rammus_banner.jpg;585;1350
+Fizz;The Tidal Trickster;Assassin;2011;mid;top;;icons/fizz_icon.png;banners/fizz_banner.jpg;880;4800
+Zac;the Secret Weapon;Vanguard;2013;jung;;;icons/zac_icon.png;banners/zac_banner.jpg;880;4800
+Kayn;The Shadow Reaper;Skirmisher;2017;jung;;;icons/kayn_icon.png;banners/kayn_banner.jpg;975;6300
+Ornn;The Fire Below The Mountain;Vanguard;2017;top;mid;;icons/ornn_icon.png;banners/ornn_banner.jpg;975;6300
+Riven;The Exile;Skirmisher;2011;top;mid;jung;icons/riven_icon.png;banners/riven_banner.jpg;880;4800
+Malzahar;The Prophet of the Void;Battlemage;2010;mid;top;;icons/malzahar_icon.png;banners/malzahar_banner.jpg;880;4800
+Garen;The Might of Demacia;Juggernaut;2010;top;mid;jung;icons/garen_icon.png;banners/garen_banner.jpg;260;450
+Cho'Gath;The Terror of the Void;Specialist;2009;top;mid;jung;icons/cho'gath_icon.png;banners/cho'gath_banner.jpg;585;1350
+Cassiopeia;The Serpent's Embrace;Battlemage;2010;mid;top;bot;icons/cassiopeia_icon.png;banners/cassiopeia_banner.jpg;880;4800
+Veigar;The Tiny Master of Evil;Burst;2009;mid;bot;top;icons/veigar_icon.png;banners/veigar_banner.jpg;585;1350
+Wukong;The Monkey King;Diver;2011;jung;top;mid;icons/wukong_icon.png;banners/wukong_banner.jpg;880;4800
+Volibear;The Relentless Storm;Juggernaut;2011;jung;top;;icons/volibear_icon.png;banners/volibear_banner.jpg;880;4800
+Annie;The Dark Child;Burst;2009;mid;sup;top;icons/annie_icon.png;banners/annie_banner.jpg;260;450
+Talon;The Blade's Shadow;Assassin;2011;jung;mid;top;icons/talon_icon.png;banners/talon_banner.jpg;880;4800
+Fiora;The Grand Duelist;Skirmisher;2012;top;jung;mid;icons/fiora_icon.png;banners/fiora_banner.jpg;880;4800
+Zilean;The Chronokeeper;Specialist;2009;sup;mid;;icons/zilean_icon.png;banners/zilean_banner.jpg;585;1350
+Viktor;The Machine Herald;Battlemage;2011;mid;top;;icons/viktor_icon.png;banners/viktor_banner.jpg;880;4800
+Shen;Eye of Twilight;Warden;2010;top;mid;jung;icons/shen_icon.png;banners/shen_banner.jpg;790;3150
+Diana;The Scorn of the Moon;Assassin;2012;jung;mid;;icons/diana_icon.png;banners/diana_banner.jpg;880;4800
+Ziggs;The Hexplosives Expert;Artillery;2012;bot;mid;sup;icons/ziggs_icon.png;banners/ziggs_banner.jpg;880;4800
+Senna;The Redeemer;Marksman;2019;sup;bot;mid;icons/senna_icon.png;banners/senna_banner.jpg;975;6300
+Kled;The Cantankerous Cavalier;Skirmisher;2016;top;mid;jung;icons/kled_icon.png;banners/kled_banner.jpg;975;6300
+Yorick;The Shepherd of Lost Souls;Juggernaut;2011;top;mid;jung;icons/yorick_icon.png;banners/yorick_banner.jpg;880;4800
+Ahri;The Nine-Tailed Fox;Burst;2011;mid;top;;icons/ahri_icon.png;banners/ahri_banner.jpg;880;4800
+Nami;the Tidecaller;Enchanter;2012;sup;bot;;icons/nami_icon.png;banners/nami_banner.jpg;880;4800
+Tahm Kench;The River King;Warden;2015;top;sup;bot;icons/tahm kench_icon.png;banners/tahm kench_banner.jpg;975;6300
+Mordekaiser;The Iron Revenant;Juggernaut;2010;top;jung;mid;icons/mordekaiser_icon.png;banners/mordekaiser_banner.jpg;585;1350
+Kha'Zix;The Voidreaver;Assassin;2012;jung;;;icons/kha'zix_icon.png;banners/kha'zix_banner.jpg;880;4800
+Aurelion Sol;The Star Forger;Battlemage;2016;mid;top;;icons/aurelion sol_icon.png;banners/aurelion sol_banner.jpg;975;6300
+Tristana;The Megling Gunner;Marksman;2009;bot;mid;;icons/tristana_icon.png;banners/tristana_banner.jpg;585;1350
+Nunu & Willump;The Boy and His Yeti;Vanguard;2009;jung;;;icons/nunu & willump_icon.png;banners/nunu & willump_banner.jpg;260;450
+Trundle;The Troll King;Juggernaut;2010;jung;top;;icons/trundle_icon.png;banners/trundle_banner.jpg;790;3150
+Master Yi;The Wuju Bladesman;Skirmisher;2009;jung;;;icons/master yi_icon.png;banners/master yi_banner.jpg;260;450
+Vladimir;The Crimson Reaper;Battlemage;2010;mid;top;;icons/vladimir_icon.png;banners/vladimir_banner.jpg;790;3150
+Vi;the Piltover Enforcer;Diver;2012;jung;;;icons/vi_icon.png;banners/vi_banner.jpg;880;4800
+Heimerdinger;The Revered Inventor;Specialist;2009;mid;top;bot;icons/heimerdinger_icon.png;banners/heimerdinger_banner.jpg;790;3150
+Malphite;Shard of the Monolith;Vanguard;2009;top;mid;;icons/malphite_icon.png;banners/malphite_banner.jpg;585;1350
+Ashe;The Frost Archer;Marksman;2009;bot;sup;mid;icons/ashe_icon.png;banners/ashe_banner.jpg;260;450
+Qiyana;Empress of the Elements;Assassin;2019;mid;jung;top;icons/qiyana_icon.png;banners/qiyana_banner.jpg;975;6300
+Lucian;the Purifier;Marksman;2013;bot;mid;;icons/lucian_icon.png;banners/lucian_banner.jpg;975;6300
+Skarner;The Crystal Vanguard;Diver;2011;jung;top;;icons/skarner_icon.png;banners/skarner_banner.jpg;880;4800
+Rengar;The Pridestalker;Assassin;2012;jung;top;;icons/rengar_icon.png;banners/rengar_banner.jpg;880;4800
+Dr. Mundo;The Madman of Zaun;Juggernaut;2009;top;jung;mid;icons/dr. mundo_icon.png;banners/dr. mundo_banner.jpg;260;450
+Udyr;The Animal Spirit;Juggernaut;2009;jung;top;;icons/udyr_icon.png;banners/udyr_banner.jpg;585;1350
+Lillia;The Bashful Bloom;Skirmisher;2020;jung;top;;icons/lillia_icon.png;banners/lillia_banner.jpg;975;7800
+Camille;The Steel Shadow;Diver;2016;top;jung;mid;icons/camille_icon.png;banners/camille_banner.jpg;975;6300
+Urgot;The Dreadnought;Juggernaut;2010;top;mid;jung;icons/urgot_icon.png;banners/urgot_banner.jpg;790;3150
+Twitch;The Plague Rat;Marksman;2009;bot;jung;mid;icons/twitch_icon.png;banners/twitch_banner.jpg;790;3150
+Illaoi;The Kraken Priestess;Juggernaut;2015;top;mid;jung;icons/illaoi_icon.png;banners/illaoi_banner.jpg;975;6300
+Akshan;The Rogue Sentinel;Marksman;2021;mid;top;jung;icons/akshan_icon.png;banners/akshan_banner.jpg;975;6300
+Bard;The Wandering Caretaker;Catcher;2015;sup;mid;;icons/bard_icon.png;banners/bard_banner.jpg;975;6300
+Zyra;The Rise of the Thorns;Catcher;2012;sup;mid;;icons/zyra_icon.png;banners/zyra_banner.jpg;880;4800
+Yasuo;the Unforgiven;Skirmisher;2013;mid;top;bot;icons/yasuo_icon.png;banners/yasuo_banner.jpg;975;6300
+Nasus;The Curator of the Sands;Juggernaut;2009;top;mid;jung;icons/nasus_icon.png;banners/nasus_banner.jpg;585;1350
+Shaco;The Demon Jester;Assassin;2009;jung;sup;;icons/shaco_icon.png;banners/shaco_banner.jpg;790;3150
+Sivir;The Battle Mistress;Marksman;2009;bot;mid;;icons/sivir_icon.png;banners/sivir_banner.jpg;260;450
+Samira;The Desert Rose;Marksman;2020;bot;mid;;icons/samira_icon.png;banners/samira_banner.jpg;975;6300
+Miss Fortune;The Bounty Hunter;Marksman;2010;bot;mid;;icons/miss fortune_icon.png;banners/miss fortune_banner.jpg;790;3150
+Teemo;The Swift Scout;Specialist;2009;top;jung;mid;icons/teemo_icon.png;banners/teemo_banner.jpg;585;1350
+Yuumi;The Magical Cat;Enchanter;2019;sup;mid;;icons/yuumi_icon.png;banners/yuumi_banner.jpg;975;6300
+Blitzcrank;The Great Steam Golem;Catcher;2009;sup;mid;bot;icons/blitzcrank_icon.png;banners/blitzcrank_banner.jpg;790;3150
+Sett;The Boss;Juggernaut;2020;top;mid;jung;icons/sett_icon.png;banners/sett_banner.jpg;975;6300
+Maokai;The Twisted Treant;Vanguard;2011;sup;top;jung;icons/maokai_icon.png;banners/maokai_banner.jpg;880;4800
+Jhin;The Virtuoso;Marksman;2016;bot;mid;;icons/jhin_icon.png;banners/jhin_banner.jpg;975;6300
+Ekko;The Boy Who Shattered Time;Assassin;2015;jung;mid;;icons/ekko_icon.png;banners/ekko_banner.jpg;975;6300
+Lulu;The Fae Sorceress;Enchanter;2012;sup;;;icons/lulu_icon.png;banners/lulu_banner.jpg;880;4800
+Evelynn;Agony's Embrace;Assassin;2009;jung;;;icons/evelynn_icon.png;banners/evelynn_banner.jpg;585;1350
+Jinx;the Loose Cannon;Marksman;2013;bot;mid;;icons/jinx_icon.png;banners/jinx_banner.jpg;975;6300
+Vex;The Gloomist;Burst;2021;mid;;;icons/vex_icon.png;banners/vex_banner.jpg;975;6300
+Xayah;The Rebel;Marksman;2017;bot;mid;;icons/xayah_icon.png;banners/xayah_banner.jpg;975;6300
+Rek'Sai;The Void Burrower;Diver;2014;jung;;;icons/rek'sai_icon.png;banners/rek'sai_banner.jpg;975;6300
+Lissandra;the Ice Witch;Burst;2013;mid;top;;icons/lissandra_icon.png;banners/lissandra_banner.jpg;880;4800
+Kindred;The Eternal Hunters;Marksman;2015;jung;;;icons/kindred_icon.png;banners/kindred_banner.jpg;975;6300
+Jax;Grandmaster at Arms;Skirmisher;2009;top;jung;mid;icons/jax_icon.png;banners/jax_banner.jpg;585;1350
+Fiddlesticks;The Ancient Fear;Specialist;2009;jung;sup;;icons/fiddlesticks_icon.png;banners/fiddlesticks_banner.jpg;585;1350
+Kassadin;The Void Walker;Assassin;2009;mid;top;;icons/kassadin_icon.png;banners/kassadin_banner.jpg;790;3150
+Darius;The Hand of Noxus;Juggernaut;2012;top;jung;mid;icons/darius_icon.png;banners/darius_banner.jpg;880;4800
+Xerath;The Magus Ascendant;Artillery;2011;sup;mid;bot;icons/xerath_icon.png;banners/xerath_banner.jpg;880;4800
+Yone;The Unforgotten;Assassin;2020;mid;top;jung;icons/yone_icon.png;banners/yone_banner.jpg;975;6300
+Taliyah;The Stoneweaver;Battlemage;2016;jung;mid;sup;icons/taliyah_icon.png;banners/taliyah_banner.jpg;975;6300
+Sejuani;Fury of the North;Vanguard;2012;jung;top;;icons/sejuani_icon.png;banners/sejuani_banner.jpg;880;4800
+Vel'Koz;Eye of the Void;Artillery;2014;sup;mid;bot;icons/vel'koz_icon.png;banners/vel'koz_banner.jpg;975;6300
+Swain;The Noxian Grand General;Battlemage;2010;sup;mid;top;icons/swain_icon.png;banners/swain_banner.jpg;880;4800
+Poppy;Keeper of the Hammer;Warden;2010;jung;top;sup;icons/poppy_icon.png;banners/poppy_banner.jpg;260;450
+Zed;the Master of Shadows;Assassin;2012;mid;jung;top;icons/zed_icon.png;banners/zed_banner.jpg;880;4800
+Rakan;The Charmer;Catcher;2017;sup;mid;bot;icons/rakan_icon.png;banners/rakan_banner.jpg;975;6300
+Morgana;The Fallen;Catcher;2009;sup;mid;bot;icons/morgana_icon.png;banners/morgana_banner.jpg;585;1350
+Taric;The Shield of Valoran;Enchanter;2009;sup;jung;mid;icons/taric_icon.png;banners/taric_banner.jpg;585;1350
+Nautilus;The Titan of the Depths;Vanguard;2012;sup;mid;bot;icons/nautilus_icon.png;banners/nautilus_banner.jpg;880;4800
+Alistar;The Minotaur;Vanguard;2009;sup;mid;bot;icons/alistar_icon.png;banners/alistar_banner.jpg;585;1350
+Draven;The Glorious Executioner;Marksman;2012;bot;mid;;icons/draven_icon.png;banners/draven_banner.jpg;880;4800
+Aatrox;the Darkin Blade;Juggernaut;2013;top;mid;jung;icons/aatrox_icon.png;banners/aatrox_banner.jpg;880;4800
+Orianna;The Lady of Clockwork;Burst;2011;mid;top;;icons/orianna_icon.png;banners/orianna_banner.jpg;880;4800
+Karthus;The Deathsinger;Battlemage;2009;jung;bot;mid;icons/karthus_icon.png;banners/karthus_banner.jpg;790;3150
+Azir;The Emperor of the Sands;Specialist;2014;mid;top;;icons/azir_icon.png;banners/azir_banner.jpg;975;6300
+Kennen;The Heart of the Tempest;Specialist;2010;top;mid;;icons/kennen_icon.png;banners/kennen_banner.jpg;880;4800
+Zoe;The Aspect of Twilight;Burst;2017;mid;top;;icons/zoe_icon.png;banners/zoe_banner.jpg;975;6300
+Brand;The Burning Vengeance;Burst;2011;sup;mid;bot;icons/brand_icon.png;banners/brand_banner.jpg;880;4800
+Xin Zhao;The Seneschal of Demacia;Diver;2010;jung;;;icons/xin zhao_icon.png;banners/xin zhao_banner.jpg;585;1350
+Sylas;The Unshackled;Burst;2019;mid;top;;icons/sylas_icon.png;banners/sylas_banner.jpg;975;6300
+Pantheon;The Unbreakable Spear;Diver;2010;mid;sup;top;icons/pantheon_icon.png;banners/pantheon_banner.jpg;790;3150
+Graves;The Outlaw;Specialist;2011;jung;top;mid;icons/graves_icon.png;banners/graves_banner.jpg;880;4800
+Irelia;The Blade Dancer;Diver;2010;top;mid;jung;icons/irelia_icon.png;banners/irelia_banner.jpg;880;4800
+Lux;The Lady of Luminosity;Burst;2010;sup;mid;;icons/lux_icon.png;banners/lux_banner.jpg;790;3150
+Pyke;The Bloodharbor Ripper;Assassin;2018;sup;mid;bot;icons/pyke_icon.png;banners/pyke_banner.jpg;975;6300
+Neeko;The Curious Chameleon;Burst;2018;mid;top;sup;icons/neeko_icon.png;banners/neeko_banner.jpg;975;6300
+Rumble;The Mechanized Menace;Battlemage;2011;top;mid;jung;icons/rumble_icon.png;banners/rumble_banner.jpg;880;4800
+Corki;The Daring Bombardier;Marksman;2009;mid;top;;icons/corki_icon.png;banners/corki_banner.jpg;790;3150
+Ivern;The Green Father;Catcher;2016;jung;sup;mid;icons/ivern_icon.png;banners/ivern_banner.jpg;975;6300
+Akali;The Rogue Assassin;Assassin;2010;mid;top;;icons/akali_icon.png;banners/akali_banner.jpg;790;3150
+Kai'Sa;Daughter of the Void;Marksman;2018;bot;mid;;icons/kai'sa_icon.png;banners/kai'sa_banner.jpg;975;6300
+Seraphine;The Starry-Eyed Songstress;Burst;2020;sup;bot;mid;icons/seraphine_icon.png;banners/seraphine_banner.jpg;975;6300
+Kalista;The Spear of Vengeance;Marksman;2014;bot;mid;top;icons/kalista_icon.png;banners/kalista_banner.jpg;975;6300
+Rell;The Iron Maiden;Vanguard;2020;sup;mid;bot;icons/rell_icon.png;banners/rell_banner.jpg;975;6300
+Katarina;The Sinister Blade;Assassin;2009;mid;top;;icons/katarina_icon.png;banners/katarina_banner.jpg;790;3150
+Karma;The Enlightened One;Burst;2011;sup;mid;top;icons/karma_icon.png;banners/karma_banner.jpg;790;3150
+Amumu;The Sad Mummy;Vanguard;2009;jung;sup;;icons/amumu_icon.png;banners/amumu_banner.jpg;260;450
+Braum;the Heart of the Freljord;Warden;2014;sup;mid;bot;icons/braum_icon.png;banners/braum_banner.jpg;975;6300
+Gragas;The Rabble Rouser;Vanguard;2010;top;jung;mid;icons/gragas_icon.png;banners/gragas_banner.jpg;790;3150
+Viego;The Ruined King;Skirmisher;2021;jung;;;icons/viego_icon.png;banners/viego_banner.jpg;975;6300
+Jarvan IV;The Exemplar of Demacia;Diver;2011;jung;;;icons/jarvan iv_icon.png;banners/jarvan iv_banner.jpg;880;4800
+Gwen;The Hallowed Seamstress;Skirmisher;2021;top;jung;mid;icons/gwen_icon.png;banners/gwen_banner.jpg;975;7800
+Ezreal;The Prodigal Explorer;Marksman;2010;bot;mid;;icons/ezreal_icon.png;banners/ezreal_banner.jpg;880;4800
+Gnar;The Missing Link;Specialist;2014;top;mid;jung;icons/gnar_icon.png;banners/gnar_banner.jpg;975;6300
+Gangplank;The Saltwater Scourge;Specialist;2009;top;mid;jung;icons/gangplank_icon.png;banners/gangplank_banner.jpg;790;3150
+Tryndamere;The Barbarian King;Skirmisher;2009;top;mid;jung;icons/tryndamere_icon.png;banners/tryndamere_banner.jpg;585;1350
+Twisted Fate;The Card Master;Burst;2009;mid;top;;icons/twisted fate_icon.png;banners/twisted fate_banner.jpg;585;1350
+Sion;The Undead Juggernaut;Vanguard;2009;top;mid;jung;icons/sion_icon.png;banners/sion_banner.jpg;585;1350
+Galio;The Colossus;Warden;2010;mid;sup;top;icons/galio_icon.png;banners/galio_banner.jpg;790;3150
+Leona;The Radiant Dawn;Vanguard;2011;sup;mid;bot;icons/leona_icon.png;banners/leona_banner.jpg;880;4800
+Jayce;The Defender of Tomorrow;Artillery;2012;top;mid;jung;icons/jayce_icon.png;banners/jayce_banner.jpg;880;4800
+Nidalee;The Bestial Huntress;Specialist;2009;jung;;;icons/nidalee_icon.png;banners/nidalee_banner.jpg;790;3150
+Caitlyn;The Sheriff of Piltover;Marksman;2011;bot;mid;;icons/caitlyn_icon.png;banners/caitlyn_banner.jpg;880;4800
+Hecarim;The Shadow of War;Diver;2012;jung;;;icons/hecarim_icon.png;banners/hecarim_banner.jpg;880;4800
+Elise;The Spider Queen;Diver;2012;jung;;;icons/elise_icon.png;banners/elise_banner.jpg;880;4800
+Olaf;The Berserker;Diver;2010;jung;top;;icons/olaf_icon.png;banners/olaf_banner.jpg;790;3150
+Syndra;The Dark Sovereign;Burst;2012;mid;bot;top;icons/syndra_icon.png;banners/syndra_banner.jpg;880;4800
+Varus;The Arrow of Retribution;Marksman;2012;bot;mid;;icons/varus_icon.png;banners/varus_banner.jpg;880;4800
+LeBlanc;The Deceiver;Burst;2010;mid;;;icons/leblanc_icon.png;banners/leblanc_banner.jpg;790;3150
+Renekton;The Butcher of the Sands;Diver;2011;top;mid;jung;icons/renekton_icon.png;banners/renekton_banner.jpg;880;4800
+Thresh;The Chain Warden;Catcher;2013;sup;mid;bot;icons/thresh_icon.png;banners/thresh_banner.jpg;880;4800
+Lee Sin;The Blind Monk;Diver;2011;jung;;;icons/lee sin_icon.png;banners/lee sin_banner.jpg;880;4800
+Zeri;The Spark of Zaun;Marksman;2022;bot;mid;;icons/zeri_icon.png;banners/zeri_banner.jpg;975;6300
+Aphelios;The Weapon of the Faithful;Marksman;2019;bot;mid;;icons/aphelios_icon.png;banners/aphelios_banner.jpg;975;6300
+Ryze;The Rogue Mage;Battlemage;2009;mid;top;;icons/ryze_icon.png;banners/ryze_banner.jpg;260;450

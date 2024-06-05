@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F371EFA-D926-4C10-BF65-049C4AEA17D0}|LeagueClassLibrary\\LeagueClassLibrary.csproj|C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\leagueclasslibrary\\dataaccess\\matchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F371EFA-D926-4C10-BF65-049C4AEA17D0}|LeagueClassLibrary\\LeagueClassLibrary.csproj|solutionrelative:leagueclasslibrary\\dataaccess\\matchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6FC19C-A48A-4725-A8FE-615A70CB5CAC}|LeagueSimulator\\LeagueSimulator.csproj|C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\leaguesimulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6FC19C-A48A-4725-A8FE-615A70CB5CAC}|LeagueSimulator\\LeagueSimulator.csproj|solutionrelative:leaguesimulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F371EFA-D926-4C10-BF65-049C4AEA17D0}|LeagueClassLibrary\\LeagueClassLibrary.csproj|c:\\users\\gebruiker\\downloads\\achternaam_voornaam_klas_vak_1ezit_examenlokaal.zip\\leagueclasslibrary\\dataaccess\\championdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F371EFA-D926-4C10-BF65-049C4AEA17D0}|LeagueClassLibrary\\LeagueClassLibrary.csproj|solutionrelative:leagueclasslibrary\\dataaccess\\championdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F371EFA-D926-4C10-BF65-049C4AEA17D0}|LeagueClassLibrary\\LeagueClassLibrary.csproj|C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\leagueclasslibrary\\dataaccess\\abilitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F371EFA-D926-4C10-BF65-049C4AEA17D0}|LeagueClassLibrary\\LeagueClassLibrary.csproj|solutionrelative:leagueclasslibrary\\dataaccess\\abilitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6FC19C-A48A-4725-A8FE-615A70CB5CAC}|LeagueSimulator\\LeagueSimulator.csproj|C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\leaguesimulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E6FC19C-A48A-4725-A8FE-615A70CB5CAC}|LeagueSimulator\\LeagueSimulator.csproj|solutionrelative:leaguesimulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueSimulator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LeagueSimulator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueSimulator\\MainWindow.xaml",
+              "RelativeToolTip": "LeagueSimulator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T14:13:44.819Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbilityData.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueClassLibrary\\DataAccess\\AbilityData.cs",
+              "RelativeDocumentMoniker": "LeagueClassLibrary\\DataAccess\\AbilityData.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueClassLibrary\\DataAccess\\AbilityData.cs",
+              "RelativeToolTip": "LeagueClassLibrary\\DataAccess\\AbilityData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:28:25.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchData.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueClassLibrary\\DataAccess\\MatchData.cs",
+              "RelativeDocumentMoniker": "LeagueClassLibrary\\DataAccess\\MatchData.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueClassLibrary\\DataAccess\\MatchData.cs",
+              "RelativeToolTip": "LeagueClassLibrary\\DataAccess\\MatchData.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:27:27.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueSimulator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LeagueSimulator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueSimulator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LeagueSimulator\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAEwFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:42:13.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChampionData.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueClassLibrary\\DataAccess\\ChampionData.cs",
+              "RelativeDocumentMoniker": "LeagueClassLibrary\\DataAccess\\ChampionData.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueClassLibrary\\DataAccess\\ChampionData.cs",
+              "RelativeToolTip": "LeagueClassLibrary\\DataAccess\\ChampionData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:13:38.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
