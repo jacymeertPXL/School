@@ -16,6 +16,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace LeagueSimulator
 {
@@ -25,12 +26,30 @@ namespace LeagueSimulator
     public partial class MainWindow : Window
     {
 
+        private DispatcherTimer timer = new DispatcherTimer();
+
         private Match currentMatch;
 
         public MainWindow()
         {
             InitializeComponent();
             InitializePositions();
+
+            timer = new DispatcherTimer();
+            timer.Interval = TimeSpan.FromSeconds(0.5);
+            timer.Tick += Timer_Tick;
+            timer.Start();
+        }
+
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            if (CheckBoxLaadChamionData.IsChecked == true && CheckBoxLaadAbilityData.IsChecked == true)
+            {
+                TabItemSimuleerMatch.IsEnabled = true;
+                TabItemOverzichtMatches.IsEnabled = true;
+                //DataGridChampions.ItemsSource = ChampionData.GetDataViewChampion();
+                //DataGridMatches.ItemsSource = MatchData.GetDataViewMatches();
+            }
         }
 
         private void InitializePositions()
@@ -41,7 +60,7 @@ namespace LeagueSimulator
 
         private void LaadChampionDataButton_Click(object sender, RoutedEventArgs e)
         {
-            ChampionData.LoadCSV("C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueSimulator\\csv\\leagueOfLegendsChampions.csv");
+            ChampionData.LoadCSV("C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\proefexamen\\LeagueSimulator\\csv\\leagueOfLegendsChampions.csv");
             DataGridChampions.ItemsSource = ChampionData.GetDataViewChampion();
             if (DataGridChampions.ItemsSource != null)
             {
@@ -51,19 +70,8 @@ namespace LeagueSimulator
 
         private void LaadAbilityDataButton_Click(object sender, RoutedEventArgs e)
         {
-            AbilityData.LoadCSV("C:\\Users\\Gebruiker\\Downloads\\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\\LeagueSimulator\\csv\\leagueOfLegendsAbilities.csv");
+            //AbilityData.LoadCSV("C:\\Users\\Gebruiker\\Documents\\GitHub\\jacymeertPXL\\Computer_Science\\Jaar_01\\Trimester_02\\C# Advanced\\proefexamen\\LeagueSimulator\\csv\\leagueOfLegendsAbilities.csv");
             CheckBoxLaadAbilityData.IsChecked = true;
-        }
-
-        private void EnableTabsEnDataGridAlsDataGeladen()
-        {
-            if (CheckBoxLaadChamionData.IsChecked == true && CheckBoxLaadAbilityData.IsChecked == true)
-            {
-                TabItemSimuleerMatch.IsEnabled = true;
-                TabItemOverzichtMatches.IsEnabled = true;
-                DataGridChampions.ItemsSource = ChampionData.GetDataViewChampion();
-                DataGridMatches.ItemsSource = MatchData.GetDataViewMatches();
-            }
         }
 
         private void ComboBoxPositions_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -89,10 +97,25 @@ namespace LeagueSimulator
         {
             if (DataGridChampions.SelectedItem != null)
             {
-                Champion selectedChampion = (Champion)DataGridChampions.SelectedItem;
-                TextBlockChampionTitle.Text = $"{selectedChampion.Name} - {selectedChampion.Title}";
-                ImageChampion.Source = new BitmapImage(new Uri(selectedChampion.IconSource, UriKind.Relative));
+                if (DataGridChampions.SelectedItem is Champion)
+                {
+                    // Als het geselecteerde item een Champion object is
+                    Champion selectedChampion = (Champion)DataGridChampions.SelectedItem;
+                    TextBlockChampionTitle.Text = $"{selectedChampion.Name} - {selectedChampion.Title}";
+                    ImageChampion.Source = new BitmapImage(new Uri(selectedChampion.IconSource, UriKind.Relative));
+                }
+                else if (DataGridChampions.SelectedItem is DataRowView)
+                {
+                    // Als het geselecteerde item een DataRowView object is
+                    DataRowView selectedDataRow = (DataRowView)DataGridChampions.SelectedItem;
+                    string name = selectedDataRow["ChampionName"].ToString();
+                    string title = selectedDataRow["ChampionTitle"].ToString();
+                    string iconSource = selectedDataRow["ChampionIcon"].ToString();
+                    TextBlockChampionTitle.Text = $"{name} - {title}";
+                    ImageChampion.Source = new BitmapImage(new Uri(iconSource, UriKind.Relative));
+                }
             }
+
         }
 
         private void LaadChampion(int indexChampion, int team)

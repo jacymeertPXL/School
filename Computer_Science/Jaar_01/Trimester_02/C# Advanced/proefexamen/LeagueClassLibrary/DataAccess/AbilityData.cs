@@ -19,10 +19,10 @@ namespace LeagueClassLibrary.DataAccess
                 Abilities.Clear();
                 using (StreamReader sr = new StreamReader(padNaarCsv))
                 {
-                    string[] headers = sr.ReadLine().Split(',');
+                    string[] headers = sr.ReadLine().Split(';');
                     while (!sr.EndOfStream)
                     {
-                        string[] fields = sr.ReadLine().Split(',');
+                        string[] fields = sr.ReadLine().Split(';');
                         Abilities.Add(new Ability(int.Parse(fields[0]), fields[1], fields[2]));
                     }
                 }

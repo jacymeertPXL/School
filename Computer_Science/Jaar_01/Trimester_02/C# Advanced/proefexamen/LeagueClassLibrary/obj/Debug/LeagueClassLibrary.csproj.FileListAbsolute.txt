@@ -4,3 +4,9 @@ C:\Users\Gebruiker\Downloads\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip
 C:\Users\Gebruiker\Downloads\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Gebruiker\Downloads\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.dll
 C:\Users\Gebruiker\Downloads\Achternaam_Voornaam_Klas_Vak_1ezit_Examenlokaal.zip\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.pdb
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\proefexamen\LeagueClassLibrary\bin\Debug\LeagueClassLibrary.dll
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\proefexamen\LeagueClassLibrary\bin\Debug\LeagueClassLibrary.pdb
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\proefexamen\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\proefexamen\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\proefexamen\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.dll
+C:\Users\Gebruiker\Documents\GitHub\jacymeertPXL\Computer_Science\Jaar_01\Trimester_02\C# Advanced\proefexamen\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.pdb
