@@ -1,0 +1,6 @@
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\BewerkenLib\bin\Release\BewerkenLib.dll
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\BewerkenLib\bin\Release\BewerkenLib.pdb
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\BewerkenLib\obj\Release\BewerkenLib.csproj.AssemblyReference.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\BewerkenLib\obj\Release\BewerkenLib.csproj.CoreCompileInputs.cache
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\BewerkenLib\obj\Release\BewerkenLib.dll
+C:\Users\12200178\Desktop\Computer Science\Computer_Science\Jaar_01\Trimester_02\C# Advanced\Praktijk\H4\BewerkenLib\obj\Release\BewerkenLib.pdb
