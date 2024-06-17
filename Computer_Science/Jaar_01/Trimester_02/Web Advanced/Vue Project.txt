@@ -1,0 +1,85 @@
+Vue Project
+
+Alle functionaleiteiten die hier worden gevraagd moeten dynamish werken. Al worden er morgen 20 extra games toegevoed moeten de gevraagde functionaleiteiten nog altijd werken.
+
+
+Stap 1 Router link
+Voeg aan het project een nieuwe link toe bovenaan de pagine met de tekst Examan als op deze link wordt geklikt moet de ExamenView op beeld  komen.
+
+
+Stap 2 ExamenView 
+Bovenaan de ExamenView component voek je een h1 emelent toe de tekst die in de h1 moet komen te staan, Game list, kan je terugvinden in de pinia store.
+
+Verder rendert de Examenview onder de titel een Gamelist component.
+
+Stap 3 Gamelist
+in de startbestand kan je de data.js file terugvinden. Deze data moet je kopierenen en op de correcte manier op comonentnieuviue behouden, dus als state in de Gamelist component.
+
+Laat vervolgens voor elk van de game objecten in de array een GameCard component zien.
+je moet voor elk item in de array een GameCard component geredert zijn.
+
+Als de GameList component gerendert is, en er is nog niet op een knop "show reviews" gekilkt. Dan zal nog geen enkele review zichtbaar zijn op de pagina.
+
+Stap 4 GameCard
+1. Elke GameCard component krijgt van zijn parent component een enkel game-object binnen.
+
+2.Zorg ervoor dat alle Gegevens van het card-object dat de img links staat dan de tile rechts ervan en daaar onder de review en daar onder de button Show review
+Als een review groter of gelijk aan 80 is moet je het percentage in het groen weergeven worden. is het percentage minder dan 80, dan toen je die in orangje.
+
+3.Als de show review knop wordt geklikt moeten de reviews van de daarbij horende game te zien zijn naast de lijst van games. Deze reviews render je in de GameList component
+
+4.Als de recommender-property van een review false is moet de naam van de persoon die de review heeft geschreven in het rood komen te staant. anders in het groen de reviews komen recht van onze Gamecard te staan en dan elke review onder elkaar
+
+dit is gegeven data.js 
+
+const games = [
+    {
+        name: "Elden Ring",
+        steamReviewScore: 96,
+        reviews: [
+            {username: "KnightSlayer", reviewText: "A masterpiece!", recommend: true},
+            {username: "DarkSoulFan", reviewText: "Breathtaking open world.", recommend: true}
+        ],
+        imgPath: 'elden-ring.jpg'
+    },
+    {
+        name: "Helldivers 2",
+        steamReviewScore: 74,
+        reviews: [
+            {username: "StarshipTrooper", reviewText: "Intense co-op gameplay.", recommend: true},
+            {
+                username: "1337G4M3R",
+                reviewText: "PSN account required on PC? What are we, console peasants?",
+                recommend: false
+            }
+        ],
+        imgPath: 'helldivers2.jpg'
+    },
+    {
+        name: "Death Must Die",
+        steamReviewScore: 97,
+        reviews: [
+            {username: "GrimReaper", reviewText: "Addictive boss fights.", recommend: true},
+            {username: "SoulCollector", reviewText: "Eerie soundtrack.", recommend: true}
+        ],
+        imgPath: 'death-must-die.jpg'
+    },
+    {
+        name: "Hollow Knight",
+        steamReviewScore: 97,
+        reviews: [
+            {username: "SilkSongFan", reviewText: "Mesmerizing art.", recommend: true},
+            {username: "xX_N00BDELETER_Xx", reviewText: "The game is too difficult!!", recommend: false}
+        ],
+        imgPath: 'hollow-knight.jpg'
+    },
+    {
+        name: "Rotwood",
+        steamReviewScore: 74,
+        reviews: [
+            {username: "ForestGuardian", reviewText: "Satisfying combat.", recommend: true},
+            {username: "MysticMage", reviewText: "Engaging customization.", recommend: true}
+        ],
+        imgPath: 'rotwood.jpg'
+    }
+];
