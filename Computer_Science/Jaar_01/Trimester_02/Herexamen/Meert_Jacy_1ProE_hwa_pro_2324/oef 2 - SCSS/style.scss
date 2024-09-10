@@ -1,0 +1,37 @@
+$primaire-kleur: red;
+$groene-kleur: green;
+$geele-kleur: yellow;
+
+@mixin overlay() {
+  font-size: 25px;
+  font-weight: bold;
+  border: 1px solid blue;
+}
+
+nav {
+  ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    li{
+      display: inline-block;
+      a{
+        display: block;
+        padding: 6px 12px;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+footer{
+  color: $primaire-kleur;
+  @include overlay();
+  background-color: $geele-kleur;
+}
+
+.article{
+  color: $primaire-kleur;
+  @include overlay();
+  background-color: $groene-kleur;
+}

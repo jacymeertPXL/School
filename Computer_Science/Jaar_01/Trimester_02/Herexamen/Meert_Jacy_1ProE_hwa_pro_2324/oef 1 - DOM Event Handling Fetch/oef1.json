@@ -1,0 +1,46 @@
+{
+  "bordspellen": [
+  {
+    "Naam": "Terraforming mars",
+    "Publicatiedatum": 2016,
+    "Spelers": "1-5",
+    "Moeilijkheidsgraad": 3.25,
+    "Prijs": 57.99
+  },
+  {
+    "Naam": "Juicy Fruit",
+    "Publicatiedatum": 2021,
+    "Spelers": "1-4",
+    "Moeilijkheidsgraad": 1.97,
+    "Prijs": 33.99
+  },
+  {
+    "Naam": "Cascadia",
+    "Publicatiedatum": 2021,
+    "Spelers": "1-4",
+    "Moeilijkheidsgraad": 1.88,
+    "Prijs": 44.99
+  },
+  {
+    "Naam": "It is a wonderful world",
+    "Publicatiedatum": 2019,
+    "Spelers": "1-5",
+    "Moeilijkheidsgraad": 2.30,
+    "Prijs": 39.99
+  },
+  {
+    "Naam": "Takenoko",
+    "Publicatiedatum": 2011,
+    "Spelers": "2-4",
+    "Moeilijkheidsgraad": 1.97,
+    "Prijs": 38.99
+  },
+  {
+    "Naam": "Tiny Towns",
+    "Publicatiedatum": 2019,
+    "Spelers": "1-6",
+    "Moeilijkheidsgraad": 2.07,
+    "Prijs": 39.99
+  }
+ ]
+}
