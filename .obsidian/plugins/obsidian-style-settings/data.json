@@ -1,0 +1,12 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anp-colorful-frame": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": true,
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-honey-milk-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true
+}

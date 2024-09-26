@@ -10,9 +10,15 @@
           {
             "id": "f9d074f6fc3af411",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md"
+              }
             }
           }
         ]
@@ -138,8 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9d074f6fc3af411",
+  "active": "71b9d9b27c376db0",
   "lastOpenFiles": [
+    "Computer_Science/Jaar_02/Trimester_01/Data_advanced/Week 02.md",
+    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+    "Computer_Science/Jaar_02/Trimester_01/Data_advanced/Week 01.md",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Bestand Opvragen Wpf.md",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Praktijk",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/Untitled",
