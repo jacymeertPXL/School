@@ -49,7 +49,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md"
+                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md"
               }
             }
           }
@@ -176,17 +177,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71b9d9b27c376db0",
+  "active": "4ea2e8b9c81f881d",
   "lastOpenFiles": [
-    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+    "Pasted image 20241001134429.png",
+    "Psychologie/Algemene Psychologie/Img/Pasted image 20241001134503.png",
+    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
+    "Psychologie/Algemene Psychologie/Img/Pasted image 20241001133227.png",
+    "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001132323.png",
+    "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001132240.png",
     "Psychologie/Levensloop Psychologie/Toetsen/Toets 01.md",
     "Psychologie/Levensloop Psychologie/Toetsen/Untitled",
     "Psychologie/Levensloop Psychologie/Toetsen",
     "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001094909.png",
     "Psychologie/Levensloop Psychologie/Img",
     "Psychologie/Levensloop Psychologie/Untitled.md",
-    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
     "Psychologie/Levensloop Psychologie",
     "Examen Vragen Projectmanagement.pdf",
     "Psychologie/Levensloop Psychologie/Img",

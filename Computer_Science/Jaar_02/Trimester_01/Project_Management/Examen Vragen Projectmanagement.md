@@ -70,6 +70,13 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
 ---
 
 # Hoofdstuk 06
+- SWOT-analyse 
+	- **Sterkte**: Kostenbesparing door zuinige energie. - 
+	- **Zwakte**: Onvoldoende parkeerplaatsen. - 
+	- **Kans**: - Extra inkomsten; we kunnen de extra ruimte verhuren. - Bedrijven bieden contracten aan aan laatstejaarsstudenten. - 
+	 - **Bedreiging**: Eenzelfde soort gebouw op een andere locatie; bedrijven in de buurt verkiezen dit gebouw.
+
+---
 
 # Hoofdstuk 07
 

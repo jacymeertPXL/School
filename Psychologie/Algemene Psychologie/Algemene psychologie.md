@@ -29,6 +29,8 @@
 
 ![[Pasted image 20240928184823.png]]
 
+![[Pasted image 20241001134503.png]]
+
 ---
 
 # HC 02
