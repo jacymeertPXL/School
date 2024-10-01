@@ -48,7 +48,7 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
 
 ---
 
-# Hoofdstuk 04 - BPMN en Processen
+# Hoofdstuk 04 & 05
 
 ## Begrippen
 
@@ -68,8 +68,6 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
 4. Taken
 
 ---
-
-# Hoofdstuk 05
 
 # Hoofdstuk 06
 

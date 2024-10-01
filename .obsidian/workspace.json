@@ -34,9 +34,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4ea2e8b9c81f881d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md"
+                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md"
               }
             }
           }
@@ -165,9 +178,18 @@
   },
   "active": "71b9d9b27c376db0",
   "lastOpenFiles": [
-    "Psychologie/Levensloop Psychologie/Img",
-    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+    "Psychologie/Levensloop Psychologie/Toetsen/Toets 01.md",
+    "Psychologie/Levensloop Psychologie/Toetsen/Untitled",
+    "Psychologie/Levensloop Psychologie/Toetsen",
+    "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001094909.png",
+    "Psychologie/Levensloop Psychologie/Img",
+    "Psychologie/Levensloop Psychologie/Untitled.md",
+    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+    "Psychologie/Levensloop Psychologie",
+    "Examen Vragen Projectmanagement.pdf",
+    "Psychologie/Levensloop Psychologie/Img",
     "Psychologie/Algemene Psychologie/Img/Pasted image 20240928184823.png",
     "Psychologie/Algemene Psychologie/Img",
     "Psychologie/Algemene Psychologie/Img/Pasted image 20240928184656.png",
@@ -180,8 +202,6 @@
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Img/Pasted image 20240517163826.png",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Statische Klasse File.md",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Lezen.md",
-    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Writer And Reader.md",
-    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden",
-    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory"
+    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Writer And Reader.md"
   ]
 }
