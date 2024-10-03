@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
+                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
+                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md"
+                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md"
               }
             }
           }
@@ -177,17 +177,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ea2e8b9c81f881d",
+  "active": "9e020677d5247e8b",
   "lastOpenFiles": [
+    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
+    "Psychologie/Algemene Psychologie/Modules/Module 02.md",
     "Psychologie/Algemene Psychologie/Algemene psychologie.md",
     "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+    "Psychologie/Algemene Psychologie/Modules/Module 01.md",
+    "Psychologie/Algemene Psychologie/Modules",
+    "Psychologie/Levensloop Psychologie/Toetsen/Toets 01.md",
+    "Psychologie/Algemene Psychologie/Toetsen/Toets 01.md",
+    "Psychologie/Algemene Psychologie/Toetsen",
     "Pasted image 20241001134429.png",
     "Psychologie/Algemene Psychologie/Img/Pasted image 20241001134503.png",
-    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Algemene Psychologie/Img/Pasted image 20241001133227.png",
     "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001132323.png",
     "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001132240.png",
-    "Psychologie/Levensloop Psychologie/Toetsen/Toets 01.md",
     "Psychologie/Levensloop Psychologie/Toetsen/Untitled",
     "Psychologie/Levensloop Psychologie/Toetsen",
     "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001094909.png",
@@ -203,8 +208,6 @@
     "Computer_Science/Jaar_02/Trimester_01/Data_advanced/Week 01.md",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Bestand Opvragen Wpf.md",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Praktijk",
-    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/Untitled",
-    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Img",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Img/Pasted image 20240517163826.png",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Statische Klasse File.md",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Lezen.md",

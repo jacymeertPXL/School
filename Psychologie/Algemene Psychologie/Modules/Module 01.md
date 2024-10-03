@@ -88,7 +88,3 @@
 | - **Psychologie van karaktertrekken en temperament** 03 | Individuen kunnen worden begrepen in termen van hun temperament en blijvende karaktertrekken.                 | Unieke persoonlijkheidskenmerken die in de tijd en in alle situaties consistent zijn.                     | De oude Grieken                                  |
 | **Ontwikkelingsperspectief**                            | Mensen veranderen als gevolg van een interactie tussen erfelijke eigenschappen en de omgeving.                | De interactie tussen erfelijkheid en omgeving, die zich het hele leven door uit in voorspelbare patronen. | Mary Ainsworth, Jean Piaget en vele anderen      |
 | **Sociocultureel perspectief**                          | Sociale en culturele invloeden kunnen de invloed overstemmen van alle andere factoren die gedrag beïnvloeden. | De kracht van de situatie.                                                                                | Stanley Milgram, Philip Zimbardo en vele anderen |
-
----
-
-#  Module 02: H04 Geest gedrag en psychologisch wetenschap
