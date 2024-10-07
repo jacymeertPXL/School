@@ -1,3 +1,6 @@
+https://iml.pearson.com/coursePlayer/curso2.php?idcurso=4194366
+Curses belangrijk!!!
+
 # HC 01
 
 - Algemene psycologie
