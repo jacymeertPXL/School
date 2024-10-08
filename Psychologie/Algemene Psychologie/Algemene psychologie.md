@@ -5,6 +5,7 @@
 - psycologie -> wetenschap van gedrag en geestelijke processen
 	- Onstaan van "de" psychologie 
 		- Er is geen bestaan de psychologie is een constante groeiende en veranderede wetenschap / discipline.
+			- In elke culture anders 
 
 - Gedrag -> zichtbaar, extrene, observeerbaar.
 	- <mark style="background: #BBFABBA6;">Glimlachen, praten, lopen, niet studeren, studeren, stress</mark>
@@ -53,10 +54,10 @@
 
 - **Europa**:
   - De kerk was de belangrijkste bron van kennis.
-  - Geest en lichaam werden gezien als mysteries die niet onderzocht mochten worden.
+  - Geest en lichaam werden gezien als mysteries die niet onderzocht mochten worden. (Door Religion)
   - Geleerden kopieerden en becommentarieerden klassieke filosofen en kerkvaders zonder zelf kritisch te denken.
   
-- **Psychische stoornissen**:
+- **Psychische stoornissen**: (Long term effect tot dag vandaag)
   - Werden vaak gezien als teken van de duivel.
   - Mensen met stoornissen werden opgesloten in ziekenhuizen of gevangenissen.
   - Er was geen therapie, enkel "exorcisme".
@@ -73,9 +74,37 @@
   - Psychologie werd een belangrijk thema binnen filosofisch denken.
   - Natuurwetenschappelijke methodes ontstonden en werden toegepast op de geest.
 
+- 200 jaar geleden kunnen we pas spreken als psychologie als een wetenschap 
+
+- **Descratres** -> Grondlegger van de moderne psychologie
+	- Geest VS Gedrag -> allemaal psychieke lichaam
+		- Door deze vinding is de bestudering door gelaten door de kerk want geest is deel van gedrag en anders dan de "Ziel" die we "van god krijgen"
+
+- **Locked** -> Tabula rasa -> blanco blad op geboorte je omgeving en ervaringen maken jouw
+
 ---
 
+### 4. Implusen vanuit de natuurwetenschappen 
+
+- **Darwin** -> Mens = Dier 
+	- Theory van evolutie
+- **Wundt** -> De eerste psycholoog -> Vander van de psycholgie -> 19 de eeuw
+
+---
+
+### 5. Moderne Tijden (19-20e eeuw)
+
+- Komst van psychiatirische inrichtingen 
+	- Meestal nog fysiek bijna tot geen mentale hulp
+- Nog vaan wrede en beschadinende therapieen -> Elektroschok 
+- door komst van psychologie als wetenschap -> Beter en beter met de tijd
+	- Evidenced-based practice 
+
+---
+
+
 ### zes belangrijkste perspectieven van de psychologie
+<mark style="background: #FFF3A3A6;">SUPER BELANGRIJK VOOR HEEL DE OPLEIDING EN OOK TOEKOMST ALS JOB!!!</mark>
 
 | **Perspectief**                                         | **Idee**                                                                                                      | **Wat bepaalt gedrag?**                                                                                   | **Wie?**                                         |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -92,3 +121,43 @@
 ---
 
 #  Module 02: H04 Geest gedrag en psychologisch wetenschap
+
+## Habituatie
+**Uitleg:** Een afname van respons op een herhaalde, ongevaarlijke prikkel.  
+**Voorbeeld:** Het niet meer horen van een tikkende klok na verloop van tijd.
+
+## Mere Exposure Effect
+**Uitleg:** De neiging om iets leuker te vinden door herhaalde blootstelling.  
+**Voorbeeld:** Een reclame die je vaak ziet, wordt uiteindelijk sympathieker.
+
+## Stimulus-respons-leren
+**Uitleg:** Het leren van een verband tussen een stimulus en een reactie.  
+**Voorbeeld:** Een hond kwijlt bij het horen van een bel als teken voor eten.
+
+## Neutrale Stimulus
+**Uitleg:** Een prikkel die van nature geen specifieke reactie uitlokt.  
+**Voorbeeld:** Een bel die normaal geen reactie veroorzaakt bij een hond.
+
+## Ongeconditioneerde Stimulus
+**Uitleg:** Een prikkel die automatisch een natuurlijke reactie oproept.  
+**Voorbeeld:** Voedsel dat een hond doet kwijlen.
+
+## Ongeconditioneerde Respons
+**Uitleg:** Een automatische, natuurlijke reactie op een ongeconditioneerde stimulus.  
+**Voorbeeld:** Het kwijlen van een hond bij het zien van voedsel.
+
+## Verwervingsfase
+**Uitleg:** De fase waarin een neutrale stimulus wordt geassocieerd met een ongeconditioneerde stimulus.  
+**Voorbeeld:** Een bel geluid koppelen aan voedsel voor de hond.
+
+## Contiguïteit
+**Uitleg:** Het principe dat stimuli dicht bij elkaar in tijd of ruimte moeten voorkomen voor een associatie.  
+**Voorbeeld:** De bel laten rinkelen net voordat het eten wordt gegeven.
+
+## Geconditioneerde Stimulus
+**Uitleg:** Een oorspronkelijk neutrale prikkel die een reactie uitlokt na associatie met een ongeconditioneerde stimulus.  
+**Voorbeeld:** Een bel die, na herhaalde koppeling met voedsel, kwijlen veroorzaakt.
+
+## Geconditioneerde Respons
+**Uitleg:** Een aangeleerde respons op een geconditioneerde stimulus.  
+**Voorbeeld:** Een hond kwijlt bij het horen van de bel, ook zonder voedsel.
