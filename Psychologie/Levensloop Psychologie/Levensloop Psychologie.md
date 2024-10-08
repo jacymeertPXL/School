@@ -1,3 +1,7 @@
+
+https://www.sofialearn.com/course/81nq5k#coursetext
+Curses belangrijk!!!
+
 # HC 01
 - Geschiedernis
 	- Verre voor gesch
