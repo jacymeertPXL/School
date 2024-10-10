@@ -81,7 +81,50 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
 
 # Hoofdstuk 08
 
-# Hoofdstuk 09
+### Activiteiten
+- Oplossing opsplitsen in deeloplossingen.
+- Functionele en technische vereisten opstellen.
+- Opstellen van een analysedocument of blueprint, waarin de oplossing, vereisten en afspraken staan.
+
+### Blueprint
+- Gedetailleerde beschrijving van de **AS-IS** en **TO-BE** processen.
+- **Functioneel ontwerp**: Lijst van functionaliteiten, use cases, mock-ups.
+- **Technisch ontwerp**: UML-diagrammen zoals klassendiagram, sequentiediagram.
+- Beveiliging, interfaces, datamigratie, systeemarchitectuur en testplan.
+
+### Workshops en Validatie
+- Workshops met eindgebruikers om processen en vereisten te bespreken.
+- Validatie van de blueprint met alle betrokkenen om verwachtingen vast te leggen.
+
+### POC vs. Prototype
+- **POC (Proof of Concept)**: Bewijst dat een idee haalbaar is.
+- **Prototype**: Uitvoering van het idee, getest door werknemers, maar nog niet volledig.
+
+### Deliverables
+- Blueprint bevat: procesbeschrijvingen, functioneel/technisch ontwerp, beveiliging, interfaces, datamigratie, testplan, etc.
+
+---
+
+# Hoofdstuk 09 Planningsfase
+
+### Deliverables
+- Projectplan, **WBS (Work Breakdown Structure)**.
+- **Gantt chart** of netwerkdiagram voor planning.
+
+### Kritiek pad
+- Activiteiten die de einddatum van het project bepalen.
+- Berekening van **slack time**: Tijd waarin een activiteit mag vertragen zonder het project te beïnvloeden.
+
+### Methodes voor inschattingen
+- Analoge methode
+- Planning poker
+- Driepuntstechniek
+- Delphi-techniek
+
+### Aandachtspunten
+- Planning is dynamisch en kan beïnvloed worden door externe factoren zoals beschikbaarheid van resources of budget.
+
+--- 
 
 # Hoofdstuk 10
 

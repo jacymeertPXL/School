@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md"
+                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md"
               }
             }
           }
@@ -175,10 +174,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bf13113e77f9093",
+  "active": "f9d074f6fc3af411",
   "lastOpenFiles": [
-    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
     "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
     "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Algemene Psychologie/Toetsen/Toets 02.md",
     "Psychologie/Algemene Psychologie/Toetsen/Toets 01.md",
