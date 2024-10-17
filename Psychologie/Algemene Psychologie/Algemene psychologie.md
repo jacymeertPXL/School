@@ -122,6 +122,8 @@
 
 #  Module 02: H04 Geest gedrag en psychologisch wetenschap
 
+## 1. Klassieke Conditionering
+
 ## Habituatie
 **Uitleg:** Een afname van respons op een herhaalde, ongevaarlijke prikkel.  
 **Voorbeeld:** Het niet meer horen van een tikkende klok na verloop van tijd.
@@ -161,3 +163,38 @@
 ## Geconditioneerde Respons
 **Uitleg:** Een aangeleerde respons op een geconditioneerde stimulus.  
 **Voorbeeld:** Een hond kwijlt bij het horen van de bel, ook zonder voedsel.
+
+---
+
+## 2. Operante Conditionering
+
+**Kernprincipes (B.F. Skinner):**
+- **Bekrachtig** een situatie die een respons volgt en die versterkt.
+- **Positieve bekrachtiging**: Beloning volgt op gewenst gedrag.
+- **Negatieve bekrachtiging**: Onaangename stimulus wordt verwijderd na gewenst gedrag.
+- **Shaping**: Gedrag stapsgewijs vormen door beloning van kleine stapjes.
+- **Intermitterende bekrachtiging**: Af en toe belonen zorgt voor betere weerstand tegen uitdoving.
+- **Ratio Schema**: Programma waarin de bekraching wordt aangeboden na een bepaal aantal goede response
+- **Interval Schema**: Programma waarin de bekraching wordt aangeboden na een bepaalde tijd is vestreken sinds de laaste bekrachting
+- **Primaire Bekrachting**: een bekrachting die een biologische waarde heeft (Seks of voedsel, etc)
+- **Geconditioneerde of Secundaire Bekrachting**: een bekrachting die waarde krijgt door aangeleerde associatie met een primaire bekrachting (geld of iets van hobby)
+
+**Straf:**
+- **Positieve straf**: Onaangename stimulus volgt op ongewenst gedrag.
+- **Negatieve straf**: Aangename stimulus wordt weggenomen.
+
+**Vergelijking met klassieke conditionering:**
+- Klassieke conditionering: reflexmatig, passief gedrag.
+- Operante conditionering: actief, vrijwillig gedrag.
+
+---
+
+## 3. Cognitieve Psychologie
+
+**Manieren van leren:**
+- **Inzichtelijk leren** (Köhler): Combineren van kennis tot nieuwe inzichten.
+- **Cognitieve plattegronden** (Tolman): Mentale representaties van omgevingen.
+- **Sociaal leren** (Bandura): Leren door observatie en imitatie van anderen.
+
+**Invloed van media**: 
+- Gewelddadige media kan agressief gedrag bevorderen, maar opvoeding en realiteitsbesef spelen ook een rol.

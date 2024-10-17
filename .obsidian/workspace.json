@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "9bf13113e77f9093",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "4ea2e8b9c81f881d",
             "type": "leaf",
             "pinned": true,
@@ -34,20 +48,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9bf13113e77f9093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md"
+                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md"
               }
             }
           }
@@ -174,11 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9d074f6fc3af411",
+  "active": "9bf13113e77f9093",
   "lastOpenFiles": [
+    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Algemene Psychologie/Algemene psychologie.md",
     "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
-    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Algemene Psychologie/Toetsen/Toets 02.md",
     "Psychologie/Algemene Psychologie/Toetsen/Toets 01.md",
     "Psychologie/Levensloop Psychologie/Toetsen/Toets 02.md",
