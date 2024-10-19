@@ -54,6 +54,22 @@
               "icon": "lucide-file",
               "title": "Levensloop Psychologie"
             }
+          },
+          {
+            "id": "9034deca9f17d444",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie/Algemene Psychologie/Toetsen/Toets 03.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Toets 03"
+            }
           }
         ],
         "currentTab": 1
@@ -199,22 +215,23 @@
   },
   "active": "9bf13113e77f9093",
   "lastOpenFiles": [
+    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+    "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
+    "Psychologie/Algemene Psychologie/Toetsen/Toets 03.md",
+    "Psychologie/Algemene Psychologie/Toetsen/Toets 02.md",
+    "Psychologie/Algemene Psychologie/Toetsen/Toets 01.md",
+    "Psychologie/Algemene Psychologie/Toetsen/Toets 03",
     "Psychologie/Sociologie",
     "Psychologie/Nieuwe map",
-    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Computer_Science/Jaar_02/Trimester_01/Data_advanced/Sammenvatting.md",
     "Computer_Science/Jaar_02/Trimester_01/Data_advanced/Week 01.md",
     "Computer_Science/Jaar_02/Trimester_01/Data_advanced/Week 02.md",
-    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
-    "Psychologie/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Algemene Psychologie/Modules/Module 02.md",
     "Psychologie/Algemene Psychologie/Modules/Module 01.md",
     "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001094909.png",
-    "Psychologie/Algemene Psychologie/Toetsen/Toets 02.md",
-    "Psychologie/Algemene Psychologie/Toetsen/Toets 01.md",
     "Psychologie/Levensloop Psychologie/Toetsen/Toets 02.md",
     "Psychologie/Levensloop Psychologie/Toetsen/Toets 01.md",
-    "Psychologie/Algemene Psychologie/Toetsen/Untitled",
     "Psychologie/Levensloop Psychologie/Toetsen/Toes",
     "Psychologie/Algemene Psychologie/Modules",
     "Psychologie/Algemene Psychologie/Toetsen",
@@ -228,7 +245,6 @@
     "Psychologie/Levensloop Psychologie/Untitled.md",
     "Psychologie/Levensloop Psychologie",
     "Examen Vragen Projectmanagement.pdf",
-    "Psychologie/Levensloop Psychologie/Img",
     "Psychologie/Algemene Psychologie/Img/Pasted image 20240928184823.png",
     "Psychologie/Algemene Psychologie/Img/Pasted image 20240928184656.png",
     "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Bestand Opvragen Wpf.md",

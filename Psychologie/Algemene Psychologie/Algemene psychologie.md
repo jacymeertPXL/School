@@ -9,7 +9,7 @@
 
 - Gedrag -> zichtbaar, extrene, observeerbaar.
 	- <mark style="background: #BBFABBA6;">Glimlachen, praten, lopen, niet studeren, studeren, stress</mark>
-- Geestelijke processen => onzichtbaara interene, indirechte waarnemening
+- Geestelijke processen => onzichtbaare interene, indirechte waarnemening
 	- <mark style="background: #BBFABBA6;">Denken, voelen, angst, dromen</mark>
 
 - Stepped Care
@@ -163,6 +163,10 @@
 #### Geconditioneerde Respons
 **Uitleg:** Een aangeleerde respons op een geconditioneerde stimulus.  
 **Voorbeeld:** Een hond kwijlt bij het horen van de bel, ook zonder voedsel.
+
+#### Extinctie
+**Uitleg:** Het proces waarbij een aangeleerde respons afneemt en uiteindelijk verdwijnt wanneer de geconditioneerde stimulus herhaaldelijk wordt aangeboden zonder de ongeconditioneerde stimulus.  
+**Voorbeeld:** Een hond stopt met kwijlen als de bel vaak klinkt zonder dat er voedsel wordt gegeven.
 
 ---
 
