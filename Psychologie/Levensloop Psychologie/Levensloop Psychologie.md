@@ -98,3 +98,50 @@ Egosterkte
 		- expulsion (delivery of the baby), 
 		- placental delivery (expulsion of the placenta), 
 			- each with distinct physiological changes and implications for mother and child.
+
+---
+
+## HoorCollege 03: De Babytijd
+
+### 4.1 Uitrusting van de pasgeborene
+- **Motorische reacties**: Reflexen zoals zoekreflex, zuigreflex, stapreflex, grijpreflex, Moro-reflex, zwemreflex, Babinsky-reflex, schrikreflex, knipperreflex, kokhalsreflex.
+- **Waarneming**: Voelen (voorkeur voor huidcontact), ruiken/proeven (voorkeur zoet), horen (moederstem), zien (voorkeur gezichten).
+  
+### 4.2 De motorische ontwikkeling
+- **Stadia van motorische ontwikkeling**:
+  1. Kijkstadium (0-3 maanden)
+  2. Grijpstadium (3-6 maanden)
+  3. Zitstadium (6-9 maanden)
+  4. Kruipstadium (9-12 maanden)
+  5. Loopstadium (12-15 maanden)
+
+### 4.3 Ontwikkelingen in waarneming en cognitie
+- **Piaget: Sensomotorisch stadium** (0-2 jaar)
+  - Ongecoördineerde reflexen
+  - Primaire circulaire reacties (1-4 maanden)
+  - Secundaire circulaire reacties (4-8 maanden)
+  - Intentioneel handelen (8-12 maanden)
+  - Tertiaire circulaire reacties (12-18 maanden)
+  - Mentale voorstellingen (18-24 maanden)
+  
+### 4.4 Sociale en persoonlijkheidsontwikkeling
+- **Sociale gerichtheid en emoties**:
+  - Vanaf 3 maanden: hechtingsontwikkeling.
+  - Vanaf 8 maanden: vreemdenangst en scheidingsangst.
+  
+- **Hechtingstheorie (Bowlby)**:
+  1. Voorhechting (0-3 maanden)
+  2. Beginnende gehechtheid (3-6 maanden)
+  3. Feitelijke gehechtheid (8 maanden - peutertijd)
+
+- **Hechtingsstijlen**:
+  - Veilige gehechtheid
+  - Vermijdende gehechtheid
+  - Afwerende/ambivalente gehechtheid
+  - Gedesorganiseerde gehechtheid
+
+## Termen
+- **Motorische reacties**: Reflexen zoals Moro, Babinsky, etc.
+- **Waarneming**: Horen, zien, ruiken, proeven, voelen.
+- **Cognitieve processen**: Habituatie, klassieke conditionering, operante conditionering.
+- **Sociale ontwikkeling**: Hechtingstheorie, vreemdenangst, scheidingsangst.

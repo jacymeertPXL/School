@@ -18,7 +18,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Examen Vragen Projectmanagement"
             }
           },
           {
@@ -32,7 +34,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Algemene psychologie"
             }
           },
           {
@@ -46,11 +50,13 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Levensloop Psychologie"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +76,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -85,7 +93,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -93,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Levensloop Psychologie"
             }
           },
           {
@@ -133,10 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Levensloop Psychologie"
             }
           },
           {
@@ -147,7 +163,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -156,8 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md"
-              }
+                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Levensloop Psychologie"
             }
           }
         ]
@@ -177,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bf13113e77f9093",
+  "active": "4ea2e8b9c81f881d",
   "lastOpenFiles": [
-    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Algemene Psychologie/Algemene psychologie.md",
+    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
     "Psychologie/Algemene Psychologie/Toetsen/Toets 02.md",
     "Psychologie/Algemene Psychologie/Toetsen/Toets 01.md",
