@@ -9,7 +9,7 @@
 
 - Gedrag -> zichtbaar, extrene, observeerbaar.
 	- <mark style="background: #BBFABBA6;">Glimlachen, praten, lopen, niet studeren, studeren, stress</mark>
-- Geestelijke processen => onzichtbaara interene, indirechte waarnemening
+- Geestelijke processen => onzichtbaare interene, indirechte waarnemening
 	- <mark style="background: #BBFABBA6;">Denken, voelen, angst, dromen</mark>
 
 - Stepped Care
@@ -124,45 +124,49 @@
 
 ## 1. Klassieke Conditionering
 
-## Habituatie
+#### Habituatie
 **Uitleg:** Een afname van respons op een herhaalde, ongevaarlijke prikkel.  
 **Voorbeeld:** Het niet meer horen van een tikkende klok na verloop van tijd.
 
-## Mere Exposure Effect
+#### Mere Exposure Effect
 **Uitleg:** De neiging om iets leuker te vinden door herhaalde blootstelling.  
 **Voorbeeld:** Een reclame die je vaak ziet, wordt uiteindelijk sympathieker.
 
-## Stimulus-respons-leren
+#### Stimulus-respons-leren
 **Uitleg:** Het leren van een verband tussen een stimulus en een reactie.  
 **Voorbeeld:** Een hond kwijlt bij het horen van een bel als teken voor eten.
 
-## Neutrale Stimulus
+#### Neutrale Stimulus
 **Uitleg:** Een prikkel die van nature geen specifieke reactie uitlokt.  
 **Voorbeeld:** Een bel die normaal geen reactie veroorzaakt bij een hond.
 
-## Ongeconditioneerde Stimulus
+#### Ongeconditioneerde Stimulus
 **Uitleg:** Een prikkel die automatisch een natuurlijke reactie oproept.  
 **Voorbeeld:** Voedsel dat een hond doet kwijlen.
 
-## Ongeconditioneerde Respons
+#### Ongeconditioneerde Respons
 **Uitleg:** Een automatische, natuurlijke reactie op een ongeconditioneerde stimulus.  
 **Voorbeeld:** Het kwijlen van een hond bij het zien van voedsel.
 
-## Verwervingsfase
+#### Verwervingsfase
 **Uitleg:** De fase waarin een neutrale stimulus wordt geassocieerd met een ongeconditioneerde stimulus.  
 **Voorbeeld:** Een bel geluid koppelen aan voedsel voor de hond.
 
-## Contiguïteit
+#### Contiguïteit
 **Uitleg:** Het principe dat stimuli dicht bij elkaar in tijd of ruimte moeten voorkomen voor een associatie.  
 **Voorbeeld:** De bel laten rinkelen net voordat het eten wordt gegeven.
 
-## Geconditioneerde Stimulus
+#### Geconditioneerde Stimulus
 **Uitleg:** Een oorspronkelijk neutrale prikkel die een reactie uitlokt na associatie met een ongeconditioneerde stimulus.  
 **Voorbeeld:** Een bel die, na herhaalde koppeling met voedsel, kwijlen veroorzaakt.
 
-## Geconditioneerde Respons
+#### Geconditioneerde Respons
 **Uitleg:** Een aangeleerde respons op een geconditioneerde stimulus.  
 **Voorbeeld:** Een hond kwijlt bij het horen van de bel, ook zonder voedsel.
+
+#### Extinctie
+**Uitleg:** Het proces waarbij een aangeleerde respons afneemt en uiteindelijk verdwijnt wanneer de geconditioneerde stimulus herhaaldelijk wordt aangeboden zonder de ongeconditioneerde stimulus.  
+**Voorbeeld:** Een hond stopt met kwijlen als de bel vaak klinkt zonder dat er voedsel wordt gegeven.
 
 ---
 
