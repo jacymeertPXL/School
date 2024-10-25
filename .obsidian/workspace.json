@@ -55,8 +55,7 @@
               "title": "Levensloop Psychologie"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ea2e8b9c81f881d",
+  "active": "f9d074f6fc3af411",
   "lastOpenFiles": [
     "Psychologie/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
