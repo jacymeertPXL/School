@@ -193,12 +193,57 @@
 
 ---
 
-## 3. Cognitieve Psychologie
+## #   H03 Cognitieve Psychologie
 
-**Manieren van leren:**
-- **Inzichtelijk leren** (Köhler): Combineren van kennis tot nieuwe inzichten.
-- **Cognitieve plattegronden** (Tolman): Mentale representaties van omgevingen.
-- **Sociaal leren** (Bandura): Leren door observatie en imitatie van anderen.
+## Inleiding
+- **Sensatie**: Gewaarwording van een stimulus via transductie, omgezet in zenuwimpulsen.
+- **Perceptie**: Interpretatie van sensatie door deze betekenis te geven, beïnvloed door o.a. geheugen en emoties.
 
-**Invloed van media**: 
-- Gewelddadige media kan agressief gedrag bevorderen, maar opvoeding en realiteitsbesef spelen ook een rol.
+### 1.1 Transductie
+Fysieke energie (licht, geluid) wordt omgezet in neurale impulsen:
+   - Lichtgolven → zicht
+   - Geluidsgolven → gehoor
+   - Chemische stoffen → smaak
+
+### 1.2 Sensorische adaptatie
+Aanpassing aan constante prikkels zodat we veranderende stimuli beter kunnen waarnemen.
+
+### 1.3 Drempels (grenzen van sensatie)
+- **Absolute drempel**: Min. intensiteit om iets waar te nemen.
+- **Verschildrempel (JWV)**: Kleinste verschil tussen twee stimuli dat opgemerkt kan worden.
+
+### 1.4 Signaaldetectietheorie
+Sensatie wordt beïnvloed door stimuluskenmerken, achtergrondprikkels, en kenmerken van de waarnemer.
+
+### 2.1 Zicht
+Complex zintuig dat 3D-beelden creëert in de hersenen.
+
+### 2.2 Gehoor
+Geluidsgolven worden verwerkt op basis van volume, toonhoogte en timbre.
+
+### 2.3 Overige zintuiglijke vermogens
+- **Beweging en positie**: Vestibulair systeem en proprioceptie.
+- **Reukzin (olfactie)** en **Smaakzin (gustatie)**: Chemische receptoren voor geur en smaak.
+- **Tastzin**: Voor aanraking, warmte, kou.
+- **Pijnperceptie**: Beïnvloed door fysieke en emotionele factoren.
+
+### 3.1 Systeem van perceptuele verwerking
+Sensatie krijgt betekenis via perceptie:
+- **Perceptuele constanties**: Objecten herkennen ondanks variatie (kleur, grootte).
+- **Bottom-up vs. Top-down**: Van stimulus- naar kennisgedreven verwerking.
+- **Perceptuele blindheid**: Niet-waarnemen door afleiding.
+
+### 3.2 Perceptuele ambiguïteit en vervorming
+Perceptuele illusies en vervormingen zijn mogelijk.
+
+### 3.3 Theoretische verklaringen voor perceptie
+- **Gestaltpsychologie**: De neiging om stimuli in patronen te ordenen.
+- **Concluderen door leren**: Eerdere kennis beïnvloedt interpretatie.
+
+## Kernvragen van dit hoofdstuk
+1. **Hoe verandert stimulatie in sensatie?**
+   - Via transductie en sensorische adaptatie, beïnvloed door drempelwaardes.
+2. **Waarin lijken de zintuigen op elkaar? Waarin verschillen ze?**
+   - Elk zintuig verwerkt eigen informatie via transductie met unieke verwerking in de hersenen.
+3. **Wat is de relatie tussen perceptie en sensatie?**
+   - Perceptie geeft betekenis aan sensatie en is subjectief, beïnvloed door o.a. cultuur en geheugen.

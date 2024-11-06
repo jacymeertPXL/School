@@ -55,7 +55,8 @@
               "title": "Levensloop Psychologie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,11 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9d074f6fc3af411",
+  "active": "9bf13113e77f9093",
   "lastOpenFiles": [
-    "Psychologie/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+    "Psychologie/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Algemene Psychologie/Toetsen/Toets 02.md",
     "Psychologie/Algemene Psychologie/Toetsen/Toets 01.md",
     "Psychologie/Levensloop Psychologie/Toetsen/Toets 02.md",
