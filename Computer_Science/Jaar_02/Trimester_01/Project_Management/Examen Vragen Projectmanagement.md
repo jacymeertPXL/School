@@ -279,9 +279,40 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
     - **Problem Management**: Identificeren van onderliggende problemen om terugkerende incidenten te voorkomen.
 
 
-# Hoofdstuk 13
+# Hoofdstuk 13 TeamWork
 
-# Hoofdstuk 14
+# Hoofdstuk 14 Risico Management
+Assumpties = veronderstelling
+Constraint = Beperking 
+	Beide in Risico Management
+A & C analyse 
+	Vervalt de veronderstelling / Kunnen we de beperking afwzakken, Impact op projectobejctleven? 
+		Risicomanagement na deze 2 vragen antwoord ja is
+Negatief Risico = Bedreiging
+Positief Risico = Opportuniteit = Berperking wordt afgezwaked BV. Q2 datum naar Q3 datum
+
+Prioriteiten - 3 Parameters = Resultaat PIG
+	Kans Risico?
+	Impact Risico?
+	Wanneer kan risico er zijn?
+
+PIG = Propbability impact grid
+
+Slide PIG 4  kanken kans impact zet dat hiet
+
+Omgaan met risicos
+	Vermijden:De impact of waarschijnlijkhied tot null herleiden
+	Overdragen: Het RIsico doorgeven aan derde party
+	Verminderen/Inperken: Kans verkleinen
+	Aanvaarden: Aanvaarden dat het risico kan voorkomen
+		Positief Risico = Opportuniteit
+			Maximaliseren: De kans de de  zich voordoet 
+			Delen: uitmost de delen voor een verhoogde Opportuniteit
+			Verhogen:verhogen van de kans/Positieve impact van het scenario
+			Aanvaarde: Geen actieven stappen zetten om te Opportuniteit te benutten
+
+Contigency Budget: Extra geld aan budget voor met de risicos te kunnen behandelen
+	Tot en met zelf 40 procent extra meestal 20 procent
 
 # Hoofdstuk 17
 
