@@ -1,4 +1,5 @@
-# Module 01: H01 Geest gedrag en psychologisch wetenschap
+# Module 01: H01-02 Geest gedrag en psychologisch wetenschap
+~boek -> H01&02 -> 36-37
 
 - Algemene psycologie
 	- Alegemene processen van het menselijke functioneren
@@ -120,7 +121,9 @@
 
 ---
 
-#  Module 02: H04 Geest gedrag en psychologisch wetenschap
+
+# Module 02: H03 - Leren en Omgeving
+~boek -> H03 -> 164-165
 
 ## 1. Klassieke Conditionering
 
@@ -247,3 +250,232 @@ Perceptuele illusies en vervormingen zijn mogelijk.
    - Elk zintuig verwerkt eigen informatie via transductie met unieke verwerking in de hersenen.
 3. **Wat is de relatie tussen perceptie en sensatie?**
    - Perceptie geeft betekenis aan sensatie en is subjectief, beïnvloed door o.a. cultuur en geheugen.
+
+
+# Module 03: H04 Sensatie en Perceptie
+~boek -> H04 -> 128-129
+
+## Inleiding
+- **Sensatie**: Gewaarwording van een stimulus via transductie, omgezet in zenuwimpulsen.
+- **Perceptie**: Interpretatie van sensatie door deze betekenis te geven, beïnvloed door o.a. geheugen en emoties.
+
+## 1. Hoe verandert stimulatie in sensatie?
+
+### 1.1 Transductie
+Fysieke energie (licht, geluid) wordt omgezet in neurale impulsen:
+   - Lichtgolven → zicht
+   - Geluidsgolven → gehoor
+   - Chemische stoffen → smaak
+
+### 1.2 Sensorische adaptatie
+Aanpassing aan constante prikkels zodat we veranderende stimuli beter kunnen waarnemen.
+
+### 1.3 Drempels (grenzen van sensatie)
+- **Absolute drempel**: Min. intensiteit om iets waar te nemen.
+- **Verschildrempel (JWV)**: Kleinste verschil tussen twee stimuli dat opgemerkt kan worden.
+
+### 1.4 Signaaldetectietheorie
+Sensatie wordt beïnvloed door stimuluskenmerken, achtergrondprikkels, en kenmerken van de waarnemer.
+
+## 2. Waarin komen zintuigen overeen/verschillen ze?
+
+### 2.1 Zicht
+Complex zintuig dat 3D-beelden creëert in de hersenen.
+
+### 2.2 Gehoor
+Geluidsgolven worden verwerkt op basis van volume, toonhoogte en timbre.
+
+### 2.3 Overige zintuiglijke vermogens
+- **Beweging en positie**: Vestibulair systeem en proprioceptie.
+- **Reukzin (olfactie)** en **Smaakzin (gustatie)**: Chemische receptoren voor geur en smaak.
+- **Tastzin**: Voor aanraking, warmte, kou.
+- **Pijnperceptie**: Beïnvloed door fysieke en emotionele factoren.
+
+## 3. Wat is de relatie tussen perceptie en sensatie?
+
+### 3.1 Systeem van perceptuele verwerking
+Sensatie krijgt betekenis via perceptie:
+- **Perceptuele constanties**: Objecten herkennen ondanks variatie (kleur, grootte).
+- **Bottom-up vs. Top-down**: Van stimulus- naar kennisgedreven verwerking.
+- **Perceptuele blindheid**: Niet-waarnemen door afleiding.
+
+### 3.2 Perceptuele ambiguïteit en vervorming
+Perceptuele illusies en vervormingen zijn mogelijk.
+
+### 3.3 Theoretische verklaringen voor perceptie
+- **Gestaltpsychologie**: De neiging om stimuli in patronen te ordenen.
+- **Concluderen door leren**: Eerdere kennis beïnvloedt interpretatie.
+
+## Kernvragen van dit hoofdstuk
+1. **Hoe verandert stimulatie in sensatie?**
+   - Via transductie en sensorische adaptatie, beïnvloed door drempelwaardes.
+2. **Waarin lijken de zintuigen op elkaar? Waarin verschillen ze?**
+   - Elk zintuig verwerkt eigen informatie via transductie met unieke verwerking in de hersenen.
+3. **Wat is de relatie tussen perceptie en sensatie?**
+   - Perceptie geeft betekenis aan sensatie en is subjectief, beïnvloed door o.a. cultuur en geheugen.
+
+---
+
+
+
+# Module 04: H05 Geheugen
+~boek -> H05 -> 203-204
+
+## 1.1 Wat is het geheugen?
+
+### Metaforen voor het geheugen
+- Bibliotheek? Computer? Videocamera?
+- Cognitieve benadering: informatieverwerkingsmodel
+  - Neemt informatie op en verwerkt het.
+  - Geheugen is functioneel: voert nuttige functies uit zoals coderen, opslaan en terughalen van informatie.
+- **Het geheugen = een systeem dat informatie codeert, opslaat en weer terughaalt.**
+- Geheugen is niet objectief!
+
+---
+
+## De drie essentiële functies van het geheugen
+1. **Coderen**
+   - Coderen van informatie gebeurt snel en automatisch in de volgende stappen:
+     1. Stimulus selecteren.
+     2. Onderscheidende kenmerken identificeren.
+     3. Label of etiket plakken.
+     4. Koppelen aan eerdere informatie: elaboratie.
+2. **Opslaan**
+   - Informatie langdurig bewaren.
+3. **Terughalen**
+   - Lokaliseren van informatie en terugbrengen in het bewustzijn.
+   - Terughalen gebeurt bewust of onbewust.
+
+---
+
+## 1.2 Hoe vormen we herinneringen?
+
+### Drie geheugenstadia
+1. Sensorisch geheugen.
+2. Werkgeheugen.
+3. Langetermijngeheugen.
+
+---
+
+### Het sensorisch geheugen
+- **Eerste geheugenstadium**: sensorische indrukken van stimuli worden korte tijd bewaard of geregistreerd.
+  - **Functie**: korte tijd bewaren van sensorische indrukken.
+  - **Codering**: enkel registratie van sensorische beelden.
+  - **Opslagcapaciteit**: 12-16 items.
+  - **Duur**: 0,25 seconde tot enkele seconden.
+  - **Structuur**: apart sensorisch register voor elk zintuig (zien, horen, enz.).
+  - **Biologische basis**: zintuiglijke zenuwbanen, hersenschors.
+
+---
+
+### Het werkgeheugen
+- **Tweede geheugenstadium**: hier worden bewuste ervaringen verwerkt.
+  - **Functie**: aandacht, betekenis toekennen, verbanden leggen.
+  - **Codering**: op basis van betekenis voor langetermijnopslag.
+  - **Opslagcapaciteit**: ongeveer 7 chunks.
+  - **Duur**: ongeveer 20 seconden.
+  - **Structuur**: bestaat uit vijf delen:
+    1. Centrale bestuurder.
+    2. Fonologische lus.
+    3. Schetsboek.
+    4. Episodische buffer.
+    5. Semantische buffer.
+  - **Biologische basis**: hippocampus en frontaalkwabben.
+
+- **Geringe opslagcapaciteit** omzeilen door:
+  - Chunking.
+  - Repeteren.
+  - Elaboratie.
+
+---
+
+### Het langetermijngeheugen
+- **Laatste geheugenstadium**:
+  - **Functie**: langetermijnopslag.
+  - **Codering**: opslaan van informatie in betekenisvolle mentale categorieën.
+  - **Opslagcapaciteit**: onbeperkt.
+  - **Duur**: onbeperkt.
+  - **Structuur**:
+    - Procedureel geheugen (motorisch geheugen, 'weten hoe').
+    - Declaratief geheugen (feitengeheugen, 'weten dat'):
+      - Semantisch geheugen.
+      - Episodisch geheugen.
+
+---
+
+### Biologische basis van het langetermijngeheugen
+- **Hippocampus**:
+  - Consolidatie: kortetermijnherinneringen omzetten naar langetermijnherinneringen.
+  - Samenstellen van coherente herinneringen uit verschillende stukjes informatie.
+- **Amygdala**:
+  - Verwerking van herinneringen met sterke emotionele associaties.
+  - Emotionele associaties helpen bij opslaan en terughalen van herinneringen.
+- **Hersenschors**:
+  - Opslag van declaratieve herinneringen in neurale verbindingen.
+  - Stukjes herinneringen opgeslagen in het deel van de schors dat het specifieke sensorische signaal oorspronkelijk heeft verwerkt.
+
+---
+
+## Herinneringen en emoties
+- **Effect van emoties** op geheugen via de amygdala en stresshormonen:
+  - Positieve emoties: herinnering van de situatie als geheel.
+  - Negatieve emoties: herinnering van details van de situatie.
+- Emoties zorgen voor levendige, maar niet altijd precieze herinneringen.
+
+---
+
+## 1.3 Hoe halen we herinneringen terug?
+
+### Herinneringscues
+- **Stimulus** die een herinnering naar boven brengt of gedrag activeert:
+  - Voorbeelden: geur, emotie, gebeurtenis.
+- **Impliciete herinneringen terughalen**:
+  - Priming.
+- **Expliciete herinneringen terughalen**:
+  - Ophalen (‘retrieval’).
+  - Herkenning (‘recognition’).
+
+---
+
+### Factoren die invloed hebben op terughalen
+1. **Specificiteit van codering**
+   - Overeenstemming tussen herinneringscues en de context van codering vergemakkelijkt terughalen.
+2. **Stemmingscongruente herinnering**
+   - Herinneringen die overeenstemmen met iemands stemming worden makkelijker opgehaald.
+3. **Prospectief geheugen**
+   - Het vermogen om te onthouden dat een bepaalde actie nog moet worden uitgevoerd.
+
+---
+
+## 1.4 Waarom laat ons geheugen ons soms in de steek?
+
+### De ‘zeven zonden’ van het geheugen (Schacter, 1999, 2001)
+1. **Vluchtigheid**
+   - Tijdelijkheid van langetermijnherinneringen: na verloop van tijd worden ze minder sterk.
+   - Vergeetcurve van Ebbinghaus: toont hoe items in de tijd verdwijnen.
+2. **Verstrooidheid**
+   - Vergeten door gebrek aan aandacht.
+   - Voorbeelden: coderingsvergissing, veranderingsblindheid.
+3. **Blokkades**
+   - Toegang tot informatie verstoord.
+   - Voorbeeld: ‘puntje-van-de-tongfenomeen’.
+4. **Foutieve attributie**
+   - Herinneringen koppelen aan de verkeerde tijd, plaats of persoon.
+5. **Suggestibiliteit**
+   - Herinneringen vervormd door (on)opzettelijke suggestie.
+   - Verzonnen herinneringen voelen net zo echt als werkelijke herinneringen.
+6. **Bias**
+   - Denkfouten zoals:
+     - Bevestigingsbias: herinneringen aanpassen aan persoonlijke overtuigingen.
+     - Emotionele bias: stemming verstoort herinneringen.
+     - Verwachtingsbias: gebeurtenissen herinneren in lijn met verwachtingen.
+     - Bias van zelfconsistentie: verleden herinneren in lijn met huidige overtuigingen.
+7. **Persistentie**
+   - Ongewenste herinneringen blijven aanwezig.
+   - Voorbeelden: hardnekkige gedachten, PTSS.
+
+---
+
+## Je geheugen verbeteren met mnemoniek
+- **Mnemonieken**: methoden om informatie in het geheugen te coderen door het te associëren met bestaande informatie.
+- **Methode van loci**: associëren van items op een lijst met een reeks vertrouwde plekken in een bepaalde ruimte.
