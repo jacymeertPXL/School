@@ -19,7 +19,7 @@ Curses belangrijk!!!
 
 ![[Pasted image 20241001094909.png]]
 
-# Begrippen 
+## Begrippen 
 Assimilatie
 	**het incorporeren van wat waargenomen wordt in een bestaand handelingsschema**. 
 		Voorbeeld: een kind heeft geleerd dat een hond een dier is, als hij ontdekt dat ook katten dieren zijn, wordt "kat" ondergebracht in het schema "dier". Kat wordt dus geassimileerd in het schema dier.
@@ -101,7 +101,7 @@ Egosterkte
 
 ---
 
-## HoorCollege 03: De Babytijd
+# HoorCollege 03: De Babytijd
 
 ### 4.1 Uitrusting van de pasgeborene
 - **Motorische reacties**: Reflexen zoals zoekreflex, zuigreflex, stapreflex, grijpreflex, Moro-reflex, zwemreflex, Babinsky-reflex, schrikreflex, knipperreflex, kokhalsreflex.
@@ -145,3 +145,203 @@ Egosterkte
 - **Waarneming**: Horen, zien, ruiken, proeven, voelen.
 - **Cognitieve processen**: Habituatie, klassieke conditionering, operante conditionering.
 - **Sociale ontwikkeling**: Hechtingstheorie, vreemdenangst, scheidingsangst.
+
+# HoorCollege 04: De Peutertijd
+
+### 5.1 Lichamelijke en motorische ontwikkeling
+- **Gebruik van skeletspieren**
+- **De zindelijkheidstraining**
+
+### 5.2 Ontwikkelingen in de waarneming en het mentaal functioneren
+- **Einde van de sensomotorische periode**
+- **Begin van het preoperationele denken**
+
+### 5.3 Sociale en persoonlijkheidsontwikkeling
+
+---
+
+### Terugkoppeling: HC 3 Babytijd
+**Stadia van de motorische ontwikkeling:**
+1. Kijkstadium (0–3 maanden)
+2. Grijpstadium (3–6 maanden)
+3. Zitstadium (6–9 maanden)
+4. Kruipstadium (9–12 maanden)
+5. Loopstadium (12–15 maanden)
+
+---
+
+### Gebruik van de skeletspieren
+- **Grove motoriek**
+- **Fijne motoriek**
+- **Oog-handcoördinatie**
+
+---
+
+### Zindelijkheidstraining
+- **2–2,5 jaar**: overdag zindelijk
+- **3–4 jaar**: 's nachts zindelijk
+
+---
+
+### Ontwikkeling waarneming en mentaal functioneren
+**Piaget: Cognitieve ontwikkelingsstadia**
+1. Sensomotorisch stadium
+2. Pre-operationeel stadium
+3. Concreet-operationeel stadium
+4. Formeel-operationeel stadium
+
+---
+
+#### Sensomotorisch stadium
+- **0–1 maand**: Ongecoördineerde reflexen
+- **1–4 maanden**: Primaire circulaire reacties
+- **4–8 maanden**: Secundaire circulaire reacties
+- **8–12 maanden**: Intentioneel handelen
+- **12–18 maanden**: Tertiaire circulaire reacties
+  - Experimenteergedrag
+  - Variëren van gedrag om nieuwe effecten uit te lokken
+- **18–24 maanden**: Mentale voorstellingen
+  - Basis voor pre-operationele denken
+
+**Kenmerken einde sensomotorische periode:**
+- Gestabiliseerd wereldbeeld
+- Objectpermanentie
+- Structureren van ruimte en tijd
+- Differentiatie tussen object en subject
+
+---
+
+### Begin preoperationeel denken
+- **2–4 jaar**: Preconceptueel denken
+  - Concepten, generaliseren, discrimineren
+  - Semiotische/symboolfunctie: uitgestelde imitatie, fantasiespel, tekenen, taal
+  - Kenmerken: animisme, magisch denken, juxtapositie, fenomenalistische causaliteit
+- **4–6/7 jaar**: Intuïtief denken
+  - Egocentrisch, gecentreerd, statisch, onomkeerbaar
+
+---
+
+## Sociale en persoonlijkheidsontwikkeling
+### Sociale ontwikkeling
+- Relatie met volwassenen: evenwichtige relatie
+- Margaret Mahler: separatie- en individuatiefase
+  - Hechting ↔ Bodemloosheid
+  - Onthechting ↔ Symbiotische relatie
+- Parallelspel → Samenspel
+- Zelfbewustzijn en zelfcategorisering
+
+---
+
+### Dynamisch-affectieve ontwikkeling
+- Ontwikkeling empathie (Martin Hoffman)
+  - 1 jaar: egocentrische empathie
+  - 1–1,5 jaar: quasi-egocentrische empathie
+  - 2 jaar: geloofwaardige empathie
+- Nieuwe gevoelens:
+  - Rivaliteit, jaloezie, vriendschap, angsten
+- Ontwikkeling moreel besef:
+  - Spiegelgeweten / heteronome moraal (Piaget)
+
+---
+
+## Hoofdstuk 6: De kleuterjaren
+### 6.1 Lichamelijke en motorische ontwikkeling
+- **Lichamelijke veranderingen**
+  - Hersenen: 90% volwassen volume op 5 jaar
+  - Myelinisatie en synapsvorming
+- **Motorische ontwikkeling**
+  - Grove motoriek: lopen, evenwicht
+  - Fijne motoriek: aankleden, constructiespel, handvoorkeur
+
+---
+
+### 6.2 Waarneming en mentaal functioneren
+**Preoperationeel denken**
+- **4–6/7 jaar: Intuïtief denken**
+  - Egocentrisch, gecentreerd, statisch, onomkeerbaar
+
+---
+
+### 6.3 Sociale en persoonlijkheidsontwikkeling
+- Ontwikkeling zelfconcept: zelfkennis, eigenwaarde
+- Genderidentiteit: biologische en sociale factoren
+- Ontstaan moreel besef: socialisatie en temperament
+
+---
+
+
+# HoorCollege 05: De Kindertijd
+### Lichamelijke veranderingen
+- Kinderen verliezen hun "kleuterachtige" mollige vormen.
+- **Groeisnelheid:** ongeveer 5-7 cm per jaar.
+- Toename in spiermassa en tandenwissel.
+
+### Motorische ontwikkeling
+- **Grove motoriek:**
+  - Elasticiteit.
+  - Evenwichtsbeheersing.
+  - Kracht.
+  - Trefzekerheid.
+- **Fijne motoriek:**
+  - Verbetering in handschrift.
+  - Perspectief in tekeningen.
+  - Meer precisie in motorische vaardigheden.
+
+---
+
+## 7.2 Ontwikkelingen in waarneming en mentaal functioneren
+### Cognitieve ontwikkeling volgens Piaget
+- **Concreet-operationele fase (7-12 jaar):**
+  - Logisch nadenken over concrete problemen.
+  - Mentale operaties zoals:
+    - **Conservatie:** begrijpen dat hoeveelheden gelijk blijven ondanks verandering in vorm.
+    - **Classificatie:** indelen in categorieën.
+    - **Seriatie:** ordenen op basis van kenmerken zoals grootte of gewicht.
+    - **Klassenlogica:** begrijpen van deel-geheel relaties.
+  - Denkprocessen:
+    - **Gedecentreerd denken:** niet langer egocentrisch.
+    - **Omkeerbaarheid:** situaties mentaal kunnen terugspoelen.
+    - **Transformaties:** aandacht voor het proces van verandering.
+
+### Sociale cognitie
+- **Rolnemingsgedrag ontwikkelt zich in stadia:**
+  1. **Egocentrisch (3-6 jaar):** Geen onderscheid tussen eigen en andermans standpunt.
+  2. **Subjectief (6-8 jaar):** Begrip dat anderen andere standpunten kunnen hebben.
+  3. **Zelfreflectief (8-10 jaar):** Verplaatsen in andermans standpunt.
+  4. **Wederzijds (10-12 jaar):** Rekening houden met verschillende standpunten.
+  5. **Sociaal (12-15 jaar):** Standpunten in bredere maatschappelijke normen kaderen.
+
+---
+
+## 7.3 Sociale en persoonlijkheidsontwikkeling
+### Vriendschappen en sociale ontwikkeling
+- **7-9 jaar:** Kosten-batenperspectief in relaties.
+- **9-11 jaar:** Normatieve fase: respect voor regels en normen.
+- **11-13 jaar:** Empathische fase: emotionele wederkerigheid.
+
+### Zelfconcept
+- Evolueert van fantasierijk naar realistischer.
+- **Invloeden:** leeftijdsgenoten, ouders, leerkrachten.
+- Meer differentiatie en matiging in zelfbeeld.
+
+---
+
+## Dynamisch-affectieve ontwikkeling
+### Moreel besef (Kohlberg)
+- **Preconventioneel niveau (stadia 1-2):** Gericht op straf en beloning.
+- **Conventioneel niveau (stadia 3-4):** Respect voor regels en normen.
+- **Postconventioneel niveau (stadia 5-6):** Abstracte principes en universele waarden.
+
+### Emotionele competentie (Saarni)
+- Kinderen leren:
+  - Emoties herkennen.
+  - Emoties uiten.
+  - Emoties reguleren.
+- Zwart-wit denken wordt vervangen door genuanceerd begrip.
+
+---
+
+## Belangrijkste termen
+- **Cognitieve concepten:** Conservatie, classificatie, seriatie.
+- **Sociale ontwikkeling:** Rolnemingsgedrag, kosten-batenstadium, normatieve stadium.
+- **Moraalontwikkeling (Kohlberg):** Preconventioneel, conventioneel, postconventioneel.
