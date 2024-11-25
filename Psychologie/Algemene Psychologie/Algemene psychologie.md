@@ -196,61 +196,6 @@
 
 ---
 
-## #   H03 Cognitieve Psychologie
-
-## Inleiding
-- **Sensatie**: Gewaarwording van een stimulus via transductie, omgezet in zenuwimpulsen.
-- **Perceptie**: Interpretatie van sensatie door deze betekenis te geven, beïnvloed door o.a. geheugen en emoties.
-
-### 1.1 Transductie
-Fysieke energie (licht, geluid) wordt omgezet in neurale impulsen:
-   - Lichtgolven → zicht
-   - Geluidsgolven → gehoor
-   - Chemische stoffen → smaak
-
-### 1.2 Sensorische adaptatie
-Aanpassing aan constante prikkels zodat we veranderende stimuli beter kunnen waarnemen.
-
-### 1.3 Drempels (grenzen van sensatie)
-- **Absolute drempel**: Min. intensiteit om iets waar te nemen.
-- **Verschildrempel (JWV)**: Kleinste verschil tussen twee stimuli dat opgemerkt kan worden.
-
-### 1.4 Signaaldetectietheorie
-Sensatie wordt beïnvloed door stimuluskenmerken, achtergrondprikkels, en kenmerken van de waarnemer.
-
-### 2.1 Zicht
-Complex zintuig dat 3D-beelden creëert in de hersenen.
-
-### 2.2 Gehoor
-Geluidsgolven worden verwerkt op basis van volume, toonhoogte en timbre.
-
-### 2.3 Overige zintuiglijke vermogens
-- **Beweging en positie**: Vestibulair systeem en proprioceptie.
-- **Reukzin (olfactie)** en **Smaakzin (gustatie)**: Chemische receptoren voor geur en smaak.
-- **Tastzin**: Voor aanraking, warmte, kou.
-- **Pijnperceptie**: Beïnvloed door fysieke en emotionele factoren.
-
-### 3.1 Systeem van perceptuele verwerking
-Sensatie krijgt betekenis via perceptie:
-- **Perceptuele constanties**: Objecten herkennen ondanks variatie (kleur, grootte).
-- **Bottom-up vs. Top-down**: Van stimulus- naar kennisgedreven verwerking.
-- **Perceptuele blindheid**: Niet-waarnemen door afleiding.
-
-### 3.2 Perceptuele ambiguïteit en vervorming
-Perceptuele illusies en vervormingen zijn mogelijk.
-
-### 3.3 Theoretische verklaringen voor perceptie
-- **Gestaltpsychologie**: De neiging om stimuli in patronen te ordenen.
-- **Concluderen door leren**: Eerdere kennis beïnvloedt interpretatie.
-
-## Kernvragen van dit hoofdstuk
-1. **Hoe verandert stimulatie in sensatie?**
-   - Via transductie en sensorische adaptatie, beïnvloed door drempelwaardes.
-2. **Waarin lijken de zintuigen op elkaar? Waarin verschillen ze?**
-   - Elk zintuig verwerkt eigen informatie via transductie met unieke verwerking in de hersenen.
-3. **Wat is de relatie tussen perceptie en sensatie?**
-   - Perceptie geeft betekenis aan sensatie en is subjectief, beïnvloed door o.a. cultuur en geheugen.
-
 
 # Module 03: H04 Sensatie en Perceptie
 ~boek -> H04 -> 128-129
@@ -479,3 +424,101 @@ Perceptuele illusies en vervormingen zijn mogelijk.
 ## Je geheugen verbeteren met mnemoniek
 - **Mnemonieken**: methoden om informatie in het geheugen te coderen door het te associëren met bestaande informatie.
 - **Methode van loci**: associëren van items op een lijst met een reeks vertrouwde plekken in een bepaalde ruimte.
+
+
+# Module 05: Denken en intelligentie
+~boek -> H06 -> 254-256
+
+## 1. Wat zijn de bouwstenen van denken?
+### Definitie: 
+**Denken** = cognitief proces om (nieuwe) mentale representaties te vormen door informatie te manipuleren.
+
+### Bouwstenen:
+1. **Concepten**:
+   - Mentale representatie van categorieën (ervaring-gebaseerd).
+   - **Voorbeeld**: "Hond" (categorie met gemeenschappelijke kenmerken).
+   - **Cultuurgebonden**: Tijd (lineair of circulair), logica (hoge of lage waarde).
+
+2. **Beelden**:
+   - Sensorische representaties, zoals visuele beelden.
+   - **Cognitieve plattegronden**: mentale kaarten (cf. Tolman).
+
+3. **Schema’s en scripts**:
+   - **Schema**: algemeen conceptueel raamwerk (verwachtingen genereren).
+   - **Script**: specifieke volgorde van gebeurtenissen (bv. “eerste date”).
+
+4. **Intuïtie**:
+   - Oordelen zonder bewust redeneren.
+   - Frontale kwab speelt cruciale rol.
+   - Betrouwbaar in complexe situaties, maar ook gevoelig voor bias.
+
+---
+
+## 2. Over welke vaardigheden beschikken goede denkers?
+### 1. Probleemoplossing:
+   - Goede probleemoplossers:
+     - Bezitten kennis.
+     - Kunnen een probleem identificeren.
+     - Gebruiken gepaste strategieën (algoritmes, heuristieken).
+   - **Obstakels**:
+     - **Mental set**: vasthouden aan eerdere oplossingen.
+     - **Functionele gefixeerdheid**: beperkt gebruik van objecten.
+
+### 2. Oordelen en beslissen:
+   - **Kahneman’s theorie**:
+     - **Systeem 1**: snel, intuïtief (bias-gevoelig).
+     - **Systeem 2**: traag, rationeel (bewust).
+   - Veelvoorkomende denkfouten (bias):
+     - **Confirmation bias**: zoeken naar bevestiging.
+     - **Hindsight bias**: "Ik wist het altijd al."
+     - **Anchoring bias**: eerste indruk bepaalt oordeel.
+     - **Availability bias**: focus op beschikbare informatie.
+     - **Representativeness bias**: prototypes als stereotype.
+
+### 3. Creativiteit:
+   - Creativiteit = nieuwe oplossingen vinden.
+   - Creatieve genieën:
+     - Experts met motivatie en onafhankelijkheid.
+     - Corrigeren Systeem 1 met Systeem 2.
+
+---
+
+## 3. Hoe kunnen we intelligentie meten?
+- **Binet en Simon**: eerste IQ-test (kinderen).
+- **Moderne IQ-tests**: Wechsler-reeks.
+- **Problemen**:
+  - Bias in testen (cultuur-specifiek).
+  - Overmatige focus op taal en wiskunde.
+
+---
+
+## 4. Wat zijn de bouwstenen van intelligentie?
+### 1. Psychometrische theorieën:
+   - **Spearman**: g-factor (algemene intelligentie).
+   - **Cattell**:
+     - **Gekristalliseerde intelligentie**: kennis en ervaring.
+     - **Vloeibare intelligentie**: abstract redeneren en problemen oplossen.
+
+### 2. Cognitieve theorieën:
+   - **Sternberg’s triarchische theorie**:
+     - Praktische, analytische en creatieve intelligentie.
+   - **Gardner’s meervoudige intelligentie**:
+     - Linguïstische, logisch-mathematische, ruimtelijke, muzikale, lichamelijke, naturalistische, interpersoonlijke en intrapersoonlijke intelligentie.
+
+### 3. Culturele definities:
+   - Intelligentie verschilt per cultuur (praktische vs. academische vaardigheden).
+
+---
+
+## 5. Hoe verklaren psychologen IQ-verschillen tussen groepen?
+1. **Erfelijkheid**:
+   - Tweelingstudies tonen genetische invloed.
+2. **Omgeving**:
+   - Stimulerende omgeving  betere vaardigheden.
+3. **Erfelijkheidsratio**:
+   - Variatie in intelligentie: interactie tussen genetica en socio-economische status.
+4. **Bias in IQ-tests**:
+   - Culturele norm van “witte middenklasse”.
+   - Groei-mindset: geloof in ontwikkeling.
+
+---
