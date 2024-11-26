@@ -1,0 +1,6 @@
+
+### An analysis on the Obsessive-Compulsive Personality Disorder (OCPD) on my friend Sarah
+
+This case concerns a 22-year-old lady of noble birth who exhibits intense Obsessive-Compulsive Personality Disorder (OCPD). This condition stems from her youth, during which she endured constant racism and immense pressure from the noble people around her. I find this case particularly compelling, as she is my personal friend, and we grew up together. Despite having supportive relationships, she continuously pushed herself to boundaries that no child or adult should. This unresolved determination appears to have fueled her pursuit of perfectionism and her efforts to navigate the complex dynamics of other noble houses.
+
+The purpose of this paper is to assist my dear friend by presenting a clear cognitive map of her OCPD and the journey we have undergone together through various therapeutic steps. Over many months, we have worked to address the underlying factors contributing to her condition and have achieved positive results. This paper will focus on the key aspects of her therapy and the progress we have made.
