@@ -375,7 +375,7 @@ Perceptuele illusies en vervormingen zijn mogelijk.
 - **Stimulus** die een herinnering naar boven brengt of gedrag activeert:
   - Voorbeelden: geur, emotie, gebeurtenis.
 - **Impliciete herinneringen terughalen**:
-  - Priming.
+  - Priming: is een verschijnsel waarbij de blootstelling aan een bepaalde stimulus onbewust leidt tot veranderingen in denke
 - **Expliciete herinneringen terughalen**:
   - Ophalen (‘retrieval’).
   - Herkenning (‘recognition’).
