@@ -1,0 +1,5 @@
+| Vraag                                                                                              | Antwoord                                                                                          |
+|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Je viert je verjaardag met vrienden in een café... Wat is hier aan de hand?                        | Jullie script van ‘verjaardag vieren’ verschilt.                                                  |
+| Van tevoren heb je het gevoel dat je het tussentijdse tentamen slecht gaat maken... Waarvan blijk?  | Hindsight bias                                                                                    |
+| Penny wil zo slim zijn als Sheldon, Sheldon wil mensen begrijpen... Wat bezit ieder van hen?        | Sheldon bezit experimentele intelligentie ------ Penny bezit praktische intelligentie             |

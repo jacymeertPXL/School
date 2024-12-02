@@ -279,7 +279,60 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
     - **Problem Management**: Identificeren van onderliggende problemen om terugkerende incidenten te voorkomen.
 
 
-# Hoofdstuk 13 TeamWork
+# # Hoofdstuk 13 TeamWork
+
+## Inleiding en leerdoelen
+- **Projectteam**: Vaak tijdelijk, maar essentieel voor het succes van een project.
+- **Leerdoelen**:
+  - Belang van een goed functionerend team begrijpen.
+  - Vertrouwd raken met stappen voor teamontwikkeling.
+  - Kennismaken met het *Model van Tuckman* en de *Piramide van Lencioni*.
+  - Basisstappenplan voor omgaan met conflicten.
+
+## Agenda
+1. **Teamontwikkeling**:
+   - Model van Tuckman: 5 fasen van teamgroei.
+   - Piramide van Lencioni: Bouw een hecht team.
+2. **Conflicten oplossen**:
+   - Soorten conflicten en stappen voor conflictmanagement.
+3. **Feedback geven en ontvangen**:
+   - Groei stimuleren door feedback.
+
+## Projectsucces hangt af van mensen
+- Juiste expertise en effectieve samenwerking zijn cruciaal.
+- De projectmanager speelt een sleutelrol in leiderschap en teamvorming.
+  
+### Teamontwikkeling volgens Tuckman (5 fasen):
+1. **Forming**: 
+   - Weinig samenwerking.
+   - Nood aan duidelijke doelen en rolverdeling.
+2. **Storming**: 
+   - Botsende werkstijlen.
+   - Nood aan focus op teamdynamiek.
+3. **Norming**: 
+   - Betere afspraken, openheid voor feedback.
+   - Efficiëntie verbeteren.
+4. **Performing**: 
+   - Vertrouwen en samenwerking.
+   - Continu leren en verbeteren.
+5. **Adjourning**: 
+   - Team valt uiteen na project.
+
+### Piramide van Lencioni (5 niveaus):
+1. **Vertrouwen** (basis).
+2. **Conflicten** (constructief aangaan).
+3. **Betrokkenheid** (duidelijke doelen).
+4. **Verantwoordelijkheid** (elkaar verantwoordelijk houden).
+5. **Resultaten** (gericht op gezamenlijke resultaten).
+
+## Conflictmanagement
+1. **Spreek met betrokkenen**.
+2. **Blijf onpartijdig**.
+3. **Zoek een compromis**.
+4. **Leg afspraken vast**.
+5. **Plan opvolggesprekken**.
+6. **Escaleren indien nodig**.
+
 
 # Hoofdstuk 14 Risico Management
 Assumpties = veronderstelling
