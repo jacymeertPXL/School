@@ -55,7 +55,8 @@
               "title": "Levensloop Psychologie"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9d074f6fc3af411",
+  "active": "4ea2e8b9c81f881d",
   "lastOpenFiles": [
-    "Psychologie/Algemene Psychologie/Algemene psychologie.md",
     "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+    "Psychologie/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Algemene Psychologie/Toetsen/Toets 05.md",
     "Duchess Sarah von Everhart, Celestia Moonshadow the first.md",

@@ -345,3 +345,6 @@ Egosterkte
 - **Cognitieve concepten:** Conservatie, classificatie, seriatie.
 - **Sociale ontwikkeling:** Rolnemingsgedrag, kosten-batenstadium, normatieve stadium.
 - **Moraalontwikkeling (Kohlberg):** Preconventioneel, conventioneel, postconventioneel.
+
+
+# HoorCollege 06: De Adolescentie
