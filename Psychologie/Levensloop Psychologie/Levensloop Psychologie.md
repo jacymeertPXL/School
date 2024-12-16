@@ -348,3 +348,79 @@ Egosterkte
 
 
 # HoorCollege 06: De Adolescentie
+# Hoorcollege 07: De volwassenheid en ouderdom
+
+## “Volwassenheid”
+- **Fasen van volwassenheid**:
+  - **Jongvolwassenheid**: 20-25j tot 30-35j – vaste bindingen (relationeel/professioneel).
+  - **Middenvolwassenheid**: 30-35j tot 50-55j – actieve periode met engagement.
+  - **Laatvolwassenheid**: 50-55j tot 60-65j – overgangsperiode.
+  - **Oudere volwassenheid**: 60-65j tot … – nieuwe vrijheid en mogelijkheden.
+
+---
+
+## Hoofdstuk 9: De volwassenheid
+### 9.1 Lichamelijke ontwikkeling en psychisch welbevinden
+- **Lichamelijke veranderingen**:
+  - Zintuigen: gezichtsvermogen, gehoor.
+  - Motoriek, vitale organen, uiterlijk.
+- **Het climacterium**:
+  - **Menopauze**: premenopauze, postmenopauze.
+  - **Andropauze**?
+- **Psychologische gevolgen**:
+  - Reacties afhankelijk van cultuur en biologische aspecten.
+
+### 9.2 Cognitieve ontwikkeling
+- **Postformeel denken**:
+  - Realistisch, pragmatisch, relativistisch, persoonlijk, creatief.
+- **Evolutie intellectuele vermogens**:
+  - Feitelijke evolutie versus vertekend beeld.
+
+### 9.3 Sociale en persoonlijkheidsontwikkeling
+- **Beroepscarrière**:
+  - Jongvolwassenheid: zoeken naar job.
+  - Middenvolwassenheid: carrière uitbouwen.
+  - Laatvolwassenheid: aankomend pensioen.
+- **Partnerrelatie**:
+  - Passie, intimiteit, inzet.
+- **Rolveranderingen**:
+  - Legenestsyndroom, hotel mama, grootouderschap, zorg voor ouders.
+- **Dynamisch-affectieve ontwikkeling**:
+  - Zelfaanvaarding, persoonlijke groei, autonomie.
+
+---
+
+## Hoofdstuk 10: De ouderdom
+### 10.1 Lichamelijke ontwikkeling en psychisch welbevinden
+- **Lichamelijke veranderingen**:
+  - Huid, gezicht, lichaamspostuur.
+  - Zintuigen en motoriek: gehoor, zicht, spierkracht.
+  - Inwendige organen: daling in functie.
+  - Zenuwstelsel: volumevermindering, vertraagde reacties.
+- **Psychologische gevolgen**:
+  - Copingmechanismen:
+    - Probleemgerichte coping.
+    - Emotiegerichte coping.
+  - Externe hulpmiddelen: medische sector, samenleving.
+
+### 10.2 Cognitieve ontwikkeling
+- **Klassieke intelligentieonderzoek**:
+  - Mechaniek: biologische efficiëntie van hersenwerking.
+  - Pragmatiek: concrete vaardigheden en kennis.
+- **Competent ouder worden**:
+  - Selectieve optimalisatie met compensatie (SOC):
+    - Selecteren, optimaliseren, compenseren.
+
+### 10.3 Sociale en persoonlijkheidsontwikkeling
+- **Sociale relaties**:
+  - Combinatie van afhankelijkheid en autonomie.
+  - Gevaar van opdringerige hulp.
+- **Dynamisch-affectieve ontwikkeling**:
+  - Geluk in ouderdom:
+    - Factoren: gezondheid, sociale contacten, onafhankelijkheid.
+    - Theoretische modellen:
+      - Gerotranscendentietheorie.
+      - Onthechtingstheorie (disengagement).
+      - Activiteitstheorie (engagement).
+- **Het levenseinde**:
+  - Reacties op naderend levenseinde: ontkenning, woede, onderhandelen, depressie, aanvaarding.

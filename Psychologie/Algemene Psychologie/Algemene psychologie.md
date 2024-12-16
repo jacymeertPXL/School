@@ -522,3 +522,79 @@ Perceptuele illusies en vervormingen zijn mogelijk.
    - Groei-mindset: geloof in ontwikkeling.
 
 ---
+
+
+# # Module 06: Motivatie en Emotie
+~boek ->  -> 
+
+## 9.1 Wat motiveert ons?
+### Prestatiemotivatie
+- **Extrinsieke motivatie**: Motivatie door externe beloningen (bv. geld, punten).
+- **Intrinsieke motivatie**: Motivatie door interne beloningen (bv. plezier, interesse).
+- **Verwachtingstheorie**: Motivatie hangt af van de verwachting succesvol te zijn en het resultaat te waarderen.
+- **Theorie van prestatiedrang**: Psychologische behoefte om moeilijke maar aantrekkelijke doelen te bereiken.
+
+### Crossculturele perspectieven
+- Westerse culturen: Individualisme, persoonlijke prestaties.
+- Collectivistische culturen (Zuid-Amerika, Azië, Afrika): Loyaliteit, groepsprestaties.
+
+### Effecten van beloning op motivatie
+- Beloningen kunnen motivatie vergroten als ze gebaseerd zijn op prestaties.
+- **Overrechtvaardiging**: Extrinsieke beloningen verdringen intrinsieke motivatie.
+- **Flow**: Intense concentratie en interesse in een activiteit.
+
+---
+
+## 9.2 Hoe worden onze motivatieprioriteiten gesteld?
+### Theorieën
+1. **Instincttheorie**: Gedragspatronen door genetische factoren.
+2. **Drijfveertheorie**: Motivatie ontstaat door biologische behoeften (homeostase).
+3. **Freuds psychodynamische theorie**: Motivatie door onbewuste driften (eros, thanatos).
+4. **Maslows behoeftehiërarchie**: Behoeften in volgorde van belangrijkheid (biologisch → zelfactualisatie).
+   - Kritiek: Crossculturele verschillen, risicogedrag, dynamische behoeften.
+5. **Nieuwe behoeftehiërarchie**: Evolutieperspectief met drie niveaus:
+   - Functioneel: Overleving en reproductie.
+   - Proximaal: Omgevingsstimuli.
+   - Ontwikkelingsniveau: Verandering door levensfase.
+6. **Zelfdeterminatietheorie (ZDT)**:
+   - Drie basisbehoeften:
+     1. Autonomie: Vrij handelen.
+     2. Competentie: Bekwaam voelen.
+     3. Verbondenheid: Sociale relaties.
+
+---
+
+## 9.4 Hoe motiveren emoties ons?
+### Onderdelen van emoties
+1. Fysiologische arousal.
+2. Cognitieve interpretatie.
+3. Subjectieve gevoelens.
+4. Gedragsmatige expressie.
+
+### Functies van emoties
+- Evolutionaire rol (bv. angst, liefde, humor).
+- Geheugenopslag en snelle beoordeling.
+- Gedragssturing (positief = toenadering, negatief = vermijding).
+- Spiegelneuronen: Leren van andermans emoties.
+
+### Soorten emoties
+- **Primaire emoties**: Universeel (bv. vreugde, angst, woede).
+- **Secundaire emoties**: Sociaal (bv. trots, schaamte, hoop).
+- Intensiteit varieert (bv. kalmte → extase).
+
+### Crossculturele verschillen
+- Universele gezichtsuitdrukkingen (Ekman): Gelijkenissen in basisemoties.
+- Culturele verschillen in expressie (bv. somberheid als respect in Azië).
+
+---
+
+## 9.5 Waar komen onze emoties vandaan?
+### Theorieën
+1. **Neurowetenschap van emotie**: Limbisch systeem, amygdala.
+2. **James-Lange theorie**: Lichamelijke reacties veroorzaken emoties.
+3. **Cannon-Bard theorie**: Lichamelijke reacties en emoties ontstaan tegelijk.
+4. **Schachter-Singer theorie**: Emotie = arousal + cognitieve interpretatie.
+
+### Beheersen van emoties
+- Effectieve regulatie verhoogt welzijn.
+- Gevaar van "alles eruit gooien"-mythe: Kan destructief zijn.
