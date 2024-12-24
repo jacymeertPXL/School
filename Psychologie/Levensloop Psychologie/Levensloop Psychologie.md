@@ -348,6 +348,68 @@ Egosterkte
 
 
 # HoorCollege 06: De Adolescentie
+### Lichamelijke veranderingen
+- **Groeispurt**:
+  - Disharmonische ontwikkeling
+  - Strekkingsfase
+  - Vullingsfase
+- **Seksuele rijping**:
+  - Meisjes: Menarche
+  - Jongens: Spermarche
+- **Acceleratie**: Versnelling van ontwikkeling vergeleken met eerdere generaties
+
+### Psychologische gevolgen
+- Invloed op gedrag
+- Invloed op zelfbeeld
+- Invloed van sociale omgeving
+- Verwachtingen en confrontatie
+- Genderrollen en seksualiteit
+
+---
+
+## 8.2 Cognitieve ontwikkeling
+### Formeel-operationeel denken (Piaget)
+- Gebruik van abstracte begrippen
+- Propositioneel denken
+- Hypothetisch-deductief denken
+- Experimenteel en combinatorisch denken
+
+### Gevolgen
+- Kritische houding
+- Zelfreflectie:
+  - Besluiteloosheid
+  - Bewustzijn van uniciteit
+  - Egocentrisme (metafysisch of intellectueel)
+  - Imaginair publiek
+  - Persoonlijke legende
+
+---
+
+## 8.3 Sociale en persoonlijkheidsontwikkeling
+### Sociale ontwikkeling
+- **Vriendengroepen en vriendschappen**:
+  - Kosten-batenstadium (7-9 jaar)
+  - Normatief stadium (9-11 jaar)
+  - Empathisch stadium (11-13 jaar)
+- **Jongerencultuur en verliefdheden**
+
+### Dynamisch-affectieve ontwikkeling
+- **Identiteitsontwikkeling**:
+  - Psychosociaal moratorium
+  - Identiteitsvoltooiing
+  - Foreclosure
+  - Kunstmatige identiteit
+  - Negatieve identiteit
+  - Identiteitsverwarring
+
+---
+langrijke termen
+- **Lichamelijke ontwikkeling**: Strekkingsfase, vullingsfase, menarche, spermarche, acceleratie
+- **Cognitieve ontwikkeling**: Abstracte begrippen, propositioneel denken, hypothetisch-deductief denken, experimenteel en combinatorisch denken
+- **Sociale ontwikkeling**: Moratorium, foreclosure, kunstmatige identiteit, negatieve identiteit, identiteitsverwarring
+- **Psychologische fenomenen**: Persoonlijke uniciteit, metafysisch egocentrisme, imaginair publiek, persoonlijke legende
+
+
 # Hoorcollege 07: De volwassenheid en ouderdom
 
 ## “Volwassenheid”
