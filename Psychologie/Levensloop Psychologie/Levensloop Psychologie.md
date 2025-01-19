@@ -71,7 +71,7 @@ Egosterkte
 		- Afweerreflex (week 6)→ toenaderingsreflex (maand 3)
 		- Zuigreflex
 		- Grijpreflex
-		- Babinskyreflex
+		- Babinskyreflex - voetzoolprikkeling
 	- Spontane bewegingen (vanaf maand 4)
 - Gewaarwordingen (vanaf maand 5)
 	- Onderscheid reactie op zintuigprikkeling (gewaarwording) vs. bewuste waarneming
@@ -118,10 +118,14 @@ Egosterkte
 ### 4.3 Ontwikkelingen in waarneming en cognitie
 - **Piaget: Sensomotorisch stadium** (0-2 jaar)
   - Ongecoördineerde reflexen
-  - Primaire circulaire reacties (1-4 maanden)
-  - Secundaire circulaire reacties (4-8 maanden)
-  - Intentioneel handelen (8-12 maanden)
-  - Tertiaire circulaire reacties (12-18 maanden)
+- Primaire circulaire reacties (1-4 maanden)
+	- Herhaalde bewegingen met het eigen lichaam, zoals duimzuigen, gericht op plezier.
+- Secundaire circulaire reacties (4-8 maanden)
+	- Herhaalde acties gericht op de omgeving, zoals een speeltje schudden om geluid te maken.
+- Intentioneel handelen (8-12 maanden)
+	- Doelgerichte acties met eenvoudige probleemoplossing, zoals een object verplaatsen om iets te pakken.
+- Tertiaire circulaire reacties (12-18 maanden)
+	- Experimenteren met variaties van acties om nieuwe effecten te ontdekken, zoals een bal op verschillende manieren laten vallen.
   - Mentale voorstellingen (18-24 maanden)
   
 ### 4.4 Sociale en persoonlijkheidsontwikkeling
@@ -139,6 +143,7 @@ Egosterkte
   - Vermijdende gehechtheid
   - Afwerende/ambivalente gehechtheid
   - Gedesorganiseerde gehechtheid
+	- tegenstrijdig en chaotisch gedrag vertoont richting de verzorger, vaak als gevolg van angst of trauma.
 
 ## Termen
 - **Motorische reacties**: Reflexen zoals Moro, Babinsky, etc.
@@ -193,15 +198,18 @@ Egosterkte
 ---
 
 #### Sensomotorisch stadium
-- **0–1 maand**: Ongecoördineerde reflexen
-- **1–4 maanden**: Primaire circulaire reacties
-- **4–8 maanden**: Secundaire circulaire reacties
-- **8–12 maanden**: Intentioneel handelen
-- **12–18 maanden**: Tertiaire circulaire reacties
-  - Experimenteergedrag
-  - Variëren van gedrag om nieuwe effecten uit te lokken
-- **18–24 maanden**: Mentale voorstellingen
-  - Basis voor pre-operationele denken
+- **Piaget: Sensomotorisch stadium** (0-2 jaar)
+  - Ongecoördineerde reflexen
+- Primaire circulaire reacties (1-4 maanden)
+	- Herhaalde bewegingen met het eigen lichaam, zoals duimzuigen, gericht op plezier.
+- Secundaire circulaire reacties (4-8 maanden)
+	- Herhaalde acties gericht op de omgeving, zoals een speeltje schudden om geluid te maken.
+- Intentioneel handelen (8-12 maanden)
+	- Doelgerichte acties met eenvoudige probleemoplossing, zoals een object verplaatsen om iets te pakken.
+- Tertiaire circulaire reacties (12-18 maanden)
+	- Experimenteren met variaties van acties om nieuwe effecten te ontdekken, zoals een bal op verschillende manieren laten vallen.
+  - Mentale voorstellingen (18-24 maanden)
+  
 
 **Kenmerken einde sensomotorische periode:**
 - Gestabiliseerd wereldbeeld
@@ -353,9 +361,10 @@ Egosterkte
   - Disharmonische ontwikkeling
   - Strekkingsfase
   - Vullingsfase
-- **Seksuele rijping**:
-  - Meisjes: Menarche
-  - Jongens: Spermarche
+- **Meisjes: Menarche**  
+    De eerste menstruatie, een teken van geslachtsrijpheid.
+- **Jongens: Spermarche**  
+    De eerste zaadlozing, een teken van geslachtsrijpheid.
 - **Acceleratie**: Versnelling van ontwikkeling vergeleken met eerdere generaties
 
 ### Psychologische gevolgen
@@ -394,14 +403,20 @@ Egosterkte
 - **Jongerencultuur en verliefdheden**
 
 ### Dynamisch-affectieve ontwikkeling
-- **Identiteitsontwikkeling**:
-  - Psychosociaal moratorium
-  - Identiteitsvoltooiing
-  - Foreclosure
-  - Kunstmatige identiteit
-  - Negatieve identiteit
-  - Identiteitsverwarring
-
+- **Psychosociaal moratorium**  
+    Een periode van experimenteren zonder volledige verplichtingen, vaak in de adolescentie.
+- **Identiteitsvoltooiing**  
+    Het bereiken van een stabiele en zelfgekozen identiteit.
+- **Foreclosure**  
+    Het vroegtijdig vastleggen van een identiteit zonder exploratie.
+- **Kunstmatige identiteit**  
+    Het aannemen van een onechte identiteit, vaak om externe verwachtingen te vervullen.
+- **Negatieve identiteit**  
+    Het bewust aannemen van een identiteit die tegen sociale verwachtingen ingaat.
+- **Identiteitsverwarring**  
+    Het ontbreken van een duidelijke identiteit, vaak gepaard met onzekerheid en twijfel.
+- **Moratorium**  
+    Een fase van actieve exploratie van verschillende identiteiten zonder definitieve keuze.
 ---
 langrijke termen
 - **Lichamelijke ontwikkeling**: Strekkingsfase, vullingsfase, menarche, spermarche, acceleratie
@@ -428,7 +443,8 @@ langrijke termen
   - Motoriek, vitale organen, uiterlijk.
 - **Het climacterium**:
   - **Menopauze**: premenopauze, postmenopauze.
-  - **Andropauze**?
+  - **Andropauze**
+	  - Een geleidelijke afname van testosteron bij mannen, meestal vanaf middelbare leeftijd, wat kan leiden tot fysieke, emotionele en mentale veranderingen.
 - **Psychologische gevolgen**:
   - Reacties afhankelijk van cultuur en biologische aspecten.
 

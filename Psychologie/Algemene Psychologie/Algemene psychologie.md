@@ -89,7 +89,7 @@
 
 - **Darwin** -> Mens = Dier 
 	- Theory van evolutie
-- **Wundt** -> De eerste psycholoog -> Vander van de psycholgie -> 19 de eeuw
+- **Wundt** -> De eerste psycholoog -> Vader van de psycholgie -> 19 de eeuw
 
 ---
 
@@ -525,7 +525,7 @@ Perceptuele illusies en vervormingen zijn mogelijk.
 
 
 # # Module 06: Motivatie en Emotie
-~boek ->  -> 
+~boek -> H07-> 400-402
 
 ## 9.1 Wat motiveert ons?
 ### Prestatiemotivatie
@@ -598,3 +598,6 @@ Perceptuele illusies en vervormingen zijn mogelijk.
 ### Beheersen van emoties
 - Effectieve regulatie verhoogt welzijn.
 - Gevaar van "alles eruit gooien"-mythe: Kan destructief zijn.
+
+# Module 07: Vormen van Bewustzijn
+Leer via PowerPoint - weinig informatie 

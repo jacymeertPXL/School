@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "9bf13113e77f9093",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie/Algemene Psychologie/Algemene psychologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Algemene psychologie"
-            }
-          },
-          {
             "id": "4ea2e8b9c81f881d",
             "type": "leaf",
             "pinned": true,
@@ -197,13 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bf13113e77f9093",
+  "active": "4ea2e8b9c81f881d",
   "lastOpenFiles": [
+    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+    "Psychologie/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Levensloop Psychologie/Toetsen/Toets 05.md",
     "Psychologie/Levensloop Psychologie/Toetsen/Toets 04.md",
-    "Psychologie/Algemene Psychologie/Algemene psychologie.md",
-    "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
     "Psychologie/Algemene Psychologie/Toetsen/Toets 05.md",
     "Duchess Sarah von Everhart, Celestia Moonshadow the first.md",
     "Patient 07 - Villiam Von Auceptin, Van Der Straaten The Second.md",
