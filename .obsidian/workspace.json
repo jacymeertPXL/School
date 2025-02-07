@@ -4,43 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "e7895642e1a3e24b",
+        "id": "977569cb8b7c47a9",
         "type": "tabs",
         "children": [
           {
-            "id": "f9d074f6fc3af411",
+            "id": "7f8851b079c32c2b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
+                "file": "Psychologie/Trimester_02/Sociologie/Sociologie.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Examen Vragen Projectmanagement"
+              "title": "Sociologie"
             }
           },
           {
-            "id": "4ea2e8b9c81f881d",
+            "id": "3ca65d171d6e013e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
+                "file": "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Levensloop Psychologie"
+              "title": "Sociale psychologie"
+            }
+          },
+          {
+            "id": "d8f938cfa77e424c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Recht  & Deontologie"
+            }
+          },
+          {
+            "id": "1075a0bdef79a1ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Organistatiepsychologie"
+            }
+          },
+          {
+            "id": "4b3a9f2c036ba254",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie/Trimester_02/Biopsychologie/Biopsychologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Biopsychologie"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +106,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "e416821eade3ef72",
@@ -181,50 +229,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ea2e8b9c81f881d",
+  "active": "71b9d9b27c376db0",
   "lastOpenFiles": [
+    "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
+    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
+    "Psychologie/Trimester_02/Biopsychologie/Biopsychologie.md",
+    "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
+    "Psychologie/Trimester_02/Recht  & Deontologie/Img/Pasted image 20250207145859.png",
+    "Psychologie/Trimester_02/Recht  & Deontologie/Img/Pasted image 20250207145850.png",
+    "Psychologie/Trimester_02/Sociologie/Sociologie.md",
+    "Psychologie/Trimester_01/Algemene Psychologie/Algemene psychologie.md",
+    "Psychologie/Trimester_01/Levensloop Psychologie/Levensloop Psychologie.md",
+    "Psychologie/Trimester_02/Recht  & Deontologie/Img",
+    "Psychologie/Trimester_02/Organistatiepsychologie/Img",
+    "Psychologie/Trimester_02/Organistatiepsychologie/Untitled.canvas",
+    "Psychologie/Trimester_02/Biopsychologie/Img",
+    "Psychologie/Trimester_02/Sociale psychologie/Img",
+    "Psychologie/Trimester_02/Sociologie/Img/Pasted image 20250207141157.png",
+    "Psychologie/Trimester_02/Sociologie/Img",
+    "Psychologie/Trimester_02/Sociologie/Img.md",
+    "Psychologie/Trimester_02/Sociologie",
+    "Psychologie/Trimester_02/Sociale psychologie",
+    "Psychologie/Trimester_02/Recht  & Deontologie",
+    "Psychologie/Trimester_02/Organistatiepsychologie",
+    "Psychologie/Trimester_02/Biopsychologie",
+    "Psychologie/Untitled.md",
     "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
-    "Psychologie/Algemene Psychologie/Algemene psychologie.md",
-    "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
-    "Psychologie/Levensloop Psychologie/Toetsen/Toets 05.md",
-    "Psychologie/Levensloop Psychologie/Toetsen/Toets 04.md",
-    "Psychologie/Algemene Psychologie/Toetsen/Toets 05.md",
+    "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 05.md",
+    "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 04.md",
+    "Psychologie/Trimester_01/Algemene Psychologie/Toetsen/Toets 05.md",
     "Duchess Sarah von Everhart, Celestia Moonshadow the first.md",
     "Patient 07 - Villiam Von Auceptin, Van Der Straaten The Second.md",
-    "Psychologie/Algemene Psychologie/Toetsen/Toets 04.md",
-    "Psychologie/Algemene Psychologie/Toetsen/Toets 03.md",
-    "Psychologie/Algemene Psychologie/Toetsen/Toets 01.md",
-    "Psychologie/Algemene Psychologie/Toetsen/Toets 02.md",
-    "Psychologie/Levensloop Psychologie/Toetsen/Toets 03.md",
-    "Psychologie/Levensloop Psychologie/Toetsen/Toets 02.md",
-    "Psychologie/Levensloop Psychologie/Toetsen/Toets 01.md",
-    "Psychologie/Algemene Psychologie/Toetsen/Untitled",
-    "Psychologie/Algemene Psychologie/Modules/Module 02.md",
-    "Psychologie/Levensloop Psychologie/Toetsen/Toes",
-    "Psychologie/Algemene Psychologie/Modules/Module 01.md",
-    "Psychologie/Algemene Psychologie/Modules",
-    "Psychologie/Algemene Psychologie/Toetsen",
+    "Psychologie/Trimester_01/Algemene Psychologie/Toetsen/Toets 04.md",
+    "Psychologie/Trimester_01/Algemene Psychologie/Toetsen/Toets 03.md",
+    "Psychologie/Trimester_01/Algemene Psychologie/Toetsen/Toets 01.md",
+    "Psychologie/Trimester_01/Algemene Psychologie/Toetsen/Toets 02.md",
+    "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 03.md",
+    "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 02.md",
+    "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 01.md",
+    "Psychologie/Trimester_01/Algemene Psychologie/Modules/Module 02.md",
+    "Psychologie/Trimester_01/Algemene Psychologie/Modules/Module 01.md",
     "Pasted image 20241001134429.png",
-    "Psychologie/Algemene Psychologie/Img/Pasted image 20241001134503.png",
-    "Psychologie/Algemene Psychologie/Img/Pasted image 20241001133227.png",
-    "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001132323.png",
-    "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001132240.png",
-    "Psychologie/Levensloop Psychologie/Toetsen",
-    "Psychologie/Levensloop Psychologie/Img/Pasted image 20241001094909.png",
-    "Psychologie/Levensloop Psychologie/Img",
+    "Psychologie/Trimester_01/Algemene Psychologie/Img/Pasted image 20241001134503.png",
+    "Psychologie/Trimester_01/Algemene Psychologie/Img/Pasted image 20241001133227.png",
+    "Psychologie/Trimester_01/Levensloop Psychologie/Img/Pasted image 20241001132323.png",
+    "Psychologie/Trimester_01/Levensloop Psychologie/Img/Pasted image 20241001132240.png",
+    "Psychologie/Trimester_01/Levensloop Psychologie/Img/Pasted image 20241001094909.png",
     "Psychologie/Levensloop Psychologie/Untitled.md",
-    "Psychologie/Levensloop Psychologie",
-    "Examen Vragen Projectmanagement.pdf",
-    "Psychologie/Levensloop Psychologie/Img",
-    "Psychologie/Algemene Psychologie/Img/Pasted image 20240928184823.png",
-    "Psychologie/Algemene Psychologie/Img",
-    "Psychologie/Algemene Psychologie/Img/Pasted image 20240928184656.png",
-    "Computer_Science/Jaar_02/Trimester_01/Data_advanced/Week 02.md",
-    "Computer_Science/Jaar_02/Trimester_01/Data_advanced/Week 01.md",
-    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Bestand Opvragen Wpf.md",
-    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Img/Pasted image 20240517163826.png",
-    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Statische Klasse File.md",
-    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Lezen.md",
-    "Computer_Science/Jaar_01/Trimester_02/C# Advanced/Theory/H1 TekstBestanden/Writer And Reader.md"
+    "Psychologie/Trimester_01/Algemene Psychologie/Img/Pasted image 20240928184823.png"
   ]
 }

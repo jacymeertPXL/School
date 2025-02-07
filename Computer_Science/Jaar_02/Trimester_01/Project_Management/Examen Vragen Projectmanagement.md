@@ -36,13 +36,13 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
 ## Rollen
 
 - **Ken drie rollen** (niet developer, projectmanager of tester) 
-	- Product Owner
-	- Scrum Master
-	- Business Analyst
+    - Product Owner
+    - Scrum Master
+    - Business Analyst
 - **SMART-doelstelling** opstellen voor PE en examen.
 - **SMART**: Specifiek, Meetbaar, Acceptabel, Relevant, Tijdgebonden.
 - **Scope creep** -> Mogelijke examenvraag.
-	- blijven toevoegen aan de scope waardoor het te veel wordt
+    - Blijven toevoegen aan de scope waardoor het te veel wordt
 - **Sponsors**: Heel belangrijk. -> hebben finale keuze
 - Multiple choice vraag -> Hierop voorbereid zijn.
 
@@ -53,7 +53,7 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
 ## Begrippen
 
 - **BPMN (Business Process Modelling Notation)**: Stroomdiagrammethode om stappen in een bedrijfsproces van begin tot einde in kaart te brengen.
-- **Project requirements**: requirements voor u project.
+- **Project requirements**: Requirements voor uw project.
 - **Project process**: Weten wat dit inhoudt.
 - **Kernproces**: Levert een directe, aanwijsbare en meetbare bijdrage aan de klant.
     - **Voorbeeld: Telenet** -> Alles rond hun internetdiensten.
@@ -70,37 +70,37 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
 ---
 
 # Hoofdstuk 06 & 07
-- SWOT-analyse 
-	- **Sterkte**: Kostenbesparing door zuinige energie. - 
-	- **Zwakte**: Onvoldoende parkeerplaatsen. - 
-	- **Kans**: - Extra inkomsten; we kunnen de extra ruimte verhuren. - Bedrijven bieden contracten aan aan laatstejaarsstudenten. - 
-	 - **Bedreiging**: Eenzelfde soort gebouw op een andere locatie; bedrijven in de buurt verkiezen dit gebouw.
+
+## SWOT-analyse
+
+- **Sterkte**: Kostenbesparing door zuinige energie.
+- **Zwakte**: Onvoldoende parkeerplaatsen.
+- **Kans**: 
+    - Extra inkomsten; we kunnen de extra ruimte verhuren.
+    - Bedrijven bieden contracten aan aan laatstejaarsstudenten.
+- **Bedreiging**: Eenzelfde soort gebouw op een andere locatie; bedrijven in de buurt verkiezen dit gebouw.
 
 ---
 
 # Hoofdstuk 08 - Analyse- & Ontwerpfase
 
-### Begrippen
+## Begrippen
 
 - **Activiteiten**:
     - Oplossing opsplitsen in deeloplossingen.
     - Functionele en technische vereisten opstellen.
     - Opstellen van een analysedocument of blueprint, waarin de oplossing, vereisten en afspraken staan.
-
 - **Blueprint**:
     - Gedetailleerde beschrijving van de **AS-IS** en **TO-BE** processen.
     - **Functioneel ontwerp**: Lijst van functionaliteiten, use cases, mock-ups.
     - **Technisch ontwerp**: UML-diagrammen zoals klassendiagram, sequentiediagram.
     - Beveiliging, interfaces, datamigratie, systeemarchitectuur en testplan.
-
 - **Workshops en Validatie**:
     - Workshops met eindgebruikers om processen en vereisten te bespreken.
     - Validatie van de blueprint met alle betrokkenen om verwachtingen vast te leggen.
-
 - **POC vs. Prototype**:
     - **POC (Proof of Concept)**: Bewijst dat een idee haalbaar is.
     - **Prototype**: Uitvoering van het idee, getest door werknemers, maar nog niet volledig.
-
 - **Deliverables**:
     - Blueprint bevat: procesbeschrijvingen, functioneel/technisch ontwerp, beveiliging, interfaces, datamigratie, testplan, etc.
 
@@ -108,75 +108,64 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
 
 # Hoofdstuk 09 - Planningsfase
 
-### Begrippen
+## Begrippen
 
 - **Deliverables**:
     - Projectplan, **WBS (Work Breakdown Structure)**.
     - **Gantt chart** of netwerkdiagram voor planning.
-
 - **Kritiek pad**:
     - Activiteiten die de einddatum van het project bepalen.
     - Berekening van **slack time**: Tijd waarin een activiteit mag vertragen zonder het project te beïnvloeden.
-
 - **Methodes voor inschattingen**:
     - Analoge methode
     - Planning poker
     - Driepuntstechniek
     - Delphi-techniek
-
 - **Aandachtspunten**:
     - Planning is dynamisch en kan beïnvloed worden door externe factoren zoals beschikbaarheid van resources of budget.
 
-
---- 
+---
 
 # Hoofdstuk 10 - Implementatie
 
-### Begrippen
+## Begrippen
 
-- **Projectfases**
+- **Projectfases**:
     - **Bouwfase**: Ontwikkelen van de oplossing, installatie en configuratie van benodigde hardware/software.
     - **Doel**: Samenstellen van componenten om het systeem met gewenste functionaliteiten te creëren. Duurt vaak het langst.
-
-- **Niveaus van standaardisatie**
+- **Niveaus van standaardisatie**:
     - **Standaardoplossing**: Alleen configuratie, zonder code-aanpassingen.
     - **Standaard met uitbreidingen**: Kleine uitbreidingen zonder aanpassing van standaardcode.
     - **Maatwerk**: Volledig nieuwe oplossingen voor unieke klantprocessen, maar duurder en onderhoudsintensief.
-
-- **Activiteiten in de bouwfase**
+- **Activiteiten in de bouwfase**:
     - Installatie, upgrades, en testen van hardware/software.
     - Configuratie van software en aanmaken van testgegevens.
     - Documentatie, rollen en autorisaties opzetten, en interfaces opzetten.
-
-- **Rollen en verantwoordelijkheden**
+- **Rollen en verantwoordelijkheden**:
     - **Ontwikkelaars**: Hoofdrol in de bouwfase, zorgen voor oplossing en nevenactiviteiten.
     - **Designers**: Creëren gebruiksvriendelijke oplossingen, cruciaal bij kernactiviteiten.
     - **Projectmanager**: Beheert budget, timing, en kwaliteit.
     - **Eindgebruikers**: Bieden feedback en beantwoorden vragen.
-
-- **Deliverables**
+- **Deliverables**:
     - **Werkende oplossing**: Eindproduct van de bouwfase; kan bij grote projecten worden opgesplitst in deeloplossingen.
-
-- **Afhankelijkheden**
+- **Afhankelijkheden**:
     - Bouwfase gebaseerd op functionele/technische specificaties; vaak vereisen details nog verduidelijking.
     - **Belangrijk voor latere fases**: Resultaten van de bouwfase beïnvloeden testen en overdracht.
     - Budgetbeperkingen kunnen kwaliteitsverhogende fases onder druk zetten.
-
-- **Aandachtspunten**
+- **Aandachtspunten**:
     - **Teamopbouw**: Goede balans tussen junior, medior, en senior profielen.
     - **Continuïteit**: Behoud van projectkennis ondanks personeelverloop; investeer in motivatie en ontwikkeling.
     - **Flexibiliteit**: Streef naar een evenwicht tussen klanttevredenheid en kosten/baten afwegingen.
     - **Communicatie**: Houdt stakeholders betrokken voor feedback en vermindering van weerstand.
-
-- **Te onthouden**
+- **Te onthouden**:
     - **Implementatiefase** = Bouwfase
     - **Deliverable**: Werkende oplossing
 
 ---
 
-# # Hoofdstuk 11 - Testen
+# Hoofdstuk 11 - Testen
 
-### Begrippen
+## Begrippen
 
 - **Testtypes**:
     - **Functionaliteitstesten**: Verificatie van functionaliteiten en validatie van gebruikersvereisten.
@@ -185,19 +174,16 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
     - **Usability testen**: Gebruikerservaring minimaliseren in handelingen.
     - **Veiligheidstesten**: Cybersecurity en rollen/autorisaties controleren.
     - **Regressietesten**: Hergebruik en impact van wijzigingen op bestaande functies.
-
 - **Testlevels**:
     - **Unittesten**: Controleren van individuele componenten door ontwikkelaars.
     - **Integratietesten**: Testen van samenwerking tussen componenten.
     - **Systeemtesten**: Volledige oplossing testen in zijn geheel.
     - **Acceptatietesten**: Test door eindgebruikers voor implementatie.
-
 - **Rollen en Verantwoordelijkheden**:
     - **Ontwikkelaars**: Uitvoeren van unit- en integratietesten en bugfixing.
     - **Testers**: Documenteren van integratie- en systeemtesten.
     - **Eindgebruikers**: Uitvoeren van acceptatietesten.
     - **Testmanager/Projectmanager**: Coördineren van testactiviteiten, opstellen testplan en selecteren van resources.
-
 - **Deliverables**:
     - **Testplan**: Bevat de teststrategie en testscenario’s:
         - Testscenario’s op basis van bedrijfsprocessen.
@@ -206,11 +192,9 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
         - Testtools: Hulpmiddelen voor testen en documentatie.
         - Acceptatiecriteria: Afspraken voor vrijgave van oplossing.
     - **Testresultaten**: Documentatie van de testresultaten en opvolging door testmanager.
-
 - **Afhankelijkheden**:
     - Testresultaten kunnen de projectplanning beïnvloeden.
     - Testfase is verbonden met de ontwerpfase; testplannen beginnen vaak al bij het ontwerp.
-
 - **Aandachtspunten**:
     - **Discipline en nauwkeurigheid**: Testen vereist een nauwkeurige en herhalende aanpak.
     - **Keuze van testers**: Combinatie van interne en externe testers is effectief.
@@ -219,34 +203,29 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
 
 ---
 
-# # Hoofdstuk 12 - Turnover 
+# Hoofdstuk 12 - Turnover
 
-### Begrippen
+## Begrippen
 
 - **Turnover**:
     - Het overdragen van de afgewerkte oplossing aan de klant.
     - Naast de werkende oplossing omvat turnover ook documentatie, training, en kennisoverdracht.
     - **Doel**: De klant moet autonoom verder kunnen werken met de oplossing na het vertrek van de leverancier.
-  
 - **Documentatie**:
     - **Technische documentatie**: Beschrijving van de implementatie in detail, inclusief code-documentatie en kennisdeling naar de IT-afdeling van de klant.
     - **Functionele documentatie**: Gebruikershandleiding en stapsgewijze uitleg, vaak beschikbaar als wiki-pagina’s of videotutorials.
-  
 - **Training**:
     - Alle eindgebruikers worden getraind vóór go-live.
     - **Train-the-trainer-principe**: Sleutelgebruikers worden getraind om anderen te begeleiden, wat vaak vertrouwen geeft en de weerstand vermindert.
     - Training voorkomt problemen en verlaagt de werkdruk na go-live.
-
 - **Support**:
     - **Hypercare-fase**: Direct na go-live met intensieve ondersteuning voor gebruikers. Deze duurt vaak 6-8 weken.
     - Na hypercare wordt de support overgedragen aan de IT-afdeling van de klant of aan een externe supportorganisatie.
     - **SLA** (Service Level Agreement): Contract met afspraken over serviceniveau, helpdesk-beschikbaarheid, reactietijden, en boetes.
     - **OLA** (Operational Level Agreement): Afspraken tussen afdelingen binnen dezelfde organisatie.
-
 - **IT Service Management**:
     - Beheer en bewaking van IT-diensten ter ondersteuning van de bedrijfsvoering.
     - **ITIL**-framework biedt processen zoals incident-, change-, en problem management voor constante en stabiele dienstverlening.
-
 - **Rollen en Verantwoordelijkheden**:
     - **Ontwikkelaars**: Hypercare en bugfixing.
     - **Business Analist/Sleutelgebruikers**: Beantwoorden van functionele vragen.
@@ -254,7 +233,6 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
     - **Projectmanager**: Coördinatie van alle turnover-activiteiten.
     - **Helpdesk**: Ondersteuning van eindgebruikers.
     - **2de en 3de Lijn Support**: Afhandelen van technische problemen.
-
 - **Deliverables**:
     - **Documentatie**: Technische en functionele documentatie moet bewaard worden in een document management systeem voor snelle toegang en versiebeheer.
     - **Procedures**:
@@ -262,113 +240,85 @@ Leer begrippen begin hoofdstuk dan lukken Pe en examen
         - Aanvragen van change requests.
         - Aanmaken van gebruikers en rollen.
     - **Cutover-plan**: Draaiboek voor go-live met planning, uitvoerders, en afhankelijkheden, opgesteld door de projectmanager.
-
 - **Afhankelijkheden**:
     - Turnover is de laatste projectfase en afhankelijk van voorgaande fasen, zoals test- en ontwikkelfasen.
     - Voldoende tijd en budget voor training en kennisoverdracht zijn essentieel.
     - Kwaliteit van turnover beïnvloedt de perceptie van eindgebruikers.
-
 - **Aandachtspunten**:
     - **Gebruiksvriendelijkheid in procedures**: Voorkom onnodige complexiteit.
     - **Documentatie**: Dit moet regelmatig worden bijgewerkt, vooral na updates en wijzigingen.
     - **Kosten van onderhoud**: Kosten moeten worden ingeschat en opgenomen in de business case.
-
 - **ITIL Framework**:
     - **Incident Management**: Beheer van incidenten om snel tot oplossing te komen.
     - **Change Management**: Gestructureerd beheer van wijzigingsverzoeken.
     - **Problem Management**: Identificeren van onderliggende problemen om terugkerende incidenten te voorkomen.
 
+---
 
-# # Hoofdstuk 13 TeamWork
+# Hoofdstuk 13 - Teamwork
 
-## Inleiding en leerdoelen
+## Begrippen
+
 - **Projectteam**: Vaak tijdelijk, maar essentieel voor het succes van een project.
 - **Leerdoelen**:
-  - Belang van een goed functionerend team begrijpen.
-  - Vertrouwd raken met stappen voor teamontwikkeling.
-  - Kennismaken met het *Model van Tuckman* en de *Piramide van Lencioni*.
-  - Basisstappenplan voor omgaan met conflicten.
+    - Belang van een goed functionerend team begrijpen.
+    - Vertrouwd raken met stappen voor teamontwikkeling.
+    - Kennismaken met het *Model van Tuckman* en de *Piramide van Lencioni*.
+    - Basisstappenplan voor omgaan met conflicten.
+- **Teamontwikkeling volgens Tuckman (5 fasen)**:
+    1. **Forming**: Weinig samenwerking. Nood aan duidelijke doelen en rolverdeling.
+    2. **Storming**: Botsende werkstijlen. Nood aan focus op teamdynamiek.
+    3. **Norming**: Betere afspraken, openheid voor feedback. Efficiëntie verbeteren.
+    4. **Performing**: Vertrouwen en samenwerking. Continu leren en verbeteren.
+    5. **Adjourning**: Team valt uiteen na project.
+- **Piramide van Lencioni (5 niveaus)**:
+    1. **Vertrouwen** (basis).
+    2. **Conflicten** (constructief aangaan).
+    3. **Betrokkenheid** (duidelijke doelen).
+    4. **Verantwoordelijkheid** (elkaar verantwoordelijk houden).
+    5. **Resultaten** (gericht op gezamenlijke resultaten).
+- **Conflictmanagement**:
+    1. Spreek met betrokkenen.
+    2. Blijf onpartijdig.
+    3. Zoek een compromis.
+    4. Leg afspraken vast.
+    5. Plan opvolggesprekken.
+    6. Escaleren indien nodig.
 
-## Agenda
-1. **Teamontwikkeling**:
-   - Model van Tuckman: 5 fasen van teamgroei.
-   - Piramide van Lencioni: Bouw een hecht team.
-2. **Conflicten oplossen**:
-   - Soorten conflicten en stappen voor conflictmanagement.
-3. **Feedback geven en ontvangen**:
-   - Groei stimuleren door feedback.
+---
 
-## Projectsucces hangt af van mensen
-- Juiste expertise en effectieve samenwerking zijn cruciaal.
-- De projectmanager speelt een sleutelrol in leiderschap en teamvorming.
-  
-### Teamontwikkeling volgens Tuckman (5 fasen):
-1. **Forming**: 
-   - Weinig samenwerking.
-   - Nood aan duidelijke doelen en rolverdeling.
-2. **Storming**: 
-   - Botsende werkstijlen.
-   - Nood aan focus op teamdynamiek.
-3. **Norming**: 
-   - Betere afspraken, openheid voor feedback.
-   - Efficiëntie verbeteren.
-4. **Performing**: 
-   - Vertrouwen en samenwerking.
-   - Continu leren en verbeteren.
-5. **Adjourning**: 
-   - Team valt uiteen na project.
+# Hoofdstuk 14 - Risicomanagement
 
-### Piramide van Lencioni (5 niveaus):
-1. **Vertrouwen** (basis).
-2. **Conflicten** (constructief aangaan).
-3. **Betrokkenheid** (duidelijke doelen).
-4. **Verantwoordelijkheid** (elkaar verantwoordelijk houden).
-5. **Resultaten** (gericht op gezamenlijke resultaten).
+## Begrippen
 
-## Conflictmanagement
-1. **Spreek met betrokkenen**.
-2. **Blijf onpartijdig**.
-3. **Zoek een compromis**.
-4. **Leg afspraken vast**.
-5. **Plan opvolggesprekken**.
-6. **Escaleren indien nodig**.
+- **Assumpties**: Veronderstellingen.
+- **Constraint**: Beperking.
+- **A & C Analyse**:
+    - Vervalt de veronderstelling / Kunnen we de beperking afzwakken? Impact op projectdoelen?
+    - Risicomanagement na deze 2 vragen antwoord ja is.
+- **Negatief Risico**: Bedreiging.
+- **Positief Risico**: Opportuniteit = Beperking wordt afgezwakt, bv. Q2 datum naar Q3 datum.
+- **Prioriteiten - 3 Parameters**:
+    - Kans Risico?
+    - Impact Risico?
+    - Wanneer kan risico er zijn?
+- **PIG (Probability Impact Grid)**:
+    - Slide PIG 4 kansen kans impact zet dat hier.
+- **Omgaan met risico's**:
+    - **Vermijden**: De impact of waarschijnlijkheid tot nul herleiden.
+    - **Overdragen**: Het risico doorgeven aan derde partij.
+    - **Verminderen/Inperken**: Kans verkleinen.
+    - **Aanvaarden**: Aanvaarden dat het risico kan voorkomen.
+    - **Positief Risico = Opportuniteit**:
+        - **Maximaliseren**: De kans dat de opportuniteit zich voordoet.
+        - **Delen**: Uitmost de delen voor een verhoogde opportuniteit.
+        - **Verhogen**: Verhogen van de kans/positieve impact van het scenario.
+        - **Aanvaarden**: Geen actieve stappen zetten om de opportuniteit te benutten.
+- **Contingency Budget**: Extra geld aan budget voor met de risico's te kunnen behandelen.
+    - Tot en met zelf 40 procent extra, meestal 20 procent.
 
+---
 
-# Hoofdstuk 14 Risico Management
-Assumpties = veronderstelling
-Constraint = Beperking 
-	Beide in Risico Management
-A & C analyse 
-	Vervalt de veronderstelling / Kunnen we de beperking afwzakken, Impact op projectobejctleven? 
-		Risicomanagement na deze 2 vragen antwoord ja is
-Negatief Risico = Bedreiging
-Positief Risico = Opportuniteit = Berperking wordt afgezwaked BV. Q2 datum naar Q3 datum
+# Hoofdstuk 17, 18, 19
 
-Prioriteiten - 3 Parameters = Resultaat PIG
-	Kans Risico?
-	Impact Risico?
-	Wanneer kan risico er zijn?
-
-PIG = Propbability impact grid
-
-Slide PIG 4  kanken kans impact zet dat hiet
-
-Omgaan met risicos
-	Vermijden:De impact of waarschijnlijkhied tot null herleiden
-	Overdragen: Het RIsico doorgeven aan derde party
-	Verminderen/Inperken: Kans verkleinen
-	Aanvaarden: Aanvaarden dat het risico kan voorkomen
-		Positief Risico = Opportuniteit
-			Maximaliseren: De kans de de  zich voordoet 
-			Delen: uitmost de delen voor een verhoogde Opportuniteit
-			Verhogen:verhogen van de kans/Positieve impact van het scenario
-			Aanvaarde: Geen actieven stappen zetten om te Opportuniteit te benutten
-
-Contigency Budget: Extra geld aan budget voor met de risicos te kunnen behandelen
-	Tot en met zelf 40 procent extra meestal 20 procent
-
-# Hoofdstuk 17
-
-# Hoofdstuk 18
-
-# Hoofdstuk 19
+- **Inhoud volgt**.
