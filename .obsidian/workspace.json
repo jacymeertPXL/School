@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1075a0bdef79a1ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Organistatiepsychologie"
+            }
+          },
+          {
             "id": "7f8851b079c32c2b",
             "type": "leaf",
             "pinned": true,
@@ -37,22 +53,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Sociale psychologie"
-            }
-          },
-          {
-            "id": "1075a0bdef79a1ed",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Organistatiepsychologie"
             }
           },
           {
@@ -101,8 +101,7 @@
               "title": "beroepscode_voor_psychologisch_consulenten"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -243,18 +243,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ca65d171d6e013e",
+  "active": "1075a0bdef79a1ed",
   "lastOpenFiles": [
-    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
+    "Psychologie/Trimester_02/Recht  & Deontologie/beroepscode_voor_psychologisch_consulenten.pdf",
+    "Psychologie/Trimester_01/Algemene Psychologie/Algemene psychologie.md",
+    "Psychologie/Trimester_01/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Trimester_02/Biopsychologie/Biopsychologie.md",
+    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
     "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
     "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
     "Psychologie/Trimester_02/Sociologie/Sociologie.md",
-    "Psychologie/Trimester_02/Recht  & Deontologie/beroepscode_voor_psychologisch_consulenten.pdf",
-    "Psychologie/Trimester_01/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img/Pasted image 20250207145859.png",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img/Pasted image 20250207145850.png",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img",
     "Psychologie/Trimester_02/Organistatiepsychologie/Img",
     "Psychologie/Trimester_02/Organistatiepsychologie/Untitled.canvas",

@@ -22,6 +22,7 @@ _~ boek -> H01 -> Handboek p.15 - 49_
     - **Aristoteles:** stelde dat mensen sociale wezens zijn en functioneren binnen gemeenschappen.
 - **Einde 19e - begin 20e eeuw**
     - **Triplett:** ontdekte dat wielrenners sneller rijden in aanwezigheid van anderen (sociale facilitatie).
+	    - **sociale facilitatie:** is de neiging van mensen om eenvoudige taken beter te volbrengen als er andere mensen in de buurt zijn
     - **Le Bon:** introduceerde het concept van de "collectieve geest" in groepen.
     - **Tarde:** onderzocht de rol van imitatie in menselijk gedrag.
 - **Voor WOII**
@@ -64,7 +65,7 @@ _~ boek -> H01 -> Handboek p.15 - 49_
     - **Diepte-dimensie:** onderzoekt onderliggende mechanismen en verklaringen.
     - **Hoogte-dimensie:** vergelijkt individueel en groepsgedrag.
 - **Falsificatiebeginsel van Popper**
-    - Een theorie moet falsifieerbaar zijn: het moet mogelijk zijn om bewijs te vinden dat de theorie ontkracht.
+    - Een theorie moet falsifieerbaar zijn: het moet mogelijk zijn om bewijs te vinden dat de theorie ontkracht (debunked).
 - **Het experiment als methode**
     - **Voordelen:** objectiviteit, controle over variabelen en herhaalbaarheid.
     - **Nadelen:** lage externe validiteit, proefleiderseffecten.
