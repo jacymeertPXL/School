@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1075a0bdef79a1ed",
+            "id": "8ea981983b85fd5f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "7f8851b079c32c2b",
+            "id": "611a10e57dab6d91",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -56,19 +56,17 @@
             }
           },
           {
-            "id": "4b3a9f2c036ba254",
+            "id": "8b74ce71314df33b",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Psychologie/Trimester_02/Biopsychologie/Biopsychologie.md",
-                "mode": "source",
-                "source": false
+                "file": "Psychologie/Trimester_02/Biopsychologie/Biopsychologie - biopsychologie.pdf"
               },
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Biopsychologie"
+              "icon": "lucide-file-text",
+              "title": "Biopsychologie - biopsychologie"
             }
           },
           {
@@ -101,7 +99,8 @@
               "title": "beroepscode_voor_psychologisch_consulenten"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,16 +242,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1075a0bdef79a1ed",
+  "active": "3ca65d171d6e013e",
   "lastOpenFiles": [
+    "Psychologie/Trimester_02/Sociologie/Sociologie.md",
+    "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
+    "Psychologie/Trimester_02/Biopsychologie/Biopsychologie - biopsychologie.pdf",
+    "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
     "Psychologie/Trimester_02/Recht  & Deontologie/beroepscode_voor_psychologisch_consulenten.pdf",
+    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
+    "Psychologie/Trimester_02/Biopsychologie/Biopsychologie.md",
     "Psychologie/Trimester_01/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Trimester_01/Levensloop Psychologie/Levensloop Psychologie.md",
-    "Psychologie/Trimester_02/Biopsychologie/Biopsychologie.md",
-    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
-    "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
-    "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
-    "Psychologie/Trimester_02/Sociologie/Sociologie.md",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img/Pasted image 20250207145859.png",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img/Pasted image 20250207145850.png",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img",
@@ -266,7 +266,6 @@
     "Psychologie/Trimester_02/Sociologie",
     "Psychologie/Trimester_02/Sociale psychologie",
     "Psychologie/Trimester_02/Recht  & Deontologie",
-    "Psychologie/Trimester_02/Organistatiepsychologie",
     "Psychologie/Untitled.md",
     "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
     "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 05.md",

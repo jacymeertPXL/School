@@ -100,3 +100,11 @@ Weber beklemtoonde het **interpretatief begrijpen (*verstehen*)** van sociaal ha
 
 Weber stelde dat sociologie nooit volledig objectief kan zijn, omdat interpretatie altijd een rol speelt.  
 
+## 6. Begrippen
+- **Sociale normen**: Ongeschreven regels en verwachtingen over hoe mensen zich in een samenleving of groep moeten gedragen. Bijvoorbeeld, op tijd komen op afspraken of respect tonen voor ouderen.
+
+- **Sociale posities**: De plek die iemand inneemt in een samenleving op basis van kenmerken zoals beroep, sociale klasse of familie. Bijvoorbeeld, een leraar, ouder of student zijn sociale posities.
+
+- **Sociale concepten**: Ideeën en begrippen die sociologen gebruiken om de maatschappij te analyseren en te begrijpen, zoals ongelijkheid, macht of cultuur.
+
+- **Sociale rollen**: De gedragingen en verwachtingen die horen bij een bepaalde sociale positie. Bijvoorbeeld, van een dokter wordt verwacht dat hij patiënten helpt, en van een student dat hij leert en opdrachten maakt.
