@@ -74,6 +74,91 @@ _~ boek -> H01 -> Handboek p.15 - 49_
     - **Oplossingen voor experimentele nadelen:** coverstory’s, onopvallende metingen, dubbelblind experimenten.
 
 # Hulpverlenend gedrag (H2)
+### **0. Inleiding – Egoïsme vs. Altruïsme**
+
+- **Egoïsme (Plato)**: Handelen voor eigen belang.
+- **Altruïsme (McClintock)**: Handelen voor het welzijn van anderen, zonder eigen voordeel.
+- **Empathie-altruïsmehypothese (Batson)**
+    - **Egoïstisch motief**: Hulpverlening om eigen ongemak te verminderen (schuldgevoel, stress).
+    - **Altruïstisch motief**: Hulpverlening vanuit empathische bezorgdheid.
+    - Conclusie: Moeilijk te achterhalen of hulpverlening puur altruïstisch is.
+
+---
+
+### **2.1 Casus Kitty Genovese (1964) – Omstaanderseffect**
+
+- Moord in een woonwijk in Queens, New York.
+- 38 getuigen hoorden of zagen de aanval, maar ingrepen niet direct.
+- Mogelijke verklaringen:
+    - Dachten dat iemand anders zou helpen.
+    - Angst om zelf slachtoffer te worden.
+    - Verkeerde interpretatie van de situatie (bv. echtelijke ruzie).
+    - Geen directe communicatie tussen getuigen.
+- **Reflectie**: Waarom reageerde bijna niemand?
+
+---
+
+### **2.2 Diffusie van verantwoordelijkheid (Darley & Latané)**
+
+- **Omstaanderseffect**: Hoe meer getuigen, hoe minder waarschijnlijk dat iemand ingrijpt.
+- **Diffusie van verantwoordelijkheid**:
+    - Individuele verantwoordelijkheid neemt af naarmate er meer mensen aanwezig zijn.
+    - “Iemand anders zal wel helpen.”
+- **Experiment ‘Brandende Kamer’**: Hoe reageren mensen als ze zelf in gevaar zijn?
+
+---
+
+### **2.3 Factoren die hulpgedrag beïnvloeden**
+
+#### **2.3.1 Bekendheid van medegetuigen**
+
+- Hulp wordt sneller geboden als getuigen elkaar kennen.
+- Minder angst om zichzelf belachelijk te maken.
+
+#### **2.3.2 Competentie van de omstaanders**
+
+- Mensen helpen eerder als ze denken dat zij de enige competente persoon zijn.
+- In aanwezigheid van experts wordt er minder snel geholpen.
+
+#### **2.3.3 Kosten-batenanalyse**
+
+- **Negatieve gevolgen van helpen**: risico, tijdverlies, normconflict.
+- **Positieve gevolgen van helpen**: goed gevoel, sociaal aanzien.
+- **Negatieve gevolgen van niet helpen**: schuldgevoel, sociale sancties.
+- **Positieve gevolgen van niet helpen**: vermijden van ongemak of gevaar.
+
+#### **2.3.4 Ernst van de situatie inschatten**
+
+- Hoe serieuzer de situatie wordt ingeschat, hoe groter de kans op hulp.
+- Observeren van anderen kan invloed hebben (“niemand doet iets, dus het is vast niet ernstig”).
+
+#### **2.3.5 Kenmerken van de hulpverlener**
+
+- Empathische mensen helpen sneller.
+- Persoonlijkheid speelt een rol, maar is niet de enige factor.
+- Situatie en sociale normen beïnvloeden hulpgedrag.
+
+#### **2.3.6 Kenmerken van het slachtoffer**
+
+- Mensen helpen eerder als ze zich kunnen identificeren met het slachtoffer.
+- Fysieke aantrekkelijkheid en sociale status spelen mee.
+- Als het slachtoffer zelf “schuld” lijkt te hebben (bv. dronken), is de kans op hulp kleiner.
+
+---
+
+### **2.4 Het cognitief decisiemodel (Darley & Latané)**
+
+**Vijf stappen voor hulpgedrag:**
+
+1. **Opmerken van de situatie** – Kan worden verhinderd door afleiding.
+2. **Interpreteren als noodsituatie** – Onzekerheid en sociale invloed kunnen twijfel veroorzaken.
+3. **Zich verantwoordelijk voelen** – Diffusie van verantwoordelijkheid verlaagt de kans op hulp.
+4. **Beslissen hoe te helpen** – Gebrek aan kennis of vaardigheden kan een barrière zijn.
+5. **Uitvoeren van hulpactie** – Sociale druk of angst kunnen hulpgedrag remmen.
+
+**Conclusie:** Veel drempels maken de kans op hulpverlening klein, vooral in groepssituaties.
+
+
 # Agressie (H3)
 # Gehoorzaamheid (H4)
 # Sociale cognitie en sociale perceptie (H6)
