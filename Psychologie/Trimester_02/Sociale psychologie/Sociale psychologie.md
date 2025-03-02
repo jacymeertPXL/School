@@ -9,8 +9,8 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 - Sociale psychologie onderzoekt hoe het gedrag van individuen beïnvloed wordt door anderen, zowel direct als indirect.
 - Dit kan observeerbaar zijn, maar ook subtiele en onbewuste processen omvatten.
 - **Vergelijking:**
-    - **Algemene psychologie:** richt zich op individueel gedrag zonder sociale context.
-    - **Sociale psychologie:** onderzoekt hoe individuen beïnvloed worden door anderen.
+    - **Algemene psychologie:** richt zich op individueel gedrag zonder sociale context. maar mag er in zitten.
+    - **Sociale psychologie:** onderzoekt hoe individuen beïnvloed worden door anderen, moet sociale context.
     - **Sociologie:** richt zich op het gedrag van groepen en maatschappelijke structuren.
 - **Definitie van sociale psychologie (Allport, 1924):**  
     _"Sociale psychologie is een studie die tracht te begrijpen, verklaren en voorspellen hoe de gedachten, gevoelens en gedragingen van individuen beïnvloed worden door de waargenomen, ingebeelde of impliciete gedachten, gevoelens en gedragingen van anderen."_
@@ -160,6 +160,97 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 
 
 # Agressie (H3)
+### 3.1 Inleiding en definitie
+
+- **Tegenstelling agressie vs. altruïsme** (McClintock): Niet egoïsme, maar agressie is het tegenovergestelde van altruïsme.
+
+- **Definitie agressie** (Nuttin): Gedrag met de intentie om anderen aversieve gevolgen te bezorgen.
+
+- **Aversiviteit**: Intentie om onaangename prikkels toe te dienen.
+
+- **Altruïsme**: Gedrag dat aversieve gevolgen voor anderen vermindert.
+
+---
+
+### 3.2 Agressief gedrag en de prikkelsituatie
+
+**Vijf situationele determinanten:**
+
+1. **Pijn**
+    - Experiment O’Kelley & Steckle: Ratjes die elektrische schokken krijgen, vertonen agressie.
+    - Agressie neemt toe door frequentie, duur, intensiteit en ruimtebeperking.
+
+2. **Ruimte**
+    - Experiment Calhoun: Overbevolking bij ratten leidt tot een gedragsmatig riool (‘behavioral sink’).
+    - Bij mensen is de link tussen ruimte en agressie complex (bv. invloed van armoede, territoriumleer).
+
+3. **De socius**
+    - Experiment Azrin & Ulrich: Apen reageren agressief op schokken, ongeacht de aanwezige socius.
+    - Verklaring voor vandalisme en contra-agressie.
+
+4. **Temperatuur**
+    - Extreme temperaturen worden ervaren als aversieve prikkels en kunnen agressie uitlokken.
+
+5. **Provocatie**
+    - Experiment Harris: Voorkruipen in een rij veroorzaakt meer agressie bij voorste personen en bij lage-statuskledij.
+    - Territoriumleer verklaart contra-agressie bij territoriumschending.
+
+---
+
+### 3.3 Territoriumleer (Bakker)
+
+- **Mensen bezitten territoria**, net als dieren.
+- **Soorten territoria:**
+    1. **Privégebieden** (persoonlijke ruimte, lichaam, gedachten/gevoelens, vluchtheuvel).
+    2. **Publieke arena** (psychologische ruimte, actieterritoria).
+
+- **Persoonlijke ruimtezones:**
+    - Intieme zone (<50 cm), persoonlijke zone (50 cm – 1,5 m), sociale zone (1,5 m – 4 m), publieke zone (>4 m).
+
+- **Territoriumschending** leidt tot agressie.
+    - Zelfverzekerd reageren = minder kans op conflict.
+    - Vijandig reageren = verhoogde kans op conflict.
+
+---
+
+### 3.4 Intrapersoonlijke oorzaken
+
+**Drie determinanten:**
+1. **Persoonlijkheid**
+    - Temperament (intensiteit reactie) en karakter (richting reactie).
+    - Agressie wordt vaak intern geattribueerd (bv. "hij is gewoon agressief").
+
+2. **Competitie**
+    - Kan positieve (motivatie, betere prestaties) of negatieve (jaloezie, rivaliteit) effecten hebben.
+
+3. **Emoties**
+    - Agressie is geen emotie, maar gedrag.
+    - Woede en angst kunnen agressief gedrag uitlokken.
+    - **Excited Delirium Syndrome**: Toestand waarin extreme opwinding leidt tot agressie.
+
+---
+
+### 3.5 Aangeleerde agressie
+
+- **Bobo Doll-experiment (Bandura, 1961)**
+    - Kinderen leren agressief gedrag via modeling en vicarious learning.
+    - Beloning van agressief gedrag → meer agressie.
+    - Straf → minder agressie, maar intentie blijft aanwezig.
+
+- **Invloed van media**
+    - Geweld in films en games kan agressief gedrag aanleren, maar effect hangt af van:
+        - Intensiteit van blootstelling.
+        - Vermogen om realiteit en fictie te onderscheiden.
+    - Verbieden van gewelddadige media heeft beperkte impact.
+
+---
+
+### 3.6 Macht en agressie
+1. **Verlies van macht** → Frustratie → Woede → Agressief gedrag.
+2. **Gehoorzaamheid en agressie**
+    - Mensen volgen bevelen, zelfs als dit agressie inhoudt.
+    - Verantwoordelijkheid wordt afgeschoven op machthebber.
+
 # Gehoorzaamheid (H4)
 # Sociale cognitie en sociale perceptie (H6)
 # Zelfcognitie en zelfperceptie (H7)

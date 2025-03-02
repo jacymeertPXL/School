@@ -47,3 +47,5 @@
 - **vrije markt economie** - een economisch systeem waarin de prijzen van goederen en diensten worden bepaald door vraag en aanbod.
 - **centraal geleide economie** - houdt in dat alleen de staat recht heeft op het verstrekken van goederen en diensten, waardoor het marktmechanisme (balans vraag en aanbod) komt te vervallen.
 - **gemende economie** - een economisch systeem waarin zowel openbare als private ondernemingen voorkomen.
+
+# Module 02: Motivatie op de Werkvloer

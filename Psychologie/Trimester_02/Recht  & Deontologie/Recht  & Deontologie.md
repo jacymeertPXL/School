@@ -3,7 +3,7 @@
 ![[Pasted image 20250207145850.png]]
 ![[Pasted image 20250207145859.png]]
 
-## Recht & Deontologie - Module 1: Wat is Recht?
+## Module 1: Wat is Recht?
 
 ### Overzicht  
 - Recht is alomtegenwoordig en beïnvloedt alle aspecten van het leven.  
@@ -70,6 +70,95 @@
   - Geen hoger
 
 
+
+
+## Module 2:  Jeugddelinquentierecht 
+
+### 1. Basisprincipes van het Jeugddelinquentierecht 
+Het jeugddelinquentierecht richt zich op **minderjarigen** (12-18 jaar) die een **jeugddelict** plegen. Dit is een gedraging die, als een volwassene die zou plegen, als misdrijf wordt beschouwd. De focus ligt niet op bestraffing, maar op **opvoeding, begeleiding en herstel**.  
+
+🔹 **Uitgangspunt**: Jongeren verdienen een **tweede kans** en moeten begeleid worden naar verantwoordelijkheid.  
+
+**Leeftijden in het jeugddelinquentierecht:**  
+- **Jonger dan 12 jaar** → geen delict, maar doorverwijzing naar jeugdhulp.  
+- **12-18 jaar** → jeugddelinquentiemaatregelen mogelijk.  
+- **16-17 jaar** → mogelijkheid tot **uithandengeving** (berechting als volwassene bij zware misdrijven).  
+- **Tot 23 jaar** → uitvoering van sancties mogelijk (soms tot 25 jaar).  
+
+---
+
+ ## **2. Drie modellen binnen het jeugddelinquentierecht**  
+Er zijn drie benaderingen om met jeugdcriminaliteit om te gaan:  
+
+### A) Beschermingsmodel 
+- Jongeren zijn **niet volledig verantwoordelijk** voor hun daden.  
+- De focus ligt op **begeleiding en opvoeding**, niet op straf.  
+- Minder **rechtswaarborgen** voor de jongere (ouders en rechter beslissen).  
+
+🔹 **Voorbeeld**: Een 14-jarige die iets steelt, wordt niet bestraft maar krijgt hulp om herhaling te voorkomen.  
+
+### B) Herstelmodel
+- Jongeren zijn **wél verantwoordelijk**, maar moeten de kans krijgen om schade te herstellen. 
+- Focus op **herstelbemiddeling** en verantwoordelijkheid nemen.  
+- Slachtoffer en samenleving worden actief betrokken.  
+
+🔹 **Voorbeeld**: Een 16-jarige die schade aanricht, moet excuses aanbieden en een schadevergoeding betalen.  
+
+### C) Sanctiemodel
+- Jongeren zijn verantwoordelijk en moeten leren uit hun fouten.  
+- **Straf en sancties** spelen een grotere rol dan begeleiding.  
+- Kan leiden tot **uithandengeving** bij zware misdrijven.  
+
+🔹 **Voorbeeld**: Een 17-jarige die een gewelddadige overval pleegt, kan voor de volwassenenrechtbank komen.  
+
+---
+
+### 3. Mogelijke Maatregelen en Sancties
+Als een jongere een jeugddelict pleegt, kan de jeugdrechter verschillende **maatregelen** opleggen, afhankelijk van de ernst van de feiten.  
+
+ ### **A) Herstelgerichte Maatregelen**  
+- **Bemiddeling**: Jongere en slachtoffer zoeken samen een oplossing.  
+- **Herstelgericht Groepsoverleg (Hergo)**: Overleg tussen jongere, slachtoffer, familie, politie en hulpverleners.  
+- **Positief Project**: Jongere voert een maatschappelijk zinvolle taak uit (bv. vrijwilligerswerk, vormingstraject).  
+
+🔹 **Doel**: Jongeren leren verantwoordelijkheid nemen zonder zware straf.  
+
+ ### **B) Begeleidingsmaatregelen**  
+- **Ambulante begeleiding**: Jongere volgt een verplicht hulpverleningstraject.  
+- **Dagbegeleiding in groep**: Begeleiding in een jeugdhulpvoorziening zonder opsluiting.  
+- **Plaatsing in een instelling**: In een open of gesloten voorziening voor begeleiding.  
+
+🔹 **Doel**: Voorkomen van recidive door intensieve hulpverlening.  
+
+ ### **C) Vrijheidsberovende Maatregelen**  
+- **Gesloten Oriëntatie** (max. 1 maand): Observatieperiode om te bepalen welke begeleiding nodig is.  
+- **Gesloten Begeleiding** (3 tot 9 maanden): Jongere wordt geplaatst in een **gesloten jeugdinstelling**.  
+
+🔹 **Doel**: Bescherming van de samenleving en gedragsverandering bij de jongere.  
+
+ ### **D) Uithandengeving (bij zeer ernstige feiten)**  
+- **Minderjarige (16+) wordt berecht als volwassene** bij zware misdrijven zoals moord of gewapende overval.  
+- De zaak gaat naar de **volwassenenrechtbank** en de jongere kan een gevangenisstraf krijgen.  
+
+🔹 **Voorbeeld**: Een 17-jarige die een moord pleegt, kan berecht worden als volwassene en een lange celstraf krijgen.  
+
+---
+
+### 4. De Rol van de Jeugdrechter en het Parket
+- **Parket** (Openbaar Ministerie): beslist of een jongere wordt vervolgd of een alternatieve maatregel krijgt.  
+- **Jeugdrechter**: beslist over de maatregelen en begeleidt de jongere gedurende het proces.  
+
+🔹 **Belangrijk verschil met volwassenenrecht**: Er wordt gekeken naar **de persoon** van de jongere, niet alleen naar de feiten.  
+
+---
+
+### 5. Extra Kenmerken van het Systeem
+- **Maatregelen kunnen blijven lopen tot 23 jaar** (of soms 25 jaar).  
+- Jongeren kunnen een **strafblad** krijgen, maar dit wordt op een **andere manier** verwerkt dan bij volwassenen.  
+- **Recht op verdediging**: Jongeren krijgen een **jeugdadvocaat** om hen bij te staan.  
+
+
+
 # Module Deontologie:
 ## Samenvatting Hoorcollege 1: Recht en Deontologie  
 
@@ -110,3 +199,4 @@
 ### 5. Omgaan met ethische dilemma’s  
 - Reflectie, overleg, supervisie en intervisie zijn essentieel.  
 - Deontologische code als leidraad bij lastige keuzes.  
+
