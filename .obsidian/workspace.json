@@ -99,7 +99,8 @@
               "title": "beroepscode_voor_psychologisch_consulenten"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychologie/Levensloop Psychologie/Levensloop Psychologie.md",
+                "file": "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Levensloop Psychologie"
+              "title": "Backlinks for Organistatiepsychologie"
             }
           },
           {
@@ -241,18 +242,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ea981983b85fd5f",
+  "active": "611a10e57dab6d91",
   "lastOpenFiles": [
-    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
-    "Psychologie/Trimester_02/Recht  & Deontologie/beroepscode_voor_psychologisch_consulenten.pdf",
-    "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
-    "Psychologie/Trimester_02/Sociologie/Sociologie.md",
-    "Psychologie/Trimester_02/Sociologie/Img/Pasted image 20250225133324.png",
     "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
+    "Psychologie/Trimester_02/Recht  & Deontologie/beroepscode_voor_psychologisch_consulenten.pdf",
+    "Psychologie/Trimester_01/Algemene Psychologie/Algemene psychologie.md",
+    "Psychologie/Trimester_02/Sociologie/Sociologie.md",
+    "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
+    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
     "Psychologie/Trimester_02/Biopsychologie/Biopsychologie - biopsychologie.pdf",
+    "Psychologie/Trimester_02/Sociologie/Img/Pasted image 20250225133324.png",
     "Psychologie/Trimester_01/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Trimester_02/Biopsychologie/Biopsychologie.md",
-    "Psychologie/Trimester_01/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img/Pasted image 20250207145859.png",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img/Pasted image 20250207145850.png",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img",

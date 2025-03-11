@@ -174,6 +174,11 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 
 ### 3.2 Agressief gedrag en de prikkelsituatie
 
+Verklaring agressief gedrag
+	Antisociale persoonlijkheid
+	Leer principe 
+	Thanatos
+
 **Vijf situationele determinanten:**
 
 1. **Pijn**
@@ -184,7 +189,7 @@ _~ boek -> H01 -> Handboek p.15 - 49_
     - Experiment Calhoun: Overbevolking bij ratten leidt tot een gedragsmatig riool (‘behavioral sink’).
     - Bij mensen is de link tussen ruimte en agressie complex (bv. invloed van armoede, territoriumleer).
 
-3. **De socius**
+3. **De socius** -> **Kameraad, vriend, bondgenoot**
     - Experiment Azrin & Ulrich: Apen reageren agressief op schokken, ongeacht de aanwezige socius.
     - Verklaring voor vandalisme en contra-agressie.
 
@@ -205,7 +210,10 @@ _~ boek -> H01 -> Handboek p.15 - 49_
     2. **Publieke arena** (psychologische ruimte, actieterritoria).
 
 - **Persoonlijke ruimtezones:**
-    - Intieme zone (<50 cm), persoonlijke zone (50 cm – 1,5 m), sociale zone (1,5 m – 4 m), publieke zone (>4 m).
+    - Intieme zone (<50 cm), 
+    - persoonlijke zone (50 cm – 1,5 m), 
+    - sociale zone (1,5 m – 4 m), 
+    - publieke zone (>4 m).
 
 - **Territoriumschending** leidt tot agressie.
     - Zelfverzekerd reageren = minder kans op conflict.

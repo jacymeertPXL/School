@@ -200,3 +200,59 @@ Als een jongere een jeugddelict pleegt, kan de jeugdrechter verschillende **maat
 - Reflectie, overleg, supervisie en intervisie zijn essentieel.  
 - Deontologische code als leidraad bij lastige keuzes.  
 
+
+## Samenvatting Hoorcollege 2: Deontologie en de Wet betreffende de Rechten van de Patiënt
+
+#### **1) Deontologische Code – Hoofdstuk 4: Relatie met de zorggebruiker en zijn systeem**
+
+- **Artikel 14: Inclusiviteit**  
+    Zorgverleners mogen niet discrimineren op basis van geloof, geslacht, cultuur, taal, financiële situatie, enz.
+    
+- **Artikel 15: Continuïteit**  
+    De zorgverlener is verantwoordelijk voor de continuïteit van de professionele relatie. Bij onderbreking zorgt hij voor een passend alternatief.
+    
+- **Artikel 16: Rolintegriteit**  
+    Enkel een professionele relatie is toegestaan; geen ongepaste of seksuele relaties, zelfs niet na beëindiging van de hulpverlening.
+    
+- **Artikel 17: Respect**  
+    Respect voor de privésfeer, autonomie en keuzes van de cliënt. Geheimhouding is essentieel, tenzij er gevaar dreigt.
+    
+- **Artikel 18: Keuzevrijheid**  
+    De cliënt kiest vrijwillig voor begeleiding en kan deze stopzetten, tenzij opgelegd door een gerechtelijke instantie.
+    
+- **Artikel 19: Vertegenwoordiging van (wilson)bekwame minder- en meerderjarigen**
+    
+    - Wilsbekwame minderjarigen (vanaf 12 jaar of voldoende maturiteit) mogen zelfstandig beslissen over hun begeleiding.
+    - Wilsonbekwame cliënten worden vertegenwoordigd door ouders of wettelijke vertegenwoordigers, maar moeten zoveel mogelijk betrokken worden.
+    - Bij conflicten of afwijkingen van ouderlijk gezag volgt de zorgverlener overleg en juridisch advies.
+- **Artikel 20: Vertrouwelijkheid en discretieplicht**  
+    De zorgverlener heeft altijd discretieplicht en deelt enkel noodzakelijke informatie.
+    
+- **Artikel 21: Beroepsgeheim**  
+    Het beroepsgeheim blijft altijd van kracht, ook na beëindiging van de zorgrelatie of overlijden van de cliënt. Uitzonderingen:
+    
+    - **Noodtoestand** (bij ernstig gevaar)
+    - **Getuigenis onder ede** (geen verplichting om te spreken, behalve in rechtbank)
+    - **Wettelijk meldrecht (artikel 458bis)** bij misbruik van kwetsbare personen
+    - **Toestemming van de cliënt**
+- **Artikel 22: Vertrouwelijkheid in groepsbegeleidingen**  
+    Alle groepsleden worden aangemoedigd om discreet om te gaan met gedeelde informatie.
+    
+- **Artikel 23: Dossierbeheer**
+    
+    - Zorgverleners moeten een correct en veilig bewaard dossier bijhouden.
+    - Cliënten hebben recht op inzage, maar bepaalde informatie kan achtergehouden worden als dit hen ernstige schade kan toebrengen.
+    - Dossiers worden maximaal 5 jaar bewaard.
+- **Artikel 24: Rapportage**
+    
+    - Rapporten bevatten alleen informatie over cliënten die de zorgverlener zelf heeft onderzocht.
+    - Bij minderjarigen en wilsonbekwamen is toestemming van ouders/wettelijke vertegenwoordigers vereist.
+    - Psychodiagnostische methoden en indrukken worden duidelijk gescheiden gerapporteerd.
+
+---
+
+#### **2) Wet betreffende de Rechten van de Patiënt (2024-update)**
+
+- Op 23 februari 2024 werd de vernieuwde wet gepubliceerd en trad op 4 maart 2024 in werking.
+- De wet versterkt de rechten van patiënten en psychologisch consulenten moeten zich eraan houden.
+- **Belangrijkste wijziging:** Cliënten mogen nu ook persoonlijke notities van de zorgverlener inkijken.

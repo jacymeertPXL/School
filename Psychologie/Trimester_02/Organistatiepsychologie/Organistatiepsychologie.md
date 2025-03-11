@@ -56,43 +56,42 @@
 
 - Motivatie betreft intensiteit, volharding en richting van gedrag.
 - Drie determinanten van prestatie: **capaciteiten, gelegenheid en motivatie**.
-- Reflectievragen:
-    - Voorbeeldsituatie waar een determinant ontbreekt.
-    - Hoe medewerkers motiveren?
-    - Wat motiveert jou om te werken?
 
 #### 2. Bekrachtigingstheorieën vs. motivatie 3.0
 
 - **Klassieke conditionering en operante conditionering**: Belang van de relatie tussen gedrag en consequenties.
+	- Klassieke conditionering: reflexmatig, passief gedrag.
+	- Operante conditionering: actief, vrijwillig gedrag.
 - **Prestatieloon en extrinsieke beloningen**: Effecten op motivatie (Pink, 2010).
+	- **Extrinsieke motivatie**: Motivatie door externe beloningen (bv. geld, punten).
 - **Motivatie 3.0**: Autonomie, meesterschap en zingeving.
 
-#### **3. Inhoudelijke theorieën**
+#### 3. Inhoudelijke theorieën
 
 - **Maslow**: Hiërarchie van behoeften, maar kritiek op starre indeling.
 - **Herzberg (Tweefactorentheorie)**: Onderscheid tussen motivatiefactoren en hygiënefactoren.
 - **McClelland**: Motivatie gedreven door prestatiebehoefte, macht en affiliatie.
 
-#### **4. Procestheorieën**
+#### 4. Procestheorieën
 
 - **Doelstellingentheorie (Locke, 1968)**: SMART-doelen leiden tot motivatie.
 - **Rechtvaardigheidstheorie (Adams, 1965)**: Vergelijking van input en output beïnvloedt motivatie.
 
-#### **5. Zelfdeterminatietheorie (ZDT)**
+#### 5. Zelfdeterminatietheorie (ZDT)
 
 - **ABC-model**: Autonomie, verbondenheid en competentie.
 - Empirisch onderbouwd: positieve impact op werkprestaties.
 
 ---
 
-### **Motivatie in praktijk**
+### Motivatie in praktijk
 
-#### **1. Management by Objectives (MBO)**
+#### 1. Management by Objectives (MBO)
 
 - Doelstellingen in overleg formuleren (top-down & bottom-up).
 - Regelmatige feedback en SMART-doelen verhogen motivatie.
 
-#### **2. Herontwerp van taken**
+#### 2. Herontwerp van taken
 
 - **Scientific Management**: Efficiëntiegericht, maar risico op vervreemding.
 - **Herontwerpmethoden**:
@@ -100,20 +99,20 @@
     - **Taakverbreding**: Meer taken op hetzelfde niveau.
     - **Taakverrijking**: Taken met meer verantwoordelijkheid en bevoegdheden.
 
-#### **3. Flexibele werkregelingen**
+#### 3. Flexibele werkregelingen
 
 - **Deeltijds werk**: Voordelen en nadelen (bv. impact op promotiekansen en genderongelijkheid).
 - **Flexibele werktijden**: Meer autonomie, maar niet voor alle functies geschikt.
 - **Thuiswerken**: Voordelen (kostenbesparing, productiviteit), maar ook nadelen (minder zicht op prestaties).
 
-#### **4. Bevorderen van werknemersbetrokkenheid**
+#### 4. Bevorderen van werknemersbetrokkenheid
 
 - **Participatief leiderschap**: Medewerkers betrekken bij beslissingen.
 - **Autonome werkgroepen**: Zelfstandige teams met eigen verantwoordelijkheid.
 - **Medezeggenschap**: Via ondernemingsraad (informatierecht, adviesrecht, instemmingsrecht).
 - **Jobcrafting**: Medewerkers nemen zelf initiatief om hun werk vorm te geven.
 
-### **Besluit**
+### Besluit
 
 - Motivatie is niet enkel individueel bepaald, maar ook afhankelijk van organisatie en werkcontext.
 - Herontwerp van taken kan vervreemding tegengaan en motivatie verhogen.
