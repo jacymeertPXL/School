@@ -31,6 +31,7 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 - **Na WOII**
     - Onderzoek richtte zich op thema’s als leiderschap, gehoorzaamheid en groepsdruk.
     - **Festinger:** onderzocht hoe sekteleden omgaan met tegenstrijdige informatie (cognitieve dissonantie).
+	    - **cognitieve dissonantie** is de onaangename spanning die iemand ervaart bij tegenstrijdige overtuigingen, ideeën of opvattingen of bij handelen in strijd met de eigen overtuiging. In zijn boek _A Theory of Cognitive Dissonance_ uit 1957 stelde [Leon Festinger](https://nl.wikipedia.org/wiki/Leon_Festinger "Leon Festinger") dat mensen streven naar het verkleinen van dissonantie en daarvoor hun opvattingen of gedrag aanpassen.
     - Ontwikkeling van experimenten om sociale fenomenen te testen.
 
 ### 1.3 Het belang van ons sociale leven
@@ -104,7 +105,6 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 - **Diffusie van verantwoordelijkheid**:
     - Individuele verantwoordelijkheid neemt af naarmate er meer mensen aanwezig zijn.
     - “Iemand anders zal wel helpen.”
-- **Experiment ‘Brandende Kamer’**: Hoe reageren mensen als ze zelf in gevaar zijn?
 
 ---
 
@@ -206,7 +206,7 @@ Verklaring agressief gedrag
 
 - **Mensen bezitten territoria**, net als dieren.
 - **Soorten territoria:**
-    1. **Privégebieden** (persoonlijke ruimte, lichaam, gedachten/gevoelens, vluchtheuvel).
+    1. **Privégebieden** (persoonlijke ruimte, lichaam, gedachten/gevoelens).
     2. **Publieke arena** (psychologische ruimte, actieterritoria).
 
 - **Persoonlijke ruimtezones:**
@@ -260,6 +260,35 @@ Verklaring agressief gedrag
     - Verantwoordelijkheid wordt afgeschoven op machthebber.
 
 # Gehoorzaamheid (H4)
+### 4.1 Het gehoorzaamheidsexperiment van Milgram
+- **Opzet experiment**: Proefpersonen moesten een leerling (schijnbaar) elektrische schokken toedienen bij foute antwoorden, onder begeleiding van een autoritaire proefleider.
+- **Resultaten**: 65% diende de maximale schok toe (450V), ondanks stress en protest.
+- **Vergelijking met de Holocaust**: Overeenkomsten in gehoorzaamheid en verantwoordelijkheid afschuiven, maar verschillen in motivatie (haat vs. autoriteit).
+- **Varianten**:
+    - **Fysieke nabijheid leerling**: Hoe dichterbij, hoe minder gehoorzaamheid.
+    - **Morele tegendruk**: Protest verlaagt gehoorzaamheid.
+    - **Fysieke nabijheid proefleider**: Afstand verlaagt gehoorzaamheid.
+    - **Expertise proefleider**: Minder autoriteit = minder gehoorzaamheid.
+    - **Groepsdruk**: Anderen die stoppen verlagen gehoorzaamheid; anderen die gehoorzamen verhogen deze.
+- **Ethische en methodologische bezwaren**: Psychologische schade bij deelnemers, validiteit in twijfel getrokken door laboratoriumsetting.
+
+### 4.2 Waarom gehoorzamen we zo makkelijk?
+- **Groepsvorming**: Mensen zoeken structuur en regels.
+- **Hiërarchisering**: Mensen volgen autoriteit voor efficiëntie en orde.
+- **The agentic shift**: Overgang van autonoom naar uitvoerend handelen.
+- **Psychologische mechanismen**:
+    - Afstand tot realiteit (loskoppeling).
+    - Ontmenselijking van slachtoffers.
+    - Verlies van verantwoordelijkheid.
+    - Interne dissociatie (gevoel vs. gedrag).
+- **Bindende factoren**: Angst voor sancties, loyaliteit en gewenning aan gehoorzaamheid.
+
+### 4.3 Dominantie en volgzaamheid
+- **Roos van Leary**: Gedrag roept complementair gedrag op (dominant vs. volgend, samen vs. tegen).
+- **Psychopathie en leiderschap**:
+    - Eigenschappen: manipulatief, gebrek aan empathie en berouw.
+    - Psychopaten in leiderschapsposities gebruiken charme, ondermijnen collega’s en grijpen macht.
+
 # Sociale cognitie en sociale perceptie (H6)
 # Zelfcognitie en zelfperceptie (H7)
 # Macht en onmacht (H5)
