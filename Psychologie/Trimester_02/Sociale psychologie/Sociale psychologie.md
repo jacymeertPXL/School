@@ -292,4 +292,87 @@ Verklaring agressief gedrag
 # Sociale cognitie en sociale perceptie (H6)
 # Zelfcognitie en zelfperceptie (H7)
 # Macht en onmacht (H5)
+### 5.0 Inleiding - Macht
+
+- **Macht** speelt een grote rol in sociale interacties.
+- **Machiavelli**: Macht kan het best behouden worden door meedogenloosheid en wantrouwen.
+- **Macht in de psychologie**:
+    - Controle over jezelf, anderen en situaties.
+    - Behaviorisme, psychodynamische stromingen en levenslooppsychologie (Piaget) verklaren macht op verschillende manieren.
+
+### 5.1 Het Stanford-gevangenisexperiment (Zimbardo, 1971)
+
+- **Doel**: Onderzoeken hoe macht en sociale rollen gedrag beïnvloeden.
+- **Opzet**: 24 mannen, willekeurig verdeeld in **bewakers en gevangenen**.
+- **Resultaat**:
+    - **Bewakers** werden steeds agressiever, zelfs zonder expliciete instructies.
+    - **Gevangenen** werden passief en onderdanig.
+- **Conclusie**: Niet de persoonlijkheid, maar **de situatie en machtsdynamiek** veroorzaakten het gedrag.
+- **Kritiek**:
+    - Proefpersonen speelden mogelijk een rol.
+    - Ethische bezwaren → experiment stopgezet na 6 dagen.
+
+💡 **Link met andere concepten**: Het experiment toont hoe **subjectieve gedragscontrole** (het gevoel controle te hebben over een situatie) een grote rol speelt. Gevangenen voelden zich machteloos en verloren de wil om zich te verzetten.
+
+---
+
+### 5.2 Het Stockholmsyndroom
+
+- **Definitie**: Psychologisch fenomeen waarbij slachtoffers sympathie ontwikkelen voor hun ontvoerders.
+- **Verklaring**:
+    - **Isolatie en onzekerheid** → ontvoerder wordt enige houvast.
+    - **Overlevingsmechanisme** om angst en stress te verminderen.
+- **Voorbeelden**: Gijzelingen, sekten, mishandelde partners.
+- **Stanford-experiment**: **Geen Stockholmsyndroom**, omdat de gevangenen geen empathie ontwikkelden voor de bewakers.
+
+---
+
+### 5.3 Aangeleerde Hulpeloosheid (Seligman)
+
+- **Definitie**: Wanneer mensen of dieren leren dat ze geen controle hebben over negatieve situaties, stoppen ze met proberen te ontsnappen, zelfs als dat later wel kan.
+- **Basisexperiment (honden, Seligman)**:
+    - **Groep 1**: Kon schokken stoppen → probeerde te ontsnappen.
+    - **Groep 2**: Had geen controle → bleef passief, zelfs toen ontsnappen mogelijk was.
+- **Effecten**: Stress, depressie, passiviteit.
+- **Varianten**:
+    - **Aangeleerde luiheid**: Passiviteit door automatische beloning.
+    - **Discriminatieve hulpeloosheid**: Hulpeloos in sommige situaties, niet in andere.
+
+💡 **Link met Stanford-experiment**: Gevangenen vertoonden kenmerken van **aangeleerde hulpeloosheid** door de constante controle en vernedering.
+
+---
+
+### Veiligheidssignaalhypothese (Seligman)
+
+- **Wat?** Mensen ervaren minder stress als ze weten wanneer een negatieve prikkel komt.
+- **Experiment**:
+    - Mensen kregen willekeurige elektrische schokken.
+    - **Voorspelbare schokken** → minder stress.
+    - **Onvoorspelbare schokken** → meer stress.
+- **Toepassing**: Angst en stress kunnen verminderen door voorspelbaarheid.
+
+---
+
+### Subjectieve Gedragscontrole
+
+- **Wat?** Het **gevoel van controle** over een situatie bepaalt hoe iemand reageert.
+- **Bij verlies van controle**: Kan leiden tot aangeleerde hulpeloosheid.
+- **Bij behoud van controle**: Meer veerkracht en actieve copingstrategieën.
+
+💡 **Link met andere concepten**:
+
+- **Stanford-experiment**: Gevangenen verloren **subjectieve gedragscontrole** en werden passief.
+- **Stockholmsyndroom**: Gijzelaars proberen controle te vinden door zich te identificeren met hun ontvoerder.
+- **Aangeleerde hulpeloosheid**: Mensen die geen controle ervaren, leren om niet te reageren.
+
+---
+
+## Belangrijke Begrippen
+
+✔️ **Stanford-gevangenisexperiment** – hoe macht en sociale rollen gedrag beïnvloeden.  
+✔️ **Stockholmsyndroom** – identificatie met de dader als overlevingsstrategie.  
+✔️ **Aangeleerde hulpeloosheid** – passiviteit door verlies van controle.  
+✔️ **Veiligheidssignaalhypothese** – stress is lager als negatieve prikkels voorspelbaar zijn.  
+✔️ **Subjectieve gedragscontrole** – het gevoel van controle beïnvloedt gedrag en stressreacties.
+
 # Attitudeleer (H8)

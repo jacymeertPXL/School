@@ -233,6 +233,121 @@ Communicatie = **het overbrengen van boodschappen** (gedachten, gevoelens, wense
 Sociologisch onderzoek bestudeert **regelmatigheden in gesprekken** om te begrijpen hoe mensen sociale orde behouden.
 
 ## D2-H2 Het routinekarakter van de samenleving
+### 1. Het routinekarakter van de samenleving
+
+Sociale interacties verlopen grotendeels volgens vaste patronen en routines. Dit zorgt voor voorspelbaarheid en structuur in de samenleving. Hoewel mensen denken dat ze vrij handelen, volgen ze vaak vaste scenario’s zonder zich daarvan bewust te zijn.
+
+---
+
+### 2. Sociale relaties
+
+### 2.1 Definitie
+
+Een **sociale relatie** is een verhouding tussen twee of meer personen waarin sociale interacties en communicatie plaatsvinden volgens bepaalde routines en patronen. Sociale relaties zijn:
+
+- **Structureel:** opgebouwd uit eerdere interacties.
+- **Robuust:** blijven in stand over langere tijd.
+- **Voorspelbaar:** gebaseerd op routines en regels.
+
+Sociale relaties bevinden zich op een continuüm tussen:
+
+- **Perfecte nomos (orde, regels en routines)** ↔ **Absolute anomie (chaos, geen regels)**
+- **Perfecte coöperatie** ↔ **Absoluut conflict**
+
+#### 2.1.2 Types sociale relaties
+
+Voorbeelden van sociale relaties:
+
+- Consultatie bij een psycholoog
+- Interactie tussen een lector en studenten
+- Moeder-dochterrelatie
+
+---
+
+### 3. Sociale positie
+
+### 3.1 Definitie
+
+Een **sociale positie** is de plaats die iemand inneemt in een netwerk van sociale relaties. Dit staat los van de persoon zelf en wordt bepaald door de maatschappij.
+
+**Positieveld:** geheel van posities en tegenposities (bv. student, lector, directie).  
+**Positiesegment:** een focuspositie in relatie tot één specifieke tegenpositie (bv. student ↔ lector).
+
+### 3.2 Positioneel handelen
+
+Het gedrag van iemand wordt beïnvloed door de positie die hij of zij inneemt. Dit leidt tot **positiegebonden handelen**, waarbij routines en verwachtingen een grote rol spelen.
+
+**Positiestel of positieset:** alle sociale posities die een persoon tegelijkertijd inneemt (bv. student, dochter, kassamedewerker).
+
+### 3.3 Positieallocatie
+
+Sociale posities kunnen op twee manieren worden verkregen:
+
+- **Toegewezen (ascribed) positie:** positie toegewezen door geboorte of sociale achtergrond (bv. prins, sekse, ras).
+- **Verworven (achieved) positie:** positie verkregen door prestaties (bv. diploma, baan).
+
+### 3.4 Positie-indicatoren
+
+Sociale posities worden herkend door **positie-indicatoren**, zoals:
+
+- Kleding, taalgebruik, non-verbale communicatie.
+- Statussymbolen zoals een dure auto of titel.
+
+### 3.5 Sociale status en prestige
+
+- **Sociale status:** de waardering die aan een sociale positie wordt gegeven.
+- **Statuscongruentie:** als de status van nieuwe posities in lijn is met de bestaande posities.
+- **Statusincongruentie:** als de status van een nieuwe positie niet past bij de eerdere sociale status (bv. een hoogopgeleide schoonmaker).
+
+---
+
+### 4. Sociale rol
+
+### 4.1 Definitie
+
+Een **sociale rol** omvat de verwachtingen die anderen hebben van een positiebekleder. Dit wordt bepaald door de sociale positie en tegenpositiebekleders.
+
+Volgens Dahrendorf zijn er drie soorten rolverwachtingen:
+
+- **Moet-verwachtingen (Muss-Erwartungen):** verplicht, juridisch afdwingbaar (bv. wetten).
+- **Plicht-verwachtingen (Soll-Erwartungen):** niet juridisch afdwingbaar, maar negatief gesanctioneerd bij niet-naleving (bv. beleefdheid).
+- **Kan-verwachtingen (Kann-Erwartingen):** vrijblijvend, positief gewaardeerd bij naleving (bv. vrijwilligerswerk).
+
+### 4.2 Feitelijk rolgedrag
+
+Volgens Mead ontstaat feitelijk rolgedrag uit een **dialectiek tussen ‘I’ en ‘Me’**:
+
+- **‘Me’:** de verwachtingen en normen van de samenleving.
+- **‘I’:** de persoonlijke interpretatie en invulling van een rol.
+
+#### Role-making en role-taking
+
+- **Role-taking:** zich verplaatsen in de positie van een ander om sociale verwachtingen te begrijpen.
+- **Role-making:** actief onderhandelen over de invulling van een rol.
+
+Voorbeeld: In _De Luizenmoeder_ houdt de juf zich strikt aan de regels over verjaardagen (Me), maar probeert ze ook de situatie te beoordelen en eventueel aan te passen (I).
+
+### 4.3 Rolconflicten
+
+- **Intern rolconflict:** tegenstrijdige verwachtingen binnen dezelfde sociale positie (bv. een lector moet studenten begeleiden, maar ook streng beoordelen).
+- **Extern rolconflict:** tegenstrijdige verwachtingen vanuit verschillende sociale posities (bv. een student moet werken en studeren).
+
+#### Mechanismen van Merton om rolconflicten te verminderen:
+
+- **Prioriteiten stellen:** focussen op de belangrijkste verwachtingen.
+- **Sancties gebruiken:** macht en gezag inzetten om verwachtingen af te dwingen.
+- **Rolonderhandeling:** zoeken naar consensus tussen verschillende partijen.
+
+Voorbeeld: Een leerlingencoördinator probeert te laat komende leerlingen te motiveren om op tijd te komen door gesprekken en betrokkenheid, zonder direct zware sancties op te leggen.
+
+---
+
+### Conclusie
+
+- Sociale interacties en relaties verlopen grotendeels volgens vaste patronen en verwachtingen.
+- Sociale posities bepalen iemands plaats in de samenleving en gaan gepaard met bepaalde verwachtingen.
+- Sociale rollen worden gevormd door maatschappelijke verwachtingen én individuele interpretaties.
+- Rolconflicten kunnen ontstaan bij tegenstrijdige verwachtingen, maar kunnen worden opgelost door rolonderhandeling en prioriteiten stellen.
 
 ## D2-H3 Cultuur
 
