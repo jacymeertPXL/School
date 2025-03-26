@@ -75,7 +75,7 @@ _~ boek -> H01 -> Handboek p.15 - 49_
     - **Oplossingen voor experimentele nadelen:** coverstory’s, onopvallende metingen, dubbelblind experimenten.
 
 # Hulpverlenend gedrag (H2)
-### **0. Inleiding – Egoïsme vs. Altruïsme**
+### 0. Inleiding – Egoïsme vs. Altruïsme
 
 - **Egoïsme (Plato)**: Handelen voor eigen belang.
 - **Altruïsme (McClintock)**: Handelen voor het welzijn van anderen, zonder eigen voordeel.
@@ -86,8 +86,7 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 
 ---
 
-### **2.1 Casus Kitty Genovese (1964) – Omstaanderseffect**
-
+### 2.1 Casus Kitty Genovese (1964) – Omstaanderseffect
 - Moord in een woonwijk in Queens, New York.
 - 38 getuigen hoorden of zagen de aanval, maar ingrepen niet direct.
 - Mogelijke verklaringen:
@@ -99,8 +98,7 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 
 ---
 
-### **2.2 Diffusie van verantwoordelijkheid (Darley & Latané)**
-
+### 2.2 Diffusie van verantwoordelijkheid (Darley & Latané)
 - **Omstaanderseffect**: Hoe meer getuigen, hoe minder waarschijnlijk dat iemand ingrijpt.
 - **Diffusie van verantwoordelijkheid**:
     - Individuele verantwoordelijkheid neemt af naarmate er meer mensen aanwezig zijn.
@@ -108,45 +106,39 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 
 ---
 
-### **2.3 Factoren die hulpgedrag beïnvloeden**
+### 2.3 Factoren die hulpgedrag beïnvloeden
 
 #### **2.3.1 Bekendheid van medegetuigen**
-
 - Hulp wordt sneller geboden als getuigen elkaar kennen.
 - Minder angst om zichzelf belachelijk te maken.
 
 #### **2.3.2 Competentie van de omstaanders**
-
 - Mensen helpen eerder als ze denken dat zij de enige competente persoon zijn.
 - In aanwezigheid van experts wordt er minder snel geholpen.
 
 #### **2.3.3 Kosten-batenanalyse**
-
 - **Negatieve gevolgen van helpen**: risico, tijdverlies, normconflict.
 - **Positieve gevolgen van helpen**: goed gevoel, sociaal aanzien.
 - **Negatieve gevolgen van niet helpen**: schuldgevoel, sociale sancties.
 - **Positieve gevolgen van niet helpen**: vermijden van ongemak of gevaar.
 
 #### **2.3.4 Ernst van de situatie inschatten**
-
 - Hoe serieuzer de situatie wordt ingeschat, hoe groter de kans op hulp.
 - Observeren van anderen kan invloed hebben (“niemand doet iets, dus het is vast niet ernstig”).
 
 #### **2.3.5 Kenmerken van de hulpverlener**
-
 - Empathische mensen helpen sneller.
 - Persoonlijkheid speelt een rol, maar is niet de enige factor.
 - Situatie en sociale normen beïnvloeden hulpgedrag.
 
 #### **2.3.6 Kenmerken van het slachtoffer**
-
 - Mensen helpen eerder als ze zich kunnen identificeren met het slachtoffer.
 - Fysieke aantrekkelijkheid en sociale status spelen mee.
 - Als het slachtoffer zelf “schuld” lijkt te hebben (bv. dronken), is de kans op hulp kleiner.
 
 ---
 
-### **2.4 Het cognitief decisiemodel (Darley & Latané)**
+### 2.4 Het cognitief decisiemodel (Darley & Latané)
 
 **Vijf stappen voor hulpgedrag:**
 
@@ -161,13 +153,9 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 
 # Agressie (H3)
 ### 3.1 Inleiding en definitie
-
 - **Tegenstelling agressie vs. altruïsme** (McClintock): Niet egoïsme, maar agressie is het tegenovergestelde van altruïsme.
-
 - **Definitie agressie** (Nuttin): Gedrag met de intentie om anderen aversieve gevolgen te bezorgen.
-
 - **Aversiviteit**: Intentie om onaangename prikkels toe te dienen.
-
 - **Altruïsme**: Gedrag dat aversieve gevolgen voor anderen vermindert.
 
 ---
@@ -290,6 +278,78 @@ Verklaring agressief gedrag
     - Psychopaten in leiderschapsposities gebruiken charme, ondermijnen collega’s en grijpen macht.
 
 # Sociale cognitie en sociale perceptie (H6)
+**Sociale perceptie** en **sociale cognitie** bepalen hoe we anderen waarnemen en interpreteren. Dit proces verloopt via drie stappen:
+1. **Selectie** – We nemen slechts een deel van de werkelijkheid waar.
+2. **Interpretatie** – We geven betekenis aan waarnemingen.
+3. **Structurering** – We ordenen en categoriseren de informatie.
+
+Deze processen worden beïnvloed door verwachtingen, overtuigingen en cognitieve biases.
+
+---
+
+### 6.1 Selectie in de sociale waarneming
+Selectie in waarneming is subjectief en beïnvloed door verwachtingen en context.
+- **6.1.1 We kunnen niet alles zien wat er is**
+    - Onze zintuigen verwerken slechts een deel van de prikkels.
+    - Dit is een **passief proces**.
+    
+- **6.1.2 We zien vaak slechts fracties van gedragingen**
+    - We trekken conclusies op basis van beperkte info (**jumping to conclusions**).        
+    - Dit leidt tot **generalisaties en vooroordelen**.
+
+- **6.1.3 We selecteren actief wat we willen zien**
+    - Bevestiging van bestaande overtuigingen (**confirmation bias**).
+    - **Selffulfilling prophecy**: verwachtingen beïnvloeden gedrag en maken zichzelf waar.
+    - **Pygmalion-effect**: hogere verwachtingen leiden tot betere prestaties (Rosenthal & Jacobson).        
+    - **Experiment Word, Zanna & Cooper**: liet zien hoe subtiele signalen in sociale interacties gedrag beïnvloeden.
+
+- **6.1.4 We lokken gedrag uit dat we verwachten**
+    - **Fucking New Guy-syndroom**: nieuwkomers worden vaak genegeerd of gepest, wat hun prestaties beïnvloedt.
+    - Dit leidt tot uitsluiting en een vicieuze cirkel van bevestiging.
+
+---
+
+### 6.2 Interpretatie in de sociale waarneming
+Hoe we gedrag verklaren (attributietheorieën).
+- **6.2.1 Causale attributie**
+    - Gedrag wordt toegeschreven aan **interne** (persoonlijke kenmerken) of **externe** (situatie) oorzaken.        
+    - **Weiner’s model** onderscheidt stabiele en variabele oorzaken.
+
+- **6.2.2 Covariatiemodel van Kelley**
+    - Verklaringen voor gedrag hangen af van:
+        - **Distinctiviteit** (specifiek voor deze situatie?).
+        - **Consistentie** (gebeurt het vaker?).            
+        - **Consensus** (doen anderen hetzelfde?).
+
+- **6.2.3 Causale schema’s**
+    - Mensen gebruiken cognitieve schema’s om gedrag te verklaren:
+        - **Meervoudig voldoende causaal schema** (één oorzaak is genoeg).            
+        - **Meervoudig noodzakelijk causaal schema** (meerdere oorzaken nodig).
+
+- **6.2.4 Attributiefouten**
+    - **Fundamentele attributiefout**: gedrag van anderen wordt vaak toegeschreven aan interne factoren en situationele invloeden worden genegeerd.
+    - **Actor-observator-attributiefout**: eigen gedrag wordt verklaard door externe oorzaken, andermans gedrag door interne oorzaken.
+    - **Experiment Walster & Piaget**: kinderen beoordelen gedrag op basis van het gevolg i.p.v. de intentie.
+
+---
+
+### 6.3 Structurering in de sociale waarneming
+We ordenen informatie en vormen een beeld over anderen.
+- **6.3.1 Impliciete persoonlijkheidstheorieën**
+    - **Cognitieve schema’s** beïnvloeden hoe we anderen beoordelen.       
+    - **Experiment Haire & Grunes**: stereotypen zijn hardnekkig en moeilijk te doorbreken.
+
+- **6.3.2 Beeld over de ander**
+    - **Primacy-effect**: eerste indrukken zijn bepalend.
+    - **Recency-effect**: recente informatie weegt zwaar.
+    - **Halo-effect**: één positief kenmerk beïnvloedt ons hele oordeel.
+    - **Horn-effect**: één negatief kenmerk beïnvloedt ons hele oordeel.        
+    - **Experiment Asch**: volgorde van informatie beïnvloedt hoe we mensen beoordelen.
+
+- **6.3.3 Hoe het beeld van de ander ons beïnvloedt**
+    - **Dysmorfofobie**: verstoorde zelfperceptie door sociale vergelijkingen (o.a. door sociale media).
+    - **Experiment Kelley**: verwachtingen kleuren onze waarneming van anderen.
+
 # Zelfcognitie en zelfperceptie (H7)
 # Macht en onmacht (H5)
 ### 5.0 Inleiding - Macht

@@ -350,5 +350,82 @@ Voorbeeld: Een leerlingencoördinator probeert te laat komende leerlingen te mot
 - Rolconflicten kunnen ontstaan bij tegenstrijdige verwachtingen, maar kunnen worden opgelost door rolonderhandeling en prioriteiten stellen.
 
 ## D2-H3 Cultuur
+### 1. Inleiding
+- Sociale interactie gebeurt volgens **spelregels** → deze spelregels zijn **normen**.
+- **Cultuur** = dynamisch, verschilt in plaats en tijd.
+- **Socialisatie** zorgt ervoor dat we culturele normen internaliseren.
+
+### 2. Definitie van Cultuur
+- **Sociologische betekenis:** geheel van gedeelde en overgeleverde opvattingen binnen een groepering.
+- **Humanistische betekenis:** verfijning, letteren, schone kunsten.
+- **Antropologische betekenis:** zowel materiële als immateriële aspecten van cultuur.
+- **Belangrijk:** Sociologen bestuderen materiële cultuur als **drager** van immateriële cultuur.
+
+### 3. Componenten van Cultuur
+
+#### **3.1 Waarden**
+- Impliciete of expliciete opvattingen over het wenselijke.
+- Beïnvloeden de selectie van middelen en doelen in een samenleving.
+- **T. Parsons' vijf patroonvariabelen:**
+    1. **Toewijzing vs. verwerving**
+    2. **Specificiteit vs. diffuusheid**
+    3. **Particularisme vs. universalisme**
+    4. **Affectiviteit vs. instrumentaliteit**
+    5. **Groepsgerichtheid vs. zelfgerichtheid**
+- Veranderen doorheen tijd en ruimte.
+
+#### **3.2 Normen**
+- Concrete gedragsregels, geboden en verboden binnen een samenleving.
+- Indeling volgens **Sumner & Barton**:
+    - **Afdwingbaarheid:** formeel (recht) vs. informeel (gewoonten).
+    - **Ontstaan:** uit traditie gegroeid vs. afgekondigd recht.
+    - **Groepsgevoel:** zwak (gebruiken) vs. sterk (zeden).
+
+#### **3.3 Verwachtingen**
+- Gebaseerd op normen, maar niet hetzelfde.
+- **Dahrendorf's indeling:**
+    - **Moet-verwachting** (rechtsregels)
+    - **Plicht-verwachting** (zeden)
+    - **Kan-verwachting** (gebruiken)
+- **Self-fulfilling prophecy:** verwachting beïnvloedt realiteit.
+- **Self-destroying prophecy:** correcte voorspelling leidt tot gedrag dat de voorspelling ongedaan maakt.
+
+### 4. Voertuigen van Cultuur
+- **Materiële cultuur:** kleding, gebouwen, technologie.
+- **Signalen vs. symbolen:**
+    - Signalen: genetisch en erfelijk vastgelegd.
+    - Symbolen: gebaseerd op afspraken en culturele context (bv. taal).
+
+### 5. Subculturen
+#### **5.1 Definitie**
+- Een cultuurpatroon dat verschilt van de dominante cultuur maar er ook raakvlakken mee heeft.
+
+#### **5.2 Soorten subculturen**
+- **Etnische subculturen** (bv. migrantengemeenschappen).
+- **Beroepssubculturen** (bv. arbeiders vs. bedienden).
+- **Generatiesubculturen**:
+    - **Burgers** (WOII, hard werkend, conservatief).
+    - **Hippies** (jaren ‘60, non-conformistisch).
+    - **Yuppies** (jaren ‘70-‘80, carrièregericht).
+    - **Cocooners** (vanaf jaren ‘90, flexibel, jobsatisfactie).
+    - **Generatie X, Y, Z** (verschillen in werkethiek en digitalisering).
+- **Jeugdsubculturen**:
+    - Eigen jongerencultuur, vaak tegencultuur.
+
+#### **5.3 Subculturen en Samenleving**
+- **Assimilatie:** subculturen gaan op in de dominante cultuur.
+- **Multiculturele samenleving:** respect voor culturele verschillen, gedeelde én specifieke normen en waarden.
+
+### 6. Etnocentrisme & Cultureel Relativisme
+- **Etnocentrisme:** andere culturen beoordelen met de maatstaven van de eigen cultuur.
+- **Cultureel relativisme:** culturen beoordelen vanuit hun eigen context.
+- Spanningsveld: sociale cohesie vs. culturele diversiteit.
+
+### 7. Globale Cultuur
+- Globalisering door:
+    - **Wereldwijde economie**
+    - **Globale communicatie**
+    - **Internationale migratie**
+- **Kritiek:** globalisering kan ook uitsluiting creëren.
 
 ## D2-H4 Socialisering
