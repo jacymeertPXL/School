@@ -240,3 +240,182 @@
 - **Sociale facilitatie**: Betere prestaties bij eenvoudige taken in aanwezigheid van anderen.
 - **Sociale belemmering**: Slechtere prestaties bij moeilijke taken door groepsdruk.
 - **Social loafing (lijntrekken)**: Individuele inspanningen verminderen naarmate de groep groter wordt.
+
+### 5. Besluitvorming
+#### Hoe nemen groepen besluiten? (Schein)
+Groepen nemen besluiten op verschillende manieren (volgens Schein):
+- **Autoriteit** – De leider beslist.
+- **Minderheid** – Een klein deel van de groep neemt een beslissing.
+- **Meerderheid** – Stemmen over de beslissing.
+- **Consensus** – Overeenstemming binnen de groep.
+- **Unanimiteit** – Iedereen is het volledig eens.
+
+**Voordelen groepsbesluitvorming:**
+- Meer kennis en betere informatie.
+- Vermijdt tunnelvisie.
+- Betere implementatie door draagvlak.
+- Verschillende perspectieven.
+
+**Nadelen groepsbesluitvorming:**
+- Kan tijdrovend zijn.
+- Groepsdenken kan optreden (kritiek onderdrukken).
+- Kritisch nadenken neemt af.
+- Overmatige cohesie kan de effectiviteit verlagen.
+
+**Hoe groepsdenken vermijden?**
+- Kritische houding aanmoedigen.
+- Een "advocaat van de duivel" aanstellen.
+- Evalueren en reflecteren.
+- Leider dringt geen mening op.
+- Groepen niet te groot maken.
+### 6. Relaties tussen groepen
+Organisaties bestaan uit meerdere groepen die moeten samenwerken. Groepsrivaliteit en "wij-zij"-denken (Sociale Identiteitstheorie, in-group bias) kunnen problemen veroorzaken. Dit wordt verminderd door gemeenschappelijke doelen, informele contacten en matrixstructuren.
+
+### 7. Conflicten in de groep
+Conflicten ontstaan door meningsverschillen en kunnen destructief of productief zijn. Er zijn verschillende benaderingen van conflicten:
+
+- **Conventionele visie**: Conflicten zijn schadelijk en moeten vermeden worden.
+- **Sociale visie**: Conflicten kunnen leiden tot verbetering.
+- **Responsieve visie**: Conflicten moeten beheerd en benut worden.
+
+**Conflicthantering (Schermerhorn-model)** biedt strategieën om conflicten effectief te managen.
+
+### 8. Teams in organisaties
+
+##### 8.1 Wat is een team?
+Een team is een groep die intensief samenwerkt om een gemeenschappelijk doel te bereiken. Teams kenmerken zich door onderlinge afhankelijkheid, duidelijke rolverdeling en een langdurige samenwerking.
+
+##### 8.2 Soorten teams
+- **Adviserende teams** – Geven advies aan management.
+- **Zelfsturende teams** – Organiseren zelf het werk en nemen beslissingen.
+- **Projectteams** – Werken tijdelijk aan specifieke projecten.
+- **Actieteams** – Geven snelle en effectieve respons (bijv. crisisteams).
+- **Virtuele teams** – Werken op afstand samen.
+
+##### 8.3 Groepscohesie
+Groepscohesie is de mate van verbondenheid binnen een team en wordt beïnvloed door:
+- Succes en gemeenschappelijke kenmerken.
+- Externe dreiging.
+- Groepsnormen en wederzijdse afhankelijkheid.
+
+Hoge cohesie kan leiden tot betere prestaties, vooral in kleine, goed georganiseerde teams.
+
+##### 8.4 Teamrollen (Belbin)
+Belbin onderscheidt teamrollen die bijdragen aan het succes van een team. Mensen nemen verschillende rollen aan, zoals:
+- **Plant** – Creatief en innovatief.
+- **Monitor** – Kritisch en analytisch.
+- **Zorgdrager** – Gestructureerd en nauwkeurig.
+
+Effectieve teams combineren complementaire rollen voor optimale samenwerking.
+
+##### 8.5 Effectieve teams
+Een team is effectief als het goed presteert en tevreden teamleden heeft. Belangrijke kenmerken:
+1. Duidelijke doelen.
+2. Relevante vaardigheden.
+3. Onderling vertrouwen.
+4. Goede communicatie en samenwerking.
+5. Geschikt leiderschap.
+6. Externe en interne ondersteuning.
+
+##### 8.6 Teambuilding
+Teambuilding bevordert samenwerking en prestaties via:
+- Workshops en training.
+- Outdoor en adventure training.
+- Reflectie en ervaringsleren.
+
+##### 8.7 Teams vs. Individuen
+Niet elk probleem vereist een team:
+- **Individuele taken** – Geschikt bij duidelijke en voorspelbare problemen.
+- **Groepstaken** – Geschikt bij complexe, creatieve vraagstukken.
+
+Teams bieden voordelen zoals meer kennis en nieuwe ideeën, maar kunnen minder efficiënt zijn bij eenvoudige taken.
+
+# Samenvatting Hoorcollege Diversiteit (H5)
+
+### 1. Diversiteit, waar gaat het over?
+- Mensen verschillen in gedrag, denken en reageren op dezelfde prikkel.
+
+- Verklaring hiervoor: 
+	- **S-O-R model** (Stimulus - Organisme - Respons),
+	- **perceptie**, 
+	- **cognitieve**, 
+	- **capaciteiten**, 
+	- **waarden**, 
+	- **persoonlijke eigenschappen**.
+
+- **Soorten diversiteit:**
+    - **Oppervlakkige diversiteit**: Geslacht, leeftijd, etniciteit.
+    - **Diepe diversiteit**: Waarden, attitudes, persoonlijkheid.
+- **Voordelen:** Innovatie, creativiteit, concurrentievoordeel, productiviteit.
+- **Nadelen:** Miscommunicatie, uitsluiting, stereotypering.
+- **Discriminatie:** Wettelijk verboden, kan direct of indirect zijn → Inclusiebeleid is nodig.
+
+---
+
+### 2. Demografische verschillen
+**Geslacht**
+- Loonkloof en glazen plafond blijven bestaan, ondanks vooruitgang.
+- 36% van managementposities door vrouwen bezet, 6% minder loon.
+
+**Leeftijd**
+- **Cohortentheorie:** Mensen uit dezelfde generatie ontwikkelen vergelijkbare waarden en werkattitudes door gedeelde sociale en historische ervaringen.
+
+- **Levenscyclusbenadering:** Werkhouding verandert door levensfase, niet door generatieverschillen.
+
+- Generaties op de werkvloer:
+    - **Babyboomers (1945-1964)**: Loyaliteit, hard werken.
+    - **Generatie X (1965-1976)**: Zelfstandigheid, balans werk-privé.
+    - **Generatie Y/Millennials (1977-1993)**: Technologiegericht, teamwork.
+    - **Generatie Z (1994-nu)**: Digitale vaardigheden, flexibiliteit.
+
+**Etniciteit**
+- Minder kansen op arbeidsmarkt, ondanks bewezen voordelen (meer creativiteit, innovatie, productiviteit).
+
+
+**Werken met een handicap**
+- Grote arbeidsmarktuitdagingen, maar ondersteuning via subsidies en maatwerk.
+
+---
+
+### 3. Intellectuele capaciteiten
+- **Intelligentie**: Het vermogen om informatie te verwerken, redeneren en problemen op te lossen.
+- **IQ-testen** meten intellectuele capaciteiten.
+- **EQ (Emotionele intelligentie):** Omgaan met emoties, zelfbewustzijn, empathie.
+- **AQ (Aanpassingsintelligentie):** Omgaan met verandering en uitdagingen.
+
+---
+
+## 4. Persoonlijkheidsverschillen
+- **MBTI**: Populair, maar wetenschappelijk niet sterk onderbouwd.
+- **Trekkentheorieën**:
+    - **Big Five** (OCEAN-model):
+        1. **Consciëntieusheid**: Betrouwbaar, gestructureerd vs. chaotisch, impulsief.
+        2. **Neuroticisme**: Stressgevoelig vs. emotioneel stabiel.
+        3. **Extraversie**: Sociaal, energiek vs. introvert.
+        4. **Openheid**: Creatief, flexibel vs. conservatief.
+        5. **Altruïsme**: Vriendelijk, coöperatief vs. competitief, confronterend.
+
+    - **Extra dimensies**:  
+        6. **Locus of control**
+        - Intern (zelf verantwoordelijkheid) vs. extern (omgeving bepaalt).
+
+        6. **Type A & B**:
+            - Type A: Workaholic, competitief, snel beslissingen.
+            - Type B: Geduldig, bedachtzaam, creatief.
+            - Type A heeft meer kans op hart- en vaatziekten.
+
+---
+
+## 5. Waarden en Attitudes
+- **Waarden**: Diepgewortelde overtuigingen over wat belangrijk is.
+- **Werkwaarden (4 dimensies)**:
+    1. **Intrinsieke waarden** (zelfontplooiing, uitdaging).
+    2. **Extrinsieke waarden** (loon, werkzekerheid).
+    3. **Sociale waarden** (samenwerken, teamgeest).
+    4. **Prestigewaarden** (status, erkenning).
+- **Attitudes**: Specifieke houding tegenover iets (ontstaan uit waarden).
+- **Organisatie-attitudes**:
+    1. **Betrokkenheid bij organisatie** (loyaliteit, OCB - extra inspanningen buiten de functie).
+    2. **Betrokkenheid bij het werk** (psychologische identificatie, empowerment).
+    3. **Medewerkerstevredenheid** (beïnvloed door arbeidsinhoud, -voorwaarden, -verhoudingen).
+- **Te hoge betrokkenheid kan negatief zijn** → Workaholics.

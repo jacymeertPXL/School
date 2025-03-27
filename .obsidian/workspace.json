@@ -99,8 +99,7 @@
               "title": "beroepscode_voor_psychologisch_consulenten"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,10 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ca65d171d6e013e",
+  "active": "8ea981983b85fd5f",
   "lastOpenFiles": [
-    "Psychologie/Trimester_02/Sociologie/Sociologie.md",
     "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
+    "Psychologie/Trimester_02/Sociologie/Sociologie.md",
     "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
     "Psychologie/Trimester_02/Biopsychologie/Biopsychologie - biopsychologie.pdf",
     "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",

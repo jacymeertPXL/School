@@ -162,10 +162,11 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 
 ### 3.2 Agressief gedrag en de prikkelsituatie
 
-Verklaring agressief gedrag
-	Antisociale persoonlijkheid
-	Leer principe 
-	Thanatos
+**Verklaring agressief gedrag**
+	**Antisociale persoonlijkheid**
+		Is je een antisociale persoonlijkheidsstoornis (ASP) hebt, vertoon je antisociaal gedrag. **Je kunt roekeloos, agressief, prikkelbaar, impulsief en onverschillig overkomen**. Rekening houden met (de gevoelens van) anderen is lastig en regels worden vaak niet nageleefd.
+	**Thanatos (Death Drive)** 
+		De onbewuste drang naar de dood te begrijpen die sommige individuen kunnen ervaren
 
 **Vijf situationele determinanten:**
 
@@ -425,14 +426,5 @@ We ordenen informatie en vormen een beeld over anderen.
 - **Stockholmsyndroom**: Gijzelaars proberen controle te vinden door zich te identificeren met hun ontvoerder.
 - **Aangeleerde hulpeloosheid**: Mensen die geen controle ervaren, leren om niet te reageren.
 
----
-
-## Belangrijke Begrippen
-
-✔️ **Stanford-gevangenisexperiment** – hoe macht en sociale rollen gedrag beïnvloeden.  
-✔️ **Stockholmsyndroom** – identificatie met de dader als overlevingsstrategie.  
-✔️ **Aangeleerde hulpeloosheid** – passiviteit door verlies van controle.  
-✔️ **Veiligheidssignaalhypothese** – stress is lager als negatieve prikkels voorspelbaar zijn.  
-✔️ **Subjectieve gedragscontrole** – het gevoel van controle beïnvloedt gedrag en stressreacties.
 
 # Attitudeleer (H8)

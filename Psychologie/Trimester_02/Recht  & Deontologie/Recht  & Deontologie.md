@@ -157,7 +157,61 @@ Als een jongere een jeugddelict pleegt, kan de jeugdrechter verschillende **maat
 - Jongeren kunnen een **strafblad** krijgen, maar dit wordt op een **andere manier** verwerkt dan bij volwassenen.  
 - **Recht op verdediging**: Jongeren krijgen een **jeugdadvocaat** om hen bij te staan.  
 
+## Module 3:  seksueel strafrecht
 
+### 1. Inleiding
+
+- Het oude Belgische seksueel strafrecht was verouderd en bood onvoldoende bescherming aan slachtoffers.
+- Maatschappelijke context:
+    - 2019: Zaak Julie Van Espen
+    - 1996: Zaak Marc Dutroux
+    - 2017: #MeToo-beweging
+- **Nieuw seksueel strafrecht** sinds **1 juni 2022** (Strafwetboek Boek II, Titel VIII).
+- **Uitgangspunt:** Seksuele autonomie.
+
+### 2. Vier basismisdrijven (voor alle leeftijden)
+
+1. **Aantasting van de seksuele integriteit**
+    
+    - Vervangt "aanranding van de eerbaarheid".
+    - Seksuele handelingen zonder geldige toestemming.
+    - Straf: 6 maanden tot 5 jaar gevangenisstraf.
+    - Geen toestemming bij: angst, alcohol, drugs, ziekte, bedreiging, dwang, list, slapend slachtoffer.
+    - **Seksuele meerderjarigheid:**
+        - Basisleeftijd: **16 jaar**.
+        - Uitzondering 14-16 jaar: toegestaan als leeftijdsverschil ≤ 3 jaar.
+        - **Nooit toestemming mogelijk bij:** incest, gezags-/vertrouwensrelatie, prostitutie.
+2. **Verkrachting**
+    
+    - Seksuele penetratie (vaginaal, anaal, oraal) met elk middel zonder toestemming.
+    - Straf: **10 tot 15 jaar opsluiting**.
+    - **Voorbeelden van verkrachting:**
+        - "Stealthing" (heimelijk condoom verwijderen).
+        - Doorgaan na intrekking van toestemming.
+3. **Voyeurisme**
+    
+    - Observeren, filmen of opnemen van iemand zonder diens toestemming terwijl die persoon ontbloot is of een seksuele daad stelt.
+    - Straf: **6 maanden tot 5 jaar gevangenisstraf**.
+    - **Voorbeelden:**
+        - Verborgen camera’s in douches.
+        - “Upskirting” (stiekem onder rok filmen).
+        - Wraakporno: verspreiding zonder toestemming.
+4. **Niet-consensuele verspreiding van seksueel getinte inhoud**
+    
+    - Verspreiding van seksuele beelden zonder toestemming.
+    - Strafbare feiten vallen onder voyeurisme.
+
+### 3. Verzwaarde misdrijven
+
+- **Seksuele uitbuiting van minderjarigen (-18 jaar)**
+- **Grooming, ontucht, prostitutie**
+- **Beelden van seksueel misbruik van minderjarigen**
+- **Openbare zedenschennis, extreme pornografie, exhibitionisme**
+
+### Conclusie
+
+- Het nieuwe seksueel strafrecht plaatst **toestemming centraal** en biedt meer bescherming aan slachtoffers.
+- **Strengere straffen en duidelijke wetgeving** moeten seksueel misbruik beter aanpakken.
 
 # Module Deontologie:
 ## Samenvatting Hoorcollege 1: Recht en Deontologie  
