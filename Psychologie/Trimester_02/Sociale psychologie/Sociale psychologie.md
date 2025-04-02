@@ -153,8 +153,8 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 
 # Agressie (H3)
 ### 3.1 Inleiding en definitie
-- **Tegenstelling agressie vs. altruïsme** (McClintock): Niet egoïsme, maar agressie is het tegenovergestelde van altruïsme.
-- **Definitie agressie** (Nuttin): Gedrag met de intentie om anderen aversieve gevolgen te bezorgen.
+- **Tegenstelling agressie vs. altruïsme** (**McClintock**): Niet egoïsme, maar agressie is het tegenovergestelde van altruïsme.
+- **Definitie agressie** (**Nuttin**): Gedrag met de intentie om anderen aversieve gevolgen te bezorgen.
 - **Aversiviteit**: Intentie om onaangename prikkels toe te dienen.
 - **Altruïsme**: Gedrag dat aversieve gevolgen voor anderen vermindert.
 
@@ -171,22 +171,22 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 **Vijf situationele determinanten:**
 
 1. **Pijn**
-    - Experiment O’Kelley & Steckle: Ratjes die elektrische schokken krijgen, vertonen agressie.
+    - **Experiment O’Kelley & Steckle**: Ratjes die elektrische schokken krijgen, vertonen agressie.
     - Agressie neemt toe door frequentie, duur, intensiteit en ruimtebeperking.
 
 2. **Ruimte**
-    - Experiment Calhoun: Overbevolking bij ratten leidt tot een gedragsmatig riool (‘behavioral sink’).
+    - **Experiment Calhoun**: Overbevolking bij ratten leidt tot een gedragsmatig riool (‘behavioral sink’).
     - Bij mensen is de link tussen ruimte en agressie complex (bv. invloed van armoede, territoriumleer).
 
 3. **De socius** -> **Kameraad, vriend, bondgenoot**
-    - Experiment Azrin & Ulrich: Apen reageren agressief op schokken, ongeacht de aanwezige socius.
+    - **Experiment Azrin & Ulrich**: Apen reageren agressief op schokken, ongeacht de aanwezige socius.
     - Verklaring voor vandalisme en contra-agressie.
 
 4. **Temperatuur**
     - Extreme temperaturen worden ervaren als aversieve prikkels en kunnen agressie uitlokken.
 
 5. **Provocatie**
-    - Experiment Harris: Voorkruipen in een rij veroorzaakt meer agressie bij voorste personen en bij lage-statuskledij.
+    - **Experiment Harris**: Voorkruipen in een rij veroorzaakt meer agressie bij voorste personen en bij lage-statuskledij.
     - Territoriumleer verklaart contra-agressie bij territoriumschending.
 
 ---
@@ -231,11 +231,13 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 
 - **Bobo Doll-experiment (Bandura, 1961)**
     - Kinderen leren agressief gedrag via modeling en vicarious learning.
+	    - **modeling**: learns by imitation alone, copying a human model 
+	    - **vicarious learning**: is an instructional approach under which the acquisition of knowledge happens via observation and imitation of the behavior rather than direct personal experience.
     - Beloning van agressief gedrag → meer agressie.
     - Straf → minder agressie, maar intentie blijft aanwezig.
 
 - **Invloed van media**
-    - Geweld in films en games kan agressief gedrag aanleren, maar effect hangt af van:
+    - Geweld in films en games kan agressief gedrag aan leren, maar effect hangt af van:
         - Intensiteit van blootstelling.
         - Vermogen om realiteit en fictie te onderscheiden.
     - Verbieden van gewelddadige media heeft beperkte impact.
@@ -273,10 +275,88 @@ _~ boek -> H01 -> Handboek p.15 - 49_
 - **Bindende factoren**: Angst voor sancties, loyaliteit en gewenning aan gehoorzaamheid.
 
 ### 4.3 Dominantie en volgzaamheid
-- **Roos van Leary**: Gedrag roept complementair gedrag op (dominant vs. volgend, samen vs. tegen).
+- **Roos van Leary**: Interactiemodel wisselwerking &  gedragspatronen
+	- Gedrag roept complementair gedrag op (Boven vs. Onder, samen vs. tegen).
+
+![[Pasted image 20250402093724.png]]
 - **Psychopathie en leiderschap**:
     - Eigenschappen: manipulatief, gebrek aan empathie en berouw.
     - Psychopaten in leiderschapsposities gebruiken charme, ondermijnen collega’s en grijpen macht.
+
+# Macht en onmacht (H5)
+### 5.0 Inleiding - Macht
+
+- **Macht** speelt een grote rol in sociale interacties.
+- **Machiavelli**: Macht kan het best behouden worden door meedogenloosheid en wantrouwen.
+- **Macht in de psychologie**:
+    - Controle over jezelf, anderen en situaties.
+    - Behaviorisme, psychodynamische stromingen en levenslooppsychologie (**Piaget**) verklaren macht op verschillende manieren.
+
+### 5.1 Het Stanford-gevangenisexperiment (Zimbardo, 1971)
+
+- **Doel**: Onderzoeken hoe macht en sociale rollen gedrag beïnvloeden.
+- **Opzet**: 24 mannen, willekeurig verdeeld in **bewakers en gevangenen**.
+- **Resultaat**:
+    - **Bewakers** werden steeds agressiever, zelfs zonder expliciete instructies.
+    - **Gevangenen** werden passief en onderdanig.
+- **Conclusie**: Niet de persoonlijkheid, maar **de situatie en machtsdynamiek** veroorzaakten het gedrag.
+- **Kritiek**:
+    - Proefpersonen speelden mogelijk een rol.
+    - Ethische bezwaren → experiment stopgezet na 6 dagen.
+
+**Link met andere concepten**: Het experiment toont hoe **subjectieve gedragscontrole** (het gevoel controle te hebben over een situatie) een grote rol speelt. Gevangenen voelden zich machteloos en verloren de wil om zich te verzetten.
+
+---
+
+### 5.2 Het Stockholmsyndroom
+
+- **Definitie**: Psychologisch fenomeen waarbij slachtoffers sympathie ontwikkelen voor hun ontvoerders.
+- **Verklaring**:
+    - **Isolatie en onzekerheid** → ontvoerder wordt enige houvast.
+    - **Overlevingsmechanisme** om angst en stress te verminderen.
+- **Voorbeelden**: Gijzelingen, sekten, mishandelde partners.
+- **Stanford-experiment**: **Geen Stockholmsyndroom**, omdat de gevangenen geen empathie ontwikkelden voor de bewakers.
+
+---
+
+### 5.3 Aangeleerde Hulpeloosheid (Seligman)
+
+- **Definitie**: Wanneer mensen of dieren leren dat ze geen controle hebben over negatieve situaties, stoppen ze met proberen te ontsnappen, zelfs als dat later wel kan.
+- **Basisexperiment (honden, Seligman)**:
+    - **Groep 1**: Kon schokken stoppen → probeerde te ontsnappen.
+    - **Groep 2**: Had geen controle → bleef passief, zelfs toen ontsnappen mogelijk was.
+- **Effecten**: Stress, depressie, passiviteit.
+- **Varianten**:
+    - **Aangeleerde luiheid**: Passiviteit door automatische beloning.
+    - **Discriminatieve hulpeloosheid**: Hulpeloos in sommige situaties, niet in andere.
+
+**Link met Stanford-experiment**: Gevangenen vertoonden kenmerken van **aangeleerde hulpeloosheid** door de constante controle en vernedering.
+
+---
+
+### Veiligheidssignaalhypothese (Seligman)
+
+- **Wat?** Mensen ervaren minder stress als ze weten wanneer een negatieve prikkel komt.
+- **Experiment**:
+    - Mensen kregen willekeurige elektrische schokken.
+    - **Voorspelbare schokken** → minder stress.
+    - **Onvoorspelbare schokken** → meer stress.
+- **Toepassing**: Angst en stress kunnen verminderen door voorspelbaarheid.
+
+---
+
+### Subjectieve Gedragscontrole
+
+- **Wat?** Het **gevoel van controle** over een situatie bepaalt hoe iemand reageert.
+- **Bij verlies van controle**: Kan leiden tot aangeleerde hulpeloosheid.
+- **Bij behoud van controle**: Meer veerkracht en actieve copingstrategieën.
+
+💡 **Link met andere concepten**:
+
+- **Stanford-experiment**: Gevangenen verloren **subjectieve gedragscontrole** en werden passief.
+- **Stockholmsyndroom**: Gijzelaars proberen controle te vinden door zich te identificeren met hun ontvoerder.
+- **Aangeleerde hulpeloosheid**: Mensen die geen controle ervaren, leren om niet te reageren.
+
 
 # Sociale cognitie en sociale perceptie (H6)
 **Sociale perceptie** en **sociale cognitie** bepalen hoe we anderen waarnemen en interpreteren. Dit proces verloopt via drie stappen:
@@ -352,79 +432,84 @@ We ordenen informatie en vormen een beeld over anderen.
     - **Experiment Kelley**: verwachtingen kleuren onze waarneming van anderen.
 
 # Zelfcognitie en zelfperceptie (H7)
-# Macht en onmacht (H5)
-### 5.0 Inleiding - Macht
 
-- **Macht** speelt een grote rol in sociale interacties.
-- **Machiavelli**: Macht kan het best behouden worden door meedogenloosheid en wantrouwen.
-- **Macht in de psychologie**:
-    - Controle over jezelf, anderen en situaties.
-    - Behaviorisme, psychodynamische stromingen en levenslooppsychologie (Piaget) verklaren macht op verschillende manieren.
+### 7.1 De Zelfperceptietheorie van Bem
+- **Zelfperceptietheorie**: Zelfkennis door zelfobservatie en het trekken van conclusies uit eigen gedrag.
+	- Soms duidelijk, vanzelfsprekend en objectief
+	- Maar… soms ook irrationeel en onlogisch
 
-### 5.1 Het Stanford-gevangenisexperiment (Zimbardo, 1971)
+- **Valins-experiment**: Manipulatie van hartslag beïnvloedt waargenomen aantrekkelijkheid van beelden.
+	- Horen (zogezegd) hun eigen hartslag → manipulatie: sneller/langzamer/basis
 
-- **Doel**: Onderzoeken hoe macht en sociale rollen gedrag beïnvloeden.
-- **Opzet**: 24 mannen, willekeurig verdeeld in **bewakers en gevangenen**.
-- **Resultaat**:
-    - **Bewakers** werden steeds agressiever, zelfs zonder expliciete instructies.
-    - **Gevangenen** werden passief en onderdanig.
-- **Conclusie**: Niet de persoonlijkheid, maar **de situatie en machtsdynamiek** veroorzaakten het gedrag.
-- **Kritiek**:
-    - Proefpersonen speelden mogelijk een rol.
-    - Ethische bezwaren → experiment stopgezet na 6 dagen.
+- **Zelfwaardegevoel**: Attitude tegenover jezelf, beïnvloed door zelfkennis en persoonlijke waardeoordelen.
+	- Evenwicht = positieve zelfwaarde
+	- Geen evenwicht = negatieve zelfwaarde
 
-💡 **Link met andere concepten**: Het experiment toont hoe **subjectieve gedragscontrole** (het gevoel controle te hebben over een situatie) een grote rol speelt. Gevangenen voelden zich machteloos en verloren de wil om zich te verzetten.
+- **Tendens tot zelfconsistentie en zelfverheffing**: Behouden van een positief zelfbeeld, soms irrationeel of foutief.
 
----
+### 7.2 Zelfattributie
+- **Zelfattributie**: wordt gedefinieerd als het proces waarin mensen de uitkomsten en consequenties van hun gedrag begrijpen
 
-### 5.2 Het Stockholmsyndroom
+- **Causale attributie**: Verklaring van gedrag door interne (persoonlijke) of externe (situationele) factoren.
 
-- **Definitie**: Psychologisch fenomeen waarbij slachtoffers sympathie ontwikkelen voor hun ontvoerders.
-- **Verklaring**:
-    - **Isolatie en onzekerheid** → ontvoerder wordt enige houvast.
-    - **Overlevingsmechanisme** om angst en stress te verminderen.
-- **Voorbeelden**: Gijzelingen, sekten, mishandelde partners.
-- **Stanford-experiment**: **Geen Stockholmsyndroom**, omdat de gevangenen geen empathie ontwikkelden voor de bewakers.
+- **Weiner’s attributiemodel**: Causaliteit wordt beoordeeld op basis van.
+	- **Plaats van causaliteit**
+		- Intern of extern
+	- **stabiliteit,** 
+		- Variabel of stabiel
+	- **globaliteit,**
+		- Specifiek of algemeen
+	- **controleerbaarheid**
+		- Controle of geen controle
 
----
+### 7.3 Attributiestijl
+- **Levensstijl** -> Attributiestijl
+	- Afhankelijk van beheersingsoriëntatie/ locus of **controleerbaarheid**
+	- overtuigingen over eigen (on)macht over je situatie
+	- bepalend voor prestaties & geluk
 
-### 5.3 Aangeleerde Hulpeloosheid (Seligman)
+- **Beheersingsoriëntatie (Rotter)**:
+    - **Internals**: Geloven dat ze controle hebben over hun leven → meer inspanning en succes.
+	    - Succes toeschrijven aan stabiele factoren
 
-- **Definitie**: Wanneer mensen of dieren leren dat ze geen controle hebben over negatieve situaties, stoppen ze met proberen te ontsnappen, zelfs als dat later wel kan.
-- **Basisexperiment (honden, Seligman)**:
-    - **Groep 1**: Kon schokken stoppen → probeerde te ontsnappen.
-    - **Groep 2**: Had geen controle → bleef passief, zelfs toen ontsnappen mogelijk was.
-- **Effecten**: Stress, depressie, passiviteit.
-- **Varianten**:
-    - **Aangeleerde luiheid**: Passiviteit door automatische beloning.
-    - **Discriminatieve hulpeloosheid**: Hulpeloos in sommige situaties, niet in andere.
+    - **Externals**: Geloven dat externe factoren zoals geluk hun leven beïnvloeden → minder inspanning.
+	    - Succes toeschrijven aan variabele factoren
 
-💡 **Link met Stanford-experiment**: Gevangenen vertoonden kenmerken van **aangeleerde hulpeloosheid** door de constante controle en vernedering.
+### 7.4 Sociale Facilitatie en Sociale Inhibitie
+- **Sociale facilitatie**: Prestaties verbeteren bij aanwezigheid van anderen.
 
----
+- **Sociale inhibitie**: Prestaties verslechteren bij aanwezigheid van anderen.
 
-### Veiligheidssignaalhypothese (Seligman)
+- **Experiment Triplett**: Competitie verhoogt prestaties.
+	- **Vervolgonderzoek**: ook betere prestaties bij passieve toeschouwers
 
-- **Wat?** Mensen ervaren minder stress als ze weten wanneer een negatieve prikkel komt.
-- **Experiment**:
-    - Mensen kregen willekeurige elektrische schokken.
-    - **Voorspelbare schokken** → minder stress.
-    - **Onvoorspelbare schokken** → meer stress.
-- **Toepassing**: Angst en stress kunnen verminderen door voorspelbaarheid.
+- **Experiment Zajonc**: Kakkerlakken presteren beter in simpele taken met publiek, slechter in moeilijke taken.
+	- **Arousal**: Spanning of opwinding door aanwezigheid van anderen
 
----
+- **Evaluatievrees (Cottrell)**: Arousal neemt toe door angst voor beoordeling.
+	- **Toekijkend publiek**:
+		- sociale facilitatie bij makkelijke taak
+		- sociale inhibitie bij moeilijke taak
 
-### Subjectieve Gedragscontrole
+- **Social loafing (of: sociaal lanterfanten) (Ringelmann-effect)**: neiging van individuele leden van een groep om minder inspanningen te leveren naarmate de grootte van de groep toeneemt
 
-- **Wat?** Het **gevoel van controle** over een situatie bepaalt hoe iemand reageert.
-- **Bij verlies van controle**: Kan leiden tot aangeleerde hulpeloosheid.
-- **Bij behoud van controle**: Meer veerkracht en actieve copingstrategieën.
+![[Pasted image 20250402090846.png]]
 
-💡 **Link met andere concepten**:
+- **Sociaal compenseren**: individuen leveren extra inspanningen om sociaal lanterfanten van anderen op te vangen
+	- Vaak discreet
+	- Niet veel impact op beeld van anderen
+	- Wel impact op zelfbeeld
 
-- **Stanford-experiment**: Gevangenen verloren **subjectieve gedragscontrole** en werden passief.
-- **Stockholmsyndroom**: Gijzelaars proberen controle te vinden door zich te identificeren met hun ontvoerder.
-- **Aangeleerde hulpeloosheid**: Mensen die geen controle ervaren, leren om niet te reageren.
+## Belangrijke Concepten
 
+- **Alice in Wonderland-syndroom**: Verstoring in zelfperceptie en ruimtelijke waarneming.
+- **Sociale perceptie en cognitie**: Hoe we onszelf en anderen waarnemen en interpreteren.
+- **Experimentele studies**:
+    - **Valins**: Hartslag en emotie.
+    - **Triplett**: Competitie en prestatie.
+    - **Zajonc**: Sociale activering.
+    - **Cottrell**: Evaluatievrees.
+    - **Ringelmann**: Social loafing.
+    - **Ingham**: Weerlegging coördinatieprobleem.
 
 # Attitudeleer (H8)

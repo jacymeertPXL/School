@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,13 +242,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8f938cfa77e424c",
+  "active": "71b9d9b27c376db0",
   "lastOpenFiles": [
+    "Psychologie/Trimester_02/Sociale psychologie/Img/Pasted image 20250402093724.png",
+    "Psychologie/Trimester_02/Sociale psychologie/Img",
+    "Psychologie/Trimester_02/Sociale psychologie/Img/Pasted image 20250402090846.png",
+    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
     "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
     "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
     "Psychologie/Trimester_02/Sociologie/Sociologie.md",
     "Psychologie/Trimester_02/Biopsychologie/Biopsychologie - biopsychologie.pdf",
-    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
     "Psychologie/Trimester_02/Recht  & Deontologie/beroepscode_voor_psychologisch_consulenten.pdf",
     "Psychologie/Trimester_01/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Trimester_02/Sociologie/Img/Pasted image 20250225133324.png",
@@ -266,7 +269,6 @@
     "Psychologie/Trimester_02/Sociologie/Img.md",
     "Psychologie/Trimester_02/Sociologie",
     "Psychologie/Trimester_02/Sociale psychologie",
-    "Psychologie/Trimester_02/Recht  & Deontologie",
     "Psychologie/Untitled.md",
     "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
     "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 05.md",
@@ -288,7 +290,6 @@
     "Psychologie/Trimester_01/Algemene Psychologie/Img/Pasted image 20241001133227.png",
     "Psychologie/Trimester_01/Levensloop Psychologie/Img/Pasted image 20241001132323.png",
     "Psychologie/Trimester_01/Levensloop Psychologie/Img/Pasted image 20241001132240.png",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Img/Pasted image 20241001094909.png",
     "Psychologie/Levensloop Psychologie/Untitled.md"
   ]
 }
