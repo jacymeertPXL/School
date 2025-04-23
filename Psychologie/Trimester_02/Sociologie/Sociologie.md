@@ -110,7 +110,7 @@ Weber stelde dat sociologie nooit volledig objectief kan zijn, omdat interpretat
 - **Sociale rollen**: De gedragingen en verwachtingen die horen bij een bepaalde sociale positie. Bijvoorbeeld, van een dokter wordt verwacht dat hij patiënten helpt, en van een student dat hij leert en opdrachten maakt.
 
 
-# Module 02: Op Verkenning naar de Sociologie
+# Module 02: Bouwstenen va de Sociologie
 
 ## D2-H1 Sociaal handelen, sociale interactie en communicatie
 
@@ -429,3 +429,207 @@ Voorbeeld: Een leerlingencoördinator probeert te laat komende leerlingen te mot
 - **Kritiek:** globalisering kan ook uitsluiting creëren.
 
 ## D2-H4 Socialisering
+
+### 4.1 Inleiding
+- **Cultuur**: gedeeld geheel van waarden, normen en opvattingen.
+- **Socialisering**: proces waarbij cultuur wordt overgedragen van groep → individu.
+- Twee vormen van cultuuroverdracht:
+    - **Enculturatie**: aanleren van de eigen cultuur (bv. opvoeding).
+    - **Acculturatie**: contact tussen verschillende culturen (bv. migratie).
+- **Microniveau**: opvoeding, school.
+- **Macroniveau**: maatschappelijke processen zoals kolonisatie.
+
+---
+
+### 4.2 Definitie socialisering
+> _Levenslang leerproces waarbij mensen waarden, normen en rollen van hun cultuur aanleren._
+- Verloopt via **kennen** én **verinnerlijken** (intern worden, vanzelfsprekend).
+- Voorbeeld: case van **Genie Wiley** toont belang van vroege socialisering.
+
+---
+
+### 4.3 Dialectische visie van Berger & Luckmann
+Socialisering = **dialectisch proces** met 3 componenten:
+1. **Objectivering**: samenleving lijkt een gegeven, objectieve realiteit.
+2. **Internalisering**: cultuur wordt geïnternaliseerd (subjectief gemaakt).
+3. **Externalisering**: mensen creëren cultuur → samenleving is geen vaststaand gegeven, maar een menselijk product.
+
+> 🌍 Mens = cultuurscheppend, niet instinctmatig.  
+> 🤝 Geen determinisme: individu beïnvloedt ook de samenleving.
+
+---
+
+### 4.4 Self = I + Me (George Herbert Mead)
+- **Self** = eigen identiteit = resultaat van interactie tussen:
+    - **I**: spontane, eigen reacties.
+    - **Me**: wat de samenleving van jou verwacht.
+
+- Vier fasen in ontwikkeling van het zelf (self):
+    1. **Preparatory stage**: imiteren.
+    2. **Play stage**: rollen van “significant others” spelen.
+    3. **Game stage**: meerdere rollen tegelijk inschatten.
+    4. **Adult stage**: inleven in “generalized other” = samenleving.
+
+---
+
+### *4.5 Drie vormen van socialisering
+1. **Primaire socialisering**
+    - Informeel, impliciet (gezin, peergroup).
+    - Face-to-face, vanaf jonge leeftijd.
+    - Invloed op lange termijn.
+
+2. **Secundaire socialisering**
+    - Formeel (school, organisaties).
+    - Kennis, vaardigheden, en **hidden curriculum**.
+    - Belang neemt toe in moderne samenleving.
+
+3. **Tertiaire socialisering**
+    - Via media, social media.
+    - Onpersoonlijk, subtiel.
+    - Bv. lifestyle beïnvloed door influencers.
+
+---
+
+### 4.6 Differentiële socialisering
+- Verschillende groepen → verschillende waarden, normen en verwachtingen.
+- Beïnvloed door:
+    - **Klasse** (bv. arbeiders vs middenklasse).
+    - **Geslacht** (genderrollen).
+- Voorbeeld: genderexperiment met baby in roze/blauw toont onbewuste verwachtingen.
+
+---
+
+### 4.7 Collectief ritueel
+- Overgangsritueel dat socialiseringsproces markeert (bv. diploma-uitreiking, communie).
+	- **Manifest doel**: zichtbaar, officieel (bv. afronden school).
+	- **Latent doel**: benadrukken van gedeelde cultuur en waarden.
+	- Werkt als **positieve sociale sanctie** en bevestigt sociale orde.
+
+
+# Module 03: Bouwwerken van de Sociologie
+##  D3-H1– Institutionalisering en Instituties
+
+### 1.1 Institutionalisering
+
+Institutionalisering is het proces waarbij individuele handelingen worden omgevormd tot vaste, collectieve handelingspatronen. Deze patronen:
+- Bestaan buiten het individu (objectief).
+- Worden overgeleverd via socialisering.
+- Hebben een dwingend karakter (sociale controle).
+- Zorgen voor voorspelbaarheid en stabiliteit in de samenleving.
+
+Durkheim spreekt in dit verband over sociale feiten: gedragsvormen die onafhankelijk van het individu bestaan en collectief gedragen worden.
+
+---
+
+### 1.2 Instituties
+
+#### Definitie
+Een institutie is een geheel van genormeerde opvattingen, gedragingen en gevoelens rond essentiële functies binnen een samenleving. Ze regelen hoe we ons gedragen in terugkerende situaties en bieden structuur.
+
+Voorbeelden van instituties zijn:
+- Het gezin
+- Het onderwijs
+- Religie
+- Politiek
+- Economie
+
+Een institutie is dus geen organisatie, maar een sociaal-cultureel patroon dat gedrag structureert.
+
+#### Functies van instituties
+- Bieden houvast en stabiliteit.
+- Zorgen voor continuïteit.
+- Zijn moeilijk te veranderen, zelfs als de samenleving verandert.
+- Ondersteunen sociale controle.
+
+---
+
+### Voorbeeld: Het gezin als institutie
+
+#### Functies (die veranderen in de tijd):
+- Voortplanting
+- Opvoeding en socialisatie
+- Economische functie
+- Zorg en sociale bescherming
+- Emotionele ondersteuning
+
+#### Evolutie van gezinsvormen:
+- Van het uitgebreide gezin (meerdere generaties) naar het kerngezin (ouders + kinderen) tot nieuwe gezinsvormen zoals samengestelde of eenoudergezinnen.
+- De vorm verandert, maar het gezin blijft een belangrijke institutie in elke samenleving.
+
+Er blijven altijd normen bestaan rond het gezin, vaak geladen met sterke morele en sociale verwachtingen. Bij overtreding daarvan zijn er sancties, impliciet of expliciet.
+
+##  D3-H2– Groeperingen en Netwerken
+### 1. Groeperingen en netwerken: definities & kenmerken
+- **Groepering**: afgebakende verzameling mensen (bv. gezin, klas, fanfare).
+- Kenmerken van groeperingen:
+    1. Aantal leden (N(N-1)/2 relaties)
+    2. Samenstelling (homo-/heterogeen)
+    3. Interactie
+    4. Gemeenschappelijke normen/waarden
+    5. Samenhorigheid (wij-zij)
+    6. Duurzaamheid
+    7. Open/gesloten
+    8. Vrijwillige of gedwongen toetreding
+    9. Doel van communicatie (instrumenteel vs affectief)
+
+---
+
+### 2. Typologie van groeperingen volgens Merton
+- **Groep**: intensieve, duurzame interactie + gedeelde normen/waarden (bv. gezin).
+- **Collectiviteit**: gedeelde waarden, minder directe interactie (bv. vakbond).
+- **Sociale categorie**: gelijkheid in kenmerken, geen interactie (bv. alle 65-plussers).
+- **Samenzijn**: toevallige, oppervlakkige interactie (bv. wachtzaal).
+
+---
+
+### 3. Primaire vs secundaire groepen (Cooley)
+- **Primaire groep**:
+    - Direct, face-to-face
+    - Intiem, duurzaam
+    - Belangrijk voor **socialisatie & identiteit**
+    - Vb. gezin, vriendenkring
+
+- **Secundaire groep**:
+    - Formeel, minder intiem
+    - Doelgericht en vaak tijdelijk
+    - Vb. klasgroep, sportclub
+
+---
+
+### 4. Lidmaatschapsgroepering vs referentiegroepering
+- **Lidmaatschapsgroepering**: groep waarvan je daadwerkelijk lid bent.
+- **Referentiegroepering (RG)**: groep waaraan je je spiegelt, ongeacht lidmaatschap.
+    - **Vergelijkende RG**: je vergelijkt jezelf, maar wil geen lid zijn (vb. rijke mensen).
+    - **Normatieve RG**: je wil erbij horen → je past gedrag aan → **anticiperende socialisatie**.
+    - Risico bij niet-acceptatie in RG = **marginale positie**.
+    - Referentie kan ook persoon of rolmodel zijn.
+
+---
+
+### 5. Netwerken
+- **Persoonlijk netwerk** = optelsom van directe relaties (centrale ego).
+- **Via-netwerk** = relaties via iemand uit je netwerk.
+- **Via-via-netwerk** = relaties op 2 stappen afstand.
+- **Open netwerk**: losse, diverse contacten (vb. LinkedIn).
+- **Gesloten netwerk**: intens, homogeen (vb. familie).
+
+---
+
+### 6. Sociaal systeem vs sociale structuur
+- **Sociaal systeem**: dynamisch geheel van interacties o.b.v. gedeelde waarden.
+- **Sociale structuur**: relatief stabiel netwerk van posities en relaties.
+
+
+---
+
+### 7. Theoretische kaders
+- **Functionalisme (Parsons)**: cultuur bepaalt structuur → gericht op evenwicht & stabiliteit.
+- **Structuralisme (Marx)**: structuur (bv. economie) bepaalt cultuur → conflicten centraal.
+
+---
+
+### Toepassing
+- **Psychologische zorg en netwerken**: het versterken van netwerken helpt bij preventie en toegankelijkheid.
+- **Verandering van sociale structuren**: door openheid en contactmomenten kunnen bestaande structuren (bv. in zorg) evolueren.
+
+# Module 04: Thema's uit de macrosociologie

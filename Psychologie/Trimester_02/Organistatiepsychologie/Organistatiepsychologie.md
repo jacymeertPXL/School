@@ -123,7 +123,7 @@
 
 ### 1. Individueel Leren: Klassieke Leertheorieën
 
-**1.1 Klassieke conditionering (Pavlov)
+**1.1 Klassieke conditionering (Pavlov)**
 
 - Leren door associatie tussen een stimulus en een reactie.
 - Voorbeeld: Stress (reactie) bij een deadline (onvoorwaardelijke stimulus) kan worden gekoppeld aan het geluid van een e-mailmelding (voorwaardelijke stimulus).
@@ -330,7 +330,7 @@ Niet elk probleem vereist een team:
 
 Teams bieden voordelen zoals meer kennis en nieuwe ideeën, maar kunnen minder efficiënt zijn bij eenvoudige taken.
 
-# Samenvatting Hoorcollege Diversiteit (H5)
+# Module 05: Diversiteit
 
 ### 1. Diversiteit, waar gaat het over?
 - Mensen verschillen in gedrag, denken en reageren op dezelfde prikkel.
@@ -419,3 +419,72 @@ Teams bieden voordelen zoals meer kennis en nieuwe ideeën, maar kunnen minder e
     2. **Betrokkenheid bij het werk** (psychologische identificatie, empowerment).
     3. **Medewerkerstevredenheid** (beïnvloed door arbeidsinhoud, -voorwaarden, -verhoudingen).
 - **Te hoge betrokkenheid kan negatief zijn** → Workaholics.
+
+
+# Module 6: Leiderschap
+
+### 1.1 Leiderschap vs Management
+
+- **Leiderschap** = het vermogen om gedrag van groepen te sturen, ook zonder formele macht.
+- **Management** = formeel leiderschap, focust op plannen, organiseren, coördineren, controleren.
+- **Fayol (1917)**: plannen, organiseren, bevelen, coördineren, controleren.
+- **Drucker**: breidt uit met motiveren, meten en ontwikkelen.  
+    ➡️ _Leiderschap is een onderdeel van management, maar niet elk managementgedrag is leiderschap._
+
+---
+
+### 1.2 Wat zei men vroeger over leiderschap?
+
+**1. Selectie van leiders**
+- **The Great Man Theory (Stogdill)**: leiders worden geboren.
+- Kritiek: vage en tegenstrijdige resultaten → hernieuwde interesse via Big Five en EQ.
+
+**2. Vorming van leiders**
+- Leiderschap = aan te leren gedrag.
+- Onderzoek Michigan & Ohio State:
+    - _Werknemersgerichtheid_ vs _Productiegerichtheid_
+    - _Consideratie_ vs _Structuurinitiatie_
+- **Blake & Mouton (1964)**: Leiderschapsmatrix (taakgerichtheid vs mensgerichtheid).
+- Stijlen: Teamleider, Autocratisch, Participatief, Laissez-faire, Middenweg.
+
+**3. Situationeel leiderschap**
+- **Hersey & Blanchard**: effectieve stijl hangt af van competentie & motivatie van medewerkers.
+- Stijlen: Instrueren, Verkopen, Participeren, Delegeren.
+
+---
+
+### 1.3 Hedendaagse visies op leiderschap
+**1. Transformationeel leiderschap**
+- Richt zich op verandering via inspiratie & visie.
+- Kenmerken (Buchanan & Huczynski):
+    - Idealiserende invloed
+    - Inspirerende motivatie
+    - Intellectuele stimulatie
+    - Individuele consideratie
+- Positieve impact op team- en individuele prestaties.
+
+**2. Dienend leiderschap**
+- Leiders als dienstverleners.
+- Focus: empathie, actief luisteren, autonomie stimuleren (ZDT: autonomie, competentie, verbondenheid).
+- Positieve impact op motivatie & prestaties.
+
+**3. Agile leiderschap**
+- Flexibel en adaptief.
+- 4 principes:
+    1. Fouten durven maken
+    2. Vertrouwen & verantwoordelijkheid geven
+    3. Ondersteunen
+    4. Niet de toekomst voorspellen
+
+**4. Simon Sinek**
+- Leiders zorgen voor veiligheid & groei.
+- Belangrijk: zelfbewustzijn, authenticiteit, non-verbale communicatie, groep beschermen.
+
+---
+
+### 1.4 Zijn leiders altijd nodig?
+- **Attributietheorie**: we schrijven automatisch succes/mislukking toe aan de leider.
+- **Vervangbaarheid leiderschap**:
+    - _Substituerende factoren_: bv. zelfsturende teams.
+    - _Neutraliserende factoren_: bv. sterke structuren.
+- We creëren mentale _prototypes_ van een 'goede leider', maar die zijn contextafhankelijk.

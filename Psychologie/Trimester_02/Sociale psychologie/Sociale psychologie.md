@@ -352,6 +352,74 @@ We ordenen informatie en vormen een beeld over anderen.
     - **Experiment Kelley**: verwachtingen kleuren onze waarneming van anderen.
 
 # Zelfcognitie en zelfperceptie (H7)
+## 1. Zelfcognitie & Zelfperceptie – Inleiding
+- Zelfperceptie = hoe we naar onszelf kijken, ontstaat o.a. via zelfobservatie en vergelijking met anderen.
+- Zelfcognitie = zelfkennis, zelfconcept, zelfwaardegevoel.
+- Gerelateerd aan **sociale perceptie en cognitie**.
+- **Alice in Wonderland-syndroom**: verstoring in lichaams- en zelfwaarneming (niet opgenomen in DSM-5, wel in praktijk).
+
+---
+
+## 2. Zelfperceptietheorie van Bem
+- Mensen leiden hun interne toestanden af uit hun gedrag en de context (≠ introspectie).
+- **Experiment Valins**: manipulatie van hartslag → interpretatie van opwinding → foutieve zelfperceptie.
+- **Zelfconcept**: subjectief en kan irrationeel zijn.
+- **Zelfwaardegevoel** = evaluatie van zelfbeeld → zoeken naar evenwicht.
+- **Tendensen**:
+    - **Zelfconsistentie**: willen dat zelfbeeld overeenkomt met gedrag.
+    - **Zelfverheffing**: positief zelfbeeld behouden (behalve bij depressie).
+
+---
+
+## 3. Zelfattributie
+- Verklaring van gedrag via **causale attributie**:
+    - **Intern** (persoonlijke kenmerken) of **extern** (situatie).
+    - Kenmerken: causaliteit, stabiliteit, globaliteit, controleerbaarheid (Weiner).
+- Link met attributiestijl en locus of control.
+
+---
+
+## 4. Attributiestijl (Rotter)
+- **Beheersingsoriëntatie (locus of control)**:
+    - **Internals**: geloven in invloed op eigen leven.
+    - **Externals**: geloven dat externe factoren bepalend zijn (geluk, pech).
+- Internals = actiever, succesvoller, maar ook vatbaar voor zelfverwijt.
+- Externals = passiever, minder inzet → minder succes.
+- Distinctie tussen **persoonlijke en maatschappelijke controle**.
+
+---
+
+## 5. Sociale facilitatie en inhibitie
+#### 5.1 Competitie als verklaring
+- **Experiment Triplett**: betere prestaties bij competitie én bij passieve toeschouwers.
+- Louter aanwezigheid kan dus prestaties beïnvloeden.
+
+#### 5.2 Kakkerlakkenexperiment (Zajonc)
+- Kakkerlakken presteren **beter** bij makkelijke taken mét publiek (facilitatie).
+- **Slechter** bij moeilijke taken mét publiek (inhibitie).
+
+#### 5.3 Sociale activeringstheorie (Zajonc)
+- Aanwezigheid van anderen → verhoogde **arousal**.
+    - → **Gemakkelijke taken**: betere prestaties (dominant gedrag).
+    - → **Moeilijke taken**: slechtere prestaties.
+
+#### 5.4 Evaluatievrees (Cottrell)
+- Angst om beoordeeld te worden → verhoogde spanning.
+- **Experiment**: alleen vs publiek vs geblinddoekt publiek.
+    - Enkel het toekijkende publiek leidde tot facilitatie/inhibitie.
+
+#### 5.5 Social loafing (sociaal lanterfanten)
+- In groepssituaties met **geen evaluatie** → minder inspanning.
+- **Experiment Ringelmann**: hoe groter de groep, hoe minder inspanning per persoon.
+- **Ingham**: onderlinge coördinatie is niet de oorzaak → het is **motivatieverlies**.
+- **Ringelmann-effect**: minder inzet naarmate groep groter is.
+
+---
+
+### 6. Sociaal compenseren
+- Sommige leden compenseren de lage inzet van anderen (→ intern gemotiveerd).
+- Belangrijk bij groepswerk, vooral in gemeenschapsgerichte culturen of onder vrouwen.
+
 # Macht en onmacht (H5)
 ### 5.0 Inleiding - Macht
 
