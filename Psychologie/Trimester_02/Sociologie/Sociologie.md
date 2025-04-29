@@ -325,8 +325,6 @@ Volgens Mead ontstaat feitelijk rolgedrag uit een **dialectiek tussen ‘I’ en
 - **Role-taking:** zich verplaatsen in de positie van een ander om sociale verwachtingen te begrijpen.
 - **Role-making:** actief onderhandelen over de invulling van een rol.
 
-Voorbeeld: In _De Luizenmoeder_ houdt de juf zich strikt aan de regels over verjaardagen (Me), maar probeert ze ook de situatie te beoordelen en eventueel aan te passen (I).
-
 ### 4.3 Rolconflicten
 
 - **Intern rolconflict:** tegenstrijdige verwachtingen binnen dezelfde sociale positie (bv. een lector moet studenten begeleiden, maar ook streng beoordelen).
@@ -444,7 +442,6 @@ Voorbeeld: Een leerlingencoördinator probeert te laat komende leerlingen te mot
 ### 4.2 Definitie socialisering
 > _Levenslang leerproces waarbij mensen waarden, normen en rollen van hun cultuur aanleren._
 - Verloopt via **kennen** én **verinnerlijken** (intern worden, vanzelfsprekend).
-- Voorbeeld: case van **Genie Wiley** toont belang van vroege socialisering.
 
 ---
 
