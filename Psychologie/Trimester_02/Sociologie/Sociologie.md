@@ -1,5 +1,3 @@
-![[Pasted image 20250207141157.png]]
-
 # Module 01: Op Verkenning naar de Sociologie
 
 ## D1-H1 Sociologie als wetenschap van de samenleving
@@ -630,3 +628,175 @@ Er blijven altijd normen bestaan rond het gezin, vaak geladen met sterke morele 
 - **Verandering van sociale structuren**: door openheid en contactmomenten kunnen bestaande structuren (bv. in zorg) evolueren.
 
 # Module 04: Thema's uit de macrosociologie
+## D4-H1 – Sociale Ongelijkheid
+### 1.1 Inleiding
+- Ondanks ‘égalité’ sinds Franse Revolutie: sociale ongelijkheid blijft aanwezig.
+- Ongelijkheid is structureel en maatschappelijk relevant.
+---
+
+### 1.2 Terminologie
+
+| Term                   | Betekenis                                                                             |
+| ---------------------- | ------------------------------------------------------------------------------------- |
+| Sociale ongelijkheid   | Verscheidenheid die maatschappelijk invloedrijk is (bv. sekse, afkomst, gezondheid…). |
+| Sociale differentiatie | Verschil in sociale posities zonder hiërarchie (bv. dokter ≠ leraar).                 |
+| Sociale stratificatie  | Hiërarchische ordening: sommige posities worden meer gewaardeerd.                     |
+**Sociale stratificatie – 4 principes:**
+1. Is een kenmerk van de samenleving (niet van het individu)
+2. Universeel (maar criteria verschillen)
+3. Wordt gerechtvaardigd (religie, meritocratie…)
+4. Beïnvloedt sociale mobiliteit
+
+---
+
+### 1.3 Sociale mobiliteit
+
+| Soort mobiliteit   | Uitleg                                       |
+| ------------------ | -------------------------------------------- |
+| Horizontaal        | Beweging tussen posities op hetzelfde niveau |
+| Verticaal          | Stijgen of dalen op de sociale ladder        |
+| Intergenerationeel | Tussen generaties                            |
+| Intragenerationeel | Binnen één leven                             |
+**Mechanismen:**
+- Economische activiteit
+- Partnerschap (bv. trouwen)
+- Opleiding
+- Politieke invloed
+
+**Mattheuseffect (Deleeck):**  
+Overheidsmiddelen komen vaak meer ten goede aan sterke groepen dan aan zwakkeren.  
+"Wie heeft, krijgt meer..."
+
+### 1.4 Systemen van sociale stratificatie
+
+| Systeem   | Legitimering     | Mobiliteit | Samenleving                    |
+| --------- | ---------------- | ---------- | ------------------------------ |
+| Slavernij | Juridisch        | Geen       | Antiek, modern (mensensmokkel) |
+| Kasten    | Religieus        | Geen       | Hindoeïsme                     |
+| Standen   | Theologisch      | Beperkt    | Middeleeuwen                   |
+| Klassen   | Economisch       | Mogelijk   | Moderne maatschappij           |
+| Rangen    | Cultureel/status | Beperkt    | Moderne context                |
+### 1.5 Sociologische theorieën
+
+**1.5.1 Karl Marx**
+- Klasse = positie t.o.v. productiemiddelen
+- 2 klassen: bourgeoisie (bezit) vs. proletariaat (arbeid)
+- Klassenstrijd leidt tot revolutie en klasseloze maatschappij
+- Vervreemding = arbeider voelt zich vreemd aan arbeid/product
+- "Klasse-an-sich" → "Klasse-für-sich" = van toestand naar bewustzijn
+
+**1.5.2 Erik Wright**
+- Kritiek op Marx: te simplistisch
+- Introduceert tegenstrijdige klassenposities:
+    - Managers
+    - Kleine zelfstandigen
+    - Halftijdse werknemers
+- Nog steeds economisch gefundeerd
+
+**1.5.3 Max Weber**
+- Meerdimensionale stratificatie:
+    - Klasse: levenskansen (economisch)
+    - Status: sociaal prestige
+    - Partij: politieke macht
+- Niet enkel economisch, ook sociale waardering speelt rol
+
+**1.5.4 Davis & Moore (Functionalisme)**
+- Ongelijkheid is functioneel en noodzakelijk:
+    - Belangrijke posities vragen bekwaamheid → worden beter beloond
+- Kritiek: rechtvaardigt bestaande ongelijkheid, negeert machtsstructuren
+
+**1.5.5 Pierre Bourdieu**
+- 'La Distinction': verband tussen klasse en levensstijl
+- Drie vormen van kapitaal:
+    - Economisch (geld)
+    - Cultureel (opleiding, diploma’s)
+    - Sociaal (netwerken)
+- Habitus = geïnternaliseerde leefstijl en denken, gevormd door klasse
+- Levensstijl is afspiegeling van klassepositie
+
+**Distinctie-mechanisme:**
+- Lagere klassen imiteren levensstijl van hogere klasse, maar mislukken hierin → sociale afstand wordt versterkt
+
+**Nuancering:**
+- Door stijgende inkomens en onderwijs: minder duidelijk klassenonderscheid
+- Consumptiemaatschappij maakt verschillen complexer
+
+## D4 H2: Sociale Verandering
+
+### 2.1 Inleiding
+- Sociale leven is meestal stabiel door sociale rollen, instituties, normen...
+- **Sociale verandering** = ingrijpende wijzigingen in sociale structuur en cultuur die de samenleving toch herkenbaar laten.
+
+---
+
+### 2.2 Kenmerken van sociale verandering
+1. Komt in alle samenlevingen voor
+2. Snelheid varieert
+3. Kan gepland of ongepland zijn
+4. Kan tot discussie leiden (positief of negatief)
+5. Kan tijdelijk of blijvend zijn
+
+---
+
+### 2.3 Factoren die leiden tot sociale verandering
+- Uitvindingen en ontdekkingen
+- Deviant gedrag
+- Spanningen en conflicten
+- Natuurlijke factoren
+- Demografische of sociaal-fysische factoren
+- Sociaal-culturele factoren
+- Onvolledige socialisering
+
+---
+
+### 2.4 Theorieën van sociale verandering
+
+#### 2.4.1 Auguste Comte
+- **Driefasenwet**: religieus → metafysisch → wetenschappelijk
+- Wetmatigheden ontdekken om maatschappij te sturen
+- **Sociale statica** (structuur) vs. **sociale dynamica** (verandering)
+
+#### 2.4.2 Talcott Parsons
+- Functionalisme: verandering als evolutionair proces
+- 5 patroonvariabelen: toewijzing/verwerving, affectiviteit/instrumentaliteit, enz.
+
+#### 2.4.3 Ferdinand Tönnies
+- **Gemeinschaft**: affectieve, traditionele, spontane band
+- **Gesellschaft**: rationele, contractuele ban
+- Kritiek: zwart-wit tegenstelling, geïdealiseerd verleden
+
+#### 2.4.4 Emile Durkheim
+- Van **mechanische solidariteit** (gelijke individuen, repressieve sancties)  
+    → naar **organische solidariteit** (gespecialiseerde individuen, restitutieve sancties)
+- Kritiek: individualisering ≠ automatisch meer solidariteit
+
+#### 2.4.5 Sociale hervormingsbewegingen
+- O.a. milieubeweging, feminisme
+- Fasering: sensibiliseren → bewustwording → organisatie → institutionalisering
+
+---
+
+### 2.5 Modernisering
+
+#### 2.5.1 Wat is modernisering?
+- Structurele verandering sinds de Middeleeuwen
+- Van agrarische/feodale naar kapitalistische/industriële samenleving
+- Urbanisatie, democratisering, individualisering, secularisering
+
+#### 2.5.2 Condities van modernisering
+1. **Structureel**: schaalvergroting, urbanisatie, economische subsystemen
+2. **Cultureel**: Verlichting, rationaliteit
+3. **Mentaal**: individualisering, gevoelsexpressie
+4. **Technisch/natuurlijk**: wetenschap, technologie, bevolkingsgroei
+
+#### 2.5.3 Dimensies van modernisering
+- **Structurele differentiatie**: bv. ziekenhuis vs. gasthuis
+- **Rationalisering**: alles wordt planbaar, voorspelbaar
+- **Individualisering**: keuzemogelijkheden stijgen, maar ook keuzestress
+- **Domesticering**: beheersen van natuur → afhankelijkheid van techniek
+
+#### 2.5.4 Postmoderne samenleving?
+- Minder vertrouwen in vooruitgang en wetenschap
+- Meer aandacht voor identiteit, symboliek en immateriële waarden
+- Cultureel pluralisme, fragmentatie, individualisme
+- Breuk met ‘grote verhalen’ (waarheid is sociaal geconstrueerd)

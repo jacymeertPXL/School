@@ -488,3 +488,289 @@ Teams bieden voordelen zoals meer kennis en nieuwe ideeën, maar kunnen minder e
     - _Substituerende factoren_: bv. zelfsturende teams.
     - _Neutraliserende factoren_: bv. sterke structuren.
 - We creëren mentale _prototypes_ van een 'goede leider', maar die zijn contextafhankelijk.
+
+# Module 7: Welzijn op het werk
+#### 1. Inleiding
+- **Stress ≠ burn-out**: Burn-out komt vaak onverwacht, heeft een persoonlijk karakter en manifesteert zich lichamelijk én psychisch.
+- Burn-out wordt vaak **verengd tot een werkprobleem**, maar het is een **gevolg van breinoverbelasting** dat vooral in werksituaties zichtbaar wordt.
+
+#### 2. Stress
+- **Definitie**: Stress is een reactie op een externe prikkel waarbij het lichaam zich voorbereidt op actie.
+- **Soorten stress**:
+    - _Positieve stress (eustress)_: Kortdurend, motiverend.
+    - _Negatieve stress (distress)_: Langdurig, schadelijk.
+- **Gezonde vs. ongezonde stress**:
+    - Gezonde stress = herstel is mogelijk
+    - Ongezonde stress = herstel blijft uit
+- Iedereen ervaart stress **anders** (persoonlijke interpretatie is cruciaal).
+
+#### 3. Burn-out
+- **Herkomst**:
+    - Term geïntroduceerd door **Herbert Freudenberger** (1970s)
+    - Verder uitgewerkt door **Christina Maslach**: werkgerelateerd, langdurige stress, 3 dimensies:
+        - Emotionele uitputting
+        - Depersonalisatie
+        - Verminderde persoonlijke bekwaamheid
+
+- **DSM-5**: Burn-out valt onder _aanpassingsstoornis_, zonder expliciete vermelding van werkcontext.
+- In België: vaak geassocieerd met werkomgeving, maar het is **meer dan werk**.
+
+#### 4. Ontstaan van een Burn-out
+- **Mechanisme**:
+    - Chronische stress zonder herstel → disbalans tussen inspanning en ontspanning
+    - Vele fasen: van vermoeidheid en prikkelbaarheid tot uitputting en totale uitschakeling
+
+- **Herkenbare signalen**
+    - Slechter slapen, geen energie voor leuke dingen, cognitieve problemen, zichzelf niet meer herkennen
+    - Omslagpunt is vaak onverwacht
+
+#### 5. Oorzaken van een Burn-out
+- **Situationele factoren**:
+    - Organisatiecultuur, jobeisen, onvoldoende middelen, veranderende maatschappij (Schaufeli)
+    - Cultuurverschillen (Stijn Baert)
+    - Cruciale rol van leidinggevenden!
+- **Individuele factoren**:
+    - Demografie (leeftijd, geslacht)
+    - Persoonlijkheid (bv. perfectionisme)
+    - Werkattitudes (engagement, copingstijl)
+
+#### 6. Impact van Burn-out
+- **Persoonlijk**:
+    - Lang herstel, sociale isolatie, schaamte, verlies van werk, relatieproblemen
+- **Maatschappelijk**:
+    - Stijgende cijfers langdurige uitval
+    - Grote economische kost
+    - Rol van vergrijzing
+    - Vrouwen en zelfstandigen extra kwetsbaar
+
+---
+
+### 1️⃣ Inleiding – Wat is de Welzijnswet?
+- **Doel**: Bescherming en bevordering van het welzijn op het werk (zowel _reactief_ als _preventief_)
+- **Ingevoerd op**: 4 augustus 1996
+- **Basiswet** voor veiligheid en gezondheid op het werk
+- **Codex over het welzijn op het werk**:
+    - Structuur: 10 boeken met uitvoeringsbesluiten
+
+---
+
+### 2️⃣ **Wat is welzijn op het werk?**
+
+> **Definitie**: Alle factoren i.v.m. arbeidsvoorwaarden die het werk beïnvloeden, zoals:
+- Veiligheid
+- Gezondheid
+- Psychosociale aspecten
+- Ergonomie
+- Arbeidshygiëne
+- Verfraaiing werkplaatsen
+- Intern leefmilieu
+
+---
+
+### 3️⃣ **De 7 welzijnsdomeinen op het werk**
+1. **Veiligheid op het werk**  
+    Voorkomen van arbeidsongevallen  
+    _Voorbeeld_: Brandinstallaties, veiligheidsbril, heftechnieken
+2. **Bescherming gezondheid werknemer**  
+    Fysieke én mentale gezondheid  
+    _Voorbeeld_: Helm op bouwwerf, akoestiek in kantoren, asbestcontrole op school
+3. **Psychosociale aspecten**  
+    Omgaan met stress, conflicten, burn-out, pesten  
+    _Voorbeeld_: Preventie van alcoholmisbruik op de werkvloer
+4. **Ergonomie**  
+    Werk aangepast aan het lichaam  
+    _Voorbeeld_: Verstelbare bureaustoelen en tafels
+5. **Arbeidshygiëne**  
+    Propere en gezonde werkomgeving  
+    _Voorbeeld_: Regelmatige poetsbeurten sanitair, luchtkwaliteit
+6. **Verfraaiing werkplaatsen**  
+    Aangename, ordelijke werkomgeving  
+    _Voorbeeld_: Planten, kunstwerken, goed licht
+7. **Intern leefmilieu**  
+    Duurzaam, ecologisch en gezond binnenklimaat  
+    _Voorbeeld_: Afvalsortering, geluidsdemping, klimaatregeling
+
+---
+
+### 4️⃣ **Van wet naar welzijnsbeleid: voorwaarden implementatie**
+1. **Engagement management** – Welzijn als prioriteit
+2. **Risicoanalyse uitvoeren (DRBS)** – Dynamisch risicobeheer
+3. **Oprichting IDPBW of aansluiting EDPBW** – Interne/externe dienst preventie
+4. **Aanstelling preventieadviseur** – Advies en ondersteuning
+5. **Participatie werknemers** – Via CPBW (bij grotere bedrijven)
+6. **Opleiding en informatie** – Veiligheidsinstructies en risico-inzicht
+7. **Aandacht voor alle 7 domeinen**
+8. **Continue opvolging en evaluatie** – Jaarlijkse actieplannen, bijsturing
+
+---
+
+#### 👥 1. Grensoverschrijdend gedrag (GOG)
+
+#### 📌 _Definitie:_
+Gedrag dat de fysieke of psychische integriteit, waardigheid of veiligheid op het werk aantast.
+
+#### ⚠️ _Gevolgen:_
+- Stress, burn-out, gezondheidsklachten
+- Ziekteverzuim of presenteïsme
+- Zelfmoord, posttraumatische stress
+- Hoog personeelsverloop
+    
+
+#### 🧭 _Soorten GOG:_
+
+##### ✅ _Extern GOG_
+- Agressieve klanten
+- Criminele handelingen (overvallen)
+- Onaangenaam gedrag van publiek (vb. supporters)
+
+##### ✅ _Intern GOG_
+- Pesten, seksueel grensoverschrijdend gedrag tussen collega’s of van leidinggevenden
+
+---
+
+#### 🔹 1) Pesten op het werk
+- Systematisch gedrag dat waardigheid/job bedreigt
+- Niet éénmalig: herhaling nodig om als pesten te gelden
+- **Voorbeelden**: Beledigingen, negeren, dreigende houding
+- ➤ _Aanpak via anti-pestbeleid_: preventie én curatief, organisatiebreed, inclusief getuigen
+
+#### 🔹 2) Geweld op het werk
+- Fysiek of verbaal (vb. slagen, bedreigingen, beledigingen)
+
+#### 🔹 3) Seksueel grensoverschrijdend gedrag
+- Ongewenst gedrag met seksuele connotatie
+- Zowel fysiek als verbaal (vb. opmerkingen, aanrakingen, pornografisch materiaal)
+- ➤ _Doel of gevolg_: Vijandige of onveilige werksfeer
+
+---
+
+### 🧾 2. Absenteïsme en Verzuim
+
+#### 📌 _Definitie & verschil:_
+- **Verzuim** = algemene afwezigheid (geoorloofd of ongeoorloofd)
+- **Absenteïsme** = eerder negatief, ongeoorloofd of onecht verzuim
+
+---
+
+#### 🧠 _Soorten verzuim:_
+
+|Soort|Uitleg|
+|---|---|
+|**Wit**|Medisch aantoonbare ziekte|
+|**Grijs**|Subjectieve klachten; moeilijk te beoordelen|
+|**Zwart**|Bewust en onterecht afwezig|
+|**Roze**|Ziek, maar toch gaan werken (presenteïsme)|
+
+# Module 8: Organisatiestructuur en Organisatiecultuur
+
+### Deel 1: Organisatiestructuur
+(_Enkel slides kennen_)
+
+#### 1. Inleiding
+- Organisaties zijn transformatieprocessen: input → verwerking → output.
+- Werk moet georganiseerd worden om de missie te realiseren.
+- **Wendbare organisatiestructuur**: horizontaal denken, sneller reageren op veranderingen.
+- **Invloeden op structuur**:
+    - Klant heeft meer macht (keuze + kennis)
+    - Verstedelijking, informatietechnologie, overvloed
+    - Evolutie naar dienstennetwerken
+
+---
+
+#### 2. Bottleneck en bureaucratie als risicofactoren
+- **Bottleneckprobleem**: knelpunten in processen beperken efficiëntie.
+- **Bureaucratie** = arbeidsdeling & specialisatie → efficiëntie, maar ook:
+    - Overzichtsverlies
+    - Minder betrokkenheid
+    - Stress en verzuim
+    - Oplossingen: _taakverbreding_ en _taakverrijking_
+
+---
+
+#### 3. Denken op mensen-schaal
+- **Human Capital** = kennis, vaardigheden en ervaring van werknemers.
+- Focus op het benutten van menselijke talenten binnen de structuur.
+
+---
+
+#### 4. Gangbare organisatiestructuren
+**a. Netwerkstructuur**
+- Virtueel, klein kernteam, veel outsourcing
+- Voordelen: flexibel, kostenefficiënt
+- Nadelen: rolonduidelijkheid, afhankelijk van externen
+
+**b. Holocratie**
+- Geen hiërarchie, maar zelfsturende ‘cirkels’
+- Transparant, wendbaar
+- Nadelen: intensieve communicatie nodig, niet geschikt voor multinationals
+
+**c. Innovatieve Arbeidsorganisatie (IAO)**
+- Zelfsturing, procesgericht werken
+- Focus op werkkwaliteit én prestaties
+
+---
+
+#### 5. Impact van structuur op werknemer
+- Werknemers willen **inspraak en autonomie**
+- **Sterke specialisatie** → risico op eentonigheid en verveling
+- Balans nodig tussen structuur en menselijke maat
+
+---
+
+### Deel 2: Organisatiecultuur
+
+#### 1. Functie van organisatiecultuur
+- Geeft richting aan gedrag via gedeelde waarden
+- Zorgt voor: betrokkenheid, cohesie, minder verloop, meer tevredenheid
+- Kan verandering belemmeren of diversiteit afremmen
+- Kan fusies moeilijker maken (culturele compatibiliteit)
+
+---
+
+#### 2. Wat is organisatiecultuur?
+- **Hunsaker**: wat een organisatie uniek maakt
+- **Hofstede**: collectieve mentale programmering
+- **Robbins & Coulter**: gedeelde overtuigingen die gedrag sturen
+- Cultuur is beschrijvend, impliciet, persistent en collectief
+
+---
+
+#### 3. Soorten organisatieculturen
+- **Cameron & Quinn (OCAI-model)**: _Competing Values Framework_
+- Nieuwe trends:
+    - **Agile cultuur**: snel schakelen, psychologische veiligheid
+    - **Hybride werken**: fysieke afstand vraagt nieuw vertrouwen
+    - **Inclusieve culturen**: DEI wordt meetbaar
+    - **AI-ondersteunde cultuurdiagnostiek**
+
+---
+
+#### 4. Ontstaan, instandhouding en overdracht
+- **Ontstaan**: oprichter, ideeën, gelijkgezinden, voorbeeldgedrag
+- **Instandhouding**: selectie, socialisatie, modelling
+- **Overdracht**: via symbolen, rituelen, verhalen, taal
+
+---
+
+#### 5. Een organisatiecultuur veranderen
+- Kan, maar afhankelijk van:
+    - Grootte van de crisis
+    - Sterkte van de bestaande cultuur
+    - Leeftijd van de organisatie
+    - Aanwezigheid van nieuwe leiders
+- Vereist: visie, plan, draagvlak, opleiding, ondersteuning
+
+---
+
+#### 6. Organisatiecultuur en nationale cultuur
+- **Nationale cultuur** = gedeelde waarden/normen binnen een land
+- **Hall (1976)**:
+    - **Low context**: direct, zakelijk (bijv. Nederland)
+    - **High context**: indirect, relationeel (bijv. Japan)
+- **Hofstede (6 dimensies)**:
+    1. Machtsafstand
+    2. Onzekerheidsvermijding
+    3. Individualisme vs. collectivisme
+    4. Mannelijkheid vs. vrouwelijkheid
+    5. Korte- vs. langetermijngerichtheid
+    6. Toegeeflijkheid vs. terughoudendheid

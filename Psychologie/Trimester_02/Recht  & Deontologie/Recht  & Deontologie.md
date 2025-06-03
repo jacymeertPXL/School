@@ -1,8 +1,5 @@
 
 # Module Recht:
-![[Pasted image 20250207145850.png]]
-![[Pasted image 20250207145859.png]]
-
 ## Module 1: Wat is Recht?
 
 ### Overzicht  
@@ -213,14 +210,179 @@ Als een jongere een jeugddelict pleegt, kan de jeugdrechter verschillende **maat
 - Het nieuwe seksueel strafrecht plaatst **toestemming centraal** en biedt meer bescherming aan slachtoffers.
 - **Strengere straffen en duidelijke wetgeving** moeten seksueel misbruik beter aanpakken.
 
-# Module Deontologie:
-## Samenvatting Hoorcollege 1: Recht en Deontologie  
+## Module 4:  De Bijzonder bescherming van de persoon
+### 1. Historische context
+- **Tot 1850**: Geesteszieke werd als delinquent behandeld.
+- **1850**: _Krankzinnigenwet_: doel was isolatie – beschermen van de maatschappij.
+- **1990**: _Wet ter bescherming van de persoon van de geesteszieke_ – eerste wet met aandacht voor vrijwillige en gedwongen opname.
+- **2025**: Nieuwe wet van 16 mei 2024 in werking (actualisatie).
 
+---
+
+### 2. Wettelijk kader bij gedwongen opname
+- Artikel 5 EVRM: beperking bewegingsvrijheid enkel onder strikte voorwaarden.
+- **3 cumulatieve toepassingsvoorwaarden:**
+    1. **Psychiatrische aandoening**: ernstig verstorend (NIET: afwijkende waarden/opvattingen).
+    2. **Ernstig gevaar**: voor zichzelf of anderen.
+    3. **Geen andere behandelmogelijkheid**.
+
+---
+
+### 3. Procedurele waarborgen
+- **Rechterlijke tussenkomst vereist**.
+- Bevoegde rechtbank:
+    - **Vrederechter** (meerderjarigen).
+    - **Jeugdrechter** (minderjarigen).
+
+#### A. Gewone procedure
+- Verzoekschrift + medisch attest (<15 dagen oud).
+- Rechter hoort de patiënt en benoemt ambtshalve een advocaat.
+- Uitspraak binnen 10 dagen.
+- Beroep mogelijk binnen 15 dagen.
+
+#### B. Spoedprocedure
+- In acute gevallen via procureur + artsadvies.
+- Binnen 24u wordt gewone procedure opgestart.
+- Beroepsgeheim mag tijdelijk doorbroken worden.
+
+---
+
+### 4. Fasen bij gedwongen opname
+1. **Observatie** (max. 40 dagen) – kan vervroegd beëindigd worden.
+2. **Verder verblijf** – maximaal 2 jaar, verlengbaar per 2 jaar na rechterlijke herziening.
+3. **Einde van de opname**:
+    - Door afloop termijn.
+    - Door beslissing arts of rechter.
+    - Mogelijkheid tot nazorg (max. 1 jaar).
+
+---
+
+### 5. Rechten van de persoon met psychiatrische aandoening
+- Behoud van fundamentele rechten (bv. briefwisseling, gezondheid, patiëntenrechten).
+- Vrijheidsbeperking is de enige uitzondering.
+- **Rechtsbekwaamheid blijft behouden**.
+- Voor handelingsbekwaamheid: aparte **bewindprocedure** vereist.
+
+---
+
+### 👤 Bewindvoering (Wet van 17 maart 2013)
+### A. **Handelingsbekwaamheid versus wilsbekwaamheid**
+- **Handelingsbekwaamheid**: juridisch zelfstandig rechtshandelingen kunnen stellen.
+- **Wilsbekwaamheid**: medisch oordeel over kunnen nemen van beslissingen.
+- ≠ Persoon kan wilsbekwaam zijn zonder handelingsbekwaam te zijn, en omgekeerd.
+
+---
+
+### B. Bewind op maat (gradaties HOB)
+- **Algemene vs gedeeltelijke HOB**.
+- **Volledig vs beperkt**:
+    - **Bijstand**: zelf optreden, maar met hulp.
+    - **Vertegenwoordiging**: volledig optreden via bewindvoerder.
+    - **Toestemming of verzet**: rechter kan beperkingen gradueel vastleggen.
+
+---
+
+### C. Taken van de bewindvoerder
+- Voor goederen en/of persoon.
+- Sommige rechtshandelingen vereisen rechterlijke machtiging (bv. verkoop woning).
+- Er is **controle door vrederechter**.
+- **Vertrouwenspersoon** mogelijk als brug tussen cliënt en bewindvoerder.
+
+---
+
+### D. Procedure bewind
+- **Eenzijdig verzoekschrift** met medisch verslag.
+- **Zitting in raadkamer** (of op verplaatsing).
+- **Publicatie** in het Belgisch Staatsblad en registers (niet op ID-kaart).
+
+---
+
+### E. Einde van de bewindvoering
+- Door overlijden (met tijdelijke voortzetting).
+- Opheffing op verzoek van betrokkene, bewindvoerder, familie of rechter.
+
+## Module 5:  Ouderlijk Gezag
+### 🔹 1. Wat is ouderlijk gezag?
+- **Doelgebonden gezag**: ouders mogen gezag uitoefenen om hun kind op te voeden tot volwassenheid.
+- Bestaat uit **twee componenten**:
+    - **Gezag over de persoon**: opvoeding, verblijf, zorg, fundamentele keuzes (godsdienst, school, medische beslissingen).
+    - **Gezag over de goederen**: beheer en vertegenwoordiging (bv. huur, inkomsten innen).
+
+---
+
+### 🔹 2. Wie staat onder ouderlijk gezag?
+- **Minderjarigen (jonger dan 18 jaar)**.
+- Zijn **rechtsbekwaam** maar **handelingsonbekwaam** → ouders oefenen gezag uit.
+- **Als geen ouders beschikbaar zijn**: _voogdijgezag_ onder toezicht van vrederechter.
+
+---
+
+### 🔹 3. Wie heeft het ouderlijk gezag?
+- **Titularis = juridische ouder(s)** met afstammingsband (moeder + tweede ouder via vaderschapsregel, meemoederschap, erkenning of adoptie).
+- Niet: biologische ouder zonder juridische afstamming, stiefouder, grootouder…
+- **Ontzetting** van ouderlijk gezag kan bij strafrechtelijke feiten of gevaar voor het kind.
+
+---
+
+### 🔹 4. Hoe wordt het ouderlijk gezag uitgeoefend?
+
+#### A. **Gezamenlijke uitoefening (gezagsco-ouderschap)** = algemene regel
+- Ouders overleggen en nemen samen beslissingen.
+- Geldt ook na scheiding, ongeacht de verblijfsregeling van het kind.
+
+#### B. **Exclusieve uitoefening** = uitzondering
+- Één ouder oefent het gezag uit.
+- Andere ouder:
+    - Blijft titularis
+    - Behoudt **recht op informatie**, **recht op toezicht** en **omgangsrecht**.
+
+#### C. **Verblijfsregeling ≠ gezagsregeling**
+- Alternerend (gelijk) of hoofd/secundair (ongelijk).
+- Enkel bij zeer ernstige conflicten: exclusief gezag aan één ouder.
+
+---
+
+### ⚖️ **Conflictueus ouderschap – Deel 2**
+
+### 🔹 1. Vechtscheidingen
+- Conflict tussen ouders verstoort ouderschap.
+- Vaak over gezag, verblijf, omgang → kan leiden tot **oudervervreemding** of **ouderverstoting**.
+
+---
+
+### 🔹 2. Verontrustende situatie (VOS)
+- Bedreiging voor **ontwikkeling of integriteit** van het kind.
+- Geen akkoord tot hulp = **maatschappelijke noodzaak (MaNo)** → tussenkomst overheid via **gemandateerde voorziening** (OCJ of VK).
+
+---
+
+### 🔹 3. Integrale Jeugdhulp (IJH)
+- **Sectoroverschrijdend hulpverleningssysteem** in Vlaanderen.
+- Werkt volgens vier principes:
+    1. **Integraal** (samenwerking tussen sectoren zoals CAW, CLB, CGG…)
+    2. **Modulering** (hulppakketten op maat)
+    3. **RTJ & NRTJ** (rechtstreeks of niet-rechtstreeks toegankelijke hulp)
+    4. **Trajectbegeleiding** (één aanspreekpunt, opvolging)
+
+---
+
+### 🔹 4. Jeugdrechtbank bij VOS
+- **Als vrijwillige hulp faalt** → OCJ/VK meldt door naar Parket → Jeugdrechter beslist.
+- Maatregelen: onder toezicht stellen, begeleiding, verblijf, therapie, opvoedingsprojecten…
+
+---
+
+### 🧠 **Casus Stef – Toepassing**
+- **Gezagsco-ouderschap** is van kracht.
+- **Vader niet akkoord met therapie** = fundamentele beslissing → vereist instemming van beide ouders.
+- **Kinderpsycholoog mag niet zomaar doorgaan** zonder akkoord → _tenzij acute nood of VOS_ → dan via jeugdhulp of rechterlijke tussenkomst.
+
+# Module Deontologie:
 ### 1. Wat is deontologie?  
 - **Definitie**: de plichtenleer van een beroep.  
 - **Ethiek vs. Deontologie**:  
   - Ethiek = nadenken over goed en fout handelen.  
-  - Deontologie = beroepsspecifieke ethische richtlijnen.  
+  - Deontologie = beroep specifieke ethische richtlijnen.  
 - **Normen vs. Waarden**:  
   - Waarden = abstract en tijdloos (bijv. respect, rechtvaardigheid).  
   - Normen = concrete gedragsregels afgeleid uit waarden.  
@@ -229,83 +391,7 @@ Als een jongere een jeugddelict pleegt, kan de jeugdrechter verschillende **maat
 - Betrokken waarden: vertrouwen, privacy, veiligheid, inclusiviteit, autonomie, empathie, deskundigheid.  
 - Deontologie helpt bij ethische dilemma’s, waarbij waarden kunnen botsen.  
 
-### 3. Deontologische Code (Artikels 1-13)  
-- **Hoofdstuk 1: Algemene bepalingen**  
-  - Art. 1: Doel van de code (bescherming zorggebruikers).  
-  - Art. 2: Onderschrijving door psychologisch consulenten.  
-  - Art. 3: Bekendmaking van de code aan cliënten.  
-  - Art. 4-5: Omgaan met tegenstrijdigheden en afwijken van de code.  
-
-- **Hoofdstuk 2: Begripsbepaling**  
-  - Termen zoals beroepsmatig handelen, zorggebruiker, gemachtigde derde.  
-
-- **Hoofdstuk 3: Professionele houding**  
-  - Art. 6-7: Vakbekwaamheid en verantwoordelijk beroepsmatig handelen.  
-  - Art. 8-9: Kwaliteitszorg en eerlijkheid.  
-  - Art. 10: Verplichte beroepsaansprakelijkheidsverzekering.  
-  - Art. 11: Voorkomen van schade en misbruik.  
-  - Art. 12-13: Financiële vergoeding en bekendmaking van diensten.  
-
-### 4. Wet Uitoefening Gezondheidszorgberoepen (WUG)  
-- Wetgeving rond bevoegdheden en beperkingen van psychologisch consulenten.  
-- Impact op de professionele praktijk en samenwerking met andere zorgberoepen.  
-
-### 5. Omgaan met ethische dilemma’s  
-- Reflectie, overleg, supervisie en intervisie zijn essentieel.  
-- Deontologische code als leidraad bij lastige keuzes.  
-
-
-## Samenvatting Hoorcollege 2: Deontologie en de Wet betreffende de Rechten van de Patiënt
-
-#### **1) Deontologische Code – Hoofdstuk 4: Relatie met de zorggebruiker en zijn systeem**
-
-- **Artikel 14: Inclusiviteit**  
-    Zorgverleners mogen niet discrimineren op basis van geloof, geslacht, cultuur, taal, financiële situatie, enz.
-    
-- **Artikel 15: Continuïteit**  
-    De zorgverlener is verantwoordelijk voor de continuïteit van de professionele relatie. Bij onderbreking zorgt hij voor een passend alternatief.
-    
-- **Artikel 16: Rolintegriteit**  
-    Enkel een professionele relatie is toegestaan; geen ongepaste of seksuele relaties, zelfs niet na beëindiging van de hulpverlening.
-    
-- **Artikel 17: Respect**  
-    Respect voor de privésfeer, autonomie en keuzes van de cliënt. Geheimhouding is essentieel, tenzij er gevaar dreigt.
-    
-- **Artikel 18: Keuzevrijheid**  
-    De cliënt kiest vrijwillig voor begeleiding en kan deze stopzetten, tenzij opgelegd door een gerechtelijke instantie.
-    
-- **Artikel 19: Vertegenwoordiging van (wilson)bekwame minder- en meerderjarigen**
-    
-    - Wilsbekwame minderjarigen (vanaf 12 jaar of voldoende maturiteit) mogen zelfstandig beslissen over hun begeleiding.
-    - Wilsonbekwame cliënten worden vertegenwoordigd door ouders of wettelijke vertegenwoordigers, maar moeten zoveel mogelijk betrokken worden.
-    - Bij conflicten of afwijkingen van ouderlijk gezag volgt de zorgverlener overleg en juridisch advies.
-- **Artikel 20: Vertrouwelijkheid en discretieplicht**  
-    De zorgverlener heeft altijd discretieplicht en deelt enkel noodzakelijke informatie.
-    
-- **Artikel 21: Beroepsgeheim**  
-    Het beroepsgeheim blijft altijd van kracht, ook na beëindiging van de zorgrelatie of overlijden van de cliënt. Uitzonderingen:
-    
-    - **Noodtoestand** (bij ernstig gevaar)
-    - **Getuigenis onder ede** (geen verplichting om te spreken, behalve in rechtbank)
-    - **Wettelijk meldrecht (artikel 458bis)** bij misbruik van kwetsbare personen
-    - **Toestemming van de cliënt**
-- **Artikel 22: Vertrouwelijkheid in groepsbegeleidingen**  
-    Alle groepsleden worden aangemoedigd om discreet om te gaan met gedeelde informatie.
-    
-- **Artikel 23: Dossierbeheer**
-    
-    - Zorgverleners moeten een correct en veilig bewaard dossier bijhouden.
-    - Cliënten hebben recht op inzage, maar bepaalde informatie kan achtergehouden worden als dit hen ernstige schade kan toebrengen.
-    - Dossiers worden maximaal 5 jaar bewaard.
-- **Artikel 24: Rapportage**
-    
-    - Rapporten bevatten alleen informatie over cliënten die de zorgverlener zelf heeft onderzocht.
-    - Bij minderjarigen en wilsonbekwamen is toestemming van ouders/wettelijke vertegenwoordigers vereist.
-    - Psychodiagnostische methoden en indrukken worden duidelijk gescheiden gerapporteerd.
-
----
-
-#### **2) Wet betreffende de Rechten van de Patiënt (2024-update)**
+#### 3) Wet betreffende de Rechten van de Patiënt (2024-update)
 
 - Op 23 februari 2024 werd de vernieuwde wet gepubliceerd en trad op 4 maart 2024 in werking.
 - De wet versterkt de rechten van patiënten en psychologisch consulenten moeten zich eraan houden.
