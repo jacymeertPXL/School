@@ -4,103 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "977569cb8b7c47a9",
+        "id": "c24739f4b099dcad",
         "type": "tabs",
         "children": [
           {
-            "id": "8ea981983b85fd5f",
+            "id": "c0a3fdfa253a634a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
+                "file": "Psychologie/Trimester_01/Nieuwe/Levenslooppsychologie/Levensloop Psychologie.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Organistatiepsychologie"
+              "title": "Levensloop Psychologie"
             }
           },
           {
-            "id": "ae795cdf81fe209c",
+            "id": "5998cc5a65784d88",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie/Trimester_02/Sociologie/Sociologie.md",
+                "file": "Psychologie/Trimester_01/Nieuwe/Statistiek/Statistiek.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sociologie"
+              "title": "Statistiek"
             }
           },
           {
-            "id": "3ca65d171d6e013e",
+            "id": "ad01691fc82503f5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
+                "file": "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek/psychodiagnostiek.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Sociale psychologie"
-            }
-          },
-          {
-            "id": "8b74ce71314df33b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Psychologie/Trimester_02/Biopsychologie/Biopsychologie - biopsychologie.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "Biopsychologie - biopsychologie"
-            }
-          },
-          {
-            "id": "d8f938cfa77e424c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Recht  & Deontologie"
-            }
-          },
-          {
-            "id": "b6ec33b8991ee479",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Psychologie/Trimester_02/Recht  & Deontologie/beroepscode_voor_psychologisch_consulenten.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "beroepscode_voor_psychologisch_consulenten"
+              "title": "psychodiagnostiek"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,53 +196,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8f938cfa77e424c",
+  "active": "ad01691fc82503f5",
   "lastOpenFiles": [
+    "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek/Img/Pasted image 20250923102343.png",
+    "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek/Img",
+    "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek/Img/Pasted image 20250923101015.png",
+    "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek/Img/Pasted image 20250923101006.png",
+    "Psychologie/Trimester_01/Nieuwe/Statistiek/Statistiek.md",
+    "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek/psychodiagnostiek.md",
+    "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek Onderzoek",
+    "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek",
+    "Psychologie/Trimester_01/Nieuwe/Levenslooppsychologie/Levensloop Psychologie.md",
+    "Psychologie/Trimester_01/Nieuwe/Statistiek/img",
+    "Psychologie/Trimester_01/Nieuwe/Statistiek/img/Pasted image 20250923094249.png",
+    "Psychologie/Trimester_01/Nieuwe/Statistiek/img/Pasted image 20250923094257.png",
+    "Psychologie/Trimester_01/Nieuwe/Statistiek",
+    "Psychologie/Trimester_01/Oud/Levensloop Psychologie/Levensloop Psychologie.md",
+    "Psychologie/Trimester_01/Oud/Levensloop Psychologie/Img/Pasted image 20241001094909.png",
+    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
+    "Psychologie/Trimester_01/Nieuwe/Levenslooppsychologie",
+    "Psychologie/Trimester_01/Nieuwe",
+    "Psychologie/Trimester_01/Oud",
     "Psychologie/Trimester_02/Organistatiepsychologie/Organistatiepsychologie.md",
     "Psychologie/Trimester_02/Sociologie/Sociologie.md",
     "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
-    "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
     "Psychologie/Trimester_02/Biopsychologie/Biopsychologie - biopsychologie.pdf",
     "Psychologie/Trimester_02/Recht  & Deontologie/beroepscode_voor_psychologisch_consulenten.pdf",
-    "Psychologie/Trimester_01/Algemene Psychologie/Algemene psychologie.md",
+    "Psychologie/Trimester_01/Oud/Algemene Psychologie/Algemene psychologie.md",
     "Psychologie/Trimester_02/Sociologie/Img/Pasted image 20250225133324.png",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Levensloop Psychologie.md",
     "Psychologie/Trimester_02/Biopsychologie/Biopsychologie.md",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img/Pasted image 20250207145859.png",
     "Psychologie/Trimester_02/Recht  & Deontologie/Img/Pasted image 20250207145850.png",
-    "Psychologie/Trimester_02/Recht  & Deontologie/Img",
-    "Psychologie/Trimester_02/Organistatiepsychologie/Img",
     "Psychologie/Trimester_02/Organistatiepsychologie/Untitled.canvas",
-    "Psychologie/Trimester_02/Biopsychologie/Img",
-    "Psychologie/Trimester_02/Sociale psychologie/Img",
     "Psychologie/Trimester_02/Sociologie/Img/Pasted image 20250207141157.png",
-    "Psychologie/Trimester_02/Sociologie/Img",
     "Psychologie/Trimester_02/Sociologie/Img.md",
-    "Psychologie/Trimester_02/Sociologie",
-    "Psychologie/Trimester_02/Sociale psychologie",
-    "Psychologie/Trimester_02/Recht  & Deontologie",
     "Psychologie/Untitled.md",
     "Computer_Science/Jaar_02/Trimester_01/Project_Management/Examen Vragen Projectmanagement.md",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 05.md",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 04.md",
-    "Psychologie/Trimester_01/Algemene Psychologie/Toetsen/Toets 05.md",
+    "Psychologie/Trimester_01/Oud/Levensloop Psychologie/Toetsen/Toets 05.md",
+    "Psychologie/Trimester_01/Oud/Levensloop Psychologie/Toetsen/Toets 04.md",
+    "Psychologie/Trimester_01/Oud/Algemene Psychologie/Toetsen/Toets 05.md",
     "Duchess Sarah von Everhart, Celestia Moonshadow the first.md",
     "Patient 07 - Villiam Von Auceptin, Van Der Straaten The Second.md",
-    "Psychologie/Trimester_01/Algemene Psychologie/Toetsen/Toets 04.md",
-    "Psychologie/Trimester_01/Algemene Psychologie/Toetsen/Toets 03.md",
-    "Psychologie/Trimester_01/Algemene Psychologie/Toetsen/Toets 01.md",
-    "Psychologie/Trimester_01/Algemene Psychologie/Toetsen/Toets 02.md",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 03.md",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 02.md",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Toetsen/Toets 01.md",
-    "Psychologie/Trimester_01/Algemene Psychologie/Modules/Module 02.md",
-    "Psychologie/Trimester_01/Algemene Psychologie/Modules/Module 01.md",
-    "Pasted image 20241001134429.png",
-    "Psychologie/Trimester_01/Algemene Psychologie/Img/Pasted image 20241001134503.png",
-    "Psychologie/Trimester_01/Algemene Psychologie/Img/Pasted image 20241001133227.png",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Img/Pasted image 20241001132323.png",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Img/Pasted image 20241001132240.png",
-    "Psychologie/Trimester_01/Levensloop Psychologie/Img/Pasted image 20241001094909.png",
-    "Psychologie/Levensloop Psychologie/Untitled.md"
+    "Psychologie/Trimester_01/Oud/Algemene Psychologie/Toetsen/Toets 04.md",
+    "Psychologie/Trimester_01/Oud/Algemene Psychologie/Toetsen/Toets 03.md",
+    "Psychologie/Trimester_01/Oud/Algemene Psychologie/Toetsen/Toets 01.md",
+    "Psychologie/Trimester_01/Oud/Algemene Psychologie/Toetsen/Toets 02.md",
+    "Psychologie/Trimester_01/Oud/Levensloop Psychologie/Toetsen/Toets 03.md",
+    "Psychologie/Trimester_01/Oud/Levensloop Psychologie/Toetsen/Toets 02.md",
+    "Psychologie/Trimester_01/Oud/Levensloop Psychologie/Toetsen/Toets 01.md",
+    "Pasted image 20241001134429.png"
   ]
 }
