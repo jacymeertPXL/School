@@ -77,3 +77,36 @@
 ![[Pasted image 20250923102343.png]]
 
 ## De geschiedenis van psychodiagnostiek
+### Eind 19 eeuw
+- ontstaan van psychodiagnostiek met bekwaamheid proeven en eerste intelligentietest van <mark style="background: #D2B3FFA6;">Galton</mark> en <mark style="background: #D2B3FFA6;">Binet</mark>.
+
+### Eerste Wereldoorlog
+- Steile opmars door gebruik van tests bij soldaten. Uitbreiding naar persoonlijkheid en psychische stoornissen.
+
+### 1952
+- Publicatie eerste DSM, een gestandaardiseerd classificatiesysteem voor psychische stoornissen.
+
+### Eind 20e eeuw
+- Meer aandacht voor culturele gevoeligheid en kwaliteit van instrumenten.
+
+### Moderne ontwikkelingen
+- Psychometrie
+	- Toegenomen kennis binnen testtheorie zorgde voor meer aandacht voor betrouwbaarheid en validatie.
+- Culturele Sensitiviteit
+	- Instrumenten moeten vrij wijn van vooringenomenheid en culturele geladenheid.
+- Technologische vooruitgang
+	- Opkomst van digitale tests, teledaignogstiek en computenized adative testing.
+
+
+## Toepassingsgebieden
+- Geestelijke gezondheidszorg
+	- Diagnose van behandeling van psychische stoornissen.
+
+- Onderwijs
+	- Identificatie van leer-en ontwikkelingsstoornissen
+
+- Arbeidswereld
+	- Stressmanagments en burn-out preventie.
+
+- Rechtssysteem
+	- Inzicht in psychische functioneren van verdachten.
