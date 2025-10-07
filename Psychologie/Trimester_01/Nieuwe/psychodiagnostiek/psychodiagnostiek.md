@@ -110,3 +110,33 @@
 
 - Rechtssysteem
 	- Inzicht in psychische functioneren van verdachten.
+
+
+# H02 Het psychodiagnostisch procesmodel
+
+## Uitganspunten psychodiagnotisch processmodel
+
+*Scientist-Practioner* 
+- wetenschappelijke basishouding in de praktijk
+*Client Centrall*
+- Het welzijn en de behoeften van de client staan voorop
+*Contructieve samenwerking*
+- Open communicatie en heldere afsraken met cient en betrokken.
+*Systematisch handelen en denken*
+- Het model systematiseert en expliciteert de stappen in denken en handelen, wat de kwaliteit van de psychodiagnostiek bevordert
+*Transactioneel referentiekader*
+- Het functioneren van de client wordt gezien als resultaat van wisselwerking tussen omgevingsfactoren en cleintgebonden factoren
+*Fair en cultuurbewust* 
+- Rekening houden met culturele aspecten, maatschappelijke context en fysieke/mentale mogelijkheden van clienten.
+*intervantiegericht handelen en denken*
+- Diagnose en/of integratief beeld = middel
+*Positieve aspecten benutten*
+- Krachten van client
+- Procetieve factoren
+- versterken en benutten
+
+## Psychodiagnostich handelen en denken
+
+### Handelen
+
+### Denken
