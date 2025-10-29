@@ -1,257 +1,173 @@
-# HC 01 – Terreinverkenning
-
-## Ecologische systementheorie – **Urie Bronfenbrenner**
-
-De menselijke ontwikkeling wordt beïnvloed door verschillende gelaagde omgevingen:
-
-- **Microsysteem**  
-  De directe omgeving van het kind, zoals gezin, school en vrienden.
-
-- **Mesosysteem**  
-  De relaties tussen de verschillende microsystemen (bijv. contact tussen ouder en leerkracht).  
-  Een verandering in het gezin kan gedrag op school beïnvloeden.
-
-- **Exosysteem**  
-  Systemen die het kind indirect beïnvloeden, zoals de werksituatie van ouders, media en gezondheidszorg.
-
-- **Macrosysteem**  
-  De bredere maatschappelijke invloeden, zoals cultuur, politiek, economie en wetgeving.
-
-- **Chronosysteem**  
-  De invloed van tijd: de periode waarin het kind opgroeit en de levensfase waarin het zich bevindt.
-
----
-
-## Nature vs. Nurture
-
-- **Nature (biologisch):**  
-  Genetische en erfelijke factoren (bijv. aanleg voor dyslexie).
-
-- **Nurture (omgeving):**  
-  Invloeden uit de omgeving na de geboorte (zoals opvoeding, cultuur, voeding).
-
-- **Samenwerking van Nature & Nurture:**  
-  Bijvoorbeeld: iemand kan genetisch 178 cm worden, maar door slechte voeding groeit hij slechts 175 cm.  
-
----
-
-## Kernconflicten – **Erik Erikson**
-
-| **Levensfase** | **Belangrijk conflict** | **Centrale vraag** |
-|----------------|--------------------------|--------------------|
-| Babytijd (0–1 jr) | Fundamenteel vertrouwen vs. wantrouwen | Is mijn wereld veilig? |
-| Peuterjaren (1–3 jr) | Autonomie vs. schaamte en twijfel | Kan ik dingen zelf doen? |
-| Kleuterjaren (3–6 jr) | Initiatief vs. schuldgevoel | Ben ik goed of slecht? |
-| Schoolperiode (6–12 jr) | Vlijt en inzet vs. minderwaardigheid | Hoe kan ik goed zijn? |
-| Adolescentie (12–20 jr) | Identiteit vs. rolverwarring | Wie ben ik? |
-| Jongvolwassenheid (20–40 jr) | Intimiteit vs. isolement | Ben ik geliefd en gewenst? |
-| Middenvolwassenheid (40–65 jr) | Generativiteit vs. stagnatie | Draag ik iets waardevols bij? |
-| Ouderdom (65+) | Ego-integriteit vs. wanhoop | Heb ik een goed leven geleid? |
-
----
-
-# HC 02 – Twee fundamentele theorieën
-
-## De psychosociale identiteitstheorie – **Erik Erikson**
-
-Erik Erikson beschrijft acht ontwikkelingsfasen door het leven, waarbij elke fase een psychosociaal conflict kent dat opgelost moet worden om een gezonde *ego-identiteit* te vormen.
-
-**Belangrijkste kenmerken:**
-- Positieve kijk op ontwikkeling  
-- Groeimogelijkheden tot op hoge leeftijd  
-- Minder focus op seksuele ontwikkeling dan Freud  
-- Belang van de sociale omgeving  
-- Normalisering van crisissen  
-- Praktisch bruikbaar in opvoeding en hulpverlening  
-
----
-
-## De cognitieve ontwikkelingstheorie – **Jean Piaget**
-
-Piaget beschrijft hoe kinderen door interacties met hun omgeving actief leren en hun denkvermogen ontwikkelen in vier universele fasen.
-
-### ### De 4 fasen
-
-1. **Sensomotorisch stadium (0–1,5 jr)**  
-   Het kind leert via **zintuigen en motoriek**.  
-   Denken gebeurt door doen en ervaren — er is nog geen onderscheid tussen zichzelf en de buitenwereld.  
-   *Belangrijk concept:* Objectpermanentie.
-
-2. **Pre-operationeel stadium (1,5–7 jr)**  
-   Het kind leert **symbolisch denken** (taal, spel, verbeelding).  
-   Denken is nog **egocentrisch** en niet logisch — het kind ziet de wereld vooral vanuit zijn eigen perspectief.
-
-3. **Concreet-operationeel stadium (7–12 jr)**  
-   Het kind leert **logisch redeneren**, maar alleen over **concrete situaties**.  
-   Het begrijpt regels, oorzaak-gevolg en behoud van hoeveelheid, lengte en massa.
-
-4. **Formeel-operationeel stadium (12+ jr)**  
-   Het kind kan **abstract en hypothetisch denken**.  
-   Het kan redeneren over ideeën, mogelijkheden en toekomstscenario’s.
-
-### Basisprincipes
-- Eerste systematische theorie over cognitieve ontwikkeling  
-- Gebaseerd op experimenteel onderzoek  
-- Toetsbare theorie  
-- Kinderen als actieve ontdekkers  
-- Toepasbaar in onderwijs  
-
-### Invloed van de sociale omgeving
-- **Piaget:** ontdekkend leren  
-- **Vygotsky:** interactief leren via taal  
-
-### Belangrijke begrippen
-- **Assimilatie:** nieuwe informatie inpassen in bestaande kennis.  
-  *Voorbeeld:* een kind leert dat honden dieren zijn, en plaatst later katten ook in de categorie “dieren”.
-- **Accommodatie:** aanpassen van kennis op basis van nieuwe ervaringen.  
-  *Voorbeeld:* een adolescent leest een artikel over politiek en verandert daardoor zijn visie.*
-- **Egosterkte:** het vermogen om stress en tegenslagen te weerstaan en zich te herstellen.
-
----
-
-# HC 03 – De babytijd
-
-## Lichamelijke en motorische ontwikkeling
-
-### Enorme groei in het eerste levensjaar
-- +50% in lengte  
-- Gewicht verdriedubbelt (gemiddeld 75 cm en 10 kg)  
-
-### Gedragstoestanden
-1. Rustige slaap  
-2. Actieve slaap  
-3. Slaperigheid  
-4. Rustig wakker  
-5. Actief wakker  
-6. Huilen  
-
-### Ontwikkelingsrichtingen
-- **Cefalocaudale ontwikkeling:** groei van hoofd naar voeten.  
-- **Proximodistale ontwikkeling:** groei van centrum naar buitenkant van het lichaam.
-
-### Stadia van motorische ontwikkeling (0–12 maanden)
-1. Kijkstadium (0–3 mnd)  
-2. Grijpstadium (3–6 mnd)  
-3. Zitstadium (6–9 mnd)  
-4. Kruipstadium (9–12 mnd)  
-5. Loopstadium (12–15 mnd, overgang naar peutertijd)
-![[Pasted image 20251029170808.png]]
----
-
-## Cognitieve en zintuiglijke ontwikkeling
-
-### Sensomotorische periode – **Jean Piaget**
-De baby leert via zintuigen en beweging:
-
-| **Leeftijd**  | **Kernkenmerk**                | **Beschrijving**                                    |
-| ------------- | ------------------------------ | --------------------------------------------------- |
-| 0–1 maand     | Ongecoördineerde reflexen      | Aangeboren reacties (zuig-, zoekreflex)             |
-| 1–4 maanden   | Primaire circulaire reacties   | Herhaling van eigen gedrag uit interesse            |
-| 4–8 maanden   | Secundaire circulaire reacties | Herhaling van gedrag met effect op omgeving         |
-| 8–12 maanden  | Intentioneel handelen          | Middel-doelgedrag, doelgericht handelen             |
-| 12–18 maanden | Tertiaire circulaire reacties  | Variëren van gedrag om nieuwe effecten te ontdekken |
-| 18–24 maanden | Mentale voorstellingen         | Denken in beelden, herinneringen gebruiken          |
-
----
-
-## Waarneming en cognitie
-
-Bij jonge kinderen ontwikkelen de zintuigen zich geleidelijk en vertonen ze al vroeg bepaalde voorkeuren:
-
-- **Voelen:** voorkeur voor huidcontact (belangrijk voor hechting en geborgenheid).  
-- **Ruiken en proeven:** voorkeur voor zoete geuren en smaken.  
-- **Horen:** voorkeur voor de stem van de moeder.  
-- **Zien:** beperkt zicht, voorkeur voor menselijke gezichten, ontwikkeling van kleur- en dieptezicht.
-![[Pasted image 20251029173430.png]]
-→ Deze fase wordt gekenmerkt door **adualisme** of **zintuiglijk egocentrisme**:  
-Het kind ervaart nog geen onderscheid tussen zichzelf en de buitenwereld (geen subject-objectsplitsing).
-
----
-
-## Specifieke cognitieve ontwikkelingen
-
-### Leren en geheugen
-
-#### **Habituatie**
-Het geleidelijk **afnemen van een reactie op een herhaaldelijke prikkel**.  
-Het kind leert dat een prikkel onbelangrijk is en reageert er minder sterk op.  
-*Voorbeeld:* een baby reageert eerst op een hard geluid, maar na meerdere keren niet meer.
-
----
-
-#### **Klassieke conditionering**
-Een **vorm van leren door associatie** waarbij een neutrale prikkel gekoppeld wordt aan een betekenisvolle prikkel.  
-*Grondlegger:* Ivan Pavlov  
-*Voorbeeld:* een baby glimlacht als hij de fles ziet, omdat hij die koppelt aan voeding en comfort.
-
----
-
-#### **Operante conditionering**
-Een **vorm van leren door consequenties van gedrag**: gedrag dat beloond wordt, komt vaker voor; gedrag dat bestraft wordt, verdwijnt.  
-*Grondlegger:* B.F. Skinner  
-*Voorbeeld:* een baby leert dat huilen aandacht oplevert, en zal dat gedrag herhalen.
-
----
-
-#### **Sociaal leren (nabootsing)**
-Leren door **het observeren en imiteren van anderen**.  
-*Grondlegger:* Albert Bandura  
-*Voorbeeld:* een baby steekt zijn tong uit nadat hij dat bij een volwassene ziet.
-
----
-
-#### **Objectpermanentie**
-Het **begrijpen dat objecten blijven bestaan, ook als ze niet zichtbaar zijn**.  
-Ontwikkelt zich rond 8–12 maanden.  
-*Voorbeeld:* een baby zoekt naar een speeltje dat onder een deken is verstopt.
-
----
-
-#### **A-niet-B-effect**
-Een **fout in het zoeken van een voorwerp** bij jonge baby's:  
-Het kind blijft zoeken op **plaats A**, waar het voorwerp eerder lag, ook al zag het dat het nu **op plaats B** is verstopt.  
-Toont dat objectpermanentie nog niet volledig ontwikkeld is.
-
-
-### Taalontwikkeling
-- **Lichaamstaal en responsieve interactie**  
-- **Prelinguale periode:**  
-  - Huilen  
-  - Vocaliseren  
-  - Vocaal spel  
-  - Brabbelen  
-
----
-
-## Sociale en persoonlijkheidsontwikkeling
-
-### Fasen van hechting
-1. **Voorhechting (0–3 mnd):** eerste aanzet tot hechting (*asociaal wezen*).  
-2. **Beginnende gehechtheid (3–8 mnd):** voorkeur voor bekende personen, angstreacties.  
-3. **Feitelijke gehechtheid (8 mnd – eind peuterfase):** op basis van sensitieve responsiviteit.
-
----
-
-## Hechtingsstijlen – **Mary Ainsworth (vreemde-situatie test)**
-
-De hechtingsstijlen zijn gebaseerd op de observatie van een kind bij scheiding en hereniging met de ouder.
-
-### 1. Veilige gehechtheid
-- Ontstaat door **continuïteit en voorspelbaarheid** in de zorg.  
-- Ouder is **betrouwbaar** en biedt **structuur, regelmaat en affectie**.  
-- Kind voelt zich veilig om te exploreren en zoekt steun bij de ouder.
-
-### 2. Vermijdende gehechtheid
-- Ouder reageert vaak **afstandelijk of weinig emotioneel**.  
-- Kind onderdrukt gevoelens en zoekt weinig nabijheid.  
-- Lijkt zelfstandig, maar ervaart innerlijke stress.
-
-### 3. Ambivalente (afwerende) gehechtheid
-- Ouder reageert **wisselend**: soms warm, soms afstandelijk.  
-- Kind wordt **onzeker**, klampt zich vast of reageert boos.  
-- Moeite met vertrouwen.
-
-### 4. Gedesorganiseerde gehechtheid
-- Ontstaat vaak bij **onvoorspelbare of beangstigende opvoedingssituaties** (zoals verwaarlozing).  
-- Kind vertoont **tegenstrijdig gedrag**: zoekt nabijheid maar is ook bang.  
-- Geen duidelijke strategie om met stress o
+# HC 01 Terreinverkenning
+
+![[Pasted image 20241001094909.png]]
+
+### Ecologische systementheorie
+<mark style="background: #D2B3FFA6;">Urie Bronefenbrenner</mark> Stelt dat de menselijke ontwikkeling wordt beinvloed door verschillende gelaagde omgevingen
+- Micro Systeem
+	- Het systeem dat het dichts staat bij het kind, Het kind heeft hier elke dag me te maken.
+		  Gezin, School etc
+- Meso Systeem
+	- Het mesosysteem is de omgeving die iets verder van het kind af staat. Hierbij gaat het om de gehele familie, de wijk, het dorp, de geloofsgemeenschap en de vriendenkring. In het mesosysteem gaat het ook om de contacten die de personen uit het microsysteem met elkaar hebben. Een voorbeeld hiervan is het contact tussen ouder en leerkracht. Ook gaat het er bij het mesosysteem om hoe de verschillende microsystemen elkaar beïnvloeden. Een kind kan zich bijvoorbeeld anders gaan gedragen op school door een verandering in het gezin.
+- Exo Systeem
+	- Het exosysteem heeft indirect invloed op het kind. Dit gaat om omgevingen of organisaties waar kinderen niet direct mee in contact staan, maar die wel invloed hebben op hun ontwikkeling. Voorbeelden hiervan zijn media, de gezondheidszorg en de werksituatie van ouders.
+- Macro Systeem
+	- Het macrosysteem staat het verst van het kind af. Hierbij gaat het om alle culturele, politieke en economische invloeden op de ontwikkeling van het kind. Denk bijvoorbeeld aan de wet- en regelgeving van een land.
+- Chrono Systeem
+	- Het chronosysteem is de buitenste laag. Dit systeem gaat over de invloed van de tijd waarin het kind opgroeit en de levensfase waarin het kind zit.
+
+### Nature VS Nurture
+#### Nature (Genetics)
+- Biologische factoren en genetische informatie van u ouders
+- Dyslexia
+#### Nurture (Environment)
+- Alle factoren die de persoon heeft na de geboorte
+#### Nature + Nurture
+- bijvoorbeeld als de persoon 178 hoort te kunnen worden door nature, maar de lifestyle dus de nurture laat niet toe dat deze persoon doorheen zijn jaren genoeg eet kan dat de persoon 175cm wordt. Nature en Nurture werken samen in ons leven
+
+###  Kernconflicten
+#### De babytijd (0-12m)
+- Nood aan voeding en comfort
+- Is mijn wereld veilig?
+- <mark style="background: #D2B3FFA6;">Fundamenteel vertrouwen - wantrouwen</mark>
+#### De peuterjaren (12m-3j)
+- Zindelijkheidstraining, leren aankleden
+- Kan ik dingen welf doen of heb ik andere altijd nodig? 
+- <mark style="background: #D2B3FFA6;">Autonomie - Schaamte en twijfel</mark>
+#### kleuterjaren (3-6j)
+- Exploratie en spel
+- Ben ik goed of ben ik slecht?
+- <mark style="background: #D2B3FFA6;">initiatief - schuldgevoel</mark>
+#### De schoolperiode (6-12)
+- School en activiteiten
+- Hoe kan ik goed zijn?
+- <mark style="background: #D2B3FFA6;">Vlijt en inzet - Minderwaardigheid</mark>
+#### Adolescentie (12-20)
+- Sociale relaties en identiteit
+- Wie ben ik en waar ga ik heen?
+- <mark style="background: #D2B3FFA6;">Identiteit - rolverwarring</mark>
+#### Jongvolwassenheid (20-65)
+- Intieme relaties
+- Ben ik geliefd en gewenst?
+- <mark style="background: #D2B3FFA6;"> Intimiteit - Isolement</mark>
+#### Midden Volwassenheid (20-65)
+- Werk en ouderschap
+- Voorzie ik iets van echte waarde?
+- <mark style="background: #D2B3FFA6;">Generativiteit - stagnatie</mark>
+#### Ouderdom (65+)
+- Reflectie over het leven
+- Heb ik een vol leven geleid?
+- <mark style="background: #D2B3FFA6;">Ego-integriteit - wanhoop</mark>
+
+## HC 02 Twee fundamentele theorieën
+
+### De psychosociale identiteitstheorie van <mark style="background: #ABF7F7A6;">Erik Erikson</mark>
+#### Wat is? 
+- Erik Erikson's psychosociale identiteitstheorie beschrijft acht ontwikkelingsfasen door het leven, waarbij elke fase een psychosociaal conflict kent dat opgelost moet worden om een gezonde 'ego-identiteit' te vormen
+
+#### Basisbegrippen van de theorie
+• Positieve kijk op de ontwikkeling  
+• Groeimogelijkheden tot in de hoge  ouderdom  
+• Minder eenzijdig gericht op de  seksuele ontwikkeling  
+• Erkenning van het belang van de  sociale omgeving  
+• Normalisering van crisissen  
+• Bruikbaar in de praktijk
+
+### De cognitieve ontwikkelingstheorie van <mark style="background: #ABF7F7A6;">Jean Piage</mark>
+#### Wat is? 
+De cognitieve ontwikkelingstheorie van Jean Piaget beschrijft hoe kinderen door middel van interacties met hun omgeving actief leren en hun denkvermogen ontwikkelen in vier universele, opeenvolgende fasen: de sensomotorische, pre-operationele, concreet-operationele en formeel-operationele fase.
+
+#### De 4 Fasen
+• 0 – 1,5j: Sensomotorisch stadium  
+• 1,5 – 7j: Pre-operationeel stadium  
+• 7 – 12j: Concreet-operationeel stadium  
+• 12j +: Formeel-operationeel stadium
+
+#### Basisbegrippen van de theorie
+• Eerste overzichtelijke theorie over  de cognitieve ontwikkeling  
+• Gebaseerd op experimenteel  onderzoek  
+• Toetsbare theorie  
+• Visie op kinderen als actieve  wezens  
+• Bruikbaar in het onderwijs
+#### Invloed van de Sociale Omgeving
+Piaget = Ontdekkend Leren
+Vygotsky = interactief leren (via taal)
+
+#### Begrippen 
+Assimilatie
+	**het incorporeren van wat waargenomen wordt in een bestaand handelingsschema**. 
+		Voorbeeld: een kind heeft geleerd dat een hond een dier is, als hij ontdekt dat ook katten dieren zijn, wordt "kat" ondergebracht in het schema "dier". Kat wordt dus geassimileerd in het schema dier.
+
+Accommodatie
+	**het aanpassen van bestaande kennis of vaardigheden in nieuwe situaties**
+		Bijvoorbeeld; een adolescent leest een artikel over politiek, hierdoor verandert zijn of haar kijk op politiek en past diegene zich dus aan.
+
+Egosterkte
+	**een persoonlijkheidskenmerk dat het mogelijk maakt om met tegenslagen om te gaan, externe stressoren en interne nood te beheersen en te herstellen van tegenslagen** .
+
+
+
+# H2 Prenatale ontwikkeling
+### De prenatale ontwikkeling
+- <mark style="background: #FFB8EBA6;">Het germinale of kiemstadium (week 0 - 2)</mark>
+	- Bevruchting 
+		- Versmelting zaad en eicel = zygoot
+		- Morulastadium
+		- Celdelingen
+		- Pre-embryo
+		-  Geen celdifferentiatie
+		![[Pasted image 20241001132240.png]]![[Pasted image 20241001132323.png]]
+
+- <mark style="background: #FFB8EBA6;">Het embryonale stadium (week 3 – 8) -> vrouw besef zwanger</mark>
+	- Ectoderm: o.a. huid en zenuwstelsel
+	- Mesoderm: o.a. skelet en spieren
+	- Endoderm: o.a. longen en spijsverteringsorganen
+		-  Organogenesis: -> Organen ontwikkeling
+		- Hart (week 3)
+		- Centrale zenuwstelsel (voltooiing neurale buis: week 4)
+		- Ogen, oren, armen, benen,…
+		- Geslachtsdifferentiatie (week 6)
+	- Functieontwikkeling:
+		- Ontwikkeling hersenen
+		- Zintuiglijke en motorische activiteit
+
+- <mark style="background: #FFB8EBA6;"> Het foetale stadium (week 9 - geboorte)</mark>
+	- Groei
+		- Lengte- en gewichtstoename
+	- Functieontwikkeling
+		- Ontwikkeling hersenen
+		- Zintuiglijke en motorische activiteit
+
+### Psychisch functioneren
+- Bewegingen
+	- Reflexen
+		- Afweerreflex (week 6)→ toenaderingsreflex (maand 3)
+		- Zuigreflex
+		- Grijpreflex
+		- Babinskyreflex - voetzoolprikkeling
+	- Spontane bewegingen (vanaf maand 4)
+- Gewaarwordingen (vanaf maand 5)
+	- Onderscheid reactie op zintuigprikkeling (gewaarwording) vs. bewuste waarneming
+	- Eerst enkel reflexmatig
+	- Externe prikkels moeilijk tot bij het kind
+	- Late rijping sensorische cortex
+	- Opvangen van geluid
+	- Visuele prikkels
+	- Smaak
+	- Pijn (na maand 6)
+	- Tast
+
+![[Pasted image 20241001133227.png]]
+
+### Geboorte 
+- Tijdstip van de geboorte:
+	- Prematuur: < week 35
+	- A terme: week 35 – week 40
+	- Postterm: > week 40
+	-  Dysmatuur
+- 3 fases van de geboorte
+	- he birth process consists of three main stages: 
+		- dilation (opening of the cervix), 
+		- expulsion (delivery of the baby), 
+		- placental delivery (expulsion of the placenta), 
+			- each with distinct physiological changes and implications for mother and child.
