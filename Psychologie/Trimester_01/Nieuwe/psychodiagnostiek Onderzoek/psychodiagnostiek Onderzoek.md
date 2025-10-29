@@ -84,3 +84,8 @@
 	- Hoe consistent een meting is; of je hetzelfde resultaat bekomt bij herhaaldelijk metingen en het dus niet op toeval gebaseerd is.
 - Validiteit
 	- Betreft voornamelijk of je daadwerkelijk meet wat je wilt meten en of dit overeenstemt met de werkelijkheid
+
+# Hoofdstuk 2 De onderzoekscyclus
+# Hoofdstuk 3 Prombleemstellingen en onderzoeksvragen
+# Hoofdstuk 4 Lieratuurstudie
+# Hoofdstuk 5 Onderzoeksontwerp
