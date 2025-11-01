@@ -71,7 +71,8 @@
               "title": "psychodiagnostiek Onderzoek"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,13 +215,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0a3fdfa253a634a",
+  "active": "ad01691fc82503f5",
   "lastOpenFiles": [
     "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek Onderzoek/psychodiagnostiek Onderzoek.md",
-    "Untitled.base",
-    "Psychologie/Trimester_01/Nieuwe/Levenslooppsychologie/Levensloop Psychologie.md",
-    "Psychologie/Trimester_01/Nieuwe/Statistiek/Statistiek.md",
     "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek/psychodiagnostiek.md",
+    "Psychologie/Trimester_01/Nieuwe/Levenslooppsychologie/Levensloop Psychologie.md",
+    "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek/Img/Pasted image 20251101131631.png",
+    "Psychologie/Trimester_01/Nieuwe/Statistiek/img/Pasted image 20251007113935.png",
+    "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek/Img/Pasted image 20251101130847.png",
+    "Untitled.base",
+    "Psychologie/Trimester_01/Nieuwe/Statistiek/Statistiek.md",
     "Psychologie/Trimester_01/Nieuwe/Levenslooppsychologie/Img/Pasted image 20251029170808.png",
     "Psychologie/Trimester_01/Nieuwe/Levenslooppsychologie/Img/Pasted image 20251029173430.png",
     "Psychologie/Trimester_01/Nieuwe/Levenslooppsychologie/Img",
@@ -234,10 +238,8 @@
     "Psychologie/Trimester_01/Nieuwe/psychodiagnostiek",
     "Psychologie/Trimester_01/Nieuwe/Statistiek/img",
     "Psychologie/Trimester_01/Nieuwe/Statistiek/img/Pasted image 20250923094249.png",
-    "Psychologie/Trimester_01/Nieuwe/Statistiek/img/Pasted image 20250923094257.png",
     "Psychologie/Trimester_01/Nieuwe/Statistiek",
     "Psychologie/Trimester_01/Oud/Levensloop Psychologie/Levensloop Psychologie.md",
-    "Psychologie/Trimester_01/Oud/Levensloop Psychologie/Img/Pasted image 20241001094909.png",
     "Psychologie/Trimester_02/Recht  & Deontologie/Recht  & Deontologie.md",
     "Psychologie/Trimester_01/Nieuwe/Levenslooppsychologie",
     "Psychologie/Trimester_01/Nieuwe",
@@ -245,7 +247,6 @@
     "Psychologie/Trimester_02/Sociologie/Sociologie.md",
     "Psychologie/Trimester_02/Sociale psychologie/Sociale psychologie.md",
     "Psychologie/Trimester_01/Oud/Algemene Psychologie/Algemene psychologie.md",
-    "Psychologie/Trimester_02/Sociologie/Img/Pasted image 20250225133324.png",
     "Psychologie/Trimester_02/Biopsychologie/Biopsychologie.md",
     "Psychologie/Trimester_02/Organistatiepsychologie/Untitled.canvas",
     "Psychologie/Trimester_02/Sociologie/Img.md",

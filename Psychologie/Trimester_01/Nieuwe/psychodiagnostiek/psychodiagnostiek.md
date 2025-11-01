@@ -114,6 +114,14 @@
 
 # H02 Het psychodiagnostisch procesmodel
 
+## Inleiding
+Psychodiagnostiek = *gericht informatie verzamelen en analyseren* om de meest adequate aanpak van problemen te ontwerpen.  
+- **Wetenschappelijke methodiek:** inzicht in aard en oorzaken van problemen → advies op maat.  
+- **Basis voor interventie:** elke interventie start met een diagnostische denkfase.  
+- **Kwaliteitsvolle dienstverlening:** vereist onderkennende, verklarende en indicerende diagnostiek.
+
+![[Pasted image 20251101130847.png]]
+
 ## Uitganspunten psychodiagnotisch processmodel
 
 *Scientist-Practioner* 
@@ -138,5 +146,249 @@
 ## Psychodiagnostich handelen en denken
 
 ### Handelen
+- De opeenvolgende fasen die de hulverlener in de praktijk doorloopt.
+- Deze bestaat uit waarneembare handelingen tijdens contact momenten met de client.
 
 ### Denken
+- Het actieve denkproces tijdens en tussen contactmomenten. 
+
+## Fasen van het Psychodiagnostisch Proces
+
+### 1. Aanmelding
+**Handelen:**  
+- Verzamelen van eerste informatie (wie, met wat, waarom, waarom nu).  
+- Praktische afspraken en werkwijze toelichten.  
+
+**Denken:**  
+- Is de aanmelding ontvankelijk?  
+- Voldoet deze aan deontologische en wettelijke criteria?  
+
+**Afronding:**  
+- Gezamenlijke beslissing: voortzetten of doorverwijzen.
+
+---
+
+### 2. Intake / Vooronderzoek
+**Doel:** informatie verzamelen.  
+**Middelen:**  
+- Gesprekken (auto-, hetero-, ontwikkelingsanamnese)  
+- Screeningsinstrumenten (SCL-90-S, ASEBA, SDQ, ARI)  
+- Observatie  
+- Dossieranalyse (met toestemming)
+
+**Denken:**  
+- Exploreren én hypothesetoetsend verzamelen.  
+- Ordenen van info via modellen (KOP, ICF, Mindmap, Dialoogmodel).  
+- Opstellen van een *Voorlopig Integratief Beeld (VIB)*.
+
+**Hypothesen:**  
+- **Onderkennend:** “Er is sprake van…”  
+- **Verklarend:** “X leidt tot Y.”  
+→ Formuleer toetsbare, specifieke en wetenschappelijk gefundeerde hypothesen.
+
+---
+
+### 3. Aanvullend Onderzoek
+**Doel:** hypothesen bevestigen of weerleggen.  
+**Handelen:**  
+1. Onderzoekstraject voorstellen.  
+2. Gestandaardiseerd afnemen van instrumenten.
+
+**Denken:**  
+1. Hypothesen operationaliseren (observeerbaar gedrag).  
+2. Onderzoeksmethoden selecteren (testen, observatie, interviews).  
+3. Toetsingscriteria opstellen (“Als de hypothese juist is, dan verwacht ik…”).  
+
+**Afwegingen bij testkeuze:**  
+- Betrouwbaarheid & validiteit  
+- Praktische bruikbaarheid  
+- Afstemming op cliënt  
+- Diagnostische en pragmatische waarde  
+
+**Afronding:**  
+- Alle hypothesen bevestigd/weersproken → afronden of bijstellen.
+
+---
+
+### 4. Advies en Rapportering
+**Doelen:**  
+- Informatie integreren tot een samenhangend *Integratief Beeld (IB)*  
+- Interventievoorstellen formuleren  
+- Schriftelijk en mondeling rapporteren  
+
+**Denken:**  
+- Hypothesen thematisch verwerken.  
+- Aanbevelingen formuleren op basis van pro’s en contra’s.  
+
+**Afronding:**  
+- Doorverwijzen, zelf verder begeleiden of afsluiten.
+
+---
+
+### 5. Interventies & Evaluatie
+**Doelen:**  
+- Procesevaluatie: verloop van behandeling.  
+- Productevaluatie: effectiviteit van interventies.  
+
+**Handelen:**  
+- Afspraken over evaluatiemomenten en criteria.  
+- Gebruik van meetinstrumenten (bijv. SRS, klachtenlijsten).  
+
+**Denken:**  
+- Worden doelen bereikt?  
+- Moet traject worden bijgestuurd of afgerond?
+
+**Afronding:**  
+- Beslissen: voortzetten, aanpassen, afsluiten of opnieuw starten.
+
+---
+
+## Samenvattend
+Het **psychodiagnostisch procesmodel**:
+- Richt zich op *systematisch denken en handelen* voor kwaliteitsvolle hulpverlening.  
+- Vereist *kritisch redeneren, empathie, observatie- en gespreksvaardigheid*.  
+- Is *wetenschappelijk onderbouwd* en *cliëntgericht*.  
+
+# H03 Het psychodiagnostisch procesmodel voor selectie
+
+## Inleiding
+Het psychodiagnostisch procesmodel, oorspronkelijk ontworpen voor psychologische hulpverlening, is ook **toepasbaar binnen selectie en HR-contexten**.
+
+### Doel
+- Objectieve en betrouwbare informatie verzamelen over kandidaten.  
+- Onderbouwde beslissingen ondersteunen.  
+- Wetenschappelijk en ethisch verantwoorde methodiek hanteren.
+
+###  Meerwaarde
+- Verhoogt **kwaliteit en transparantie** in selectie.  
+- Bevordert **consistentie en rechtvaardigheid**.  
+- Draagt bij aan **professionele geloofwaardigheid** van de organisatie.
+
+---
+
+##  Gelijkenissen & Verschillen
+
+### Gelijkenissen
+- **Predictief model:** gericht op voorspellen van prestaties.  
+- **Stapsgewijs proces:** fasen volgen elkaar logisch op.  
+- **Hypothese-toetsend denken:** elke uitspraak wordt onderbouwd.
+
+### Verschillen met hulpverlening
+| Aspect | Hulpverlening | Selectie |
+|--------|----------------|-----------|
+| **Cliënt** | Hulpvrager | Opdrachtgever |
+| **Betrokkene** | Cliënt/patiënt | Sollicitant |
+| **Doel** | Inzicht en hulpverlening | Geschiktheid en voorspelling |
+| **Onderzoek** | Optioneel | Bijna altijd verplicht |
+| **Focussen op** | Probleem en context | Functie en competenties |
+
+---
+
+##  Fasen van het Selectieproces
+
+### 1. Aanmelding
+![[Pasted image 20251101131631.png]]
+➡️ **Beslissing:** is de aanmelding ontvankelijk?
+
+---
+
+### 2. Intake / Vooronderzoek
+**Intake** = een of meerdere gesprekken met opdrachtgever en andere belanghebbenden/
+
+**Doelen:**
+- Exploratief en hypothesetoetsend informatie verzamelen.  
+- Context en functie-inhoud begrijpen.  
+- Verwachtingen en belangen afstemmen.  
+
+**Belangrijke onderdelen:**
+1. **Functieanalyse**  
+   - Taken, verantwoordelijkheden, vaardigheden.  
+   - Informatie via observatie, interviews, documenten, logboeken, etc.  
+   - Resultaat = *voorlopig integratief beeld* van functie.  
+2. **Functiebeschrijving**  
+   - Taken, doelstellingen, verantwoordelijkheden.  
+   - Basis voor vacature, training en evaluatie.  
+1. **Competentieprofiel**  
+   - Kerncompetenties = Algemene vaardigheden essentieel voor iedereen in de organisatie.
+   - Vaktechnische competenties = Specifieke kennis en vaardigheden vereist voor de functie.
+   - Gedragscompetenties = Attitudes en persoonlijkheidseigenschappen belangrijk voor effectief functioneren
+
+- Voorbeeld - winkel bediende.
+   - Kerncompetenties (bv. klantgerichtheid, resultaatgerichtheid).  
+   - Vaktechnische competenties (bv. kennis kassasysteem, talen).  
+   - Gedragscompetenties (bv. flexibiliteit, samenwerking).  
+4. **Selectiecriteria**  
+   - Objectieve en toetsbare gedragscriteria.  
+   - Zo concreet en specifiek mogelijk -> meetbare gedragscriteria
+   - Formuleren als **hypothesen**:  
+     > *“Als kandidaat X stressbestendig is, dan blijft hij kalm onder druk.”*  
+   - Verzameld in een **criteriumtabel** (harde en zachte criteria).
+	   - Harde -> Vakkennis, ervaring
+	   - Zachte -> Motivatie, persoonlijke kwaliteiten
+
+---
+
+### 3. Aanvullend Onderzoek
+**Doelen:**
+- Hypothesen uit criteriumtabel toetsen.  
+- Meetinstrumenten kiezen die aansluiten bij functievereisten.  
+
+**Stappen:**
+1. **Vacature opstellen**  
+   - Gebaseerd op functieanalyse en selectiecriteria.  
+2. **Voorselectie**  
+   - Screening op harde criteria (CV, telefoongesprek, online tests).  
+3. **Selectiematrix opstellen**  
+   - Overzicht van welke instrumenten welke criteria meten.  
+   - Elk criterium ≥ 2 keer meten (*convergerende evidentie*).  
+4. **Selectieonderzoek uitvoeren**  
+   - **Instrumenten:**  
+     - (Semi)gestructureerde interviews  
+     - Competentiegericht interview (STARR-methode)  
+     - Psychologische tests (cognitief, vaardigheid, persoonlijkheid)  
+     - Assessment center (AC) (rollenspellen, casussen, groepsopdrachten)  
+     - Observatie  
+
+**Ethische richtlijnen:**
+- **Informed consent** en recht op privacy.  
+- **Blokkeringsrecht** (GDPR).  
+- **Recht op feedback en gelijke behandeling.**
+
+---
+
+### 4. Advies en Rapportering
+**Doelen:**
+- Hypothesen bevestigen/weerspreken per kandidaat.  
+- Integratief beeld opstellen: koppeling tussen functiebeschrijving, competentieprofiel en resultaten.  
+- Argumenten geven waarom een kandidaat wel/niet geschikt is.
+
+**Rapportering:**
+- **Mondeling:** aan opdrachtgever + feedback aan kandidaten.  
+- **Schriftelijk:** transparant overzicht van selectieproces en verantwoording van beslissingen.  
+  - Samenvatting van bevindingen.  
+  - Fit tussen kandidaat en functie.  
+  - Kan later gebruikt worden voor trendanalyse of evaluatie van beslissingen.
+
+---
+
+### 5. Interventies & Evaluatie
+**Na selectie:**
+- **Onboarding:** nieuwe medewerker integreren in organisatie.  
+- **Evaluatie:** na 3–6 maanden terugkoppelen met werkgever en werknemer.  
+- **Kwaliteitstoets:** nagaan of selectievoorspellingen kloppen → zelfreflectie en kwaliteitsverbetering.
+
+---
+
+## Uitdagingen in de praktijk
+- **Tijdsdruk:** balans tussen snelheid, nauwkeurigheid en kosten.  
+- **Arbeidsmarktkrapte:** beperkte kandidatenpool.  
+- **Diversiteit:** inclusieve en faire selectie uitvoeren.  
+- **Globalisering:** omgaan met culturele verschillen en internationale normen.  
+
+---
+
+##  Samenvattend
+Het **psychodiagnostisch procesmodel voor selectie** biedt een **gestructureerde en wetenschappelijk onderbouwde** methode om tot eerlijke, objectieve en kwalitatieve selectiebeslissingen te komen.  
+- Steunt op **hypothesetoetsend denken**.  
+- Vereist **ethisch handelen en respect voor sollicitanten**.  
+- Combineert **praktische toepasbaarheid** met **wetenschappelijke integriteit**.
