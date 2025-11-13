@@ -103,16 +103,16 @@ De menselijke ontwikkeling wordt beïnvloed door verschillende gelaagde omgeving
 
 ## Kernconflicten – **Erik Erikson**
 
-| **Levensfase** | **Belangrijk conflict** | **Centrale vraag** |
-|----------------|--------------------------|--------------------|
-| Babytijd (0–1 jr) | Fundamenteel vertrouwen vs. wantrouwen | Is mijn wereld veilig? |
-| Peuterjaren (1–3 jr) | Autonomie vs. schaamte en twijfel | Kan ik dingen zelf doen? |
-| Kleuterjaren (3–6 jr) | Initiatief vs. schuldgevoel | Ben ik goed of slecht? |
-| Schoolperiode (6–12 jr) | Vlijt en inzet vs. minderwaardigheid | Hoe kan ik goed zijn? |
-| Adolescentie (12–20 jr) | Identiteit vs. rolverwarring | Wie ben ik? |
-| Jongvolwassenheid (20–40 jr) | Intimiteit vs. isolement | Ben ik geliefd en gewenst? |
-| Middenvolwassenheid (40–65 jr) | Generativiteit vs. stagnatie | Draag ik iets waardevols bij? |
-| Ouderdom (65+) | Ego-integriteit vs. wanhoop | Heb ik een goed leven geleid? |
+| **Levensfase**                 | **Belangrijk conflict**                | **Centrale vraag**            |
+| ------------------------------ | -------------------------------------- | ----------------------------- |
+| Babytijd (0–1 jr)              | Fundamenteel vertrouwen vs. wantrouwen | Is mijn wereld veilig?        |
+| Peuterjaren (1–3 jr)           | Autonomie vs. schaamte en twijfel      | Kan ik dingen zelf doen?      |
+| Kleuterjaren (3–6 jr)          | Initiatief vs. schuldgevoel            | Ben ik goed of slecht?        |
+| Schoolperiode (6–12 jr)        | Vlijt en inzet vs. minderwaardigheid   | Hoe kan ik goed zijn?         |
+| Adolescentie (12–20 jr)        | Identiteit vs. rolverwarring           | Wie ben ik?                   |
+| Jongvolwassenheid (20–40 jr)   | Intimiteit vs. isolement               | Ben ik geliefd en gewenst?    |
+| Middenvolwassenheid (40–65 jr) | Generativiteit vs. stagnatie           | Draag ik iets waardevols bij? |
+| Ouderdom (65+)                 | Ego-integriteit vs. wanhoop            | Heb ik een goed leven geleid? |
 
 ---
 
@@ -326,3 +326,121 @@ Egosterkte
 	**een persoonlijkheidskenmerk dat het mogelijk maakt om met tegenslagen om te gaan, externe stressoren en interne nood te beheersen en te herstellen van tegenslagen** .
 
 
+# HC 04 – De Peutertijd
+
+## Lichamelijke en motorische ontwikkeling
+### Groei
+- 10cm / jaar
+- 2-3 kg / jaar
+	- Grotere beweeglijkheid
+	- Loop stadium 12-15 maanden
+
+### Gebruik van de skeletspieren
+- Grove motoriek
+- Fijne motoriek
+	- Toenemende oog-hand-coordination
+
+### De zindelijkheidstraining
+- 2 -2.5 jaar -> Overdag
+- 3 - 4 jaar -> 's nacht
+
+## Ontwikkelingen in de waarneming en het mentaal functioneren
+
+### Cognitieve ontwikkeling Piaget
+1. **Sensomotorisch stadium**
+- 12-18 maanden: Tertiaire circulaire reacties
+- 18-24 maanden: Mentale voorstellingen
+1. **Pre-operationeel stadium**  
+2. **Concreet-operationeel stadium**  
+3. **Formeel-operationeel stadium**
+
+### Einde van de sensomotorische periode
+- 12 - 18 maanden: **Tertiaire circulaire reacties** (peutertijd)
+	- Actief experimenteergedrag
+	- Gedrag varieren om nieuwe effecten uit te lokken
+
+- 18 - 24 maanden: **Mentale voorstellingen** (peutertijd)
+	- innerlijk experimenteergedrag / inwendig experimenteren
+	- Geïnterioriseerde tertiaire reacties  
+	-  Mentale voorstellingen oproepen om vooraf gedrag te bepalen
+		- Basis voor pre-operationele denken
+
+![[Pasted image 20251106162306.png]]
+
+### Specifieke ontwikkelingen binnen de cognitie
+
+#### De waarneming
+- **Een gestabiliseerd wereldbeeld**
+	- Gevestigde **objectpermanentie**
+		- Besef dat objecten en zoals mensen blijven bestaan ook zonder waarneming.
+
+- **Differentiatie tussen object en subject** -> Subject-objectsplitsing
+
+- Structureren van ruimte en tijd
+- Toenemende aandachtconcentratie
+- **Causaliteit**
+	- Verband kunnen leggen tussen oorzaak en gevolg
+
+#### Het geheugen
+- Verbetering van duur en nauwkeurigheid
+- **Infantiele amnesie**
+	- Het onvermogen van gebeurtenissen uit eerste levensjaren te herinneren.
+	- Hersenen in ontwikkeling -> niet capabel voor langdurige  herinnering op te slaan
+	- 0 - 3 jaar
+- Expliciet en impliciet geheugen
+	- **Expliciet:** *Bewust* en gaat over feiten en persoonlijke ervaringen.
+	- **impliciet:** *Onbewust* is een betrekking heeft op vaardigheden, gewoonten en automatische reacties.
+
+#### Het denken en de fantasie
+##### Hoe innerlijke voorstellingen ontstaan
+
+Peuters en kleuters beginnen dingen **in hun hoofd** voor zich te zien en niet alleen wat er écht aanwezig is.
+- **Woordjes**: Door taal kunnen kinderen hun gedachten benoemen en dingen oproepen die niet zichtbaar zijn.
+- **Uitgestelde imitatie**: Ze doen later na wat ze eerder zagen (bijv. thuis de juf spelen).
+- **Fantasiespel**: Rollenspellen waarbij voorwerpen andere dingen voorstellen (een blok wordt een auto).
+- **Tekenen**: Kinderen tekenen wat ze weten of voelen, niet per se wat er realistisch uitziet.
+
+---
+
+##### Verwarring tussen fantasie en werkelijkheid
+Op deze leeftijd is het onderscheid tussen wat _echt_ is en wat _bedacht_ is nog niet volledig ontwikkeld.
+- **Relatief disequilibrium**: Er is een evenwicht en onevenwicht in denken; ze leren voortdurend bij en passen hun denken aan.
+- **Nieuw soort egocentrisme**: Kinderen denken dat iedereen de wereld ziet zoals zij die zien.
+
+##### Typische kenmerken van peuters en kleuters
+
+|Begrip|Betekenis|Voorbeeld|
+|---|---|---|
+|**Animisme**|Dingen die levenloos zijn toch als levend zien|“De zon is blij vandaag”|
+|**Fysiognomisch waarnemen**|Alles krijgt gevoelens of karakter|“Die boom kijkt boos”|
+|**Artificialisme**|Denken dat alles door mensen of hogere wezens is gemaakt|“Iemand heeft de bergen gebouwd”|
+|**Finalisme**|Alles heeft een bedoeling of doel|“Bomen zijn er zodat wij schaduw hebben”|
+|**Fenomenalistische causaliteit**|Dingen worden met elkaar verbonden zonder logisch verband|“Het regent omdat ik verdrietig ben”|
+|**Nevenschikking**|Dingen naast elkaar vertellen zonder verband|Twee gebeurtenissen worden gezien als samenhangend|
+|**Magisch denken**|Gedachten of wensen kunnen gebeurtenissen beïnvloeden|“Als ik héél hard denk, komt mama nu terug”|
+
+##### Preconceptueel denken (2-4 jaar)
+- Concepten
+- Generalisren en discrimineren -> abstraheren
+- In dit stadium: Nog preconcepten
+- gekenmerkt door overdiscrimineren of overgeneraliseren
+#### De taalontwikkeling
+![[Pasted image 20251106163856.png]]
+## Sociale en persoonlijkheidsontwikkeling
+### Sociale gerichtheid
+- Naar een evenwichtigere relatie met de volwassenen
+	- **Margaret Mahler:** Separatie- en individuatiefase
+- Beginnende interesse voor leeftijd genoten
+	- Parallelspel
+
+• Ontstaan van zelfbewustzijn  
+	• Geen besef van ik  
+	• Ontluikend zelfbewustzijn: Rougetest  
+	• Individualiteitsbesef  
+	• Koppigheidsfase
+### Dynamisch-affectieve ontwikkeling
+• Ontwikkelingen in het gevoelsleven  
+	• In staat tot bepaalde vorm van empathie: **Martin Hoffman**  
+		• 1j: egocentrisch empathisch leed  
+		• 1 – 1,5j: quasi-egocentrisch empathisch leed  
+		• 2j: geloofwaardig empathisch leed

@@ -192,5 +192,168 @@ Data → Identify duplicate cases → Matching variables → 1 = uniek, 0 = dupl
    - Categorieën samenvoegen (bv. leeftijd → minderjarig/volwassen)
 
 # Module 2: Het beschrijven van een variabele
+## HC4 — Tabellen & Grafieken
+
+### Doel
+Gegevens overzichtelijk weergeven:
+- Frequentietabel
+- Percentielen / kwartielen / decielen
+- Grafieken (staafdiagram, taartdiagram, histogram, boxplot)
+
+---
+
+### 1) Frequentietabel
+**Definitie:** toont hoe vaak elke waarde voorkomt.
+
+### Soorten frequenties:
+| Term | Definitie | Wanneer mogelijk |
+|------|-----------|----------------|
+| Absolute freq. (f) | Aantal keer dat een waarde voorkomt | Altijd |
+| Relatieve freq. (%) | f / N | Altijd |
+| Cumulatieve freq. (cf) | Totaal tot en met bepaalde waarde | Ordinaal+ |
+| Relatieve cumulatieve freq. (rcf) | cf / N (in %) | Ordinaal+ |
+
+➡️ Bij interpretatie altijd kijken naar **Valid Percent** (SPSS).
+
+---
+
+### 2) Percentielen / kwartielen / decielen
+- Percentiel: waarde waar **p%** van de data **≤ die score zit**.
+- Kwartielen:
+  - Q1 = P25
+  - Q2 = P50 = Mediaan
+  - Q3 = P75
+- Decielen: verdelen in groepen van 10%.
+
+**Regel:** Neem de waarde behorend bij de eerste rcf **die hoger ligt dan p%** → *"minstens"* p%.
+
+---
+
+### 3) Grafieken
+| Grafiek | Variabele | Uitleg |
+|--------|-----------|--------|
+| Taartdiagram | Nominaal / ordinaal | Deel van het geheel (max paar categorieën) |
+| Staafdiagram | Nominaal / ordinaal | Balken los van elkaar |
+| Histogram | **Kwantitatief** | Balken **aan elkaar**, vaak klassen |
+| Boxplot | Ordinaal+ | Toont mediaan, IKA, uitschieters (zie HC6) |
+
+---
+
+### 4) SPSS
+- Frequentietabel → Analyze → Descriptive Statistics → Frequencies
+- Grafieken → Graphs → Chart builder
+- Percentielen → Frequencies → Statistics → Percentiles
+
+## HC5 — Kengetallen Centrale Tendens
+
+### Centrummaten
+| Maat | Definitie | Meetniveau | Gevoelig voor uitschieters? |
+|------|-----------|-----------|-----------------------------|
+| Modus | Waarde die het meest voorkomt | Nominaal+ | Nee |
+| Mediaan | Middelste waarde na sorteren | Ordinaal+ | **Nee** (robust) |
+| Gemiddelde (M / µ) | Som waarden / aantal waarden | Interval/ratio | **Ja** (gevoelig)** |
+
+---
+
+### Modus
+- De **waarde**, niet de frequentie.
+- Unimodaal, bimodaal, multimodaal mogelijk.
+
+---
+
+### Mediaan
+- Oneven N → middelste waarde
+- Even N → gemiddelde van 2 middelste
+- Bij frequentietabel → gebruik **relatieve cumulatieve frequenties**.
+
+---
+
+### Gemiddelde
+#### Ruwe data:
+\[
+\bar{x} = \frac{\sum x}{N}
+\]
+
+#### Frequentietabel:
+\[
+\bar{x} = \frac{\sum (x \cdot f)}{N}
+\]
+
+#### Getrimd gemiddelde:
+- Bij uitschieters → bovenste en onderste x% verwijderen.
+
+---
+
+#### Keuze centrummaat
+| Situatie | Beste maat |
+|---------|------------|
+| Nominaal | Modus |
+| Scheve verdeling / uitschieters | Mediaan |
+| Normale verdeling | Gemiddelde |
+
+---
+
+### SPSS
+Analyze → Descriptive Statistics → Descriptives / Frequencies  
+(+ eventueel **5% trimmed mean**)
+
+## HC6 — Spreidingsmaten & Standaardiseren
+
+### Spreidingsmaten
+| Maat | Formule | Eenheid | Gevoelig voor uitschieters | Opmerking |
+|------|---------|---------|----------------------------|------------|
+| Bereik (B) | xmax − xmin | Origineel | **Ja** | Simpel, maar beperkt |
+| IKA | Q3 − Q1 | Origineel | Nee | Middelste 50% |
+| Variantie (σ²) | Gemiddelde (x - M)² | **Gekwadrateerd** | Ja | Moeilijk te interpreteren |
+| Standaarddeviatie (σ) | √σ² | Origineel | Ja | Meest gebruikt |
+
+---
+
+### Formules
+#### Variantie – ruwe data:
+\[
+\sigma^2 = \frac{\sum (x - \bar{x})^2}{N}
+\]
+
+#### Standaarddeviatie:
+\[
+\sigma = \sqrt{\sigma^2}
+\]
+
+---
+
+### Boxplot bevat:
+- Mediaan (lijn)
+- IKA (doos)
+- Bereik (snorren)
+- **Uitschieter = waarde > 1.5 × IKA buiten Q1/Q3**
+
+---
+
+### Wetenschappelijk rapporteren
+- \( N \), \( M \), \( SD \) **cursief**:
+> De deelnemers sliepen gemiddeld 7.2 uur per nacht (*N* = 240, *M* = 7.20, *SD* = 1.14).
+
+---
+
+### Standaardiseren (z-scores)
+\[
+z = \frac{x - \bar{x}}{SD}
+\]
+
+- z = 0 → precies gemiddeld
+- z > 0 → boven gemiddeld
+- z < 0 → onder gemiddeld
+
+Gebruik bij **interval/ratio variabelen**.
+
+---
+
+### SPSS
+- Spreidingsmaten → Descriptives
+- Boxplot → Graphs → Boxplot
+- z-scores → Descriptives → Save standardized values
+
+
 
 # Module 3: Het beschrijven van twee variabele
