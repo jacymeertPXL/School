@@ -129,7 +129,7 @@ Psychodiagnostiek = *gericht informatie verzamelen en analyseren* om de meest ad
 *Client Centrall*
 - Het welzijn en de behoeften van de client staan voorop
 *Contructieve samenwerking*
-- Open communicatie en heldere afsraken met cient en betrokken.
+- Open communicatie en heldere afsraken met client en betrokken.
 *Systematisch handelen en denken*
 - Het model systematiseert en expliciteert de stappen in denken en handelen, wat de kwaliteit van de psychodiagnostiek bevordert
 *Transactioneel referentiekader*

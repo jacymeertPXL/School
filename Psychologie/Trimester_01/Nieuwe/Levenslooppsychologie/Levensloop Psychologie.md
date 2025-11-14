@@ -63,6 +63,7 @@
 		- placental delivery (expulsion of the placenta), 
 			- each with distinct physiological changes and implications for mother and child.
 
+![[Pasted image 20241001094909.png]]
 
 # HC 01 – Terreinverkenning
 
@@ -136,7 +137,7 @@ Erik Erikson beschrijft acht ontwikkelingsfasen door het leven, waarbij elke fas
 
 Piaget beschrijft hoe kinderen door interacties met hun omgeving actief leren en hun denkvermogen ontwikkelen in vier universele fasen.
 
-### ### De 4 fasen
+### De 4 fasen
 
 1. **Sensomotorisch stadium (0–1,5 jr)**  
    Het kind leert via **zintuigen en motoriek**.  
@@ -201,6 +202,7 @@ Piaget beschrijft hoe kinderen door interacties met hun omgeving actief leren en
 3. Zitstadium (6–9 mnd)  
 4. Kruipstadium (9–12 mnd)  
 5. Loopstadium (12–15 mnd, overgang naar peutertijd)
+
 ![[Pasted image 20251029170808.png]]
 ---
 
@@ -268,7 +270,7 @@ Leren door **het observeren en imiteren van anderen**.
 
 #### **Objectpermanentie**
 Het **begrijpen dat objecten blijven bestaan, ook als ze niet zichtbaar zijn**.  
-Ontwikkelt zich rond 8–12 maanden.  
+Ontwikkelt zich rond 8–12 maanden (Intentioneel handelen).  
 *Voorbeeld:* een baby zoekt naar een speeltje dat onder een deken is verstopt.
 
 ---
@@ -291,7 +293,7 @@ Toont dat objectpermanentie nog niet volledig ontwikkeld is.
 
 ## Sociale en persoonlijkheidsontwikkeling
 
-### Fasen van hechting
+### Fasen van hechting (Bowlby)
 1. **Voorhechting (0–3 mnd):** eerste aanzet tot hechting (*asociaal wezen*).  
 2. **Beginnende gehechtheid (3–8 mnd):** voorkeur voor bekende personen, angstreacties.  
 3. **Feitelijke gehechtheid (8 mnd – eind peuterfase):** op basis van sensitieve responsiviteit.
@@ -320,11 +322,7 @@ De hechtingsstijlen zijn gebaseerd op de observatie van een kind bij scheiding e
 ### 4. Gedesorganiseerde gehechtheid
 - Ontstaat vaak bij **onvoorspelbare of beangstigende opvoedingssituaties** (zoals verwaarlozing).  
 - Kind vertoont **tegenstrijdig gedrag**: zoekt nabijheid maar is ook bang.  
-- Geen duidelijke strategie om met stress o
-=======
-Egosterkte
-	**een persoonlijkheidskenmerk dat het mogelijk maakt om met tegenslagen om te gaan, externe stressoren en interne nood te beheersen en te herstellen van tegenslagen** .
-
+- Geen duidelijke strategie om met stress, vaak als gevolg van angst of trauma.
 
 # HC 04 – De Peutertijd
 
