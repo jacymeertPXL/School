@@ -1,5 +1,5 @@
 # Hoofdstuk 1 
-## Wat is wetenschappelijk onderzoek?
+## Wat is wetenschappelijk onderzoek? 
 - **Wetenschappelijk onderzoek** is een doelgericht Process, waarbij de onderzoeker op een systematische manier, betrouwbare en geldige gegeven (of data) verzamelt en analyseert, om onderzoeksvragen te beantwoorden, die vetrekken vanuit een probleemstellingen, en uitspraak doen over de werkelijkheid
 	• Doelgericht proces  
 	• Systematisch  
@@ -454,7 +454,7 @@ Dit is geen lineair proces, maar herhaalt zich meerdere keren om de probleemstel
 
 ### 6.1 Wetenschappelijke eisen
 
-|Term|Betekenis|
-|---|---|
-|**Betrouwbaarheid**|Data zijn vrij van **toevallige fouten**|
-|**Begripsvaliditeit**|Data meten **het bedoelde concept** (geen systematische fouten)|
+| Term                  | Betekenis                                                       |
+| --------------------- | --------------------------------------------------------------- |
+| **Betrouwbaarheid**   | Data zijn vrij van **toevallige fouten**                        |
+| **Begripsvaliditeit** | Data meten **het bedoelde concept** (geen systematische fouten) |

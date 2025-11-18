@@ -442,3 +442,65 @@ Op deze leeftijd is het onderscheid tussen wat _echt_ is en wat _bedacht_ is nog
 		• 1j: egocentrisch empathisch leed  
 		• 1 – 1,5j: quasi-egocentrisch empathisch leed  
 		• 2j: geloofwaardig empathisch leed
+
+
+# HC 05 – Kleuter 
+
+## Lichamelijke en motorisch ontwikkeling
+
+### lichamelijke veranderingen
+- Lichaamslengte en gewicht 
+- Hersenen op 5 jaar: 90% van het volwassen volume
+	- Myelunisering en selectieve uitbouw synapsen
+
+### Motorisch ontwikkeling
+- **Grove Motoriek**
+	- Lopen
+	- Inschattingvermogen
+	- Evenwichtbeheersing
+
+- **Fijne Motoriek**
+	- zelfredzaamheid
+		- Eten met vork en mes
+		- Aankleden
+	- Spelactiviteiten
+		- Constuctiespel
+		- tekenen
+
+- **Kleutertekeningen**
+	- Krabbelstadium
+	- Toevallige realisme
+	- Mislukte realisme
+	- verstandelijke realisme
+	- Visuele Realisme
+
+![[Pasted image 20251118113224.png]]
+
+# HC 05 – School periode
+
+## Lichamelijke en motorisch ontwikkeling
+
+### lichamelijke veranderingen
+- Verdwijnen "Mollige kleutervorm"
+- Versnelde lengtegroei (5/7 cm / jaar)
+- Continue spiertoename
+- Tandenwissel
+
+### Motorisch ontwikkeling
+- Optimale oog-handcoördinatie  
+- Uitstekende reactiesnelheid  
+- Vrijwel feilloos lichaamsschema
+
+- **Grove Motoriek
+	-  Elasticiteit  
+	- Evenwichtsbeheersing  
+	- Trefzekerheid  
+	- Krachttoename
+
+
+- **Fijne Motoriek**
+	- Vloeiend i.p.v. houterig  
+	- Handschrift  
+	- Perspectief in tekeningen  
+	- Uitwerking details  
+	- Motorische precisie
