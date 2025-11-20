@@ -476,7 +476,94 @@ Op deze leeftijd is het onderscheid tussen wat _echt_ is en wat _bedacht_ is nog
 
 ![[Pasted image 20251118113224.png]]
 
-# HC 05 – School periode
+## Ontwikkelingen in de waarneming en het mentaal functioneren
+
+### Cognitieve ontwikkeling Piaget
+- Preoperationeel stadium
+	- 2-4 jaar: Preconceptueel denken
+	- **Einde van het Preconceptueel denken**
+		- Denk inhouden: steeds meer begrippen of concepten
+		- Parallelle categorieen
+	- **4-6/7 Jaar: Intuitief denken kenmerken:**
+		- Egocentrisch
+		- Gecentreed
+		- Statisch
+		- Onomkeerbaar
+
+### Specifieke ontwikkelingen binnen de cognitie
+- **De waarneming**
+	- Vormherkenning
+	- Richtingsbewustzijn
+	- Auditieve discriminatie
+	- Aandacht
+
+- **Het geheugen**
+	- Scripts
+	- Spontaan versus intentioneel onthouden
+		- Werkgeheugen
+		- Geheugenstrategieen
+		- Voorkennis
+		- Metacognitie
+
+- **Het denken**
+	- Kritiek op piaget
+	- Theory of mind
+
+- **De fantasie**  
+	- Waaromvragen  
+	- Magisch denken  
+	- Fantasiespel  
+	- Sprookjes  
+
+- **De taalontwikkeling**  
+	- Differentiatieperiode  
+		- Fouten  
+		- Woordenschat
+
+## Sociale en persoonlijkheidsontwikkeling
+
+### Sociale gerichtheid
+- **De relatie met leeftijdgenoten**
+	- Parallelspel evolueert naar samenspel
+	- Eerste vriendschapsrelaties
+
+- **Ontluikend zelfconcept**
+	- Zelfconcept:
+		- Zelfkennis
+		- Zelfwaardering
+		- Zelfpresentatie
+
+- **Het ontwikkelen van een genderidentiteit**
+	- Krijgt vooral vorm in de kleuterjaren
+	- Basis: 
+		- Biologische factoren
+		- Modelgedrag
+
+### Dynamisch-affectieve ontwikkeling
+- **Ontstaan van een moreel besef**
+	- Verinnerlijking extern opgelegde normen
+	- Hoe?
+		- Verschillen in temperament
+			- Passieve inhibitie of actieve sturing?
+		- Socialisatie
+	- Spiegelgeweten / Heteronome moraal (Piaget)
+
+- **Taakgerichtheid**
+	- Taakbewustzijn
+	- Taakrijpheid / werkhouding
+
+- **Gevoelens en emoties**
+	- Differentiatie
+		- Nieuwe gevoelens t.a.v. leeftijdgenoten en broers of zusjes
+		- Angsten door fantasie
+		- Uiteenlopende gevoelens door plannen
+		- Schuldgevoelens
+	- **Carolyn Saarni: Emotionele competentie**
+		- Herkennen (bewustwording voor nodig)
+		- Expressie
+		- Reguleren
+
+# HC 06 – School periode
 
 ## Lichamelijke en motorisch ontwikkeling
 
@@ -504,3 +591,46 @@ Op deze leeftijd is het onderscheid tussen wat _echt_ is en wat _bedacht_ is nog
 	- Perspectief in tekeningen  
 	- Uitwerking details  
 	- Motorische precisie
+
+## Ontwikkelingen in de waarneming en het mentaal functioneren
+### Het concreet - operationele denken
+- **Concreet-operationele fase (7-12 jaar):**
+  - Logisch nadenken over concrete problemen.
+  - Mentale operaties zoals:
+    - **Conservatie:** begrijpen dat hoeveelheden gelijk blijven ondanks verandering in vorm.
+    - **Classificatie:** indelen in categorieën.
+    - **Seriatie:** ordenen op basis van kenmerken zoals grootte of gewicht.
+    - **Klassenlogica:** begrijpen van deel-geheel relaties.
+  - Denkprocessen:
+    - **Gedecentreerd denken:** niet langer egocentrisch.
+    - **Omkeerbaarheid:** situaties mentaal kunnen terugspoelen.
+    - **Transformaties:** aandacht voor het proces van verandering.
+
+### Sociale cognitie
+- **Rolnemingsgedrag ontwikkelt zich in stadia:**
+  1. **Egocentrisch (3-6 jaar):** Geen onderscheid tussen eigen en andermans standpunt.
+  2. **Subjectief (6-8 jaar):** Begrip dat anderen andere standpunten kunnen hebben.
+  3. **Zelfreflectief (8-10 jaar):** Verplaatsen in andermans standpunt.
+  4. **Wederzijds (10-12 jaar):** Rekening houden met verschillende standpunten.
+  5. **Sociaal (12-15 jaar):** Standpunten in bredere maatschappelijke normen kaderen.
+  
+### Enkele afzonderlijke processen: Sociale denken, fantasie en taal
+### Vriendschappen en sociale ontwikkeling
+- **7-9 jaar:** Kosten-batenperspectief in relaties.
+- **9-11 jaar:** Normatieve fase: respect voor regels en normen.
+- **11-13 jaar:** Empathische fase: emotionele wederkerigheid.
+
+### Zelfconcept
+- Evolueert van fantasierijk naar realistischer.
+- **Invloeden:** leeftijdsgenoten, ouders, leerkrachten.
+- Meer differentiatie en matiging in zelfbeeld.
+
+---
+
+## Dynamisch-affectieve ontwikkeling
+### Moreel besef (Kohlberg)
+- **Preconventioneel niveau (stadia 1-2):** Gericht op straf en beloning.
+- **Conventioneel niveau (stadia 3-4):** Respect voor regels en normen.
+- **Postconventioneel niveau (stadia 5-6):** Abstracte principes en universele waarden.
+
+## Sociale en persoonlijkheidsontwikkeling
