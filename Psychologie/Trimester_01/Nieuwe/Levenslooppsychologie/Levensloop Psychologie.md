@@ -57,7 +57,7 @@
 	- Postterm: > week 40
 	-  Dysmatuur
 - 3 fases van de geboorte
-	- he birth process consists of three main stages: 
+	- The birth process consists of three main stages: 
 		- dilation (opening of the cervix), 
 		- expulsion (delivery of the baby), 
 		- placental delivery (expulsion of the placenta), 

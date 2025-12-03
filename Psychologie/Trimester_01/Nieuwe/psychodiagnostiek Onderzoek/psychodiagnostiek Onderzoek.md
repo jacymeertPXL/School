@@ -458,3 +458,195 @@ Dit is geen lineair proces, maar herhaalt zich meerdere keren om de probleemstel
 | --------------------- | --------------------------------------------------------------- |
 | **Betrouwbaarheid**   | Data zijn vrij van **toevallige fouten**                        |
 | **Begripsvaliditeit** | Data meten **het bedoelde concept** (geen systematische fouten) |
+
+# Hoofdstuk 6 – Dataverzameling
+
+##  Situering
+Dataverzameling = fase in de onderzoekscyclus waarin je **data verzamelt** om je onderzoeksvraag te beantwoorden.
+
+---
+
+## Dataverzameling in kwantitatief onderzoek
+
+## 2.1 Survey
+
+**Kenmerken**
+- Gestandaardiseerd: iedereen krijgt _dezelfde_ vragen, antwoorden en volgorde.
+- Vaak gebruikt in sociaalwetenschappelijk onderzoek.
+
+**Verloop**
+1. Vragenlijst → respondent
+2. Respondent vult in
+3. Onderzoeker ontvangt data
+4. Coderen
+5. Statistische analyse (bv. SPSS)
+6. Rapportage
+
+**Afnamevormen**
+- Face-to-face
+- Telefonisch
+- Post
+- Online
+- Drop-off
+- Groepssurvey
+- Longitudinaal (trend/panel)
+
+---
+
+## 2.2 Experiment
+
+**Doel:** causale verbanden testen.
+
+**Principe**
+- Twee groepen: **controlegroep** vs. **experimentele groep**
+- Alleen experimentele groep krijgt X-manipulatie
+- Verschillen in Y worden gemeten
+
+**Soorten**
+- **Zuiver experiment** (met random toewijzing → beste voor causaliteit)
+- **Quasi-experiment** (geen randomisatie → kans op selectiebias)
+- **Pre-experiment** (slechts één groep; zwak voor causaliteit)
+
+**Valkuilen interne validiteit
+- Buitenexperimentele gebeurtenissen
+- Groei-effect
+- Test-effect
+- Instrumentatie
+- Uitval
+- Verwachtingen onderzoeker
+
+**Externe validiteit**
+- Populatievaliditeit
+- Naturalistische validiteit (Hawthorne-effect)
+
+---
+
+## 2.3 (Kwantitatieve) observatie
+- Gericht op **observeerbaar gedrag**
+- Steeds met gestructureerd schema
+- Voorbeelden: telformulieren, checklists
+
+---
+
+## 2.4 Secundaire kwantitatieve data
+- Gebruik van reeds bestaande datasets (Statbel, Gezinsenquête …)
+- Trend: _big data_ (bvb. Spotify zoekgedrag)
+
+**Voordelen / nadelen**
+- Voordeel: tijdsbesparing, toegang tot grote populaties
+- Nadeel: geen controle over dataverzameling
+
+# Hoofdstuk 7 –  Data-analyse
+
+## Data-analyse in kwantitatief onderzoek
+
+##  2.1 Beschrijvende statistiek
+**Doel:** steekproef beschrijven.
+
+Voorbeelden:
+- Centrummaten (gemiddelde, mediaan)
+- Spreidingsmaten (variantie, SD)
+- Verdelingsvorm (scheefheid, kurtosis)
+- Maten voor samenhang (correlatie)
+
+→ _Geen uitspraken over populatie!_
+
+---
+
+## 2.2 Inductieve statistiek
+**Doel:** resultaten van steekproef generaliseren naar populatie.
+- Gebruik van toetsen om _significantie_ te bepalen
+- Uitspraken zijn **kansuitspraken** (5% of 1% foutmarge)
+
+---
+
+## 2.3 Software
+- SPSS, R, JASP, Excel …
+
+##  2.4 Datacleaning
+- Foute waarden corrigeren
+- Duplicaten verwijderen
+- Irrelevante variabelen verwijderen
+
+
+---
+
+## Data-analyse in kwalitatief onderzoek
+
+##  3.1 Fasen van kwalitatieve analyse
+
+1. **Materiaal klaarmaken**
+    - Transcriberen (letterlijk / woordelijk)
+    - Context en non-verbaal toevoegen
+
+2. **Databeheer**
+    - Bestanden organiseren, GDPR-beheer
+
+3. **Afbraakfase**
+    - Coderen (representatieve kernwoorden koppelen aan tekst)
+
+4. **Opbouwfase**
+    - Patronen, concepten, thema’s zoeken
+
+5. **Rapporteren**
+    - Interpretatie + quotes gebruiken
+
+
+---
+
+## 3.2 Methoden kwalitatieve analyse
+
+## Inductief vs. Deductief
+- **Inductief**: bottom-up → theorie groeit uit data
+- **Deductief**: top-down → data analyseren vanuit bestaande theorie
+
+---
+
+## 3.2.1 Grounded Theory
+
+Sterk inductief.  
+Drie coderingsstappen:
+1. **Open coderen** → ruwe codes
+2. **Axiaal coderen** → structuur, categorieën, relaties
+3. **Selectief coderen** → kernconcept + theorieopbouw
+
+---
+
+## 3.2.2 Thematische Analyse (Braun & Clarke)
+6 stappen:
+1. Data leren kennen
+2. Initiële codes genereren
+3. Thema’s zoeken
+4. Thema’s beoordelen
+5. Thema’s definiëren & verfijnen
+6. Rapporteren (met quotes)
+
+---
+
+## 3.2.3 Discoursanalyse
+- Focus op taalgebruik en onderliggende betekenissen
+- Taal is niet neutraal
+- Analyse van variatie, argumentatie, doelen van taalgebruik
+
+---
+
+##  3.2.4 Inhoudsanalyse
+**Doel:** patronen + betekenissen identificeren.
+Drie vormen:
+- Conventioneel (inductief)
+- Gericht/directed (deductief)
+- Summatief (tellen én interpreteren)
+
+---
+
+## 3.2.5 Focusgroepsanalyse
+- Extra aandacht voor groepsdynamiek
+- Strategieën: spreiding uitspraken, verloop gesprek, context
+- Valkuilen: conflicten, dominantie, sociale wenselijkheid
+
+---
+
+##  3.3 Software voor kwalitatieve analyse
+- NVivo, MAXQDA, Atlas.ti
+- Gratis: DQAMiner Lite
+- Ook mogelijk: Word, Excel
