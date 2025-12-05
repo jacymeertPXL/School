@@ -633,4 +633,122 @@ Op deze leeftijd is het onderscheid tussen wat _echt_ is en wat _bedacht_ is nog
 - **Conventioneel niveau (stadia 3-4):** Respect voor regels en normen.
 - **Postconventioneel niveau (stadia 5-6):** Abstracte principes en universele waarden.
 
-## Sociale en persoonlijkheidsontwikkeling
+# HC 07 – Adolescentie
+## Wat is adolescentie?
+- **Scharnierperiode** tussen kindertijd en volwassenheid.
+- **Puberteit ≠ adolescentie**:
+    - Puberteit = lichamelijke & hormonale veranderingen.
+    - Adolescentie = bredere psychosociale ontwikkeling.
+- Begin- en eindleeftijd variabel, beïnvloed door **nature & nurture**.  
+
+---
+
+## Lichamelijke ontwikkeling
+
+### Lichamelijke veranderingen
+- **Groeispurt** + **disharmonische ontwikkeling** (eerst lengte, dan massa).
+- **Strekkingsfase** → **vullingsfase**.
+- **Seksuele rijping**:
+    - Meisjes: _menarche_.
+    - Jongens: _spermarche_.
+- **Acceleratie**: vroeger puberen t.o.v. vorige generaties.  
+    
+
+### **2.2 Neurologische veranderingen**
+- **Grijze stof ↓**, **witte stof ↑**.
+- **Prefrontale cortex** rijpt traag → plannen, impulscontrole nog beperkt.
+- **Limbisch systeem** rijpt sneller → sterke emoties, verhoogde risicobereidheid.
+- Resultaat: “**puberbrein**” = zoeken naar balans tussen ratio en emotie.  
+
+### Psychologische gevolgen
+- Meer kracht & uithoudingsvermogen.
+- Veranderde **melatonine-afgifte** → vaker (ochtend)vermoeid.
+- Sterke invloed op **zelfbeeld**:
+    - Vroegrijp meisje → vaak negatiever zelfbeeld.
+    - Laatrijpe jongen → onzekerheid.
+- Reacties op seksuele rijping verschillen sterk tussen jongeren.  
+
+---
+
+## Cognitieve ontwikkeling (Piaget)
+
+### Formeel-operationeel denken
+
+Start rond ± 12 jaar.  
+Kenmerken:
+
+1. **Abstract denken**
+2. **Propositioneel denken** (logische relaties tussen uitspraken)
+3. **Hypothesen inschakelen**
+4. **Hypothetisch-deductief denken** (systematisch verklaringen testen)
+5. **Experimenteel denken**
+6. **Combinatorisch denken**  
+
+### Effecten van cognitieve groei
+- Kritische houding t.o.v. ouders, school, autoriteit.
+- Ontstaan van **imaginair publiek**, **persoonlijke legende**, **persoonlijke uniciteit**.
+- Verhoogde zelfreflectie en soms besluiteloosheid.  
+
+### Beroepskeuze volgens Super
+- **Fantasieperiode** (< 11 jaar)
+	- Beroepskeuzes gebaseerd op fantasie, plezier en bewondering.
+- **Tentatieve periode** (11–17 jaar)
+	- Jongeren beginnen **meer realistisch na te denken**, maar blijven zoekend. Ze verkennen op basis van:
+- **Realistische periode** (> 17 jaar)  
+	- Jongeren maken **concrete keuzes** en **toetsen** deze aan de realiteit.  De fase bestaat uit drie stappen:
+---
+
+## Sociale ontwikkeling
+
+### Relatie met ouders
+- Meer autonomie → soms conflict.
+- Toch blijft band met ouders een belangrijke steunbron.  
+
+### Vrienden & peergroups
+- Vriendschappen verdiepen in emotionele wederkerigheid.
+- Stadia van vriendschap:
+    - **Kosten-batenstadium** (7–9 jaar)
+    - **Normatief stadium** (9–11 jaar)
+    - **Empathisch stadium** (11–13 jaar)
+
+- Ontstaan **jongerenculturen**, identiteits­experimentatie.  
+
+---
+
+## Persoonlijkheidsontwikkeling (Erikson / Marcia)
+
+### 5.1 Identiteitsontwikkeling
+- **Psychosociaal moratorium**: tijd om te experimenteren.
+- Mogelijke statussen (Marcia):
+    - **Identiteitsvoltooiing**
+	    - Jongere heeft **verschillende opties onderzocht** én **een bewuste keuze gemaakt**
+		- Er is **engagement** (binding) én voorafgaande **exploratie** geweest.
+    - **Moratorium**
+	    - Jongere is **actief aan het zoeken**, maar heeft **nog geen uiteindelijke keuze** gemaakt.
+		- Veel **twijfel**, **experimentatie** en **zelfonderzoek**.
+    - **Foreclosure** (te vroeg vastgelegde identiteit)
+	    - Jongere **neemt een identiteit over** zonder zelf te exploreren.
+		- Vaak sterke invloed van **ouders**, **cultuur**, **religie** of omgeving.
+    - **Kunstmatige identiteit**
+	    - Jongere **neemt een identiteit aan om ergens bij te horen**, vaak in een groep of subcultuur.
+		- Niet op basis van eigen waarden, maar om **erkenning, veiligheid of status** te krijgen.
+    - **Negatieve identiteit**
+	    - Jongere kiest **bewust het tegenovergestelde** van wat ouders/maatschappij verwachten.
+		- Identiteit gebaseerd op **opstand** of **afwijzing**.
+    - **Identiteitsverwarring**  
+	    - Geen duidelijke identiteit, **geen exploratie**, **geen keuzes**.
+		- Jongere heeft weinig richting, motivatie of binding.
+
+### Invloed van omgeving
+- Ouders
+- Broers/zussen
+- Sociaal-economische context
+- Cultuur
+- Religie  
+
+### Begrippen
+**Imaginair publiek**  
+→ De neiging van adolescenten om te denken dat **iedereen hen voortdurend observeert, beoordeelt of opmerkt**, terwijl dat in werkelijkheid niet zo is.
+
+**Persoonlijke legende**  
+→ De overtuiging dat de eigen gedachten, gevoelens en ervaringen **uniek en speciaal** zijn, en dat men vaak **onkwetsbaar** is of uitzonderlijke dingen zal meemaken.

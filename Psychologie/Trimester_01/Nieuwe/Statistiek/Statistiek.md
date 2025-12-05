@@ -356,4 +356,125 @@ Gebruik bij **interval/ratio variabelen**.
 
 
 
+# HC7 – Het beschrijven van één variabele: kengetallen vorm
+
+## Inleiding
+
+Bij interval- en ratiovariabelen moet je naast centrum (gemiddelde, mediaan) en spreiding (SD) ook de vorm van de verdeling beschrijven.  
+De vorm bevat twee componenten: scheefheid (skewness) en gepiektheid (kurtosis).
+
+---
+
+## Scheefheid (skewness)
+
+Definitie: geeft aan in welke mate en richting een verdeling asymmetrisch is.
+
+### Mogelijke vormen
+- Symmetrisch
+- Linksscheef (staart naar links)
+- Rechtsscheef (staart naar rechts)
+
+### Hoe onderzoeken?
+1. Histogram
+    - Symmetrisch → spiegelbeeld rond het gemiddelde
+    - Linksscheef → staart links
+    - Rechtsscheef → staart rechts
+
+2. Boxplot
+    - Q1–Q2 = Q2–Q3 → symmetrisch
+    - Q1–Q2 > Q2–Q3 → linksscheef
+    - Q1–Q2 < Q2–Q3 → rechtsscheef
+
+3. Scheefheidsmaat (Sk) van Fisher
+    - Moet je niet zelf berekenen, maar wel kunnen interpreteren.
+    - Wordt gebruikt om te bepalen of een verdeling links-, rechtscheef of symmetrisch is.
+
+### Centrummaten bij verschillende scheefheden
+- Rechtsscheef: gemiddelde > mediaan > modus
+- Linksscheef: gemiddelde < mediaan < modus
+- Symmetrisch: gemiddelde = mediaan = modus
+
+---
+
+## Gepiektheid (kurtosis)
+Definitie: beschrijft hoe vlak of hoe scherp een verdeling is.
+
+### Mogelijke vormen
+- Mesokurtisch: normale spitsheid, normale staarten
+- Leptokurtisch: spitsere top, dikke staarten (meer extreme waarden)
+- Platykurtisch: vlakkere top, dunne staarten (minder extreme waarden)
+
+### Hoe onderzoeken?
+1. Histogram
+    - Leptokurtisch → spitser
+    - Mesokurtisch → gemiddelde spitsheid
+    - Platykurtisch → vlakker
+
+2. Gepiektheidsmaat (Ku) van Fisher
+    - Moet je niet zelf berekenen, maar wél interpreteren.
+
+---
+
+## Rapporteren van vorm
+In wetenschappelijke rapportage vermeld je:
+- N, M, SD, Sk, Ku (cursief in haakjes volgens APA)
+- Benoem dat je de scheefheids- en gepiektheidsmaat van Fisher hebt opgevraagd
+- Beschrijf de interpretatie in woorden (bv. rechtsscheef en leptokurtisch)
+
+Voorbeeld uit de slides:  
+“De verdeling blijkt rechtsscheef en leptokurtisch te zijn (N = 120, M = 8, SD = 3, Sk = 1.2, Ku = 0.73).”
+
+---
+
+## Normaalverdeling
+Een normaalverdeling is:
+- symmetrisch
+- mesokurtisch
+- klokvormig
+- unimodaal (één piek)
+- gemiddelde, mediaan en modus zijn gelijk
+
+Het gemiddelde verschuift de positie van de curve; de standaarddeviatie bepaalt de breedte.
+
+### Waarom belangrijk?
+- Komt veel voor in de echte wereld (lengte, bloedwaarden, psychologische testscores…)
+- Nodig voor kansberekening
+- Veel statistische toetsen veronderstellen normaliteit
+
+---
+
+## Kansen onder de (standaard)normaalverdeling
+
+### Empirische regel
+- 68% binnen 1 SD
+- 95% binnen 2 SD
+- 99.7% binnen 3 SD
+
+
+### Standaardiseren
+z = (x – μ) / σ
+
+- Na standaardisatie krijg je de standaardnormale verdeling:  
+    μ = 0, σ = 1
+    
+
+### Drie soorten kansen via z-tabel
+1. Linkeroverschrijdingskans (LO)
+    - Kans dat score ≤ gegeven waarde
+    - LO direct uit tabel
+
+2. Rechteroverschrijdingskans (RO)
+    - Kans dat score ≥ gegeven waarde
+    - RO = 100% – LO
+
+3. Kans op een interval
+    - LO(hoge z) – LO(lage z)
+
+---
+
+## Vorm onderzoeken in SPSS
+- Histogram → visuele beoordeling van scheefheid en kurtosis
+- Boxplot → symmetrie evalueren via Q1–Q2–Q3
+- SPSS-output geeft automatisch Sk en Ku
+
 # Module 3: Het beschrijven van twee variabele
