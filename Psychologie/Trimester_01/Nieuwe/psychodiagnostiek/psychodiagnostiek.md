@@ -392,3 +392,89 @@ Het **psychodiagnostisch procesmodel voor selectie** biedt een **gestructureerde
 - Steunt op **hypothesetoetsend denken**.  
 - Vereist **ethisch handelen en respect voor sollicitanten**.  
 - Combineert **praktische toepasbaarheid** met **wetenschappelijke integriteit**.
+
+
+# H04 Interpretatie van testresultaten
+Wat is een **psychologische, of psychometrische, test** 
+	Elk **gestandaardiseerd intrusent**; inclusief schalenen zelfrapportage-vragenlijsten,
+	dat wordt gebruikt om **gedrag** of **mentale kenmerken** te meten, zoals attiudes, emotinele functies, intelligentie en cognietieve vaardigheden, aanleg, waarden, intresses en persoonlijkheidskenmerken (APA)
+
+- Voordeel: meer **objectieve bron** van informatie
+- Belang van **standaardisatie** en correcte interpretatie
+- **Proces** tot kwaliteitsvolle resultaten
+
+
+## Ruwe score
+- **Betekenis** is afhankelijk van
+- De psychologische eigenschap en de vraagstelling
+- Hoe anderen op de vragen antwoorden en de moeilijkheidsgraag
+- Op welke manier meeste betekenis?
+- Statische principes
+- Algemene afspraken
+- Theoretische kennis
+
+![[Pasted image 20251211100221.png]]
+
+## Concepten uit de psychologische statistiek
+- Vergelijken met alle scores van de normgroep
+
+
+## Frequentieverdeling
+- **Frequentie** = aantal keren dat een bepaald(e) verschijnsel / gebeurtenis / waarde voorkomt
+- **Frequentieverdeling** = numerieke samenvatting van de geobsereerde data.
+
+## Maten van centralen tendentie
+- **Gemiddelde (M)**
+	- Soms van alle scores gedeeld door aantal personen. Meest gebruikte maat.
+
+- **Mediaan**
+	- Middelste score wanneer alle scores geordend zijn. Verdeelt scores in twee gelijke delen
+
+- **Modus**
+	- Meest voorkomende score. Bij twee meest voorkomende scores spreekt men van *bimodale verdeling*.
+
+## Maten voor  variabiliteit
+- **standaarddeviatie** (SD)
+- Variantie (s²)
+
+![[Pasted image 20251211101848.png]]
+
+![[Pasted image 20251211101902.png]]
+
+# H05 Normscores
+= **Getransformeerde scores**
+	- Interpretatie
+	- Vergelijkbaarheid
+	- Keuzefactoren
+	- Overzicht
+
+## Percentielen (P)
+= Hoeveel procent van mensen in normgroep een bepaalde score of lager behaalden.
+-> Wat betekent dat RS 22 overeenkomt met P30?
+
+= Relatieve cumulatieve frequentie (of proportie) van de geobserveerde ruwe scores.  
+o 100 gelijke delen met telkens 1% van de observaties  
+• Rangorde (volgorde)  
+• In vergelijking met de scores van de normgroep (≠ % correcte antwoorden)
+
+![[Pasted image 20251211103057.png]]
+
+- **Voordelen**
+	- Gemakkelijk te interpreteren, uit te leggen en begrijpen
+	- betekenis van adere normscore verfijnen
+	- Bij normaal verdeling liggen percentielen exact vast
+
+- **Nadelen**
+	- Enkel rangorde (Ordinaal meetniveau)
+	- Beperkte precisie
+	- Onvoldoende informatieover spreiding of variebiliteit
+	- Geen Statische bewerkingen mogelijk
+
+## Z-scores (Z)
+Afstand van RS tot M via SD
+
+• Z = moeder (of basis) van alle standaardscores  
+o M = 0 en SD = 1 → Wat betekent een z-score van +2,00?  
+o Steeds 2 cijfers na de komma  
+o Teken (+ of -) is belangrijk (+ wordt in de praktijk soms weggelaten)  
+o 2 manieren: lineair of genormaliseerd
