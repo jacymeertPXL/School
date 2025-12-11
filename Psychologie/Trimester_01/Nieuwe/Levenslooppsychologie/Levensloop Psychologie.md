@@ -752,3 +752,119 @@ Kenmerken:
 
 **Persoonlijke legende**  
 → De overtuiging dat de eigen gedachten, gevoelens en ervaringen **uniek en speciaal** zijn, en dat men vaak **onkwetsbaar** is of uitzonderlijke dingen zal meemaken.
+
+# HC 08 — De volwassenheid
+
+### Lichamelijke ontwikkeling & psychisch welbevinden
+- Eerste verouderingsverschijnselen worden merkbaar: zicht (presbyopie), gehoor, motoriek, huid en lichaamshouding.
+- **Climacterium / overgang**:
+    - _Bij vrouwen_: premenopauze → menopauze → postmenopauze.
+    - Psychische gevolgen verschillen sterk per persoon.
+- Mogelijke **midlifecrisis**: herwaardering van keuzes, rollen en identiteit.
+
+---
+
+### Cognitieve ontwikkeling
+#### Postformeel denken
+Volwassenen denken:
+- **Realistisch** (situatiegebonden instead of absoluut)
+- **Pragmatisch** (wat werkt?)
+- **Relativistisch** (meerdere waarheden)
+- **Persoonlijk**
+- **Creatief**
+
+#### Intellectuele vermogens
+- “Vertekend beeld” van achteruitgang: niet alles gaat omlaag.
+- Kennis en ervaring blijven vaak stabiel of verbeteren (gekristalliseerde intelligentie).
+- Snelheid neemt wel af (vloeibare intelligentie).
+
+---
+
+### Sociale & persoonlijkheidsontwikkeling
+#### Sociale domeinen
+- **Beroepsloopbaan**:
+    - Jongvolwassenheid: zoeken naar passende job.
+    - Middenvolwassenheid: settelen; risico op burn-out.
+
+- **Partnerrelaties**
+    - Sternberg: _passie – intimiteit – inzet_
+    - Verschillende relatievormen (dweperig, zakelijk, romantisch, compleet).
+
+- **Ouderschap**
+    - Latere leeftijd van ouders; minder kinderen.
+    - Parentale burn-out, nieuw samengestelde gezinnen.
+    - Ongewilde kinderloosheid.
+
+- **Rolveranderingen**
+    - Lege-nest of juist “Hotel Mama”
+    - Grootouderschap
+    - Zorg voor ouders
+
+#### Dynamisch-affectieve ontwikkeling
+- Volwassenen worden **stabieler en zakelijker** in hun zelfbeeld.
+- Psychologisch welzijn: autonomie, zelfaanvaarding, persoonlijke groei.
+- Stresspiek door “spitsuur van het leven”:
+    - Veel rollen en verantwoordelijkheden
+    - Multitasken → mythe → meer stress en minder productiviteit
+
+---
+
+# HC 09 — De Ouderdom
+
+### 9.1 Lichamelijke ontwikkeling & psychisch welbevinden
+- Ouderdom = **biopsychosociaal** én **interactief** proces.
+- Fasen: _vroege_ (65–75), _midden_ (75–85), _hoge_ ouderdom (85+)
+
+#### Lichamelijke veranderingen
+- Primair (normaal) vs. secundair (ziekte/levensstijl).
+- Zintuigen en motoriek gaan achteruit, inwendige organen functioneren trager.
+- Zenuwstelsel: volumevermindering, tragere verwerking, verminderde plasticiteit.
+
+#### Psychologische gevolgen
+- Veel ouderen voelen zich jonger dan hun kalenderleeftijd.
+- Coping is cruciaal: probleemgericht, emotiegericht of via externe hulpmiddelen.
+
+---
+
+### 9.2 Cognitieve ontwikkeling
+#### Klassieke intelligentieonderzoek
+- **Deficitmodel**: enkel achteruitgang — _te negatief_.
+- **Rust-roestmodel**: “use it or lose it”.
+- **Individuele verschillen** zijn groot.
+- Intellectuele training heeft duidelijke positieve effecten.
+
+
+#### Tweecomponententheorie
+- **Mechaniek**: snelheid, verwerking → daalt.
+- **Pragmatiek**: kennis, wijsheid → blijft stabiel of stijgt.
+
+---
+
+### 9.3 Sociale & persoonlijkheidsontwikkeling
+#### **Sociale relaties**
+- Minder contactmogelijkheden, maar niet noodzakelijk meer eenzaamheid.
+    - _Sociale_ vs. _emotionele_ eenzaamheid.
+- Balans tussen **afhankelijkheid en autonomie**.
+
+#### Gelukkig ouder worden
+- Paradox: meer lichamelijke problemen maar vaak toch tevreden.
+- 1 op 6 ouderen heeft psychische klachten.
+
+#### Veroudering & zingeving
+- Theoretische modellen:
+    - **Disengagement**: terugtrekken
+    - **Activiteitstheorie**: actief blijven leidt tot welzijn
+    - **Ego-integriteit vs. wanhoop** (Erikson)
+
+#### Levenseinde
+- Fasen: ontkenning → protest → onderhandelen → depressie → aanvaarding.
+- Rouwbegeleiding: rouwtaken van Worden, duaal-procesmodel (oscillatie).
+
+---
+
+### Competent ouder worden
+- **Autonomiemodel / competentiemodel**: ouderen zijn _competent_ om eigen welzijn vorm te geven.
+- **SOC-model (Baltes)**
+    - _Selectie_: focussen op wat belangrijk is
+    - _Optimalisatie_: vaardigheden blijven oefenen
+    - _Compensatie_: hulpmiddelen gebruiken

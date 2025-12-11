@@ -650,3 +650,116 @@ Drie vormen:
 - NVivo, MAXQDA, Atlas.ti
 - Gratis: DQAMiner Lite
 - Ook mogelijk: Word, Excel
+
+# Hoofdstuk 8 – Rapporteren
+
+## Situering
+Rapporteren = verslag uitbrengen van _wat_ je onderzocht hebt, _waarom_, _hoe_, _welke keuzes_ je maakte en _wat de belangrijkste resultaten_ zijn.  
+Het rapporteren maakt deel uit van de onderzoekscyclus.
+
+---
+
+## Wie is je publiek?
+
+### Primaire doelgroep
+- De opdrachtgever (organisatie, bedrijf, financier).
+- Hun verwachtingen bepalen de manier van rapporteren.
+- Hoofddoel: voldoen aan hun verwachtingen.
+
+### Secundaire doelgroep
+- Breder publiek: andere onderzoekers, beleidsmedewerkers, maatschappij.
+
+### Verwachtingen
+- Onderzoekers: bijdrage aan literatuur, methodologie.
+- Journalisten: nieuwswaarde.
+- Burgers: relevantie voor hun leven.
+- Pas taalgebruik en jargon aan het publiek aan.
+
+### Weerstanden
+**Inhoudelijk:**
+- Discussie kwalitatief vs. kwantitatief onderzoek (objectiviteit, steekproef, wetenschappelijkheid).
+- Gevoelige thema’s (racisme, seksisme…).
+- Vooroordelen tegenover onderzoeker of doelgroep.
+
+**Vormelijk:**
+- Te lange, onduidelijke, slecht gestructureerde of slecht geschreven teksten.
+
+---
+
+## Vormen van wetenschappelijke rapportage
+
+### Typische vormen
+- **Onderzoeksrapport** (praktijkgericht onderzoek).
+- **Wetenschappelijk artikel** (peer-reviewed, vaste structuur, vakjargon).
+- **Academisch boek.**
+
+### Andere vormen
+- Populariserende artikels.
+- Media, sociale media, podcasts, websites, posters, video’s…
+
+---
+
+## Structuur van een wetenschappelijk artikel
+Meestal vaste onderdelen:
+1. Titel
+2. Abstract
+3. Inleiding
+4. Literatuurstudie
+5. Methode
+6. Resultaten
+7. Discussie
+8. Conclusie
+9. Referenties
+10. Bijlagen
+
+Resultaten kunnen worden gerapporteerd via kwantitatieve, kwalitatieve of mixed-methods technieken.
+
+---
+
+## Rapporteren over ethiek
+Transparantie is essentieel:
+- Onderzoeksontwerp duidelijk beschrijven.
+- Verloop van dataverzameling en -analyse.
+- Ethische aspecten: toestemming ethische commissie, informed consent.
+- Betrouwbaarheid & validiteit.
+- Wetenschappelijke integriteit: vermijden van plagiaat & fraude → peer-review en plagiaatcontrole zijn standaard.
+
+---
+
+## Tips voor het schrijfproces
+1. Begin op tijd.
+2. Structureer je tekst logisch.
+3. Verantwoord elke methodologische keuze.
+4. Let op taalgebruik (inclusief, helder, passend bij het publiek).
+5. Vraag feedback.
+
+---
+
+## Wetenschappelijk refereren (APA 7)
+APA bepaalt:
+- Hoe je in de tekst verwijst.
+- Hoe je bronnen in de referentielijst noteert.
+- Andere bronvormen (boeken, artikels, websites…) hebben hun eigen regels.
+
+Voorbeeld referentielijst:
+> Familienaam, Initialen. (jaar). Titel artikel. _Tijdschrift_, volume(issue), pagina’s.
+
+Tools (bv. Zotero) kunnen hierbij helpen.
+
+---
+
+## Valorisatie & andere vormen van wetenschapscommunicatie
+
+**Valorisatie** = kennis omzetten in maatschappelijke of economische waarde.  
+**Impact** = effect van onderzoek buiten de academische wereld.
+
+Voorbeelden:
+- Tools, apps, methodieken.
+- Lesmateriaal.
+- Wetsvoorstellen.
+- Campaigns zoals levenswenskaarten.
+
+**Andere communicatiekanalen:**
+- Traditionele media (tv, radio, krant).
+- Sociale media (LinkedIn, TikTok…).
+- Podcasts, websites, video, festivals.
