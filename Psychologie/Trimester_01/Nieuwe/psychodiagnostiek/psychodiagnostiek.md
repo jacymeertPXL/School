@@ -478,3 +478,343 @@ o M = 0 en SD = 1 → Wat betekent een z-score van +2,00?
 o Steeds 2 cijfers na de komma  
 o Teken (+ of -) is belangrijk (+ wordt in de praktijk soms weggelaten)  
 o 2 manieren: lineair of genormaliseerd
+
+# H06 – Betrouwbaarheidsintervallen
+
+### Kernidee
+
+Een testscores is **nooit exact**. Betrouwbaarheidsintervallen (BI) geven aan **waar de ware score waarschijnlijk ligt**.
+
+### Betrouwbaarheid
+- = consistentie en voorspelbaarheid van metingen
+- Continuüm (laag ↔ hoog)
+- Hoe hoger de betrouwbaarheid, hoe kleiner de meetfout
+- Ethisch en maatschappelijk belangrijk
+
+### Meetfouten
+- **Toevallig (onsystematisch)**  
+    → beïnvloeden betrouwbaarheid
+- **Systematisch**  
+    → beïnvloeden validiteit
+
+**Bronnen van meetfouten**
+- Itemselectie (onrepresentatief, unfair)
+- Testafname (omgeving, instructies)
+- Eigenschappen cliënt (vermoeidheid, stress)
+- Eigenschappen diagnosticus
+- Scoringsfouten
+
+### Standaardmeetfout – S(e)
+- Spreiding van scores rond de **ware score** van één persoon
+- Eigenschap van de **test**, niet van de persoon
+- Afhankelijk van:
+    - Betrouwbaarheid van de test
+    - Standaarddeviatie van de score
+- Hoge betrouwbaarheid → kleine S(e)
+
+### Betrouwbaarheidsinterval (BI)
+- Zone rond de geobserveerde score
+- Ware score ligt hierin met een bepaalde kans
+- Meestal gebruikt:
+    - 90% BI
+    - 95% BI
+- Hogere zekerheid → breder BI
+
+### Praktijk
+- BI’s worden meestal:
+    - uit testhandleiding gehaald
+    - of zelf berekend
+- Altijd gebruiken bij interpretatie
+
+---
+
+# H07 – Testresultaten interpreteren
+
+### Stappenplan interpretatie
+1. **Ruwe score → normscore**
+    - Via normtabellen
+    - Lineaire of genormaliseerde transformatie
+2. **Bepaal S(e)** van de (norm)score
+3. **Bepaal halve breedte van het BI**
+    - Afhankelijk van zekerheid (90% / 95%)        
+4. **Bereken het BI**
+5. **Interpreteer met vermelding van normgroep**
+
+### Interpretatieregels
+- Gebruik **bij voorkeur betrouwbaarheidsintervallen**
+- Vermeld altijd:
+    - normgroep (bv. leeftijd, regio)
+- Wees kritisch (testhandleiding ≠ absolute waarheid)
+
+### Manieren van interpreteren
+- **Betrouwbaarheidsinterval**
+- **Aantal SD’s** boven/onder gemiddelde
+- **Percentielen**
+    - Vanuit handleiding
+    - Of normaalverdeling (enkel bij genormaliseerde scores)
+- **Beschrijvende labels**
+    - Volgens handleiding
+    - Of VFD-consensus (genormaliseerde scores)
+
+### Scores vergelijken
+- BI’s overlappen → geen significant verschil
+- BI’s overlappen niet → waarschijnlijk wél een echt verschil
+
+---
+
+# H09 – Kwaliteit van testinstrumenten
+
+### Informatiebronnen testkwaliteit
+
+- **COTAN (Nederland)**
+    - Uitgebreide testbeoordelingen
+    - Betrouwbaarheid, validiteit, normen, materiaal
+- **Vlaanderen**
+    - Kwaliteitscentrum voor Diagnostiek (KCD)
+    - Testcommissie BFP
+- **Internationaal**
+    - EFPA Board of Assessment
+    - International Test Commission (ITC)
+
+### Essentiële kwaliteitscriteria
+
+#### Betrouwbaarheid
+- Stabiliteit en consistentie van scores
+- Lage meetfout = hoge betrouwbaarheid
+
+#### Validiteit
+- Meet de test wat hij zegt te meten?
+- Beoordeling via vergelijking met andere relevante gegevens
+
+#### Normering
+- Scores krijgen betekenis via **referentiegroep**
+- Soorten:
+    - Normgericht
+    - Criteriumgericht (bv. rijexamen)
+
+
+#### Testfairness
+- Geen discriminatie op irrelevante kenmerken
+- Aandacht voor:
+    - Culturele bias
+    - Talige bias
+- COTAN Fairnessmatrix:
+    - Analyse van partijdigheid bij subgroepen
+
+### Kernidee
+> **Een test is pas bruikbaar als hij betrouwbaar, valide, eerlijk en correct genormeerd is.**
+
+
+# H09 – Betrouwbaarheid
+
+### Definitie
+**Betrouwbaarheid** = de mate waarin een test **consistent en nauwkeurig** meet  
+→ dezelfde uitkomst bij herhaald meten onder gelijke omstandigheden
+
+Formule (Klassieke Testtheorie):  
+`Geobserveerde score (X) = Ware score (W) + Meetfout (e)`
+
+---
+
+### Kernaspecten
+- **Precisie van meting** → interne consistentie / homogeniteit
+- **Stabiliteit** → overeenstemming bij herhaalde metingen
+- Meetfouten zijn **toevallig** (bv. aandacht, omgeving, taal)
+
+---
+
+### Theoretische benaderingen
+#### Klassieke Testtheorie (KTT)
+- Test meet één eigenschap (unidimensionaal)
+- Gericht op groepsgemiddelden
+- Belangrijk concept: **standaardmeetfout (sₑ)**
+
+#### Item-Responstheorie (IRT)
+- Moderne benadering
+- Houdt rekening met:
+    - moeilijkheid items
+    - vaardigheid persoon (latente variabele)   
+- ✔ nauwkeuriger
+- ✖ complexer
+
+---
+
+### Methoden van betrouwbaarheidsonderzoek
+- **Test-hertest** → stabiliteit over tijd
+- **Paralleltest** → equivalentie testvormen
+- **Splitsingsmethode** → halve test vergelijken
+- **Interne consistentie**
+    - Cronbach’s α
+    - Guttman’s λ2
+- **Interbeoordelaars**
+    - Cohen’s kappa
+    - ICC
+
+---
+
+### Factoren die betrouwbaarheid beïnvloeden
+- Testafname (omgeving, instructies)
+- Kwaliteit van items
+- Homogeniteit
+- Onderscheidingsvermogen
+- Moeilijkheidsgraad (optimale p-waarde: **0.30–0.80**)
+
+---
+
+### Wanneer is betrouwbaarheid voldoende?
+
+|α-waarde|Interpretatie|
+|---|---|
+|≥ .70|minimaal|
+|≥ .80|goed|
+|≥ .90|uitstekend (klinisch/selectie)|
+
+---
+
+# H10 – Validiteit
+
+### Definitie
+**Validiteit** = mate waarin een test **meet wat hij moet meten**  
+→ testresultaten komen overeen met de realiteit  
+→ **doel van de test staat centraal**
+
+---
+
+### Hoofdtypes (COTAN & EFPA)
+- **Constructvaliditeit**
+- **Criteriumvaliditeit**
+
+---
+
+### Constructvaliditeit
+> Meet de mate waarin een test een theoretisch construct correct meet
+
+**Methoden**
+- Factoranalyse
+- Expertbeoordeling
+
+**Soorten**
+- **Convergente validiteit** → samenhang met gelijkaardige tests
+- **Divergente validiteit** → geen samenhang met andere constructen
+- **Inhoudsvaliditeit** → alle relevante aspecten aanwezig
+- **Ecologische validiteit** → overeenstemming met dagelijks gedrag
+- **Expertpanelvaliditeit**
+
+---
+
+### Criteriumvaliditeit
+> Samenhang tussen testscore en extern criterium
+
+**Soorten**
+- Concurrent → criterium op hetzelfde moment
+- Predictief → criterium in de toekomst
+
+**Belangrijke begrippen**
+- **Sensitiviteit** → juiste positieven
+- **Specificiteit** → juiste negatieven
+- **Voorspellende waarde** → afhankelijk van prevalentie
+
+---
+
+### Andere vormen van validiteit
+- **Externe validiteit** → generaliseerbaarheid
+- **Incrementele validiteit** → extra voorspellingswaarde
+- **Indruksvaliditeit** → geloofwaardigheid voor testpersoon
+- **Interne validiteit** → kwaliteit onderzoek
+- **Synthetische validiteit**
+
+---
+
+### Wanneer is validiteit hoog genoeg?
+
+|Correlatie|Interpretatie|
+|---|---|
+|0.30–0.50|matig|
+|> 0.50|goed|
+|≥ 0.40|hoog in selectiesituaties|
+
+---
+
+### Betrouwbaarheid vs. validiteit
+- Betrouwbaar ≠ automatisch valide
+- Valide test **moet** betrouwbaar zijn
+- Visualisatie:
+    - dicht bij elkaar = betrouwbaar
+    - dicht bij het doel = valide
+
+---
+
+# H10 – Normen
+
+### Waarom normen?
+Een **ruwe score heeft geen betekenis zonder vergelijking**
+
+---
+
+### Van ruwe score naar interpretatie
+- **Normgericht** → vergelijking met normgroep
+- **Domeingericht** → vergelijking met absolute standaard (experts)
+- **Criteriumgericht** → vergelijking met empirische cutoff
+
+---
+
+### Normgerichte interpretatie
+- Vergelijking met **referentiegroep**
+- Normgroep moet:
+    - voldoende groot zijn
+    - representatief
+
+---
+
+### Normeringsmethoden
+#### Klassieke normering
+- Aparte normgroepen
+- Grote steekproeven nodig
+    - COTAN: >400 = goed
+    - EFPA: >1000 = uitstekend
+
+#### Continue normering
+- Regressiemodellen
+- Minder steekproeven nodig (100–150)
+- Voorkomt abrupte sprongen
+
+---
+
+### Representativiteit normgroep
+Moet overeenkomen met populatie op:
+- leeftijd
+- gender
+- opleiding
+- SES
+
+---
+
+### Domeingerichte interpretatie
+- Cutoffs bepaald door experts
+- Betrouwbaarheid beoordeeld via:
+    - kappa
+    - ICC
+- Minimale overeenstemming: **≥ .60**
+
+---
+### Criteriumgerichte interpretatie
+- Cutoffs gebaseerd op **empirisch onderzoek**
+- Wetenschappelijk onderbouwd
+
+---
+
+### Houdbaarheid van normen
+- ±15 jaar → verouderd
+- ≥20 jaar zonder hernormering → **onbruikbaar**
+- Normen zijn **tijd- en plaatsgevoelig**
+
+---
+
+### Gebruik van normen in de praktijk
+- Afhankelijk van diagnostische vraag
+- Altijd kritisch evalueren:
+    - actualiteit
+    - toepasbaarheid
+    - documentatie
+- Raadpleeg onafhankelijke instanties (COTAN, EFPA, …)
+
