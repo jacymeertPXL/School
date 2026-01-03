@@ -1,6 +1,6 @@
 # Hoofdstuk 1 
 ## Wat is wetenschappelijk onderzoek? 
-- **Wetenschappelijk onderzoek** is een doelgericht Process, waarbij de onderzoeker op een systematische manier, betrouwbare en geldige gegeven (of data) verzamelt en analyseert, om onderzoeksvragen te beantwoorden, die vetrekken vanuit een probleemstellingen, en uitspraak doen over de werkelijkheid
+- **Wetenschappelijk onderzoek** is een doelgericht proces, waarbij de onderzoeker op een systematische manier betrouwbare en geldige gegevens (of data) verzamelt en analyseert, om onderzoeksvragen te beantwoorden die vertrekken vanuit een probleemstelling, en uitspraak doen over de werkelijkheid
 	• Doelgericht proces  
 	• Systematisch  
 	• Betrouwbare & geldige gegevens  
@@ -10,7 +10,7 @@
 	• Uitspraak over de werkelijkheid
 
 ### Fundamenteel vs praktijkgericht onderzoek
-- **Fundamenteel of theoriegericht onderzoek** is gericht op wetenschappelijk theorievorming, ofwel het vergroten van de algemene kennis over hoe de wereld en het menselijk gedrag in elkaar zitten <mark style="background: #D2B3FFA6;">(Roose & Meuleman, 2018)</mark>.
+- **Fundamenteel of theoriegericht onderzoek** is gericht op wetenschappelijke theorievorming, ofwel het vergroten van de algemene kennis over hoe de wereld en het menselijk gedrag in elkaar zitten <mark style="background: #D2B3FFA6;">(Roose & Meuleman, 2018)</mark>.
 
 - **Fundamenteel onderzoek** = Kennisgericht
 	- Fundamenteel onderzoek kan uitmonden in een nieuwe *theorie*
@@ -37,7 +37,7 @@
 - **Kwantitatief onderzoek**
 	- Gegevens verzamelen die in cijfers zijn uit te drukken
 	- Grote groepen
-	- Beschrijven hoeveel? Hoe? wat? - en Verklaren (verband - samenhangen)
+	- Beschrijven hoeveel? Hoe? Wat? - en Verklaren (verband - samenhangen)
 	- Meten via een gestructureerd of gestandaardiseerd meetinstrument (bv. survey of  observatieschema)
 	- Analyse via berekeningen of statistieken
 
@@ -60,7 +60,7 @@
 
 
 ## Eisen voor  wetenschappelijk onderzoek
-### vertrouwen in de wetenschap
+### Vertrouwen in de wetenschap
 - Constructieve kritiek (Peer review) VS Wantrouwen en twijfel (Fake news)
 
 - Factoren die vertrouwen kunnen aantasten
