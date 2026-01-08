@@ -289,7 +289,7 @@ Onderzoeksvragen moeten:
 
 # Hoofdstuk 4 Lieratuurstudie
 ![[Pasted image 20251110132253.png]]
-
+w
 ## Wat is een literatuurstudie?
 - Een **Literatuurstudie** is "een overzicht van bestaande kennis en inzichten uit de vakliteratuur over het praktijkprobleem dat centraal staat in je onderzoek" *(Donk & Lanen, 2017, p. 125)*
 
